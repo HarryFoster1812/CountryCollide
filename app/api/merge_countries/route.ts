@@ -142,12 +142,17 @@ function dropSmallIslands(mpoly: number[][][][], minRatio = 0.03): number[][][][
 // -----------------------------
 // Data loader
 // -----------------------------
+// Uses the D3 Graph Gallery GeoJSON (FeatureCollection), not TopoJSON.
+
 async function loadCountries(): Promise<any[]> {
+  // Use world-atlas v2 TopoJSON (includes properties.name)
   const url = "https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json";
   const res = await fetch(url);
   if (!res.ok) throw new Error("Failed to load world atlas");
   const topo = await res.json();
+
   const geo = topojsonFeature(topo, (topo as any).objects.countries) as any;
+
   return geo.features.map((f: any) => ({
     ...f,
     properties: {
