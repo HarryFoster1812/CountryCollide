@@ -4,6 +4,8 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 import * as topojson from "topojson-client";
 import * as d3geo from "d3-geo";
 
+import { getCountryData } from "../api/country_api.js";
+
 // If you place this file under app/globe/page.tsx, export default the page.
 // If you place it under components/, export the component and render it from a page.
 export default function CountrySelectorGlobePage() {
@@ -33,6 +35,8 @@ function CountrySelectorGlobe({
   const [selected, setSelected] = useState<Set<string>>(() => new Set());
   const [search, setSearch] = useState("");
   const [matchesOpen, setMatchesOpen] = useState(false);
+
+  const [countryData, setCountryData] = useState(null);
 
   // --- Load country polygons (handles GeoJSON or TopoJSON) ---
   useEffect(() => {
@@ -213,6 +217,10 @@ function CountrySelectorGlobe({
     globeRef.current?.pointOfView({ lat, lng, altitude: 1.5 }, 800);
   };
 
+  useEffect(() => {
+      getCountryData(selectedNames).then(setCountryData);
+  }, [selectedNames]);
+
   // --- UI ---
   return (
     <div style={{ display: "grid", gridTemplateColumns: "1fr 360px", gap: 12 }}>
@@ -370,35 +378,65 @@ function CountrySelectorGlobe({
                     borderBottom: "1px dashed #20264a",
                   }}
                 >
-                  <button
-                    onClick={() => {
-                      const feat = features.find(
-                        (f) => (f.properties?.name || "").toLowerCase() === name.toLowerCase()
-                      );
-                      if (!feat) return;
-                      const [lng, lat] = getFeatureCentroid(feat);
-                      globeRef.current?.pointOfView({ lat, lng, altitude: 1.5 }, 800);
-                    }}
-                    title="Fly to"
-                    style={{ ...chipStyle, cursor: "pointer", background: "#17204a" }}
-                  >
-                    {name}
-                  </button>
-                  <button
-                    onClick={() => toggleSelection(name)}
-                    title="Remove"
-                    style={{ ...chipStyle, background: "transparent", border: "1px solid #2b3157" }}
-                  >
-                    ✕
-                  </button>
+                    <div
+                        style={{
+                            ...chipStyle,
+                            display: "flex",
+                            flexDirection: "column",
+                            alignItems: "flex-start",
+                            padding: "10px",
+                            background: "#17204a",
+                            borderRadius: "8px",
+                            color: "#fff",
+                        }}
+                    >
+                        {/* Title */}
+                        <div style={{ fontWeight: "bold", marginBottom: "5px" }}>{name}</div>
+
+                        {/* Fly-to button */}
+                        <button
+                            onClick={() => {
+                                const feat = features.find(
+                                    (f) => (f.properties?.name || "").toLowerCase() === name.toLowerCase()
+                                );
+                                if (!feat) return;
+                                const [lng, lat] = getFeatureCentroid(feat);
+                                globeRef.current?.pointOfView({ lat, lng, altitude: 1.5 }, 800);
+                            }}
+                            title="Go to"
+                            style={{
+                                marginBottom: "5px",
+                                padding: "5px 10px",
+                                background: "#0b1a3b",
+                                border: "none",
+                                borderRadius: "4px",
+                                cursor: "pointer",
+                                color: "#fff",
+                            }}
+                        >
+                            Go to
+                        </button>
+
+                        {/* Stats */}
+                        <div style={{ fontSize: "14px", marginBottom: "5px" }}>
+                            <div>Population: 123</div>
+                            <div>Land Area: 456 km²</div>
+                            <div>GDP: $789</div>
+                        </div>
+
+                        {/* Flag */}
+                        {(
+                            <img
+                                src={"https://flagsapi.com/BE/flat/64.png"}
+                                alt={`${name} flag`}
+                                style={{ width: "50px", height: "30px", objectFit: "cover", borderRadius: "3px" }}
+                            />
+                        )}
+                    </div>
                 </li>
               ))}
             </ul>
           )}
-        </div>
-
-        <div style={{ fontSize: 12, opacity: 0.7 }}>
-          Tip: Click any country to toggle it. Selected borders glow gold and the country fills softly.
         </div>
       </div>
     </div>
