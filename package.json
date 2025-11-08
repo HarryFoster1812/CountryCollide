@@ -9,13 +9,22 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@turf/bbox": "^7.2.0",
+    "@turf/centroid": "^7.2.0",
+    "@turf/clean-coords": "^7.2.0",
+    "@turf/dissolve": "^7.2.0",
+    "@turf/simplify": "^7.2.0",
+    "@turf/turf": "^7.2.0",
+    "@turf/union": "^7.2.0",
+    "d3": "^7.9.0",
     "d3-geo": "^3.1.1",
     "globe.gl": "^2.45.0",
     "next": "16.0.1",
     "react": "^19.2.0",
     "react-dom": "19.2.0",
     "three": "^0.181.0",
-    "topojson-client": "^3.1.0"
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
