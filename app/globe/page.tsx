@@ -8,9 +8,18 @@ import Link from "next/link";
 // If you place this file under app/globe/page.tsx, export default the page.
 // If you place it under components/, export the component and render it from a page.
 export default function CountrySelectorGlobePage() {
+    const [height, setHeight] = useState(600); // fallback height before window loads
+
+    useEffect(() => {
+        const handleResize = () => setHeight(window.innerHeight - 30);
+        handleResize(); // set initial height
+        window.addEventListener("resize", handleResize);
+        return () => window.removeEventListener("resize", handleResize);
+    }, []);
+
     return (
         <div style={{ padding: 16 }}>
-            <CountrySelectorGlobe height={620} />
+            <CountrySelectorGlobe height={height} />
         </div>
     );
 }
@@ -18,7 +27,7 @@ export default function CountrySelectorGlobePage() {
 type Feature = any;
 
 function CountrySelectorGlobe({
-    height = 600,
+    height = window.innerHeight,
     globeBackgroundColor = "#0b1020",
     geojsonUrl = "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson",
 }: {
@@ -410,29 +419,54 @@ function CountrySelectorGlobe({
                                         key={name}
                                         style={{
                                             display: "flex",
-                                            alignItems: "center",
+                                            alignItems: "stretch",
                                             justifyContent: "space-between",
-                                            padding: "6px 4px",
+                                            padding: "10px",
                                             borderBottom: "1px dashed #20264a",
                                         }}
                                     >
                                         <div
                                             style={{
-                                                ...chipStyle,
                                                 display: "flex",
-                                                flexDirection: "column",
+                                                flexDirection: "row",
+                                                justifyContent: "space-between",
                                                 alignItems: "flex-start",
-                                                padding: "10px",
                                                 background: "#17204a",
-                                                borderRadius: "8px",
+                                                borderRadius: "10px",
                                                 color: "#fff",
+                                                padding: "12px 16px",
                                                 width: "100%",
+                                                position: "relative",
                                             }}
                                         >
-                                            {/* Title */}
-                                            <div style={{ fontWeight: "bold", marginBottom: "5px" }}>{name}</div>
+                                            {/* Left side: name + stats */}
+                                            <div style={{ flex: 1 }}>
+                                                <div style={{ fontWeight: "bold", fontSize: "18px", marginBottom: "8px" }}>{name}</div>
 
-                                            {/* Fly-to button */}
+                                                <div style={{ fontSize: "14px", lineHeight: "1.6" }}>
+                                                    <div>Population: {countryData[name]?.population ?? "N/A"}</div>
+                                                    <div>Area: {countryData[name]?.landArea ?? "N/A"} km²</div>
+                                                    <div>GDP: ${countryData[name]?.gdpPerCapita?.toLocaleString?.() ?? "N/A"}</div>
+                                                </div>
+                                            </div>
+
+                                            {/* Top-right: flag */}
+                                            {countryData[name]?.flagUrl && (
+                                                <img
+                                                    src={countryData[name].flagUrl}
+                                                    alt={`${name} flag`}
+                                                    style={{
+                                                        width: "100px",
+                                                        height: "60px",
+                                                        objectFit: "cover",
+                                                        borderRadius: "6px",
+                                                        marginLeft: "16px",
+                                                        boxShadow: "0 0 8px rgba(0, 0, 0, 0.3)",
+                                                    }}
+                                                />
+                                            )}
+
+                                            {/* Bottom-right: button */}
                                             <button
                                                 onClick={() => {
                                                     const feat = features.find(
@@ -444,52 +478,26 @@ function CountrySelectorGlobe({
                                                 }}
                                                 title="Go to"
                                                 style={{
-                                                    marginBottom: "5px",
-                                                    padding: "5px 10px",
+                                                    position: "absolute",
+                                                    right: "16px",
+                                                    bottom: "12px",
+                                                    padding: "6px 12px",
                                                     background: "#0b1a3b",
                                                     border: "none",
-                                                    borderRadius: "4px",
+                                                    borderRadius: "6px",
                                                     cursor: "pointer",
                                                     color: "#fff",
+                                                    fontSize: "13px",
+                                                    transition: "background 0.2s ease",
                                                 }}
+                                                onMouseOver={(e) => (e.target.style.background = "#122c68")}
+                                                onMouseOut={(e) => (e.target.style.background = "#0b1a3b")}
                                             >
                                                 Go to
                                             </button>
-
-                                            {/* Stats */}
-                                            <div style={{ fontSize: "14px", marginBottom: "5px" }}>
-                                                <div>Population: 123</div>
-                                                <div>Land Area: {countryData[name]?.landArea ?? "N/A"} km²</div>
-                                                <div>GDP: {countryData[name]?.gdpPerCapita ?? "N/A"}</div>
-                                            </div>
-
-                                            {/* Flag */}
-                                            {(
-                                                <img
-                                                    src={countryData[name]?.flagUrl ?? "N/A"}
-                                                    alt={`${name} flag`}
-                                                    style={{ width: "50px", height: "30px", objectFit: "cover", borderRadius: "3px" }}
-                                                />
-                                            )}
-
-                                            {/* Flag */}
-                                            {(() => {
-                                                const code = codeFor(name);
-                                                return code ? (
-                                                    <img
-                                                        src={`https://flagsapi.com/${code}/flat/64.png`}
-                                                        alt={`${name} flag`}
-                                                        style={{
-                                                            width: "50px",
-                                                            height: "30px",
-                                                            objectFit: "cover",
-                                                            borderRadius: "3px",
-                                                        }}
-                                                    />
-                                                ) : null;
-                                            })()}
                                         </div>
                                     </li>
+
                                 ))}
                             </ul>
                         )}
