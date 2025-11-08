@@ -4,6 +4,7 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 import * as topojson from "topojson-client";
 import { getCountryData } from "../api/country_api.js";
 import Link from "next/link";
+import * as d3geo from "d3-geo";
 
 // If you place this file under app/globe/page.tsx, export default the page.
 // If you place it under components/, export the component and render it from a page.
