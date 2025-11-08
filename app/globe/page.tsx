@@ -36,7 +36,7 @@ function CountrySelectorGlobe({
   const [search, setSearch] = useState("");
   const [matchesOpen, setMatchesOpen] = useState(false);
 
-  const [countryData, setCountryData] = useState(null);
+  const [countryData, setCountryData] = useState([]);
 
   // --- Load country polygons (handles GeoJSON or TopoJSON) ---
   useEffect(() => {
@@ -420,14 +420,14 @@ function CountrySelectorGlobe({
                         {/* Stats */}
                         <div style={{ fontSize: "14px", marginBottom: "5px" }}>
                             <div>Population: 123</div>
-                            <div>Land Area: 456 km²</div>
-                            <div>GDP: $789</div>
+                            <div>Land Area: {countryData[name]?.landArea ?? "N/A"} km²</div>
+                            <div>GDP: {countryData[name]?.gdpPerCapita ?? "N/A"}</div>
                         </div>
 
                         {/* Flag */}
                         {(
                             <img
-                                src={"https://flagsapi.com/BE/flat/64.png"}
+                                src={countryData[name]?.flagUrl ?? "N/A"}
                                 alt={`${name} flag`}
                                 style={{ width: "50px", height: "30px", objectFit: "cover", borderRadius: "3px" }}
                             />
