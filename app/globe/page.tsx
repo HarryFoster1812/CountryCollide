@@ -3,8 +3,8 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import * as topojson from "topojson-client";
 import * as d3geo from "d3-geo";
-
 import { getCountryData } from "../api/country_api.js";
+import Link from "next/link";
 
 // If you place this file under app/globe/page.tsx, export default the page.
 // If you place it under components/, export the component and render it from a page.
@@ -21,7 +21,6 @@ type Feature = any;
 function CountrySelectorGlobe({
   height = 600,
   globeBackgroundColor = "#0b1020",
-  // GeoJSON with a "name" prop; feel free to swap to your own source.
   geojsonUrl = "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson",
 }: {
   height?: number;
@@ -36,7 +35,10 @@ function CountrySelectorGlobe({
   const [search, setSearch] = useState("");
   const [matchesOpen, setMatchesOpen] = useState(false);
 
-  const [countryData, setCountryData] = useState(null);
+  const [countryData, setCountryData] = useState<Record<
+    string,
+    { population?: number; area_km2?: number; gdp_usd?: number; code?: string }
+  > | null>(null);
 
   // --- Load country polygons (handles GeoJSON or TopoJSON) ---
   useEffect(() => {
@@ -66,6 +68,13 @@ function CountrySelectorGlobe({
             f.properties?.NAME ||
             f.id ||
             "Unknown",
+          // keep potential country codes if present in source
+          iso_a2:
+            f.properties?.ISO_A2 ||
+            f.properties?.iso_a2 ||
+            f.properties?.ISO2 ||
+            f.properties?.ISO ||
+            undefined,
         },
       }));
 
@@ -110,12 +119,11 @@ function CountrySelectorGlobe({
           globe.pointOfView({ lat, lng, altitude: 1.5 }, 800);
         })
         .onPolygonHover((poly: Feature | null) => {
-          globe
-            .polygonStrokeColor((d: Feature) => {
-              if (selected.has(getCountryKey(d))) return "#ffcc00";
-              if (poly && getCountryKey(poly) === getCountryKey(d)) return "#ffffff";
-              return "rgba(255,255,255,0.35)";
-            });
+          globe.polygonStrokeColor((d: Feature) => {
+            if (selected.has(getCountryKey(d))) return "#ffcc00";
+            if (poly && getCountryKey(poly) === getCountryKey(d)) return "#ffffff";
+            return "rgba(255,255,255,0.35)";
+          });
         });
 
       const onResize = () => {
@@ -165,6 +173,7 @@ function CountrySelectorGlobe({
       next.has(key) ? next.delete(key) : next.add(key);
       return next;
     });
+    // Close compare/merge panels if selection count changes so UX doesn’t get stale
   };
 
   const getFeatureCentroid = (feature: Feature) => {
@@ -218,8 +227,23 @@ function CountrySelectorGlobe({
   };
 
   useEffect(() => {
-      getCountryData(selectedNames).then(setCountryData);
+    // getCountryData(selectedNames).then(setCountryData);
   }, [selectedNames]);
+
+  // helpers for flags/data
+  const codeFor = (name: string) => {
+    const feat = features.find(
+      (f) => (f.properties?.name || "").toLowerCase() === name.toLowerCase()
+    );
+    const fromFeat = feat?.properties?.iso_a2;
+    const fromData = countryData?.[name]?.code;
+    return (fromFeat || fromData || "").toString().toUpperCase();
+  };
+  const fmt = (n?: number, opts: Intl.NumberFormatOptions = {}) =>
+    typeof n === "number" ? n.toLocaleString(undefined, opts) : "—";
+
+  // NEW: compare and merge actions
+  const onCompare = () => setCompareOpen((v) => !v);
 
   // --- UI ---
   return (
@@ -343,13 +367,43 @@ function CountrySelectorGlobe({
           )}
         </div>
 
-        <div style={{ display: "flex", gap: 8 }}>
+        <div style={{ display: "flex", gap: 8, flexWrap: "wrap" }}>
           <button onClick={() => setSelected(new Set())} style={btnStyle} title="Clear all">
             Clear all
           </button>
+
+          {/* NEW: Compare button (visible when 2+ selected) */}
+          {selectedNames.length >= 2 && (
+            <button
+              onClick={onCompare}
+              style={{ ...btnStyle, background: "#1b2352" }}
+              title="Compare selected"
+            >
+              {`Compare (${selectedNames.length})`}
+            </button>
+          )}
+
+          {/* NEW: Merge button (visible only when exactly 2 selected) */}
+          {selectedNames.length === 2 && (
+          <Link
+            href={`/merge?a=${selectedNames[0]}&b=${selectedNames[1]}`}
+          >
+            <button
+              style={{ ...btnStyle, background: "#131938" }}
+              title="Merge the two selected countries"
+            >
+              {"Merge (2)"}
+            </button>
+            </Link>
+
+          )}
         </div>
 
-        <div style={{ fontSize: 12, opacity: 0.85 }}>Selected ({selectedNames.length})</div>
+
+
+        <div style={{ fontSize: 12, opacity: 0.85 }}>
+          Selected ({selectedNames.length})
+        </div>
 
         <div
           style={{
@@ -378,61 +432,71 @@ function CountrySelectorGlobe({
                     borderBottom: "1px dashed #20264a",
                   }}
                 >
-                    <div
-                        style={{
-                            ...chipStyle,
-                            display: "flex",
-                            flexDirection: "column",
-                            alignItems: "flex-start",
-                            padding: "10px",
-                            background: "#17204a",
-                            borderRadius: "8px",
-                            color: "#fff",
-                        }}
+                  <div
+                    style={{
+                      ...chipStyle,
+                      display: "flex",
+                      flexDirection: "column",
+                      alignItems: "flex-start",
+                      padding: "10px",
+                      background: "#17204a",
+                      borderRadius: "8px",
+                      color: "#fff",
+                      width: "100%",
+                    }}
+                  >
+                    {/* Title */}
+                    <div style={{ fontWeight: "bold", marginBottom: "5px" }}>{name}</div>
+
+                    {/* Fly-to button */}
+                    <button
+                      onClick={() => {
+                        const feat = features.find(
+                          (f) =>
+                            (f.properties?.name || "").toLowerCase() === name.toLowerCase()
+                        );
+                        if (!feat) return;
+                        const [lng, lat] = getFeatureCentroid(feat);
+                        globeRef.current?.pointOfView({ lat, lng, altitude: 1.5 }, 800);
+                      }}
+                      title="Go to"
+                      style={{
+                        marginBottom: "5px",
+                        padding: "5px 10px",
+                        background: "#0b1a3b",
+                        border: "none",
+                        borderRadius: "4px",
+                        cursor: "pointer",
+                        color: "#fff",
+                      }}
                     >
-                        {/* Title */}
-                        <div style={{ fontWeight: "bold", marginBottom: "5px" }}>{name}</div>
+                      Go to
+                    </button>
 
-                        {/* Fly-to button */}
-                        <button
-                            onClick={() => {
-                                const feat = features.find(
-                                    (f) => (f.properties?.name || "").toLowerCase() === name.toLowerCase()
-                                );
-                                if (!feat) return;
-                                const [lng, lat] = getFeatureCentroid(feat);
-                                globeRef.current?.pointOfView({ lat, lng, altitude: 1.5 }, 800);
-                            }}
-                            title="Go to"
-                            style={{
-                                marginBottom: "5px",
-                                padding: "5px 10px",
-                                background: "#0b1a3b",
-                                border: "none",
-                                borderRadius: "4px",
-                                cursor: "pointer",
-                                color: "#fff",
-                            }}
-                        >
-                            Go to
-                        </button>
-
-                        {/* Stats */}
-                        <div style={{ fontSize: "14px", marginBottom: "5px" }}>
-                            <div>Population: 123</div>
-                            <div>Land Area: 456 km²</div>
-                            <div>GDP: $789</div>
-                        </div>
-
-                        {/* Flag */}
-                        {(
-                            <img
-                                src={"https://flagsapi.com/BE/flat/64.png"}
-                                alt={`${name} flag`}
-                                style={{ width: "50px", height: "30px", objectFit: "cover", borderRadius: "3px" }}
-                            />
-                        )}
+                    {/* Stats */}
+                    <div style={{ fontSize: "14px", marginBottom: "5px" }}>
+                      <div>Population: {fmt(countryData?.[name]?.population)}</div>
+                      <div>Land Area: {fmt(countryData?.[name]?.area_km2)} km²</div>
+                      <div>GDP: ${fmt(countryData?.[name]?.gdp_usd)}</div>
                     </div>
+
+                    {/* Flag */}
+                    {(() => {
+                      const code = codeFor(name);
+                      return code ? (
+                        <img
+                          src={`https://flagsapi.com/${code}/flat/64.png`}
+                          alt={`${name} flag`}
+                          style={{
+                            width: "50px",
+                            height: "30px",
+                            objectFit: "cover",
+                            borderRadius: "3px",
+                          }}
+                        />
+                      ) : null;
+                    })()}
+                  </div>
                 </li>
               ))}
             </ul>
@@ -458,4 +522,23 @@ const chipStyle: React.CSSProperties = {
   border: "none",
   color: "white",
   fontSize: 13,
+};
+
+const thStyle: React.CSSProperties = {
+  textAlign: "left",
+  padding: "6px 8px",
+  borderBottom: "1px solid #20264a",
+  position: "sticky",
+  top: 0,
+};
+
+const tdStyle: React.CSSProperties = {
+  padding: "6px 8px",
+  borderBottom: "1px dashed #20264a",
+};
+
+const tdLabelStyle: React.CSSProperties = {
+  ...tdStyle,
+  fontWeight: 600,
+  width: 140,
 };
