@@ -1,0 +1,212 @@
+{
+  "RU": {
+    "country": "Russia",
+    "AverageBedtimeWorkdays_2023": "12:33:19 AM",
+    "WakeupTimeWorkdays_2023": "08:12:24 AM",
+    "TimeInBedWorkdays_2023": 415.94
+  },
+  "JP": {
+    "country": "Japan",
+    "AverageBedtimeWorkdays_2023": "12:27:50 AM",
+    "WakeupTimeWorkdays_2023": "07:22:04 AM",
+    "TimeInBedWorkdays_2023": 366.03
+  },
+  "SG": {
+    "country": "Singapore",
+    "AverageBedtimeWorkdays_2023": "12:12:47 AM",
+    "WakeupTimeWorkdays_2023": "07:25:45 AM",
+    "TimeInBedWorkdays_2023": 386.87
+  },
+  "IN": {
+    "country": "India",
+    "AverageBedtimeWorkdays_2023": "12:12:20 AM",
+    "WakeupTimeWorkdays_2023": "07:25:26 AM",
+    "TimeInBedWorkdays_2023": 384.68
+  },
+  "HK": {
+    "country": "Hong Kong",
+    "AverageBedtimeWorkdays_2023": "12:11:29 AM",
+    "WakeupTimeWorkdays_2023": "07:28:46 AM",
+    "TimeInBedWorkdays_2023": 391.55
+  },
+  "RO": {
+    "country": "Romania",
+    "AverageBedtimeWorkdays_2023": "12:05:50 AM",
+    "WakeupTimeWorkdays_2023": "07:39:21 AM",
+    "TimeInBedWorkdays_2023": 409.75
+  },
+  "KR": {
+    "country": "South Korea",
+    "AverageBedtimeWorkdays_2023": "12:05:02 AM",
+    "WakeupTimeWorkdays_2023": "07:09:59 AM",
+    "TimeInBedWorkdays_2023": 378.63
+  },
+  "PT": {
+    "country": "Portugal",
+    "AverageBedtimeWorkdays_2023": "12:01:29 AM",
+    "WakeupTimeWorkdays_2023": "07:39:07 AM",
+    "TimeInBedWorkdays_2023": 411.27
+  },
+  "GR": {
+    "country": "Greece",
+    "AverageBedtimeWorkdays_2023": "12:00:02 AM",
+    "WakeupTimeWorkdays_2023": "07:35:04 AM",
+    "TimeInBedWorkdays_2023": 411.78
+  },
+  "ES": {
+    "country": "Spain",
+    "AverageBedtimeWorkdays_2023": "11:59:04 PM",
+    "WakeupTimeWorkdays_2023": "07:33:24 AM",
+    "TimeInBedWorkdays_2023": 409.99
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "AverageBedtimeWorkdays_2023": "11:57:14 PM",
+    "WakeupTimeWorkdays_2023": "07:20:17 AM",
+    "TimeInBedWorkdays_2023": 397.48
+  },
+  "EE": {
+    "country": "Estonia",
+    "AverageBedtimeWorkdays_2023": "11:56:59 PM",
+    "WakeupTimeWorkdays_2023": "07:37:43 AM",
+    "TimeInBedWorkdays_2023": 418.59
+  },
+  "TH": {
+    "country": "Thailand",
+    "AverageBedtimeWorkdays_2023": "11:56:45 PM",
+    "WakeupTimeWorkdays_2023": "07:18:01 AM",
+    "TimeInBedWorkdays_2023": 396.2
+  },
+  "IT": {
+    "country": "Italy",
+    "AverageBedtimeWorkdays_2023": "11:50:14 PM",
+    "WakeupTimeWorkdays_2023": "07:17:33 AM",
+    "TimeInBedWorkdays_2023": 405.74
+  },
+  "NO": {
+    "country": "Norway",
+    "AverageBedtimeWorkdays_2023": "11:49:52 PM",
+    "WakeupTimeWorkdays_2023": "07:23:53 AM",
+    "TimeInBedWorkdays_2023": 410.78
+  },
+  "FR": {
+    "country": "France",
+    "AverageBedtimeWorkdays_2023": "11:48:14 PM",
+    "WakeupTimeWorkdays_2023": "07:27:27 AM",
+    "TimeInBedWorkdays_2023": 413.85
+  },
+  "PL": {
+    "country": "Poland",
+    "AverageBedtimeWorkdays_2023": "11:45:52 PM",
+    "WakeupTimeWorkdays_2023": "07:20:36 AM",
+    "TimeInBedWorkdays_2023": 413.25
+  },
+  "IE": {
+    "country": "Ireland",
+    "AverageBedtimeWorkdays_2023": "11:39:14 PM",
+    "WakeupTimeWorkdays_2023": "07:26:59 AM",
+    "TimeInBedWorkdays_2023": 420.04
+  },
+  "BE": {
+    "country": "Belgium",
+    "AverageBedtimeWorkdays_2023": "11:37:22 PM",
+    "WakeupTimeWorkdays_2023": "07:19:05 AM",
+    "TimeInBedWorkdays_2023": 416.49
+  },
+  "MX": {
+    "country": "Mexico",
+    "AverageBedtimeWorkdays_2023": "11:36:02 PM",
+    "WakeupTimeWorkdays_2023": "07:08:12 AM",
+    "TimeInBedWorkdays_2023": 406.02
+  },
+  "NL": {
+    "country": "Netherlands",
+    "AverageBedtimeWorkdays_2023": "11:34:43 PM",
+    "WakeupTimeWorkdays_2023": "07:21:16 AM",
+    "TimeInBedWorkdays_2023": 420.1
+  },
+  "FI": {
+    "country": "Finland",
+    "AverageBedtimeWorkdays_2023": "11:32:35 PM",
+    "WakeupTimeWorkdays_2023": "07:15:24 AM",
+    "TimeInBedWorkdays_2023": 421.82
+  },
+  "DE": {
+    "country": "Germany",
+    "AverageBedtimeWorkdays_2023": "11:31:21 PM",
+    "WakeupTimeWorkdays_2023": "07:07:32 AM",
+    "TimeInBedWorkdays_2023": 412.55
+  },
+  "CH": {
+    "country": "Switzerland",
+    "AverageBedtimeWorkdays_2023": "11:29:44 PM",
+    "WakeupTimeWorkdays_2023": "07:03:19 AM",
+    "TimeInBedWorkdays_2023": 412
+  },
+  "CZ": {
+    "country": "Czechia",
+    "AverageBedtimeWorkdays_2023": "11:29:12 PM",
+    "WakeupTimeWorkdays_2023": "07:05:13 AM",
+    "TimeInBedWorkdays_2023": 413.97
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "AverageBedtimeWorkdays_2023": "11:27:20 PM",
+    "WakeupTimeWorkdays_2023": "07:10:12 AM",
+    "TimeInBedWorkdays_2023": 416.28
+  },
+  "SE": {
+    "country": "Sweden",
+    "AverageBedtimeWorkdays_2023": "11:25:54 PM",
+    "WakeupTimeWorkdays_2023": "07:04:02 AM",
+    "TimeInBedWorkdays_2023": 415.52
+  },
+  "AT": {
+    "country": "Austria",
+    "AverageBedtimeWorkdays_2023": "11:24:33 PM",
+    "WakeupTimeWorkdays_2023": "07:03:46 AM",
+    "TimeInBedWorkdays_2023": 415.47
+  },
+  "DK": {
+    "country": "Denmark",
+    "AverageBedtimeWorkdays_2023": "11:22:45 PM",
+    "WakeupTimeWorkdays_2023": "07:03:06 AM",
+    "TimeInBedWorkdays_2023": 414.01
+  },
+  "SK": {
+    "country": "Slovakia",
+    "AverageBedtimeWorkdays_2023": "11:20:38 PM",
+    "WakeupTimeWorkdays_2023": "06:56:05 AM",
+    "TimeInBedWorkdays_2023": 415.13
+  },
+  "CA": {
+    "country": "Canada",
+    "AverageBedtimeWorkdays_2023": "11:20:30 PM",
+    "WakeupTimeWorkdays_2023": "07:02:59 AM",
+    "TimeInBedWorkdays_2023": 416.03
+  },
+  "US": {
+    "country": "United States",
+    "AverageBedtimeWorkdays_2023": "11:07:47 PM",
+    "WakeupTimeWorkdays_2023": "06:46:35 AM",
+    "TimeInBedWorkdays_2023": 412.39
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "AverageBedtimeWorkdays_2023": "10:52:50 PM",
+    "WakeupTimeWorkdays_2023": "06:42:30 AM",
+    "TimeInBedWorkdays_2023": 422.5
+  },
+  "AU": {
+    "country": "Australia",
+    "AverageBedtimeWorkdays_2023": "10:52:22 PM",
+    "WakeupTimeWorkdays_2023": "06:38:04 AM",
+    "TimeInBedWorkdays_2023": 417.71
+  },
+  "ZA": {
+    "country": "South Africa",
+    "AverageBedtimeWorkdays_2023": "10:37:42 PM",
+    "WakeupTimeWorkdays_2023": "06:20:56 AM",
+    "TimeInBedWorkdays_2023": 414.17
+  }
+}

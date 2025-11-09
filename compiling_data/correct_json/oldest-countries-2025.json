@@ -1,0 +1,987 @@
+{
+  "CZ": {
+    "country": "Czechia",
+    "OldestCountries_DateSovereignityAcquired": "October 1918",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 January 1993"
+  },
+  "SK": {
+    "country": "Slovakia",
+    "OldestCountries_DateSovereignityAcquired": "October 1918",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 January 1993"
+  },
+  "SE": {
+    "country": "Sweden",
+    "OldestCountries_DateSovereignityAcquired": 970,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 January 1974"
+  },
+  "PL": {
+    "country": "Poland",
+    "OldestCountries_DateSovereignityAcquired": 966,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "4 June 1989"
+  },
+  "DK": {
+    "country": "Denmark",
+    "OldestCountries_DateSovereignityAcquired": 965,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "5 June 1953"
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "OldestCountries_DateSovereignityAcquired": 927,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "8 December 1922"
+  },
+  "KR": {
+    "country": "South Korea",
+    "OldestCountries_DateSovereignityAcquired": 918,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "29 October 1987"
+  },
+  "KP": {
+    "country": "North Korea",
+    "OldestCountries_DateSovereignityAcquired": 918,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "25 December 1972"
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "OldestCountries_DateSovereignityAcquired": 900,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "21 August 1995"
+  },
+  "TJ": {
+    "country": "Tajikistan",
+    "OldestCountries_DateSovereignityAcquired": "9 September 1991",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "KH": {
+    "country": "Cambodia",
+    "OldestCountries_DateSovereignityAcquired": "9 November 1953",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "21 September 1993"
+  },
+  "SS": {
+    "country": "South Sudan",
+    "OldestCountries_DateSovereignityAcquired": "9 July 2011",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "9 July 2011"
+  },
+  "TZ": {
+    "country": "Tanzania",
+    "OldestCountries_DateSovereignityAcquired": "9 December 1961",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 July 1991"
+  },
+  "HU": {
+    "country": "Hungary",
+    "OldestCountries_DateSovereignityAcquired": 895,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 January 2012"
+  },
+  "RU": {
+    "country": "Russia",
+    "OldestCountries_DateSovereignityAcquired": 882,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "25 December 1993"
+  },
+  "UA": {
+    "country": "Ukraine",
+    "OldestCountries_DateSovereignityAcquired": 882,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "24 August 1991"
+  },
+  "BY": {
+    "country": "Belarus",
+    "OldestCountries_DateSovereignityAcquired": 882,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "28 November 1996"
+  },
+  "AM": {
+    "country": "Armenia",
+    "OldestCountries_DateSovereignityAcquired": 880,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "21 September 1991"
+  },
+  "HR": {
+    "country": "Croatia",
+    "OldestCountries_DateSovereignityAcquired": 879,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "8 October 1991"
+  },
+  "NO": {
+    "country": "Norway",
+    "OldestCountries_DateSovereignityAcquired": 872,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": 1814
+  },
+  "DE": {
+    "country": "Germany",
+    "OldestCountries_DateSovereignityAcquired": 843,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "23 May 1949"
+  },
+  "MK": {
+    "country": "North Macedonia",
+    "OldestCountries_DateSovereignityAcquired": "8 September 1991",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "17 November 1991"
+  },
+  "MA": {
+    "country": "Morocco",
+    "OldestCountries_DateSovereignityAcquired": 788,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "18 November 1955"
+  },
+  "RS": {
+    "country": "Serbia",
+    "OldestCountries_DateSovereignityAcquired": 780,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "8 June 2006"
+  },
+  "IQ": {
+    "country": "Iraq",
+    "OldestCountries_DateSovereignityAcquired": 762,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "15 October 2005"
+  },
+  "BR": {
+    "country": "Brazil",
+    "OldestCountries_DateSovereignityAcquired": "7 September 1822",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "5 October 1988"
+  },
+  "VA": {
+    "country": "Vatican City",
+    "OldestCountries_DateSovereignityAcquired": "7 June 1929",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": 1274
+  },
+  "BS": {
+    "country": "Bahamas",
+    "OldestCountries_DateSovereignityAcquired": "7 January 1964",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "OldestCountries_DateSovereignityAcquired": 681,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "10 November 1989"
+  },
+  "SZ": {
+    "country": "Eswatini",
+    "OldestCountries_DateSovereignityAcquired": "6 September 1968",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "8 February 2006"
+  },
+  "TH": {
+    "country": "Thailand",
+    "OldestCountries_DateSovereignityAcquired": "6 November 1767",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "6 April 2017"
+  },
+  "GH": {
+    "country": "Ghana",
+    "OldestCountries_DateSovereignityAcquired": "6 March 1957",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "KM": {
+    "country": "Comoros",
+    "OldestCountries_DateSovereignityAcquired": "6 July 1975",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "MW": {
+    "country": "Malawi",
+    "OldestCountries_DateSovereignityAcquired": "6 July 1964",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "FI": {
+    "country": "Finland",
+    "OldestCountries_DateSovereignityAcquired": "6 December 1917",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "29 March 1809"
+  },
+  "JM": {
+    "country": "Jamaica",
+    "OldestCountries_DateSovereignityAcquired": "6 August 1962",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "BO": {
+    "country": "Bolivia",
+    "OldestCountries_DateSovereignityAcquired": "6 August 1825",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "25 January 2009"
+  },
+  "PT": {
+    "country": "Portugal",
+    "OldestCountries_DateSovereignityAcquired": "5 October 1143",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "2 April 1976"
+  },
+  "CV": {
+    "country": "Cape Verde",
+    "OldestCountries_DateSovereignityAcquired": "5 July 1975",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "5 July 1975"
+  },
+  "BF": {
+    "country": "Burkina Faso",
+    "OldestCountries_DateSovereignityAcquired": "5 August 1960",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "30 September 2022"
+  },
+  "FR": {
+    "country": "France",
+    "OldestCountries_DateSovereignityAcquired": 481,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "4 October 1958"
+  },
+  "LS": {
+    "country": "Lesotho",
+    "OldestCountries_DateSovereignityAcquired": "4 October 1966",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "BE": {
+    "country": "Belgium",
+    "OldestCountries_DateSovereignityAcquired": "4 October 1830",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "21 July 1831"
+  },
+  "LV": {
+    "country": "Latvia",
+    "OldestCountries_DateSovereignityAcquired": "4 May 1990",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "7 November 1922"
+  },
+  "TO": {
+    "country": "Tonga",
+    "OldestCountries_DateSovereignityAcquired": "4 July 1970",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "US": {
+    "country": "United States",
+    "OldestCountries_DateSovereignityAcquired": "4 July 1776",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "4 March 1789"
+  },
+  "MM": {
+    "country": "Myanmar",
+    "OldestCountries_DateSovereignityAcquired": "4 January 1948",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 February 2021"
+  },
+  "LK": {
+    "country": "Sri Lanka",
+    "OldestCountries_DateSovereignityAcquired": "4 February 1948",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "22 May 1972"
+  },
+  "CI": {
+    "country": "Ivory Coast",
+    "OldestCountries_DateSovereignityAcquired": "4 December 1973",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "NE": {
+    "country": "Niger",
+    "OldestCountries_DateSovereignityAcquired": "4 December 1958",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "CK": {
+    "country": "Cook Islands",
+    "OldestCountries_DateSovereignityAcquired": "4 August 1965",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "ZA": {
+    "country": "South Africa",
+    "OldestCountries_DateSovereignityAcquired": "31 May 1910",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "4 February 1997"
+  },
+  "UZ": {
+    "country": "Uzbekistan",
+    "OldestCountries_DateSovereignityAcquired": "31 August 1991",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "OldestCountries_DateSovereignityAcquired": "31 August 1991",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "10 June 2010"
+  },
+  "TT": {
+    "country": "Trinidad and Tobago",
+    "OldestCountries_DateSovereignityAcquired": "31 August 1962",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "BW": {
+    "country": "Botswana",
+    "OldestCountries_DateSovereignityAcquired": "30 September 1966",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "30 September 1966"
+  },
+  "BB": {
+    "country": "Barbados",
+    "OldestCountries_DateSovereignityAcquired": "30 November 1966",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "CD": {
+    "country": "DR Congo",
+    "OldestCountries_DateSovereignityAcquired": "30 June 1960",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "17 May 1997"
+  },
+  "VU": {
+    "country": "Vanuatu",
+    "OldestCountries_DateSovereignityAcquired": "30 July 1980",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "TG": {
+    "country": "Togo",
+    "OldestCountries_DateSovereignityAcquired": "30 August 1958",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "SM": {
+    "country": "San Marino",
+    "OldestCountries_DateSovereignityAcquired": "3 September 301",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": 1600
+  },
+  "PA": {
+    "country": "Panama",
+    "OldestCountries_DateSovereignityAcquired": "3 Novemebr 1903",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "11 October 1972"
+  },
+  "FM": {
+    "country": "Micronesia",
+    "OldestCountries_DateSovereignityAcquired": "3 November 1986",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "10 May 1979"
+  },
+  "BA": {
+    "country": "Bosnia and Herzegovina",
+    "OldestCountries_DateSovereignityAcquired": "3 March 1992",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "3 March 1992"
+  },
+  "ME": {
+    "country": "Montenegro",
+    "OldestCountries_DateSovereignityAcquired": "3 June 2006",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "22 October 2007"
+  },
+  "SG": {
+    "country": "Singapore",
+    "OldestCountries_DateSovereignityAcquired": "3 June 1965",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "9 August 1965"
+  },
+  "NR": {
+    "country": "Nauru",
+    "OldestCountries_DateSovereignityAcquired": "3 January 1968",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "SC": {
+    "country": "Seychelles",
+    "OldestCountries_DateSovereignityAcquired": "29 June 1976",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "SY": {
+    "country": "Syria",
+    "OldestCountries_DateSovereignityAcquired": "28 September 1961",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "27 February 2012"
+  },
+  "MR": {
+    "country": "Mauritania",
+    "OldestCountries_DateSovereignityAcquired": "28 November 1960",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "AZ": {
+    "country": "Azerbaijan",
+    "OldestCountries_DateSovereignityAcquired": "28 May 1918",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "18 October 1991"
+  },
+  "PE": {
+    "country": "Peru",
+    "OldestCountries_DateSovereignityAcquired": "28 July 1821",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "31 December 1993"
+  },
+  "EG": {
+    "country": "Egypt",
+    "OldestCountries_DateSovereignityAcquired": "28 February 1922",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "18 June 1953"
+  },
+  "TM": {
+    "country": "Turkmenistan",
+    "OldestCountries_DateSovereignityAcquired": "27 October 1991",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "28 September 2008"
+  },
+  "VC": {
+    "country": "Saint Vincent and the Grenadines",
+    "OldestCountries_DateSovereignityAcquired": "27 October 1969",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "DJ": {
+    "country": "Djibouti",
+    "OldestCountries_DateSovereignityAcquired": "27 June 1977",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "LC": {
+    "country": "Saint Lucia",
+    "OldestCountries_DateSovereignityAcquired": "27 February 1967",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "GD": {
+    "country": "Grenada",
+    "OldestCountries_DateSovereignityAcquired": "27 February 1967",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "30 September 1978"
+  },
+  "DM": {
+    "country": "Dominica",
+    "OldestCountries_DateSovereignityAcquired": "27 February 1967",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "3 November 1978"
+  },
+  "KN": {
+    "country": "Saint Kitts and Nevis",
+    "OldestCountries_DateSovereignityAcquired": "27 February 1967",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "DO": {
+    "country": "Dominican Republic",
+    "OldestCountries_DateSovereignityAcquired": "27 February 1844",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "28 November 1966"
+  },
+  "MD": {
+    "country": "Moldova",
+    "OldestCountries_DateSovereignityAcquired": "27 August 1991",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "27 August 1997"
+  },
+  "ER": {
+    "country": "Eritrea",
+    "OldestCountries_DateSovereignityAcquired": "27 April 1993",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "SL": {
+    "country": "Sierra Leone",
+    "OldestCountries_DateSovereignityAcquired": "27 April 1961",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "IR": {
+    "country": "Iran",
+    "OldestCountries_DateSovereignityAcquired": "2600 BC",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "3 December 1979"
+  },
+  "LB": {
+    "country": "Lebanon",
+    "OldestCountries_DateSovereignityAcquired": "26 November 1941",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "23 May 1926"
+  },
+  "GY": {
+    "country": "Guyana",
+    "OldestCountries_DateSovereignityAcquired": "26 May 1966",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "BD": {
+    "country": "Bangladesh",
+    "OldestCountries_DateSovereignityAcquired": "26 March 1971",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "4 November 1972"
+  },
+  "MV": {
+    "country": "Maldives",
+    "OldestCountries_DateSovereignityAcquired": "26 July 1965",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "11 November 1968"
+  },
+  "LR": {
+    "country": "Liberia",
+    "OldestCountries_DateSovereignityAcquired": "26 July 1847",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "NL": {
+    "country": "Netherlands",
+    "OldestCountries_DateSovereignityAcquired": "26 July 1581",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "15 December 1954"
+  },
+  "OM": {
+    "country": "Oman",
+    "OldestCountries_DateSovereignityAcquired": "26 January 1650",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": 1996
+  },
+  "IN": {
+    "country": "India",
+    "OldestCountries_DateSovereignityAcquired": "2500 BC",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "26 January 1950"
+  },
+  "NP": {
+    "country": "Nepal",
+    "OldestCountries_DateSovereignityAcquired": "25 September 1768",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "28 May 2008"
+  },
+  "ML": {
+    "country": "Mali",
+    "OldestCountries_DateSovereignityAcquired": "25 November 1958",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "JO": {
+    "country": "Jordan",
+    "OldestCountries_DateSovereignityAcquired": "25 May 1946",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "12 June 2011"
+  },
+  "AR": {
+    "country": "Argentina",
+    "OldestCountries_DateSovereignityAcquired": "25 May 1810",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "10 December 1983"
+  },
+  "SI": {
+    "country": "Slovenia",
+    "OldestCountries_DateSovereignityAcquired": "25 June 1991",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "13 December 1991"
+  },
+  "MZ": {
+    "country": "Mozambique",
+    "OldestCountries_DateSovereignityAcquired": "25 June 1975",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "27 October 1994"
+  },
+  "UY": {
+    "country": "Uruguay",
+    "OldestCountries_DateSovereignityAcquired": "25 August 1825",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "8 December 1996"
+  },
+  "GW": {
+    "country": "Guinea-Bissau",
+    "OldestCountries_DateSovereignityAcquired": "24 September 1973",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "ZM": {
+    "country": "Zambia",
+    "OldestCountries_DateSovereignityAcquired": "24 October 1964",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "RO": {
+    "country": "Romania",
+    "OldestCountries_DateSovereignityAcquired": "24 January 1859",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "22 December 1989"
+  },
+  "LY": {
+    "country": "Libya",
+    "OldestCountries_DateSovereignityAcquired": "24 December 1951",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "4 August 2014"
+  },
+  "LA": {
+    "country": "Laos",
+    "OldestCountries_DateSovereignityAcquired": "22 October 1953",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "2 December 1975"
+  },
+  "MT": {
+    "country": "Malta",
+    "OldestCountries_DateSovereignityAcquired": "21 September 1964",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "13 December 1974"
+  },
+  "MH": {
+    "country": "Marshall Islands",
+    "OldestCountries_DateSovereignityAcquired": "21 October 1986",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 May 1979"
+  },
+  "NA": {
+    "country": "Namibia",
+    "OldestCountries_DateSovereignityAcquired": "21 March 1990",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "DZ": {
+    "country": "Algeria",
+    "OldestCountries_DateSovereignityAcquired": "202 BC",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "19 September 1958"
+  },
+  "TL": {
+    "country": "Timor-Leste",
+    "OldestCountries_DateSovereignityAcquired": "20 May 2002",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "20 May 2002"
+  },
+  "TN": {
+    "country": "Tunisia",
+    "OldestCountries_DateSovereignityAcquired": "20 March 1956",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "25 July 2022"
+  },
+  "CO": {
+    "country": "Colombia",
+    "OldestCountries_DateSovereignityAcquired": "20 July 1810",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "4 July 1991"
+  },
+  "EE": {
+    "country": "Estonia",
+    "OldestCountries_DateSovereignityAcquired": "20 August 1991",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "24 February 1918"
+  },
+  "SN": {
+    "country": "Senegal",
+    "OldestCountries_DateSovereignityAcquired": "20 August 1960",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "VN": {
+    "country": "Vietnam",
+    "OldestCountries_DateSovereignityAcquired": "2 September 1945",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 January 2014"
+  },
+  "GN": {
+    "country": "Guinea",
+    "OldestCountries_DateSovereignityAcquired": "2 October 1958",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "SB": {
+    "country": "Solomon Islands",
+    "OldestCountries_DateSovereignityAcquired": "2 January 1976",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "OldestCountries_DateSovereignityAcquired": "2 December 1971",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "OldestCountries_DateSovereignityAcquired": 1945,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "23 November 1890"
+  },
+  "LI": {
+    "country": "Liechtenstein",
+    "OldestCountries_DateSovereignityAcquired": "19 October 1813",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "16 March 2003"
+  },
+  "VE": {
+    "country": "Venezuela",
+    "OldestCountries_DateSovereignityAcquired": "19 April 1810",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "20 December 1999"
+  },
+  "BT": {
+    "country": "Bhutan",
+    "OldestCountries_DateSovereignityAcquired": 1885,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "24 March 2008"
+  },
+  "GR": {
+    "country": "Greece",
+    "OldestCountries_DateSovereignityAcquired": 1821,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "11 June 1975"
+  },
+  "CL": {
+    "country": "Chile",
+    "OldestCountries_DateSovereignityAcquired": "18 September 1810",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "17 August 1989"
+  },
+  "GM": {
+    "country": "Gambia",
+    "OldestCountries_DateSovereignityAcquired": "18 February 1965",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "QA": {
+    "country": "Qatar",
+    "OldestCountries_DateSovereignityAcquired": "18 December 1878",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "8 September 1971"
+  },
+  "KW": {
+    "country": "Kuwait",
+    "OldestCountries_DateSovereignityAcquired": 1752,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "11 November 1962"
+  },
+  "AF": {
+    "country": "Afghanistan",
+    "OldestCountries_DateSovereignityAcquired": 1747,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "15 August 2021"
+  },
+  "IT": {
+    "country": "Italy",
+    "OldestCountries_DateSovereignityAcquired": 1720,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "2 June 1946"
+  },
+  "AT": {
+    "country": "Austria",
+    "OldestCountries_DateSovereignityAcquired": "17 September 1156",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "12 November 1918"
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "OldestCountries_DateSovereignityAcquired": "17 January 1853",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "6 February 1840"
+  },
+  "GA": {
+    "country": "Gabon",
+    "OldestCountries_DateSovereignityAcquired": "17 August 1960",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "ID": {
+    "country": "Indonesia",
+    "OldestCountries_DateSovereignityAcquired": "17 August 1945",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "18 August 1945"
+  },
+  "CN": {
+    "country": "China",
+    "OldestCountries_DateSovereignityAcquired": "1600 BC",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "4 December 1982"
+  },
+  "TW": {
+    "country": "Taiwan",
+    "OldestCountries_DateSovereignityAcquired": "1600 BC",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "25 December 1947"
+  },
+  "MY": {
+    "country": "Malaysia",
+    "OldestCountries_DateSovereignityAcquired": "16 September 1963",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "16 September 1963"
+  },
+  "MX": {
+    "country": "Mexico",
+    "OldestCountries_DateSovereignityAcquired": "16 September 1810",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "7 February 1917"
+  },
+  "LT": {
+    "country": "Lithuania",
+    "OldestCountries_DateSovereignityAcquired": "16 February 1918",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "11 March 1990"
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "OldestCountries_DateSovereignityAcquired": "16 December 1991",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "30 August 1995"
+  },
+  "CY": {
+    "country": "Cyprus",
+    "OldestCountries_DateSovereignityAcquired": "16 August 1960",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "16 August 1960"
+  },
+  "IE": {
+    "country": "Ireland",
+    "OldestCountries_DateSovereignityAcquired": 1542,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "29 December 1937"
+  },
+  "GT": {
+    "country": "Guatemala",
+    "OldestCountries_DateSovereignityAcquired": "15 September 1821",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "31 May 1985"
+  },
+  "HN": {
+    "country": "Honduras",
+    "OldestCountries_DateSovereignityAcquired": "15 September 1821",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "11 January 1982"
+  },
+  "NI": {
+    "country": "Nicaragua",
+    "OldestCountries_DateSovereignityAcquired": "15 September 1821",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "9 January 1987"
+  },
+  "SV": {
+    "country": "El Salvador",
+    "OldestCountries_DateSovereignityAcquired": "15 September 1821",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "16 December 1983"
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "OldestCountries_DateSovereignityAcquired": "15 September 1821",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "7 November 1949"
+  },
+  "PS": {
+    "country": "Palestine",
+    "OldestCountries_DateSovereignityAcquired": "15 November 1988",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "4 May 1994"
+  },
+  "SR": {
+    "country": "Suriname",
+    "OldestCountries_DateSovereignityAcquired": "15 December 1954",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "BH": {
+    "country": "Bahrain",
+    "OldestCountries_DateSovereignityAcquired": "15 August 1971",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "14 February 2002"
+  },
+  "CG": {
+    "country": "Republic of the Congo",
+    "OldestCountries_DateSovereignityAcquired": "15 August 1960",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "ES": {
+    "country": "Spain",
+    "OldestCountries_DateSovereignityAcquired": 1479,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "6 December 1978"
+  },
+  "MG": {
+    "country": "Madagascar",
+    "OldestCountries_DateSovereignityAcquired": "14 October 1958",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "IL": {
+    "country": "Israel",
+    "OldestCountries_DateSovereignityAcquired": "14 May 1948",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "14 May 1948"
+  },
+  "PY": {
+    "country": "Paraguay",
+    "OldestCountries_DateSovereignityAcquired": "14 May 1811",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "20 June 1992"
+  },
+  "PK": {
+    "country": "Pakistan",
+    "OldestCountries_DateSovereignityAcquired": "14 August 1947",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "14 August 1973"
+  },
+  "SA": {
+    "country": "Saudi Arabia",
+    "OldestCountries_DateSovereignityAcquired": "13 January 1902",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "23 September 1932"
+  },
+  "CF": {
+    "country": "Central African Republic",
+    "OldestCountries_DateSovereignityAcquired": "13 August 1960",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "21 September 0197"
+  },
+  "TR": {
+    "country": "Turkey",
+    "OldestCountries_DateSovereignityAcquired": 1299,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "24 June 2018"
+  },
+  "MC": {
+    "country": "Monaco",
+    "OldestCountries_DateSovereignityAcquired": 1297,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "17 December 1962"
+  },
+  "CH": {
+    "country": "Switzerland",
+    "OldestCountries_DateSovereignityAcquired": 1291,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "12 November 1848"
+  },
+  "AD": {
+    "country": "Andorra",
+    "OldestCountries_DateSovereignityAcquired": 1278,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "28 April 1993"
+  },
+  "MN": {
+    "country": "Mongolia",
+    "OldestCountries_DateSovereignityAcquired": 1206,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "12 February 1992"
+  },
+  "GQ": {
+    "country": "Equatorial Guinea",
+    "OldestCountries_DateSovereignityAcquired": "12 October 1968",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "MU": {
+    "country": "Mauritius",
+    "OldestCountries_DateSovereignityAcquired": "12 March 1968",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "PH": {
+    "country": "Philippines",
+    "OldestCountries_DateSovereignityAcquired": "12 June 1896",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "2 February 1987"
+  },
+  "KI": {
+    "country": "Kiribati",
+    "OldestCountries_DateSovereignityAcquired": "12 July 1979",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "ST": {
+    "country": "Sao Tome and Principe",
+    "OldestCountries_DateSovereignityAcquired": "12 July 1975",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "KE": {
+    "country": "Kenya",
+    "OldestCountries_DateSovereignityAcquired": "12 December 1963",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "AL": {
+    "country": "Albania",
+    "OldestCountries_DateSovereignityAcquired": 1190,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "29 April 1991"
+  },
+  "AO": {
+    "country": "Angola",
+    "OldestCountries_DateSovereignityAcquired": "11 November 1975",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": 1975
+  },
+  "ZW": {
+    "country": "Zimbabwe",
+    "OldestCountries_DateSovereignityAcquired": "11 November 1965",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "22 December 1987"
+  },
+  "JP": {
+    "country": "Japan",
+    "OldestCountries_DateSovereignityAcquired": "11 February 660 BC",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "22 December 1885"
+  },
+  "CA": {
+    "country": "Canada",
+    "OldestCountries_DateSovereignityAcquired": "11 December 1931",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 July 1867"
+  },
+  "TD": {
+    "country": "Chad",
+    "OldestCountries_DateSovereignityAcquired": "11 August 1960",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "10 October 2022"
+  },
+  "GE": {
+    "country": "Georgia",
+    "OldestCountries_DateSovereignityAcquired": 1008,
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "9 April 1991"
+  },
+  "FJ": {
+    "country": "Fiji",
+    "OldestCountries_DateSovereignityAcquired": "10 October 1970",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "CU": {
+    "country": "Cuba",
+    "OldestCountries_DateSovereignityAcquired": "10 October 1898",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 January 1959"
+  },
+  "EC": {
+    "country": "Ecuador",
+    "OldestCountries_DateSovereignityAcquired": "10 August 1809",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "28 September 2008"
+  },
+  "PW": {
+    "country": "Palau",
+    "OldestCountries_DateSovereignityAcquired": "1 October 1994",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 January 1918"
+  },
+  "TV": {
+    "country": "Tuvalu",
+    "OldestCountries_DateSovereignityAcquired": "1 October 1978",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 October 1975"
+  },
+  "NG": {
+    "country": "Nigeria",
+    "OldestCountries_DateSovereignityAcquired": "1 October 1960",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "AG": {
+    "country": "Antigua and Barbuda",
+    "OldestCountries_DateSovereignityAcquired": "1 November 1981",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "YE": {
+    "country": "Yemen",
+    "OldestCountries_DateSovereignityAcquired": "1 November 1918",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "22 May 1990"
+  },
+  "UG": {
+    "country": "Uganda",
+    "OldestCountries_DateSovereignityAcquired": "1 March 1962",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "WS": {
+    "country": "Samoa",
+    "OldestCountries_DateSovereignityAcquired": "1 June 1962",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "RW": {
+    "country": "Rwanda",
+    "OldestCountries_DateSovereignityAcquired": "1 July 1962",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "BI": {
+    "country": "Burundi",
+    "OldestCountries_DateSovereignityAcquired": "1 July 1962",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "28 November 1966"
+  },
+  "SO": {
+    "country": "Somalia",
+    "OldestCountries_DateSovereignityAcquired": "1 July 1960",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "20 August 2012"
+  },
+  "BN": {
+    "country": "Brunei",
+    "OldestCountries_DateSovereignityAcquired": "1 January 1984",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "12 December 1962"
+  },
+  "BZ": {
+    "country": "Belize",
+    "OldestCountries_DateSovereignityAcquired": "1 January 1964",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "CM": {
+    "country": "Cameroon",
+    "OldestCountries_DateSovereignityAcquired": "1 January 1960",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "20 May 1972"
+  },
+  "SD": {
+    "country": "Sudan",
+    "OldestCountries_DateSovereignityAcquired": "1 January 1956",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "15 April 2010"
+  },
+  "AU": {
+    "country": "Australia",
+    "OldestCountries_DateSovereignityAcquired": "1 January 1901",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 January 1901"
+  },
+  "HT": {
+    "country": "Haiti",
+    "OldestCountries_DateSovereignityAcquired": "1 January 1804",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "March 1987"
+  },
+  "PG": {
+    "country": "Papua New Guinea",
+    "OldestCountries_DateSovereignityAcquired": "1 December 1973",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": null
+  },
+  "IS": {
+    "country": "Iceland",
+    "OldestCountries_DateSovereignityAcquired": "1 December 1918",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 July 1845"
+  },
+  "BJ": {
+    "country": "Benin",
+    "OldestCountries_DateSovereignityAcquired": "1 August 1960",
+    "OldestCountries_DateCurrentFormOfGovernmentEstablished": "1 March 1960"
+  }
+}

@@ -1,0 +1,917 @@
+{
+  "CN": {
+    "country": "China",
+    "BeerConsumptionTotal_2022": 34028000,
+    "BeerConsumptionRate_2022": 23.86
+  },
+  "US": {
+    "country": "United States",
+    "BeerConsumptionTotal_2022": 23761000,
+    "BeerConsumptionRate_2022": 70.24
+  },
+  "BR": {
+    "country": "Brazil",
+    "BeerConsumptionTotal_2022": 13944000,
+    "BeerConsumptionRate_2022": 64.76
+  },
+  "MX": {
+    "country": "Mexico",
+    "BeerConsumptionTotal_2022": 10072000,
+    "BeerConsumptionRate_2022": 78.99
+  },
+  "RU": {
+    "country": "Russia",
+    "BeerConsumptionTotal_2022": 8348000,
+    "BeerConsumptionRate_2022": 57.69
+  },
+  "DE": {
+    "country": "Germany",
+    "BeerConsumptionTotal_2022": 7938000,
+    "BeerConsumptionRate_2022": 95.22
+  },
+  "ES": {
+    "country": "Spain",
+    "BeerConsumptionTotal_2022": 4184000,
+    "BeerConsumptionRate_2022": 87.97
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "BeerConsumptionTotal_2022": 4132000,
+    "BeerConsumptionRate_2022": 61.2
+  },
+  "VN": {
+    "country": "Vietnam",
+    "BeerConsumptionTotal_2022": 3811000,
+    "BeerConsumptionRate_2022": 38.81
+  },
+  "PL": {
+    "country": "Poland",
+    "BeerConsumptionTotal_2022": 3501000,
+    "BeerConsumptionRate_2022": 87.84
+  },
+  "ZA": {
+    "country": "South Africa",
+    "BeerConsumptionTotal_2022": 3313000,
+    "BeerConsumptionRate_2022": 55.31
+  },
+  "FR": {
+    "country": "France",
+    "BeerConsumptionTotal_2022": 2583000,
+    "BeerConsumptionRate_2022": 39.96
+  },
+  "CO": {
+    "country": "Colombia",
+    "BeerConsumptionTotal_2022": 2568000,
+    "BeerConsumptionRate_2022": 49.51
+  },
+  "IN": {
+    "country": "India",
+    "BeerConsumptionTotal_2022": 2520000,
+    "BeerConsumptionRate_2022": 1.78
+  },
+  "AU": {
+    "country": "Australia",
+    "BeerConsumptionTotal_2022": 2303000,
+    "BeerConsumptionRate_2022": 87.97
+  },
+  "CA": {
+    "country": "Canada",
+    "BeerConsumptionTotal_2022": 2191000,
+    "BeerConsumptionRate_2022": 56.97
+  },
+  "IT": {
+    "country": "Italy",
+    "BeerConsumptionTotal_2022": 2161000,
+    "BeerConsumptionRate_2022": 36.6
+  },
+  "TH": {
+    "country": "Thailand",
+    "BeerConsumptionTotal_2022": 2136000,
+    "BeerConsumptionRate_2022": 29.79
+  },
+  "AR": {
+    "country": "Argentina",
+    "BeerConsumptionTotal_2022": 1919000,
+    "BeerConsumptionRate_2022": 42.16
+  },
+  "NG": {
+    "country": "Nigeria",
+    "BeerConsumptionTotal_2022": 1814000,
+    "BeerConsumptionRate_2022": 8.3
+  },
+  "KR": {
+    "country": "South Korea",
+    "BeerConsumptionTotal_2022": 1696000,
+    "BeerConsumptionRate_2022": 32.73
+  },
+  "PH": {
+    "country": "Philippines",
+    "BeerConsumptionTotal_2022": 1628000,
+    "BeerConsumptionRate_2022": 14.08
+  },
+  "RO": {
+    "country": "Romania",
+    "BeerConsumptionTotal_2022": 1600000,
+    "BeerConsumptionRate_2022": 81.4
+  },
+  "JP": {
+    "country": "Japan",
+    "BeerConsumptionTotal_2022": 1539000,
+    "BeerConsumptionRate_2022": 12.42
+  },
+  "PE": {
+    "country": "Peru",
+    "BeerConsumptionTotal_2022": 1522000,
+    "BeerConsumptionRate_2022": 44.69
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "BeerConsumptionTotal_2022": 1499000,
+    "BeerConsumptionRate_2022": 12.15
+  },
+  "CZ": {
+    "country": "Czechia",
+    "BeerConsumptionTotal_2022": 1467000,
+    "BeerConsumptionRate_2022": 139.82
+  },
+  "CL": {
+    "country": "Chile",
+    "BeerConsumptionTotal_2022": 1354000,
+    "BeerConsumptionRate_2022": 69.08
+  },
+  "KH": {
+    "country": "Cambodia",
+    "BeerConsumptionTotal_2022": 1309000,
+    "BeerConsumptionRate_2022": 78.09
+  },
+  "UA": {
+    "country": "Ukraine",
+    "BeerConsumptionTotal_2022": 1239000,
+    "BeerConsumptionRate_2022": 31.2
+  },
+  "AO": {
+    "country": "Angola",
+    "BeerConsumptionTotal_2022": 1188000,
+    "BeerConsumptionRate_2022": 33.39
+  },
+  "BE": {
+    "country": "Belgium",
+    "BeerConsumptionTotal_2022": 983000,
+    "BeerConsumptionRate_2022": 84.34
+  },
+  "AT": {
+    "country": "Austria",
+    "BeerConsumptionTotal_2022": 947000,
+    "BeerConsumptionRate_2022": 105.95
+  },
+  "TR": {
+    "country": "Turkey",
+    "BeerConsumptionTotal_2022": 889000,
+    "BeerConsumptionRate_2022": 10.41
+  },
+  "NL": {
+    "country": "Netherlands",
+    "BeerConsumptionTotal_2022": 841000,
+    "BeerConsumptionRate_2022": 47.88
+  },
+  "TW": {
+    "country": "Taiwan",
+    "BeerConsumptionTotal_2022": 757000,
+    "BeerConsumptionRate_2022": 31.7
+  },
+  "EC": {
+    "country": "Ecuador",
+    "BeerConsumptionTotal_2022": 708000,
+    "BeerConsumptionRate_2022": 39.36
+  },
+  "HU": {
+    "country": "Hungary",
+    "BeerConsumptionTotal_2022": 688000,
+    "BeerConsumptionRate_2022": 68.98
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "BeerConsumptionTotal_2022": 680000,
+    "BeerConsumptionRate_2022": 35.06
+  },
+  "DO": {
+    "country": "Dominican Republic",
+    "BeerConsumptionTotal_2022": 646000,
+    "BeerConsumptionRate_2022": 57.54
+  },
+  "PT": {
+    "country": "Portugal",
+    "BeerConsumptionTotal_2022": 631000,
+    "BeerConsumptionRate_2022": 61.41
+  },
+  "TZ": {
+    "country": "Tanzania",
+    "BeerConsumptionTotal_2022": 523000,
+    "BeerConsumptionRate_2022": 7.99
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "BeerConsumptionTotal_2022": 522000,
+    "BeerConsumptionRate_2022": 76.9
+  },
+  "SE": {
+    "country": "Sweden",
+    "BeerConsumptionTotal_2022": 521000,
+    "BeerConsumptionRate_2022": 49.36
+  },
+  "CD": {
+    "country": "DR Congo",
+    "BeerConsumptionTotal_2022": 500000,
+    "BeerConsumptionRate_2022": 5.05
+  },
+  "PY": {
+    "country": "Paraguay",
+    "BeerConsumptionTotal_2022": 478000,
+    "BeerConsumptionRate_2022": 70.5
+  },
+  "BY": {
+    "country": "Belarus",
+    "BeerConsumptionTotal_2022": 473000,
+    "BeerConsumptionRate_2022": 49.6
+  },
+  "VE": {
+    "country": "Venezuela",
+    "BeerConsumptionTotal_2022": 472000,
+    "BeerConsumptionRate_2022": 16.66
+  },
+  "CH": {
+    "country": "Switzerland",
+    "BeerConsumptionTotal_2022": 467000,
+    "BeerConsumptionRate_2022": 53.38
+  },
+  "RS": {
+    "country": "Serbia",
+    "BeerConsumptionTotal_2022": 465000,
+    "BeerConsumptionRate_2022": 64.37
+  },
+  "KE": {
+    "country": "Kenya",
+    "BeerConsumptionTotal_2022": 415000,
+    "BeerConsumptionRate_2022": 7.69
+  },
+  "SK": {
+    "country": "Slovakia",
+    "BeerConsumptionTotal_2022": 414000,
+    "BeerConsumptionRate_2022": 73.41
+  },
+  "IE": {
+    "country": "Ireland",
+    "BeerConsumptionTotal_2022": 402000,
+    "BeerConsumptionRate_2022": 80.04
+  },
+  "DK": {
+    "country": "Denmark",
+    "BeerConsumptionTotal_2022": 399000,
+    "BeerConsumptionRate_2022": 67.82
+  },
+  "UZ": {
+    "country": "Uzbekistan",
+    "BeerConsumptionTotal_2022": 396000,
+    "BeerConsumptionRate_2022": 11.43
+  },
+  "BW": {
+    "country": "Botswana",
+    "BeerConsumptionTotal_2022": 396000,
+    "BeerConsumptionRate_2022": 150.43
+  },
+  "MZ": {
+    "country": "Mozambique",
+    "BeerConsumptionTotal_2022": 393000,
+    "BeerConsumptionRate_2022": 11.93
+  },
+  "BO": {
+    "country": "Bolivia",
+    "BeerConsumptionTotal_2022": 387000,
+    "BeerConsumptionRate_2022": 31.65
+  },
+  "FI": {
+    "country": "Finland",
+    "BeerConsumptionTotal_2022": 379000,
+    "BeerConsumptionRate_2022": 68.39
+  },
+  "GR": {
+    "country": "Greece",
+    "BeerConsumptionTotal_2022": 354000,
+    "BeerConsumptionRate_2022": 34.08
+  },
+  "NO": {
+    "country": "Norway",
+    "BeerConsumptionTotal_2022": 352000,
+    "BeerConsumptionRate_2022": 64.83
+  },
+  "UG": {
+    "country": "Uganda",
+    "BeerConsumptionTotal_2022": 345000,
+    "BeerConsumptionRate_2022": 7.3
+  },
+  "GT": {
+    "country": "Guatemala",
+    "BeerConsumptionTotal_2022": 343000,
+    "BeerConsumptionRate_2022": 19.24
+  },
+  "PA": {
+    "country": "Panama",
+    "BeerConsumptionTotal_2022": 343000,
+    "BeerConsumptionRate_2022": 77.73
+  },
+  "HR": {
+    "country": "Croatia",
+    "BeerConsumptionTotal_2022": 339000,
+    "BeerConsumptionRate_2022": 84.16
+  },
+  "CI": {
+    "country": "Ivory Coast",
+    "BeerConsumptionTotal_2022": 334000,
+    "BeerConsumptionRate_2022": 11.86
+  },
+  "CG": {
+    "country": "Republic of the Congo",
+    "BeerConsumptionTotal_2022": 334000,
+    "BeerConsumptionRate_2022": 55.94
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "BeerConsumptionTotal_2022": 329000,
+    "BeerConsumptionRate_2022": 63.54
+  },
+  "ID": {
+    "country": "Indonesia",
+    "BeerConsumptionTotal_2022": 323000,
+    "BeerConsumptionRate_2022": 1.17
+  },
+  "GH": {
+    "country": "Ghana",
+    "BeerConsumptionTotal_2022": 318000,
+    "BeerConsumptionRate_2022": 9.51
+  },
+  "HN": {
+    "country": "Honduras",
+    "BeerConsumptionTotal_2022": 295000,
+    "BeerConsumptionRate_2022": 28.31
+  },
+  "LT": {
+    "country": "Lithuania",
+    "BeerConsumptionTotal_2022": 294000,
+    "BeerConsumptionRate_2022": 107.1
+  },
+  "ZM": {
+    "country": "Zambia",
+    "BeerConsumptionTotal_2022": 271000,
+    "BeerConsumptionRate_2022": 13.55
+  },
+  "BF": {
+    "country": "Burkina Faso",
+    "BeerConsumptionTotal_2022": 244000,
+    "BeerConsumptionRate_2022": 10.75
+  },
+  "IL": {
+    "country": "Israel",
+    "BeerConsumptionTotal_2022": 244000,
+    "BeerConsumptionRate_2022": 27.01
+  },
+  "BI": {
+    "country": "Burundi",
+    "BeerConsumptionTotal_2022": 234000,
+    "BeerConsumptionRate_2022": 18.16
+  },
+  "BA": {
+    "country": "Bosnia and Herzegovina",
+    "BeerConsumptionTotal_2022": 232000,
+    "BeerConsumptionRate_2022": 71.89
+  },
+  "RW": {
+    "country": "Rwanda",
+    "BeerConsumptionTotal_2022": 227000,
+    "BeerConsumptionRate_2022": 16.47
+  },
+  "ZW": {
+    "country": "Zimbabwe",
+    "BeerConsumptionTotal_2022": 222000,
+    "BeerConsumptionRate_2022": 13.61
+  },
+  "TN": {
+    "country": "Tunisia",
+    "BeerConsumptionTotal_2022": 202000,
+    "BeerConsumptionRate_2022": 16.32
+  },
+  "NP": {
+    "country": "Nepal",
+    "BeerConsumptionTotal_2022": 189000,
+    "BeerConsumptionRate_2022": 6.17
+  },
+  "GA": {
+    "country": "Gabon",
+    "BeerConsumptionTotal_2022": 187000,
+    "BeerConsumptionRate_2022": 78.29
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "BeerConsumptionTotal_2022": 177000,
+    "BeerConsumptionRate_2022": 34.14
+  },
+  "SI": {
+    "country": "Slovenia",
+    "BeerConsumptionTotal_2022": 176000,
+    "BeerConsumptionRate_2022": 83.21
+  },
+  "DZ": {
+    "country": "Algeria",
+    "BeerConsumptionTotal_2022": 174000,
+    "BeerConsumptionRate_2022": 3.87
+  },
+  "MY": {
+    "country": "Malaysia",
+    "BeerConsumptionTotal_2022": 167000,
+    "BeerConsumptionRate_2022": 4.91
+  },
+  "HK": {
+    "country": "Hong Kong",
+    "BeerConsumptionTotal_2022": 153000,
+    "BeerConsumptionRate_2022": 20.48
+  },
+  "UY": {
+    "country": "Uruguay",
+    "BeerConsumptionTotal_2022": 150000,
+    "BeerConsumptionRate_2022": 43.82
+  },
+  "MM": {
+    "country": "Myanmar",
+    "BeerConsumptionTotal_2022": 145000,
+    "BeerConsumptionRate_2022": 2.68
+  },
+  "MG": {
+    "country": "Madagascar",
+    "BeerConsumptionTotal_2022": 145000,
+    "BeerConsumptionRate_2022": 4.91
+  },
+  "CU": {
+    "country": "Cuba",
+    "BeerConsumptionTotal_2022": 144000,
+    "BeerConsumptionRate_2022": 12.87
+  },
+  "LV": {
+    "country": "Latvia",
+    "BeerConsumptionTotal_2022": 143000,
+    "BeerConsumptionRate_2022": 77.37
+  },
+  "SV": {
+    "country": "El Salvador",
+    "BeerConsumptionTotal_2022": 141000,
+    "BeerConsumptionRate_2022": 22.33
+  },
+  "BJ": {
+    "country": "Benin",
+    "BeerConsumptionTotal_2022": 139000,
+    "BeerConsumptionRate_2022": 10.4
+  },
+  "MN": {
+    "country": "Mongolia",
+    "BeerConsumptionTotal_2022": 131000,
+    "BeerConsumptionRate_2022": 38.46
+  },
+  "LK": {
+    "country": "Sri Lanka",
+    "BeerConsumptionTotal_2022": 117000,
+    "BeerConsumptionRate_2022": 5.36
+  },
+  "GE": {
+    "country": "Georgia",
+    "BeerConsumptionTotal_2022": 115000,
+    "BeerConsumptionRate_2022": 30.77
+  },
+  "MW": {
+    "country": "Malawi",
+    "BeerConsumptionTotal_2022": 107000,
+    "BeerConsumptionRate_2022": 5.26
+  },
+  "AL": {
+    "country": "Albania",
+    "BeerConsumptionTotal_2022": 105000,
+    "BeerConsumptionRate_2022": 36.84
+  },
+  "MD": {
+    "country": "Moldova",
+    "BeerConsumptionTotal_2022": 104000,
+    "BeerConsumptionRate_2022": 37.63
+  },
+  "MA": {
+    "country": "Morocco",
+    "BeerConsumptionTotal_2022": 101000,
+    "BeerConsumptionRate_2022": 2.71
+  },
+  "EE": {
+    "country": "Estonia",
+    "BeerConsumptionTotal_2022": 92000,
+    "BeerConsumptionRate_2022": 69.3
+  },
+  "IR": {
+    "country": "Iran",
+    "BeerConsumptionTotal_2022": 90000,
+    "BeerConsumptionRate_2022": 1.02
+  },
+  "TG": {
+    "country": "Togo",
+    "BeerConsumptionTotal_2022": 90000,
+    "BeerConsumptionRate_2022": 10.16
+  },
+  "NI": {
+    "country": "Nicaragua",
+    "BeerConsumptionTotal_2022": 90000,
+    "BeerConsumptionRate_2022": 12.94
+  },
+  "NA": {
+    "country": "Namibia",
+    "BeerConsumptionTotal_2022": 89000,
+    "BeerConsumptionRate_2022": 34.7
+  },
+  "EG": {
+    "country": "Egypt",
+    "BeerConsumptionTotal_2022": 88000,
+    "BeerConsumptionRate_2022": 0.79
+  },
+  "TD": {
+    "country": "Chad",
+    "BeerConsumptionTotal_2022": 85000,
+    "BeerConsumptionRate_2022": 4.78
+  },
+  "IQ": {
+    "country": "Iraq",
+    "BeerConsumptionTotal_2022": 79000,
+    "BeerConsumptionRate_2022": 2.08
+  },
+  "LS": {
+    "country": "Lesotho",
+    "BeerConsumptionTotal_2022": 70000,
+    "BeerConsumptionRate_2022": 30.32
+  },
+  "PG": {
+    "country": "Papua New Guinea",
+    "BeerConsumptionTotal_2022": 69000,
+    "BeerConsumptionRate_2022": 6.84
+  },
+  "LA": {
+    "country": "Laos",
+    "BeerConsumptionTotal_2022": 55000,
+    "BeerConsumptionRate_2022": 7.36
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "BeerConsumptionTotal_2022": 53000,
+    "BeerConsumptionRate_2022": 5.64
+  },
+  "TT": {
+    "country": "Trinidad and Tobago",
+    "BeerConsumptionTotal_2022": 53000,
+    "BeerConsumptionRate_2022": 34.34
+  },
+  "AZ": {
+    "country": "Azerbaijan",
+    "BeerConsumptionTotal_2022": 51000,
+    "BeerConsumptionRate_2022": 4.94
+  },
+  "MK": {
+    "country": "North Macedonia",
+    "BeerConsumptionTotal_2022": 51000,
+    "BeerConsumptionRate_2022": 24.52
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "BeerConsumptionTotal_2022": 50000,
+    "BeerConsumptionRate_2022": 76.47
+  },
+  "ME": {
+    "country": "Montenegro",
+    "BeerConsumptionTotal_2022": 45000,
+    "BeerConsumptionRate_2022": 72.11
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "BeerConsumptionTotal_2022": 44000,
+    "BeerConsumptionRate_2022": 6.56
+  },
+  "LB": {
+    "country": "Lebanon",
+    "BeerConsumptionTotal_2022": 39000,
+    "BeerConsumptionRate_2022": 7.08
+  },
+  "CY": {
+    "country": "Cyprus",
+    "BeerConsumptionTotal_2022": 39000,
+    "BeerConsumptionRate_2022": 30.97
+  },
+  "TJ": {
+    "country": "Tajikistan",
+    "BeerConsumptionTotal_2022": 38000,
+    "BeerConsumptionRate_2022": 3.78
+  },
+  "GY": {
+    "country": "Guyana",
+    "BeerConsumptionTotal_2022": 37000,
+    "BeerConsumptionRate_2022": 45.14
+  },
+  "MU": {
+    "country": "Mauritius",
+    "BeerConsumptionTotal_2022": 36000,
+    "BeerConsumptionRate_2022": 27.67
+  },
+  "SZ": {
+    "country": "Eswatini",
+    "BeerConsumptionTotal_2022": 36000,
+    "BeerConsumptionRate_2022": 29.93
+  },
+  "GN": {
+    "country": "Guinea",
+    "BeerConsumptionTotal_2022": 34000,
+    "BeerConsumptionRate_2022": 2.46
+  },
+  "CF": {
+    "country": "Central African Republic",
+    "BeerConsumptionTotal_2022": 33000,
+    "BeerConsumptionRate_2022": 5.93
+  },
+  "AM": {
+    "country": "Armenia",
+    "BeerConsumptionTotal_2022": 33000,
+    "BeerConsumptionRate_2022": 11.7
+  },
+  "SN": {
+    "country": "Senegal",
+    "BeerConsumptionTotal_2022": 32000,
+    "BeerConsumptionRate_2022": 1.84
+  },
+  "BH": {
+    "country": "Bahrain",
+    "BeerConsumptionTotal_2022": 27000,
+    "BeerConsumptionRate_2022": 18.39
+  },
+  "BT": {
+    "country": "Bhutan",
+    "BeerConsumptionTotal_2022": 26000,
+    "BeerConsumptionRate_2022": 32.61
+  },
+  "IS": {
+    "country": "Iceland",
+    "BeerConsumptionTotal_2022": 25000,
+    "BeerConsumptionRate_2022": 66.01
+  },
+  "ML": {
+    "country": "Mali",
+    "BeerConsumptionTotal_2022": 24000,
+    "BeerConsumptionRate_2022": 1.07
+  },
+  "HT": {
+    "country": "Haiti",
+    "BeerConsumptionTotal_2022": 24000,
+    "BeerConsumptionRate_2022": 2.07
+  },
+  "SR": {
+    "country": "Suriname",
+    "BeerConsumptionTotal_2022": 23000,
+    "BeerConsumptionRate_2022": 36.43
+  },
+  "MT": {
+    "country": "Malta",
+    "BeerConsumptionTotal_2022": 23000,
+    "BeerConsumptionRate_2022": 42.8
+  },
+  "BZ": {
+    "country": "Belize",
+    "BeerConsumptionTotal_2022": 23000,
+    "BeerConsumptionRate_2022": 56.34
+  },
+  "SS": {
+    "country": "South Sudan",
+    "BeerConsumptionTotal_2022": 20000,
+    "BeerConsumptionRate_2022": 1.85
+  },
+  "SL": {
+    "country": "Sierra Leone",
+    "BeerConsumptionTotal_2022": 19000,
+    "BeerConsumptionRate_2022": 2.17
+  },
+  "LR": {
+    "country": "Liberia",
+    "BeerConsumptionTotal_2022": 19000,
+    "BeerConsumptionRate_2022": 3.53
+  },
+  "JM": {
+    "country": "Jamaica",
+    "BeerConsumptionTotal_2022": 19000,
+    "BeerConsumptionRate_2022": 6.55
+  },
+  "GW": {
+    "country": "Guinea-Bissau",
+    "BeerConsumptionTotal_2022": 19000,
+    "BeerConsumptionRate_2022": 8.95
+  },
+  "OM": {
+    "country": "Oman",
+    "BeerConsumptionTotal_2022": 18000,
+    "BeerConsumptionRate_2022": 3.87
+  },
+  "QA": {
+    "country": "Qatar",
+    "BeerConsumptionTotal_2022": 17000,
+    "BeerConsumptionRate_2022": 6.3
+  },
+  "JO": {
+    "country": "Jordan",
+    "BeerConsumptionTotal_2022": 15000,
+    "BeerConsumptionRate_2022": 1.31
+  },
+  "FJ": {
+    "country": "Fiji",
+    "BeerConsumptionTotal_2022": 15000,
+    "BeerConsumptionRate_2022": 15.67
+  },
+  "PF": {
+    "country": "French Polynesia",
+    "BeerConsumptionTotal_2022": 14000,
+    "BeerConsumptionRate_2022": 46.13
+  },
+  "NC": {
+    "country": "New Caledonia",
+    "BeerConsumptionTotal_2022": 13000,
+    "BeerConsumptionRate_2022": 43.87
+  },
+  "MO": {
+    "country": "Macau",
+    "BeerConsumptionTotal_2022": 11000,
+    "BeerConsumptionRate_2022": 16.4
+  },
+  "CV": {
+    "country": "Cape Verde",
+    "BeerConsumptionTotal_2022": 10000,
+    "BeerConsumptionRate_2022": 17.2
+  },
+  "PK": {
+    "country": "Pakistan",
+    "BeerConsumptionTotal_2022": 8000,
+    "BeerConsumptionRate_2022": 0.03
+  },
+  "NE": {
+    "country": "Niger",
+    "BeerConsumptionTotal_2022": 8000,
+    "BeerConsumptionRate_2022": 0.29
+  },
+  "BB": {
+    "country": "Barbados",
+    "BeerConsumptionTotal_2022": 8000,
+    "BeerConsumptionRate_2022": 27.19
+  },
+  "LC": {
+    "country": "Saint Lucia",
+    "BeerConsumptionTotal_2022": 8000,
+    "BeerConsumptionRate_2022": 44.61
+  },
+  "SC": {
+    "country": "Seychelles",
+    "BeerConsumptionTotal_2022": 8000,
+    "BeerConsumptionRate_2022": 74.3
+  },
+  "TL": {
+    "country": "Timor-Leste",
+    "BeerConsumptionTotal_2022": 6000,
+    "BeerConsumptionRate_2022": 4.17
+  },
+  "SB": {
+    "country": "Solomon Islands",
+    "BeerConsumptionTotal_2022": 6000,
+    "BeerConsumptionRate_2022": 8.97
+  },
+  "SY": {
+    "country": "Syria",
+    "BeerConsumptionTotal_2022": 5000,
+    "BeerConsumptionRate_2022": 0.21
+  },
+  "WS": {
+    "country": "Samoa",
+    "BeerConsumptionTotal_2022": 4000,
+    "BeerConsumptionRate_2022": 17.87
+  },
+  "SD": {
+    "country": "Sudan",
+    "BeerConsumptionTotal_2022": 3000,
+    "BeerConsumptionRate_2022": 0.07
+  },
+  "MV": {
+    "country": "Maldives",
+    "BeerConsumptionTotal_2022": 3000,
+    "BeerConsumptionRate_2022": 6.37
+  },
+  "BS": {
+    "country": "Bahamas",
+    "BeerConsumptionTotal_2022": 3000,
+    "BeerConsumptionRate_2022": 8.42
+  },
+  "GD": {
+    "country": "Grenada",
+    "BeerConsumptionTotal_2022": 3000,
+    "BeerConsumptionRate_2022": 26.54
+  },
+  "VC": {
+    "country": "Saint Vincent and the Grenadines",
+    "BeerConsumptionTotal_2022": 3000,
+    "BeerConsumptionRate_2022": 30.17
+  },
+  "DM": {
+    "country": "Dominica",
+    "BeerConsumptionTotal_2022": 3000,
+    "BeerConsumptionRate_2022": 42.98
+  },
+  "CM": {
+    "country": "Cameroon",
+    "BeerConsumptionTotal_2022": 2000,
+    "BeerConsumptionRate_2022": 0.06
+  },
+  "TM": {
+    "country": "Turkmenistan",
+    "BeerConsumptionTotal_2022": 2000,
+    "BeerConsumptionRate_2022": 0.25
+  },
+  "ST": {
+    "country": "Sao Tome and Principe",
+    "BeerConsumptionTotal_2022": 2000,
+    "BeerConsumptionRate_2022": 9.39
+  },
+  "AG": {
+    "country": "Antigua and Barbuda",
+    "BeerConsumptionTotal_2022": 2000,
+    "BeerConsumptionRate_2022": 25.6
+  },
+  "BD": {
+    "country": "Bangladesh",
+    "BeerConsumptionTotal_2022": 1000,
+    "BeerConsumptionRate_2022": null
+  },
+  "DJ": {
+    "country": "Djibouti",
+    "BeerConsumptionTotal_2022": 1000,
+    "BeerConsumptionRate_2022": 1.29
+  },
+  "KM": {
+    "country": "Comoros",
+    "BeerConsumptionTotal_2022": 1000,
+    "BeerConsumptionRate_2022": 0.69
+  },
+  "KI": {
+    "country": "Kiribati",
+    "BeerConsumptionTotal_2022": 1000,
+    "BeerConsumptionRate_2022": 5.07
+  },
+  "FM": {
+    "country": "Micronesia",
+    "BeerConsumptionTotal_2022": 1000,
+    "BeerConsumptionRate_2022": 10.52
+  },
+  "KN": {
+    "country": "Saint Kitts and Nevis",
+    "BeerConsumptionTotal_2022": 1000,
+    "BeerConsumptionRate_2022": 20.59
+  },
+  "SO": {
+    "country": "Somalia",
+    "BeerConsumptionTotal_2022": null,
+    "BeerConsumptionRate_2022": 0.01
+  },
+  "LY": {
+    "country": "Libya",
+    "BeerConsumptionTotal_2022": null,
+    "BeerConsumptionRate_2022": 0.01
+  },
+  "KW": {
+    "country": "Kuwait",
+    "BeerConsumptionTotal_2022": null,
+    "BeerConsumptionRate_2022": 0.05
+  },
+  "GM": {
+    "country": "Gambia",
+    "BeerConsumptionTotal_2022": null,
+    "BeerConsumptionRate_2022": 0.16
+  },
+  "VU": {
+    "country": "Vanuatu",
+    "BeerConsumptionTotal_2022": null,
+    "BeerConsumptionRate_2022": 0.89
+  },
+  "MH": {
+    "country": "Marshall Islands",
+    "BeerConsumptionTotal_2022": null,
+    "BeerConsumptionRate_2022": 14.11
+  },
+  "NR": {
+    "country": "Nauru",
+    "BeerConsumptionTotal_2022": null,
+    "BeerConsumptionRate_2022": 0.79
+  },
+  "null": {
+    "country": "Total",
+    "BeerConsumptionTotal_2022": 180327000,
+    "BeerConsumptionRate_2022": null
+  }
+}

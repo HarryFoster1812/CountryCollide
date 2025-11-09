@@ -1,0 +1,5702 @@
+{
+  "GLOBAL": {
+    "country_name": "Global",
+    "songs": [
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "2167",
+        "artist": "446",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Ed Sheeran - Shape of You",
+        "title": "2687",
+        "artist": "237",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Harry Styles - As It Was",
+        "title": "1270",
+        "artist": "426",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lewis Capaldi - Someone You Loved",
+        "title": "2369",
+        "artist": "107",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "Post Malone - Sunflower - Spider-Man: Into the Spider-Verse",
+        "title": "2263",
+        "artist": "213",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Neighbourhood - Sweater Weather",
+        "title": "1986",
+        "artist": "",
+        "streams": "12",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Starboy",
+        "title": "1961",
+        "artist": "145",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Ed Sheeran - Perfect",
+        "title": "2942",
+        "artist": "102",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Billie Eilish - lovely",
+        "title": "2691",
+        "artist": "",
+        "streams": "19",
+        "link": null
+      },
+      {
+        "rank": "Imagine Dragons - Believer",
+        "title": "2945",
+        "artist": "",
+        "streams": "15",
+        "link": null
+      }
+    ]
+  },
+  "US": {
+    "country_name": "United States",
+    "songs": [
+      {
+        "rank": "J. Cole - No Role Modelz",
+        "title": "3514",
+        "artist": "6",
+        "streams": "7",
+        "link": null
+      },
+      {
+        "rank": "Post Malone - Sunflower - Spider-Man: Into the Spider-Verse",
+        "title": "2201",
+        "artist": "302",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Neighbourhood - Sweater Weather",
+        "title": "2095",
+        "artist": "4",
+        "streams": "7",
+        "link": null
+      },
+      {
+        "rank": "Juice WRLD - Lucid Dreams",
+        "title": "1848",
+        "artist": "178",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Tyler, The Creator - See You Again",
+        "title": "1610",
+        "artist": "64",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Zach Bryan - Something in the Orange",
+        "title": "1295",
+        "artist": "24",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "Kendrick Lamar - HUMBLE.",
+        "title": "1749",
+        "artist": "152",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Morgan Wallen - Last Night",
+        "title": "1009",
+        "artist": "244",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lil Uzi Vert - XO TOUR Llif3",
+        "title": "1866",
+        "artist": "212",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Travis Scott - goosebumps",
+        "title": "2179",
+        "artist": "4",
+        "streams": "8",
+        "link": null
+      }
+    ]
+  },
+  "GB": {
+    "country_name": "United Kingdom",
+    "songs": [
+      {
+        "rank": "The Killers - Mr. Brightside",
+        "title": "3975",
+        "artist": "4",
+        "streams": "8",
+        "link": null
+      },
+      {
+        "rank": "Lewis Capaldi - Someone You Loved",
+        "title": "2319",
+        "artist": "283",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Vance Joy - Riptide",
+        "title": "3543",
+        "artist": "",
+        "streams": "11",
+        "link": null
+      },
+      {
+        "rank": "Drake - One Dance",
+        "title": "2491",
+        "artist": "162",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1796",
+        "artist": "237",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Arctic Monkeys - Do I Wanna Know?",
+        "title": "3515",
+        "artist": "",
+        "streams": "18",
+        "link": null
+      },
+      {
+        "rank": "Oasis - Wonderwall - Remastered",
+        "title": "3263",
+        "artist": "5",
+        "streams": "8",
+        "link": null
+      },
+      {
+        "rank": "Hozier - Take Me To Church",
+        "title": "2630",
+        "artist": "133",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "The Kooks - Naive",
+        "title": "3189",
+        "artist": "",
+        "streams": "41",
+        "link": null
+      },
+      {
+        "rank": "Ed Sheeran - Shape of You",
+        "title": "1551",
+        "artist": "139",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "AR": {
+    "country_name": "Argentina",
+    "songs": [
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1103",
+        "artist": "212",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Luck Ra - Ya No Vuelvas (VersiÃ³n Cuarteto)",
+        "title": "1070",
+        "artist": "166",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Big One - Un Finde | CROSSOVER #2",
+        "title": "848",
+        "artist": "211",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Luck Ra - La Morocha",
+        "title": "855",
+        "artist": "188",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "TINI - MiÃ©nteme",
+        "title": "1298",
+        "artist": "114",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bizarrap - Quevedo: Bzrp Music Sessions, Vol. 52",
+        "title": "638",
+        "artist": "196",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "No Te Va Gustar - A las Nueve",
+        "title": "3238",
+        "artist": "",
+        "streams": "19",
+        "link": null
+      },
+      {
+        "rank": "Airbag - Por Mil Noches",
+        "title": "2136",
+        "artist": "",
+        "streams": "16",
+        "link": null
+      },
+      {
+        "rank": "Big One - En la Intimidad",
+        "title": "753",
+        "artist": "128",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Luck Ra - QUE ME FALTE TODO",
+        "title": "743",
+        "artist": "163",
+        "streams": "2",
+        "link": null
+      }
+    ]
+  },
+  "AU": {
+    "country_name": "Australia",
+    "songs": [
+      {
+        "rank": "The Killers - Mr. Brightside",
+        "title": "3836",
+        "artist": "1",
+        "streams": "10",
+        "link": null
+      },
+      {
+        "rank": "Vance Joy - Riptide",
+        "title": "4026",
+        "artist": "1",
+        "streams": "9",
+        "link": null
+      },
+      {
+        "rank": "Glass Animals - Heat Waves",
+        "title": "1749",
+        "artist": "614",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lewis Capaldi - Someone You Loved",
+        "title": "2382",
+        "artist": "159",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Fleetwood Mac - Dreams - 2004 Remaster",
+        "title": "2689",
+        "artist": "25",
+        "streams": "7",
+        "link": null
+      },
+      {
+        "rank": "Post Malone - Sunflower - Spider-Man: Into the Spider-Verse",
+        "title": "2235",
+        "artist": "211",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1953",
+        "artist": "240",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Kid LAROI - Stay",
+        "title": "1294",
+        "artist": "346",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "James Arthur - Say You Won't Let Go",
+        "title": "2790",
+        "artist": "103",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Zach Bryan - Something in the Orange",
+        "title": "1245",
+        "artist": "62",
+        "streams": "5",
+        "link": null
+      }
+    ]
+  },
+  "AT": {
+    "country_name": "Austria",
+    "songs": [
+      {
+        "rank": "Tom Odell - Another Love",
+        "title": "1733",
+        "artist": "177",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "Bonez MC - Ohne mein Team",
+        "title": "2981",
+        "artist": "",
+        "streams": "18",
+        "link": null
+      },
+      {
+        "rank": "Apache 207 - Roller",
+        "title": "1588",
+        "artist": "219",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Mariah Carey - All I Want for Christmas Is You",
+        "title": "540",
+        "artist": "317",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Neighbourhood - Sweater Weather",
+        "title": "1832",
+        "artist": "",
+        "streams": "12",
+        "link": null
+      },
+      {
+        "rank": "Wham! - Last Christmas",
+        "title": "569",
+        "artist": "298",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Vance Joy - Riptide",
+        "title": "1956",
+        "artist": "",
+        "streams": "11",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1397",
+        "artist": "219",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Glass Animals - Heat Waves",
+        "title": "1174",
+        "artist": "273",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bonez MC - 500 PS",
+        "title": "1739",
+        "artist": "151",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "BY": {
+    "country_name": "Belarus",
+    "songs": [
+      {
+        "rank": "Jimin - Who",
+        "title": "477",
+        "artist": "477",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "xxxmanera - Never Broke Again",
+        "title": "1222",
+        "artist": "281",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Skryptonite - Ð­ÑÐ¾ Ð»ÑÐ±Ð¾Ð²Ñ",
+        "title": "1058",
+        "artist": "53",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "Jimin - Be Mine",
+        "title": "477",
+        "artist": "379",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Poshlaya Molly - ÐÐ¾Ð½ÑÑÐ°ÐºÑ",
+        "title": "1357",
+        "artist": "51",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "Aarne - Ð¢ÐµÑÐ½Ð¾",
+        "title": "978",
+        "artist": "187",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "FRIENDLY THUG 52 NGG - Lost Angeles",
+        "title": "736",
+        "artist": "317",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "V - Winter Ahead",
+        "title": "344",
+        "artist": "343",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "V - Love Me Again",
+        "title": "515",
+        "artist": "291",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "FACE - ÐÐÐÐÐ ÐÐÐ¢",
+        "title": "1095",
+        "artist": "26",
+        "streams": "3",
+        "link": null
+      }
+    ]
+  },
+  "BE": {
+    "country_name": "Belgium",
+    "songs": [
+      {
+        "rank": "Tom Odell - Another Love",
+        "title": "1988",
+        "artist": "290",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "2043",
+        "artist": "285",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lewis Capaldi - Someone You Loved",
+        "title": "2486",
+        "artist": "278",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "Lady Gaga - Shallow",
+        "title": "2595",
+        "artist": "147",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Vance Joy - Riptide",
+        "title": "2883",
+        "artist": "",
+        "streams": "14",
+        "link": null
+      },
+      {
+        "rank": "Billie Eilish - lovely",
+        "title": "2694",
+        "artist": "",
+        "streams": "15",
+        "link": null
+      },
+      {
+        "rank": "Benson Boone - Beautiful Things",
+        "title": "659",
+        "artist": "333",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lost Frequencies - Where Are You Now",
+        "title": "1460",
+        "artist": "239",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "Tones And I - Dance Monkey",
+        "title": "1217",
+        "artist": "260",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Harry Styles - As It Was",
+        "title": "956",
+        "artist": "356",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "BO": {
+    "country_name": "Bolivia",
+    "songs": [
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1260",
+        "artist": "308",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "J Balvin - LA CANCIÃN",
+        "title": "2325",
+        "artist": "206",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Feid - LUNA",
+        "title": "708",
+        "artist": "461",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Plan B - Es un Secreto",
+        "title": "1496",
+        "artist": "153",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "Danny Ocean - Me RehÃºso",
+        "title": "3245",
+        "artist": "365",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Grupo Frontera - un x100to",
+        "title": "936",
+        "artist": "197",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - Feliz CumpleaÃ±os Ferxxo",
+        "title": "1149",
+        "artist": "204",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Big One - Un Finde | CROSSOVER #2",
+        "title": "935",
+        "artist": "257",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Grupo Frontera - OJITOS ROJOS",
+        "title": "840",
+        "artist": "190",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Taiu - Rara Vez",
+        "title": "1000",
+        "artist": "67",
+        "streams": "2",
+        "link": null
+      }
+    ]
+  },
+  "BR": {
+    "country_name": "Brazil",
+    "songs": [
+      {
+        "rank": "MarÃ­lia MendonÃ§a - LeÃ£o",
+        "title": "757",
+        "artist": "160",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Grupo Menos Ã Mais - Lapada Dela - Ao Vivo",
+        "title": "987",
+        "artist": "122",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "AgroPlay - Nosso Quadro",
+        "title": "589",
+        "artist": "209",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Simone Mendes - Erro Gostoso - Ao Vivo",
+        "title": "875",
+        "artist": "129",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Grupo Menos Ã Mais - CoraÃ§Ã£o Partido (CorazÃ³n PartÃ­o) - Ao Vivo",
+        "title": "433",
+        "artist": "324",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "ZÃ© Neto & Cristiano - Barulho Do Foguete - Ao Vivo",
+        "title": "647",
+        "artist": "196",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Israel & Rodolffo - Bombonzinho - Ao Vivo",
+        "title": "479",
+        "artist": "181",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Gustavo Mioto - Eu Gosto Assim - Ao Vivo",
+        "title": "553",
+        "artist": "167",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Henrique & Juliano - ArranhÃ£o - Ao Vivo",
+        "title": "768",
+        "artist": "149",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "MC PH - Let's Go 4",
+        "title": "476",
+        "artist": "182",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "BG": {
+    "country_name": "Bulgaria",
+    "songs": [
+      {
+        "rank": "Jimin - Who",
+        "title": "476",
+        "artist": "408",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Djordan - Ð'ÑÐ² ÑÑÐ¼ ÑÐº",
+        "title": "809",
+        "artist": "314",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Dessita - Mi Amor",
+        "title": "519",
+        "artist": "206",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Neighbourhood - Sweater Weather",
+        "title": "1766",
+        "artist": "1",
+        "streams": "10",
+        "link": null
+      },
+      {
+        "rank": "DJ Damyan - ÐÐºÐ°Ð´Ð°Ñ",
+        "title": "527",
+        "artist": "220",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Molec - 7 Dni",
+        "title": "1019",
+        "artist": "362",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1686",
+        "artist": "374",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Starboy",
+        "title": "1498",
+        "artist": "173",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Andrea - Losha",
+        "title": "590",
+        "artist": "120",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Tsvetelina Yaneva - Ð¤Ð¸Ð»Ð¼ Ð·Ð° Ð½Ð°Ñ",
+        "title": "1235",
+        "artist": "84",
+        "streams": "2",
+        "link": null
+      }
+    ]
+  },
+  "CA": {
+    "country_name": "Canada",
+    "songs": [
+      {
+        "rank": "Post Malone - Sunflower - Spider-Man: Into the Spider-Verse",
+        "title": "2244",
+        "artist": "237",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "2039",
+        "artist": "263",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lewis Capaldi - Someone You Loved",
+        "title": "2192",
+        "artist": "100",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Morgan Wallen - Last Night",
+        "title": "1011",
+        "artist": "310",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Glass Animals - Heat Waves",
+        "title": "1508",
+        "artist": "376",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Shaboozey - A Bar Song (Tipsy)",
+        "title": "575",
+        "artist": "332",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Benson Boone - Beautiful Things",
+        "title": "659",
+        "artist": "370",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Zach Bryan - Something in the Orange",
+        "title": "1281",
+        "artist": "20",
+        "streams": "8",
+        "link": null
+      },
+      {
+        "rank": "J. Cole - No Role Modelz",
+        "title": "2840",
+        "artist": "",
+        "streams": "20",
+        "link": null
+      },
+      {
+        "rank": "The Neighbourhood - Sweater Weather",
+        "title": "1864",
+        "artist": "",
+        "streams": "13",
+        "link": null
+      }
+    ]
+  },
+  "CL": {
+    "country_name": "Chile",
+    "songs": [
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1165",
+        "artist": "207",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Danny Ocean - Me RehÃºso",
+        "title": "2481",
+        "artist": "277",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "FloyyMenor - Gata Only",
+        "title": "640",
+        "artist": "189",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Me Porto Bonito",
+        "title": "738",
+        "artist": "216",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "J Balvin - LA CANCIÃN",
+        "title": "1758",
+        "artist": "119",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "Anuel AA - Amanece",
+        "title": "1617",
+        "artist": "130",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Yonaguni",
+        "title": "738",
+        "artist": "256",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - DÃKITI",
+        "title": "826",
+        "artist": "182",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Cris MJ - Una Noche en MedellÃ­n",
+        "title": "763",
+        "artist": "123",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bizarrap - Quevedo: Bzrp Music Sessions, Vol. 52",
+        "title": "615",
+        "artist": "173",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "CO": {
+    "country_name": "Colombia",
+    "songs": [
+      {
+        "rank": "Feid - LUNA",
+        "title": "708",
+        "artist": "413",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - Feliz CumpleaÃ±os Ferxxo",
+        "title": "1153",
+        "artist": "339",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "J Balvin - LA CANCIÃN",
+        "title": "2323",
+        "artist": "207",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Feid - Normal",
+        "title": "1158",
+        "artist": "263",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1218",
+        "artist": "221",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Ozuna - Hey Mor",
+        "title": "1051",
+        "artist": "321",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Blessd - Mirame",
+        "title": "569",
+        "artist": "268",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "KAROL G - AMARGURA",
+        "title": "988",
+        "artist": "388",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Feid - Ferxxo 100",
+        "title": "1166",
+        "artist": "191",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Ryan Castro - Monastery",
+        "title": "1277",
+        "artist": "190",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "CR": {
+    "country_name": "Costa Rica",
+    "songs": [
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1258",
+        "artist": "361",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "J Balvin - LA CANCIÃN",
+        "title": "2324",
+        "artist": "224",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Danny Ocean - Me RehÃºso",
+        "title": "3234",
+        "artist": "357",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Ojitos Lindos",
+        "title": "1277",
+        "artist": "253",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - LUNA",
+        "title": "708",
+        "artist": "391",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Me Porto Bonito",
+        "title": "1009",
+        "artist": "258",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - Feliz CumpleaÃ±os Ferxxo",
+        "title": "1072",
+        "artist": "242",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Jay Wheeler - La Curiosidad",
+        "title": "1824",
+        "artist": "184",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "CarÃ­n LeÃ³n - Primera Cita",
+        "title": "888",
+        "artist": "259",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Christian Nodal - De Los Besos Que Te Di",
+        "title": "2257",
+        "artist": "3",
+        "streams": "8",
+        "link": null
+      }
+    ]
+  },
+  "CY": {
+    "country_name": "Cyprus",
+    "songs": [
+      {
+        "rank": "Ed Sheeran - Shape of You",
+        "title": "95",
+        "artist": "95",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Luis Fonsi - Despacito - Remix",
+        "title": "73",
+        "artist": "73",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Drake - One Dance",
+        "title": "73",
+        "artist": "73",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "DJ Khaled - Wild Thoughts",
+        "title": "48",
+        "artist": "48",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Major Lazer - Cold Water",
+        "title": "33",
+        "artist": "33",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "David Guetta - 2U",
+        "title": "22",
+        "artist": "22",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Chainsmokers - Closer",
+        "title": "20",
+        "artist": "20",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Adele - Hello",
+        "title": "14",
+        "artist": "14",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Starboy",
+        "title": "10",
+        "artist": "10",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "DJ Snake - Let Me Love You",
+        "title": "6",
+        "artist": "6",
+        "streams": "2",
+        "link": null
+      }
+    ]
+  },
+  "CZ": {
+    "country_name": "Czech Republic",
+    "songs": [
+      {
+        "rank": "Calin - SafÃ­r",
+        "title": "1008",
+        "artist": "431",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Viktor Sheen - AÅ¾ na mÄsÃ­c",
+        "title": "2362",
+        "artist": "406",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Calin - Hannah Montana",
+        "title": "1332",
+        "artist": "460",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Viktor Sheen - StÃ­ny",
+        "title": "1448",
+        "artist": "411",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "STEIN27 - Habibi",
+        "title": "1085",
+        "artist": "448",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Å KWOR - SÃ­la Starejch VÃ­n",
+        "title": "2530",
+        "artist": "58",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "Tom Odell - Another Love",
+        "title": "1764",
+        "artist": "156",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Calin - Praha/VÃ­deÅ",
+        "title": "1479",
+        "artist": "410",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Viktor Sheen - RozdÄlenÃ½ svÄty",
+        "title": "1824",
+        "artist": "154",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Wohnout - Svaz ÄeskÃ½ch bohÃ©mÅ¯",
+        "title": "2669",
+        "artist": "11",
+        "streams": "6",
+        "link": null
+      }
+    ]
+  },
+  "DK": {
+    "country_name": "Denmark",
+    "songs": [
+      {
+        "rank": "Tobias Rahim - STOR MAND",
+        "title": "1485",
+        "artist": "437",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1735",
+        "artist": "257",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lewis Capaldi - Someone You Loved",
+        "title": "2273",
+        "artist": "6",
+        "streams": "9",
+        "link": null
+      },
+      {
+        "rank": "Suspekt - Gonzo",
+        "title": "2134",
+        "artist": "129",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "KESI - BlÃ¥ Himmel",
+        "title": "1767",
+        "artist": "129",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Artigeardit - Er Her (Artigeardit, KESI)",
+        "title": "1479",
+        "artist": "93",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Wham! - Last Christmas",
+        "title": "647",
+        "artist": "323",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Mariah Carey - All I Want for Christmas Is You",
+        "title": "593",
+        "artist": "306",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Minds Of 99 - Under Din Sne",
+        "title": "1440",
+        "artist": "147",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Benny Jamz - Ibiza",
+        "title": "1202",
+        "artist": "188",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "DO": {
+    "country_name": "Dominican Republic",
+    "songs": [
+      {
+        "rank": "J Balvin - LA CANCIÃN",
+        "title": "2325",
+        "artist": "199",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Me Porto Bonito",
+        "title": "1009",
+        "artist": "383",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Moscow Mule",
+        "title": "1239",
+        "artist": "206",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Ojitos Lindos",
+        "title": "1268",
+        "artist": "185",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Efecto",
+        "title": "990",
+        "artist": "248",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - TitÃ­ Me PreguntÃ³",
+        "title": "838",
+        "artist": "200",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - DÃKITI",
+        "title": "1251",
+        "artist": "240",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jay Wheeler - La Curiosidad",
+        "title": "1687",
+        "artist": "151",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - PERRO NEGRO",
+        "title": "755",
+        "artist": "236",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1010",
+        "artist": "161",
+        "streams": "3",
+        "link": null
+      }
+    ]
+  },
+  "EC": {
+    "country_name": "Ecuador",
+    "songs": [
+      {
+        "rank": "J Balvin - LA CANCIÃN",
+        "title": "2325",
+        "artist": "199",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Feid - Feliz CumpleaÃ±os Ferxxo",
+        "title": "1152",
+        "artist": "309",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1231",
+        "artist": "338",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Danny Ocean - Me RehÃºso",
+        "title": "3254",
+        "artist": "381",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - LUNA",
+        "title": "708",
+        "artist": "402",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Plan B - Es un Secreto",
+        "title": "1659",
+        "artist": "344",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Me Porto Bonito",
+        "title": "971",
+        "artist": "261",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Efecto",
+        "title": "1026",
+        "artist": "237",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Mora - LA INOCENTE",
+        "title": "1276",
+        "artist": "55",
+        "streams": "8",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Ojitos Lindos",
+        "title": "1205",
+        "artist": "234",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "EG": {
+    "country_name": "Egypt",
+    "songs": [
+      {
+        "rank": "Wegz - Ø§ÙØ¨Ø®Øª",
+        "title": "1351",
+        "artist": "556",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Cairokee - Basrah w Atooh",
+        "title": "1142",
+        "artist": "62",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Tamer Ashour - ÙÙØ¬ÙÙÙ ÙÙØ¬ÙØ¹",
+        "title": "665",
+        "artist": "337",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Mond - Yazmeely",
+        "title": "829",
+        "artist": "282",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Ramy Sabry - ÙÙÙÙ Ø®ÙØ±",
+        "title": "1029",
+        "artist": "171",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Mahmoud El Leithy - Ø³ÙØ¨Ù ÙÙ Ø§ÙÙÙ Ø®ÙØ¹ - ÙÙ ÙÙÙÙ Ø­ÙØµ ÙØ­ÙØ§ÙØ©",
+        "title": "757",
+        "artist": "234",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Muslim - ÙÙØ³ÙÙÙ - Mesh Nadman",
+        "title": "1410",
+        "artist": "66",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "Shehab - Ø¹Ø§ÙØ¹ÙÙÙ",
+        "title": "619",
+        "artist": "315",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Mohammed Saeed - Alo Aleky",
+        "title": "1027",
+        "artist": "315",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Tamer Ashour - Khaleny Fe Hodnak",
+        "title": "1368",
+        "artist": "9",
+        "streams": "5",
+        "link": null
+      }
+    ]
+  },
+  "SV": {
+    "country_name": "El Salvador",
+    "songs": [
+      {
+        "rank": "J Balvin - LA CANCIÃN",
+        "title": "2324",
+        "artist": "277",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Plan B - Es un Secreto",
+        "title": "1668",
+        "artist": "390",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Me Porto Bonito",
+        "title": "1019",
+        "artist": "299",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Ojitos Lindos",
+        "title": "1280",
+        "artist": "260",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Efecto",
+        "title": "1254",
+        "artist": "283",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Danny Ocean - Me RehÃºso",
+        "title": "3224",
+        "artist": "467",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - Feliz CumpleaÃ±os Ferxxo",
+        "title": "1127",
+        "artist": "274",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Feid - LUNA",
+        "title": "708",
+        "artist": "394",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Moscow Mule",
+        "title": "1282",
+        "artist": "249",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1156",
+        "artist": "252",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "EE": {
+    "country_name": "Estonia",
+    "songs": [
+      {
+        "rank": "5MIINUST - AluspÃ¼kse",
+        "title": "2169",
+        "artist": "255",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1797",
+        "artist": "350",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Neighbourhood - Sweater Weather",
+        "title": "1854",
+        "artist": "1",
+        "streams": "9",
+        "link": null
+      },
+      {
+        "rank": "KÃ¼berÃ¼nnak & Karmo - LÃ¤mmi",
+        "title": "1424",
+        "artist": "21",
+        "streams": "8",
+        "link": null
+      },
+      {
+        "rank": "nublu - fÃ¼r Oksana",
+        "title": "1379",
+        "artist": "162",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "nublu - push it",
+        "title": "526",
+        "artist": "245",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "nublu - Paraadna",
+        "title": "1545",
+        "artist": "78",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "5MIINUST - kÃµrvetab",
+        "title": "867",
+        "artist": "132",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Glass Animals - Heat Waves",
+        "title": "1064",
+        "artist": "380",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "5MIINUST - PaaristÃµuked",
+        "title": "1416",
+        "artist": "143",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "FI": {
+    "country_name": "Finland",
+    "songs": [
+      {
+        "rank": "Mirella - Timanttei",
+        "title": "674",
+        "artist": "270",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "KÃ¤Ã¤rijÃ¤ - Cha Cha Cha",
+        "title": "884",
+        "artist": "221",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Behm - Hei rakas",
+        "title": "1980",
+        "artist": "239",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "JVG - Ikuinen vappu",
+        "title": "1686",
+        "artist": "202",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "KUUMAA - Tulipalo",
+        "title": "1094",
+        "artist": "94",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "KUUMAA - Ylivoimainen",
+        "title": "856",
+        "artist": "117",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "ibe - BLONDINA",
+        "title": "886",
+        "artist": "149",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1403",
+        "artist": "256",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Behm - Frida",
+        "title": "1527",
+        "artist": "216",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "HUGO - Taulut",
+        "title": "697",
+        "artist": "160",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "FR": {
+    "country_name": "France",
+    "songs": [
+      {
+        "rank": "Ninho - La vie qu'on mÃ¨ne",
+        "title": "2423",
+        "artist": "43",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Jungeli - Petit gÃ©nie",
+        "title": "796",
+        "artist": "331",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Naps - La kiffance",
+        "title": "1218",
+        "artist": "246",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1870",
+        "artist": "188",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Damso - Î. Macarena",
+        "title": "2394",
+        "artist": "133",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "SDM - Bolide allemand",
+        "title": "1072",
+        "artist": "241",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "GIMS - SPIDER",
+        "title": "547",
+        "artist": "298",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "13 OrganisÃ© - Bande organisÃ©e",
+        "title": "1417",
+        "artist": "149",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Ninho - Lettre Ã  une femme",
+        "title": "1830",
+        "artist": "98",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "GIMS - SOIS PAS TIMIDE",
+        "title": "477",
+        "artist": "261",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "DE": {
+    "country_name": "Germany",
+    "songs": [
+      {
+        "rank": "Apache 207 - Roller",
+        "title": "1947",
+        "artist": "220",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1380",
+        "artist": "165",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Udo Lindenberg - Komet",
+        "title": "851",
+        "artist": "228",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Tom Odell - Another Love",
+        "title": "1715",
+        "artist": "10",
+        "streams": "9",
+        "link": null
+      },
+      {
+        "rank": "Bonez MC - Ohne mein Team",
+        "title": "2446",
+        "artist": "112",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Linkin Park - In the End",
+        "title": "2653",
+        "artist": "1",
+        "streams": "10",
+        "link": null
+      },
+      {
+        "rank": "Pashanim - Sommergewitter",
+        "title": "1476",
+        "artist": "77",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Tones And I - Dance Monkey",
+        "title": "853",
+        "artist": "199",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Mariah Carey - All I Want for Christmas Is You",
+        "title": "512",
+        "artist": "259",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Wham! - Last Christmas",
+        "title": "526",
+        "artist": "231",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "GR": {
+    "country_name": "Greece",
+    "songs": [
+      {
+        "rank": "TOQUEL - Skoni",
+        "title": "1261",
+        "artist": "7",
+        "streams": "6",
+        "link": null
+      },
+      {
+        "rank": "RACK - MA BELLA",
+        "title": "513",
+        "artist": "111",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Light - 24hrs",
+        "title": "944",
+        "artist": "113",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "TOQUEL - Allou",
+        "title": "726",
+        "artist": "151",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Sicario - ISOS",
+        "title": "702",
+        "artist": "53",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "LILA - DEJA VU",
+        "title": "637",
+        "artist": "142",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "SIDARTA - MEDITERRANEAN",
+        "title": "949",
+        "artist": "125",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Light - Obsessed",
+        "title": "811",
+        "artist": "92",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "RACK - NASA",
+        "title": "1349",
+        "artist": "213",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "TOQUEL - Beverly Hills",
+        "title": "1270",
+        "artist": "39",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "GT": {
+    "country_name": "Guatemala",
+    "songs": [
+      {
+        "rank": "J Balvin - LA CANCIÃN",
+        "title": "2323",
+        "artist": "271",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1186",
+        "artist": "250",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Danny Ocean - Me RehÃºso",
+        "title": "3266",
+        "artist": "419",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Plan B - Es un Secreto",
+        "title": "1578",
+        "artist": "123",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Grupo Frontera - un x100to",
+        "title": "927",
+        "artist": "202",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Ojitos Lindos",
+        "title": "1244",
+        "artist": "249",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Me Porto Bonito",
+        "title": "928",
+        "artist": "256",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "CarÃ­n LeÃ³n - Que Vuelvas",
+        "title": "955",
+        "artist": "145",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - LUNA",
+        "title": "708",
+        "artist": "290",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Efecto",
+        "title": "947",
+        "artist": "241",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "HN": {
+    "country_name": "Honduras",
+    "songs": [
+      {
+        "rank": "J Balvin - LA CANCIÃN",
+        "title": "2324",
+        "artist": "354",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Plan B - Es un Secreto",
+        "title": "1632",
+        "artist": "302",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Efecto",
+        "title": "1252",
+        "artist": "283",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Me Porto Bonito",
+        "title": "997",
+        "artist": "276",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Ojitos Lindos",
+        "title": "1281",
+        "artist": "251",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Danny Ocean - Me RehÃºso",
+        "title": "3228",
+        "artist": "386",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Moscow Mule",
+        "title": "1282",
+        "artist": "247",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1155",
+        "artist": "227",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - LUNA",
+        "title": "708",
+        "artist": "379",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - Feliz CumpleaÃ±os Ferxxo",
+        "title": "1084",
+        "artist": "203",
+        "streams": "2",
+        "link": null
+      }
+    ]
+  },
+  "HK": {
+    "country_name": "Hong Kong",
+    "songs": [
+      {
+        "rank": "Keung To - Dear My Friend,",
+        "title": "1553",
+        "artist": "978",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "MC å¼µå¤©è³¦ - è¨æ¶æ£",
+        "title": "1478",
+        "artist": "357",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Keung To - ä½åçèªªè©±",
+        "title": "1143",
+        "artist": "416",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "MC å¼µå¤©è³¦ - åå°ç¡æ",
+        "title": "1618",
+        "artist": "341",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Keung To - å¥½å¾å¤ªéä»½",
+        "title": "557",
+        "artist": "543",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Keung To - Dummy",
+        "title": "702",
+        "artist": "505",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "MC å¼µå¤©è³¦ - èæ´¾ç´æä¹å¿è¦",
+        "title": "1208",
+        "artist": "236",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Keung To - å²©å·",
+        "title": "712",
+        "artist": "386",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Keung To - æ¿¤",
+        "title": "765",
+        "artist": "450",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "é³åè³¢ Ian - çä¸å¤©èä½ åæ¯",
+        "title": "1320",
+        "artist": "214",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "HU": {
+    "country_name": "Hungary",
+    "songs": [
+      {
+        "rank": "Azahriah - Mind1",
+        "title": "1621",
+        "artist": "357",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Azahriah - IntrovertÃ¡lt dal",
+        "title": "992",
+        "artist": "461",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Beton.Hofi - BAGIRA",
+        "title": "1177",
+        "artist": "344",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "DESH - Rampapapam",
+        "title": "840",
+        "artist": "338",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "DESH - PANNONIA",
+        "title": "470",
+        "artist": "433",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Azahriah - Pullup",
+        "title": "1251",
+        "artist": "250",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Azahriah - four moods",
+        "title": "1081",
+        "artist": "356",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "DESH - SUV",
+        "title": "467",
+        "artist": "445",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Azahriah - 3korty",
+        "title": "886",
+        "artist": "264",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bagossy Brothers Company - Olyan Å",
+        "title": "2394",
+        "artist": "158",
+        "streams": "2",
+        "link": null
+      }
+    ]
+  },
+  "IS": {
+    "country_name": "Iceland",
+    "songs": [
+      {
+        "rank": "HafdÃ­s Huld - Dvel Ã©g Ã­ draumahÃ¶ll",
+        "title": "2320",
+        "artist": "1108",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "HafdÃ­s Huld - Litlar stjÃ¶rnur",
+        "title": "2178",
+        "artist": "634",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "HafdÃ­s Huld - SofÃ°u unga Ã¡stin mÃ­n",
+        "title": "2200",
+        "artist": "401",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "HafdÃ­s Huld - Ãskasteinar",
+        "title": "2206",
+        "artist": "394",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "HafdÃ­s Huld - Sofa urtubÃ¶rn",
+        "title": "2084",
+        "artist": "165",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "HafdÃ­s Huld - LjÃ³s",
+        "title": "2072",
+        "artist": "68",
+        "streams": "7",
+        "link": null
+      },
+      {
+        "rank": "HafdÃ­s Huld - BÃ­um bÃ­um bambalÃ³",
+        "title": "2072",
+        "artist": "34",
+        "streams": "8",
+        "link": null
+      },
+      {
+        "rank": "BRÃET - Esjan",
+        "title": "2049",
+        "artist": "337",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "HafdÃ­s Huld - GÃ³Ã°a nÃ³tt",
+        "title": "1886",
+        "artist": "2",
+        "streams": "9",
+        "link": null
+      },
+      {
+        "rank": "HafdÃ­s Huld - Frost er Ãºti fuglinn minn",
+        "title": "1825",
+        "artist": "",
+        "streams": "13",
+        "link": null
+      }
+    ]
+  },
+  "IN": {
+    "country_name": "India",
+    "songs": [
+      {
+        "rank": "Arijit Singh - Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+        "title": "2352",
+        "artist": "416",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Alka Yagnik - Agar Tum Saath Ho (From \"Tamasha\")",
+        "title": "2228",
+        "artist": "131",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "King - Maan Meri Jaan",
+        "title": "863",
+        "artist": "275",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Pritam - Kesariya",
+        "title": "1121",
+        "artist": "289",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "AP Dhillon - Excuses",
+        "title": "1431",
+        "artist": "304",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Pritam - Shayad",
+        "title": "2090",
+        "artist": "404",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Vishal Mishra - Kaise Hua (From \"Kabir Singh\")",
+        "title": "2338",
+        "artist": "34",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "Jasleen Royal - Ranjha (From \"Shershaah\")",
+        "title": "1362",
+        "artist": "246",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Pritam - Tum Se Hi",
+        "title": "2051",
+        "artist": "3",
+        "streams": "7",
+        "link": null
+      },
+      {
+        "rank": "King - Tu Aake Dekhle",
+        "title": "1431",
+        "artist": "407",
+        "streams": "3",
+        "link": null
+      }
+    ]
+  },
+  "ID": {
+    "country_name": "Indonesia",
+    "songs": [
+      {
+        "rank": "Feby Putri - Runtuh",
+        "title": "1490",
+        "artist": "542",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "For Revenge - Serana",
+        "title": "1273",
+        "artist": "388",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Anggi Marito - Tak Segampang Itu",
+        "title": "1038",
+        "artist": "403",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Nadin Amizah - Bertaut",
+        "title": "1989",
+        "artist": "180",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Hindia - Rumah Ke Rumah",
+        "title": "2170",
+        "artist": "137",
+        "streams": "6",
+        "link": null
+      },
+      {
+        "rank": "Raim Laode - Komang",
+        "title": "1000",
+        "artist": "327",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Last Child - Duka",
+        "title": "1581",
+        "artist": "29",
+        "streams": "9",
+        "link": null
+      },
+      {
+        "rank": "Juicy Luicy - Lantas",
+        "title": "1740",
+        "artist": "86",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Virgoun - Selamat (Selamat Tinggal)",
+        "title": "2298",
+        "artist": "4",
+        "streams": "6",
+        "link": null
+      },
+      {
+        "rank": "Lyodra - Pesan Terakhir",
+        "title": "1572",
+        "artist": "386",
+        "streams": "3",
+        "link": null
+      }
+    ]
+  },
+  "IE": {
+    "country_name": "Ireland",
+    "songs": [
+      {
+        "rank": "Lewis Capaldi - Someone You Loved",
+        "title": "2351",
+        "artist": "277",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Killers - Mr. Brightside",
+        "title": "3823",
+        "artist": "",
+        "streams": "12",
+        "link": null
+      },
+      {
+        "rank": "Noah Kahan - Stick Season",
+        "title": "1050",
+        "artist": "261",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Vance Joy - Riptide",
+        "title": "3491",
+        "artist": "10",
+        "streams": "10",
+        "link": null
+      },
+      {
+        "rank": "Fleetwood Mac - Dreams - 2004 Remaster",
+        "title": "2414",
+        "artist": "4",
+        "streams": "9",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1523",
+        "artist": "195",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Tom Odell - Another Love",
+        "title": "1743",
+        "artist": "38",
+        "streams": "6",
+        "link": null
+      },
+      {
+        "rank": "Hozier - Take Me To Church",
+        "title": "3004",
+        "artist": "182",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Lady Gaga - Shallow",
+        "title": "2021",
+        "artist": "136",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Harry Styles - As It Was",
+        "title": "928",
+        "artist": "303",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "IL": {
+    "country_name": "Israel",
+    "songs": [
+      {
+        "rank": "Tuna - ××× ××××",
+        "title": "1422",
+        "artist": "394",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Eden Hason - ×©×§××¢××ª ××××××ª",
+        "title": "1802",
+        "artist": "189",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Ishay Ribo - ××©×× ××××ª×",
+        "title": "2749",
+        "artist": "33",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "Tuna - ×¡××¨× - Live",
+        "title": "1159",
+        "artist": "278",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Eden Hason - ×¢××©× ×× ×¦×¨××ª",
+        "title": "1132",
+        "artist": "230",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Omer Adam - ×¨×§ ×©××",
+        "title": "597",
+        "artist": "150",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Hanan Ben Ari - ××××£ ××¢×××",
+        "title": "2233",
+        "artist": "247",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Osher Cohen - ××××",
+        "title": "856",
+        "artist": "260",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Eden Hason - ××ª ××¡×¨× ××",
+        "title": "1851",
+        "artist": "108",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jasmin Moallem - ×××¤××",
+        "title": "1397",
+        "artist": "74",
+        "streams": "4",
+        "link": null
+      }
+    ]
+  },
+  "IT": {
+    "country_name": "Italy",
+    "songs": [
+      {
+        "rank": "Marracash - CRUDELIA - I nervi",
+        "title": "2104",
+        "artist": "80",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Shablo - M' Manc (con Geolier & Sfera Ebbasta)",
+        "title": "1621",
+        "artist": "131",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bizarrap - Quevedo: Bzrp Music Sessions, Vol. 52",
+        "title": "1076",
+        "artist": "153",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Gazzelle - Destri",
+        "title": "1869",
+        "artist": "127",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lazza - CENERE",
+        "title": "750",
+        "artist": "114",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Salmo - IL CIELO NELLA STANZA",
+        "title": "1690",
+        "artist": "183",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "BLANCO - MI FAI IMPAZZIRE",
+        "title": "802",
+        "artist": "199",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Coez - La musica non c'Ã¨",
+        "title": "1927",
+        "artist": "115",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Pinguini Tattici Nucleari - Ridere",
+        "title": "1971",
+        "artist": "",
+        "streams": "29",
+        "link": null
+      },
+      {
+        "rank": "BLANCO - Notti In Bianco",
+        "title": "902",
+        "artist": "140",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "JP": {
+    "country_name": "Japan",
+    "songs": [
+      {
+        "rank": "Mrs. GREEN APPLE - ç¹æã®å",
+        "title": "2356",
+        "artist": "35",
+        "streams": "7",
+        "link": null
+      },
+      {
+        "rank": "Mrs. GREEN APPLE - éã¨å¤",
+        "title": "2672",
+        "artist": "500",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Vaundy - æªç£ã®è±å",
+        "title": "1800",
+        "artist": "429",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Yuuri - ãã©ã¤ãã©ã¯ã¼",
+        "title": "1833",
+        "artist": "588",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Mrs. GREEN APPLE - ãã³ã¹ãã¼ã«",
+        "title": "1264",
+        "artist": "611",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "YOASOBI - å¤ã«é§ãã",
+        "title": "1976",
+        "artist": "587",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "back number - æ°´å¹³ç·",
+        "title": "1548",
+        "artist": "300",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "OFFICIAL HIGE DANDISM - Pretender",
+        "title": "2397",
+        "artist": "527",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "YOASOBI - ç¾¤é",
+        "title": "1886",
+        "artist": "221",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "OFFICIAL HIGE DANDISM - 115ä¸ã­ã­ã®ãã£ã«ã",
+        "title": "2373",
+        "artist": "342",
+        "streams": "6",
+        "link": null
+      }
+    ]
+  },
+  "KZ": {
+    "country_name": "Kazakhstan",
+    "songs": [
+      {
+        "rank": "Jimin - Who",
+        "title": "477",
+        "artist": "473",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Ulukmanapo - Ð Ð°ÑÑÑÐ¾ÑÐ½Ð¸Ðµ",
+        "title": "1259",
+        "artist": "819",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bakr - ÐÑÐ¸",
+        "title": "1273",
+        "artist": "512",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Bakr - Ð¡Ð¸ÑÐµÐ½Ñ",
+        "title": "1288",
+        "artist": "280",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bakr - Ð­ÑÐ°Ð»Ð¾Ð½ ÐºÑÐ°ÑÐ¾ÑÑ",
+        "title": "1174",
+        "artist": "281",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bakr - ÐÑÐµÐ´Ð¸Ð½Ð°",
+        "title": "1182",
+        "artist": "464",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Arctic Monkeys - I Wanna Be Yours",
+        "title": "1283",
+        "artist": "141",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Bonapart - ÐÐ»Ð¼Ð°ÑÐ°-Ð¡ÐµÐ¼ÐµÐ¹",
+        "title": "913",
+        "artist": "603",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "The Neighbourhood - Sweater Weather",
+        "title": "1357",
+        "artist": "90",
+        "streams": "6",
+        "link": null
+      },
+      {
+        "rank": "V $ X V PRiNCE - ÐÑÑÐ°ÑÐºÐ¸",
+        "title": "1177",
+        "artist": "331",
+        "streams": "2",
+        "link": null
+      }
+    ]
+  },
+  "LV": {
+    "country_name": "Latvia",
+    "songs": [
+      {
+        "rank": "The Neighbourhood - Sweater Weather",
+        "title": "1940",
+        "artist": "287",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Jimin - Who",
+        "title": "474",
+        "artist": "448",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "MiyaGi & Endspiel - I Got Love",
+        "title": "2736",
+        "artist": "",
+        "streams": "11",
+        "link": null
+      },
+      {
+        "rank": "J. Cole - No Role Modelz",
+        "title": "1901",
+        "artist": "11",
+        "streams": "9",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1777",
+        "artist": "338",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Glass Animals - Heat Waves",
+        "title": "1234",
+        "artist": "442",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "FiÅÄ·is - RaÄ·eÅ¡u ZinÄtne",
+        "title": "971",
+        "artist": "206",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "A$AP Rocky - Praise The Lord (Da Shine)",
+        "title": "2169",
+        "artist": "26",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Vance Joy - Riptide",
+        "title": "1907",
+        "artist": "1",
+        "streams": "10",
+        "link": null
+      },
+      {
+        "rank": "Tom Odell - Another Love",
+        "title": "1534",
+        "artist": "127",
+        "streams": "3",
+        "link": null
+      }
+    ]
+  },
+  "LT": {
+    "country_name": "Lithuania",
+    "songs": [
+      {
+        "rank": "Jessica Shy - Apkabink",
+        "title": "974",
+        "artist": "579",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Neighbourhood - Sweater Weather",
+        "title": "1897",
+        "artist": "1",
+        "streams": "10",
+        "link": null
+      },
+      {
+        "rank": "Justinas Jarutis - RugpjÅ«tis",
+        "title": "1441",
+        "artist": "199",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jessica Shy - Å okam LÄtai",
+        "title": "1366",
+        "artist": "199",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jessica Shy - 1000 VÄtrÅ³",
+        "title": "526",
+        "artist": "415",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jessica Shy - DÄl TavÄs",
+        "title": "1008",
+        "artist": "256",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jessica Shy - Tyliai PakuÅ¾dÄk",
+        "title": "1173",
+        "artist": "324",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Free Finga - Vienas",
+        "title": "595",
+        "artist": "389",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1622",
+        "artist": "426",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jessica Shy - Stadionai",
+        "title": "1460",
+        "artist": "13",
+        "streams": "5",
+        "link": null
+      }
+    ]
+  },
+  "LU": {
+    "country_name": "Luxembourg",
+    "songs": [
+      {
+        "rank": "Benson Boone - Beautiful Things",
+        "title": "659",
+        "artist": "351",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Tom Odell - Another Love",
+        "title": "1200",
+        "artist": "77",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Miley Cyrus - Flowers",
+        "title": "667",
+        "artist": "229",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "David Guetta - I'm Good (Blue)",
+        "title": "810",
+        "artist": "270",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Teddy Swims - Lose Control",
+        "title": "717",
+        "artist": "157",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Harry Styles - As It Was",
+        "title": "745",
+        "artist": "203",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Billie Eilish - BIRDS OF A FEATHER",
+        "title": "540",
+        "artist": "268",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Lady Gaga - Die With A Smile",
+        "title": "449",
+        "artist": "252",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "ROSÃ - APT.",
+        "title": "386",
+        "artist": "247",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "FloyyMenor - Gata Only",
+        "title": "450",
+        "artist": "149",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "MY": {
+    "country_name": "Malaysia",
+    "songs": [
+      {
+        "rank": "James Arthur - Say You Won't Let Go",
+        "title": "3251",
+        "artist": "180",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "SZA - Kill Bill",
+        "title": "1005",
+        "artist": "355",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Dhruv - double take",
+        "title": "1549",
+        "artist": "190",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Ruth B. - Dandelions",
+        "title": "1648",
+        "artist": "211",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "Fabio Asher - Rumah Singgah",
+        "title": "1264",
+        "artist": "254",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Lady Gaga - Die With A Smile",
+        "title": "449",
+        "artist": "280",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Anggi Marito - Tak Segampang Itu",
+        "title": "969",
+        "artist": "284",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Billie Eilish - BIRDS OF A FEATHER",
+        "title": "540",
+        "artist": "382",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lewis Capaldi - Someone You Loved",
+        "title": "2212",
+        "artist": "342",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "One Direction - Night Changes",
+        "title": "2354",
+        "artist": "73",
+        "streams": "4",
+        "link": null
+      }
+    ]
+  },
+  "MT": {
+    "country_name": "Malta",
+    "songs": [
+      {
+        "rank": "Ed Sheeran - Shape of You",
+        "title": "212",
+        "artist": "151",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Luis Fonsi - Despacito - Remix",
+        "title": "111",
+        "artist": "110",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Chainsmokers - Closer",
+        "title": "212",
+        "artist": "155",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Chainsmokers - Something Just Like This",
+        "title": "159",
+        "artist": "87",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Drake - One Dance",
+        "title": "185",
+        "artist": "153",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Starboy",
+        "title": "175",
+        "artist": "135",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Mike Posner - I Took A Pill In Ibiza - Seeb Remix",
+        "title": "183",
+        "artist": "167",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Chainsmokers - Don't Let Me Down",
+        "title": "216",
+        "artist": "135",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Kygo - It Ain't Me",
+        "title": "132",
+        "artist": "88",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "DJ Snake - Let Me Love You",
+        "title": "158",
+        "artist": "142",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "MX": {
+    "country_name": "Mexico",
+    "songs": [
+      {
+        "rank": "J Balvin - LA CANCIÃN",
+        "title": "2318",
+        "artist": "222",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Danny Ocean - Me RehÃºso",
+        "title": "3121",
+        "artist": "312",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Calle 24 - Que Onda",
+        "title": "797",
+        "artist": "214",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Natanael Cano - Madonna",
+        "title": "610",
+        "artist": "213",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Junior H - El Azul",
+        "title": "860",
+        "artist": "196",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Junior H - Y LLORO",
+        "title": "764",
+        "artist": "152",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "CarÃ­n LeÃ³n - Que Vuelvas",
+        "title": "957",
+        "artist": "82",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Me Porto Bonito",
+        "title": "867",
+        "artist": "251",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "CarÃ­n LeÃ³n - Primera Cita",
+        "title": "922",
+        "artist": "93",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Peso Pluma - LADY GAGA",
+        "title": "697",
+        "artist": "194",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "MA": {
+    "country_name": "Morocco",
+    "songs": [
+      {
+        "rank": "Draganov - 3DABI",
+        "title": "842",
+        "artist": "375",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "ElGrandeToto - BLUE LOVE",
+        "title": "694",
+        "artist": "438",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Snor - Dawk Lya",
+        "title": "1283",
+        "artist": "474",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "CKay - love nwantiti",
+        "title": "1717",
+        "artist": "555",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "ElGrandeToto - Mghayer",
+        "title": "1765",
+        "artist": "313",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Niro - Qui sait ?",
+        "title": "1002",
+        "artist": "263",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "ElGrandeToto - DELLALI",
+        "title": "731",
+        "artist": "170",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Stormy - POPO",
+        "title": "647",
+        "artist": "165",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "ElGrandeToto - DIPLOMATICO",
+        "title": "382",
+        "artist": "285",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Stormy - Mizane",
+        "title": "1623",
+        "artist": "147",
+        "streams": "4",
+        "link": null
+      }
+    ]
+  },
+  "NL": {
+    "country_name": "Netherlands",
+    "songs": [
+      {
+        "rank": "Davina Michelle - Duurt Te Lang",
+        "title": "2163",
+        "artist": "142",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lewis Capaldi - Someone You Loved",
+        "title": "2237",
+        "artist": "44",
+        "streams": "7",
+        "link": null
+      },
+      {
+        "rank": "Tom Odell - Another Love",
+        "title": "1887",
+        "artist": "13",
+        "streams": "6",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1759",
+        "artist": "187",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Racoon - Oceaan",
+        "title": "3051",
+        "artist": "",
+        "streams": "20",
+        "link": null
+      },
+      {
+        "rank": "Lady Gaga - Shallow",
+        "title": "2332",
+        "artist": "29",
+        "streams": "6",
+        "link": null
+      },
+      {
+        "rank": "Danny Vera - Roller Coaster",
+        "title": "1828",
+        "artist": "16",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "TOTO - Africa",
+        "title": "2595",
+        "artist": "",
+        "streams": "23",
+        "link": null
+      },
+      {
+        "rank": "De Jeugd Van Tegenwoordig - Sterrenstof",
+        "title": "2705",
+        "artist": "",
+        "streams": "31",
+        "link": null
+      },
+      {
+        "rank": "Maan - Stiekem",
+        "title": "939",
+        "artist": "219",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "NZ": {
+    "country_name": "New Zealand",
+    "songs": [
+      {
+        "rank": "Fleetwood Mac - Dreams - 2004 Remaster",
+        "title": "3009",
+        "artist": "169",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "L.A.B. - In the Air",
+        "title": "2156",
+        "artist": "512",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "J. Cole - No Role Modelz",
+        "title": "3605",
+        "artist": "1",
+        "streams": "10",
+        "link": null
+      },
+      {
+        "rank": "The Killers - Mr. Brightside",
+        "title": "3494",
+        "artist": "",
+        "streams": "13",
+        "link": null
+      },
+      {
+        "rank": "Lewis Capaldi - Someone You Loved",
+        "title": "2337",
+        "artist": "160",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Vance Joy - Riptide",
+        "title": "3443",
+        "artist": "",
+        "streams": "12",
+        "link": null
+      },
+      {
+        "rank": "Post Malone - Sunflower - Spider-Man: Into the Spider-Verse",
+        "title": "2199",
+        "artist": "216",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Ed Sheeran - Shape of You",
+        "title": "2007",
+        "artist": "173",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Fleetwood Mac - Go Your Own Way - 2004 Remaster",
+        "title": "2747",
+        "artist": "",
+        "streams": "20",
+        "link": null
+      },
+      {
+        "rank": "James Arthur - Say You Won't Let Go",
+        "title": "2656",
+        "artist": "117",
+        "streams": "2",
+        "link": null
+      }
+    ]
+  },
+  "NI": {
+    "country_name": "Nicaragua",
+    "songs": [
+      {
+        "rank": "J Balvin - LA CANCIÃN",
+        "title": "2298",
+        "artist": "438",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Plan B - Es un Secreto",
+        "title": "1522",
+        "artist": "468",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1138",
+        "artist": "264",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jimin - Who",
+        "title": "455",
+        "artist": "355",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Me Porto Bonito",
+        "title": "977",
+        "artist": "321",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Ojitos Lindos",
+        "title": "1256",
+        "artist": "270",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - LUNA",
+        "title": "705",
+        "artist": "361",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Grupo Frontera - un x100to",
+        "title": "888",
+        "artist": "188",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Moscow Mule",
+        "title": "1272",
+        "artist": "215",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "CarÃ­n LeÃ³n - Primera Cita",
+        "title": "904",
+        "artist": "263",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "NG": {
+    "country_name": "Nigeria",
+    "songs": [
+      {
+        "rank": "Ayo Maff - Dealer",
+        "title": "570",
+        "artist": "196",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Fido - Awolowo",
+        "title": "451",
+        "artist": "163",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Asake - Remember",
+        "title": "877",
+        "artist": "",
+        "streams": "11",
+        "link": null
+      },
+      {
+        "rank": "Asake - Lonely At The Top",
+        "title": "877",
+        "artist": "171",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Fido - Joy is Coming",
+        "title": "317",
+        "artist": "88",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Davido - Funds",
+        "title": "338",
+        "artist": "91",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Seyi Vibez - Different Pattern",
+        "title": "685",
+        "artist": "167",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Asake - Terminator",
+        "title": "1177",
+        "artist": "163",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Smur Lee - JUJU",
+        "title": "441",
+        "artist": "123",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Young Jonn - Stronger",
+        "title": "527",
+        "artist": "106",
+        "streams": "2",
+        "link": null
+      }
+    ]
+  },
+  "NO": {
+    "country_name": "Norway",
+    "songs": [
+      {
+        "rank": "Lewis Capaldi - Someone You Loved",
+        "title": "2184",
+        "artist": "138",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1744",
+        "artist": "256",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Tones And I - Dance Monkey",
+        "title": "1061",
+        "artist": "255",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lady Gaga - Shallow",
+        "title": "1599",
+        "artist": "224",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Alan Walker - Faded",
+        "title": "1466",
+        "artist": "145",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Ballinciaga - Dans PÃ¥ Bordet",
+        "title": "943",
+        "artist": "275",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Victor Leksell - Svag",
+        "title": "1105",
+        "artist": "291",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lord Huron - The Night We Met",
+        "title": "2177",
+        "artist": "6",
+        "streams": "9",
+        "link": null
+      },
+      {
+        "rank": "Mariah Carey - All I Want for Christmas Is You",
+        "title": "627",
+        "artist": "298",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Tom Odell - Another Love",
+        "title": "1721",
+        "artist": "9",
+        "streams": "8",
+        "link": null
+      }
+    ]
+  },
+  "PK": {
+    "country_name": "Pakistan",
+    "songs": [
+      {
+        "rank": "Maanu - Jhol",
+        "title": "511",
+        "artist": "507",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Anuv Jain - Jo Tum Mere Ho",
+        "title": "461",
+        "artist": "268",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Abdul Hannan - Bikhra",
+        "title": "1273",
+        "artist": "379",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Hasan Raheem - Wishes",
+        "title": "798",
+        "artist": "306",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Afusic - Pal Pal",
+        "title": "253",
+        "artist": "235",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Faheem Abdullah - Ishq",
+        "title": "532",
+        "artist": "413",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Aditya Rikhari - Samjho Na",
+        "title": "1273",
+        "artist": "238",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "Anuv Jain - Husn",
+        "title": "708",
+        "artist": "338",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "AUR - Tu hai kahan",
+        "title": "763",
+        "artist": "214",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Anuv Jain - Afsos",
+        "title": "282",
+        "artist": "269",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "PA": {
+    "country_name": "Panama",
+    "songs": [
+      {
+        "rank": "J Balvin - LA CANCIÃN",
+        "title": "2325",
+        "artist": "199",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1213",
+        "artist": "263",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Boza - Hecha Pa' Mi",
+        "title": "1800",
+        "artist": "241",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Ojitos Lindos",
+        "title": "1266",
+        "artist": "252",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jay Wheeler - La Curiosidad",
+        "title": "1744",
+        "artist": "180",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Me Porto Bonito",
+        "title": "929",
+        "artist": "266",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Yonaguni",
+        "title": "867",
+        "artist": "337",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - LUNA",
+        "title": "708",
+        "artist": "324",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - DÃKITI",
+        "title": "995",
+        "artist": "223",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Moscow Mule",
+        "title": "1204",
+        "artist": "214",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "PY": {
+    "country_name": "Paraguay",
+    "songs": [
+      {
+        "rank": "J Balvin - LA CANCIÃN",
+        "title": "2323",
+        "artist": "125",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - Feliz CumpleaÃ±os Ferxxo",
+        "title": "1145",
+        "artist": "162",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1194",
+        "artist": "223",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Ojitos Lindos",
+        "title": "1270",
+        "artist": "239",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Plan B - Es un Secreto",
+        "title": "1837",
+        "artist": "167",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Me Porto Bonito",
+        "title": "907",
+        "artist": "249",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bizarrap - Quevedo: Bzrp Music Sessions, Vol. 52",
+        "title": "821",
+        "artist": "196",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Big One - Un Finde | CROSSOVER #2",
+        "title": "841",
+        "artist": "234",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - Normal",
+        "title": "1148",
+        "artist": "13",
+        "streams": "9",
+        "link": null
+      },
+      {
+        "rank": "Jay Wheeler - La Curiosidad",
+        "title": "1911",
+        "artist": "143",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "PE": {
+    "country_name": "Peru",
+    "songs": [
+      {
+        "rank": "Danny Ocean - Me RehÃºso",
+        "title": "3207",
+        "artist": "368",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "J Balvin - LA CANCIÃN",
+        "title": "2325",
+        "artist": "176",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1252",
+        "artist": "366",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - LUNA",
+        "title": "708",
+        "artist": "477",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - Feliz CumpleaÃ±os Ferxxo",
+        "title": "1153",
+        "artist": "296",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jay Wheeler - La Curiosidad",
+        "title": "1898",
+        "artist": "142",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - Me Porto Bonito",
+        "title": "956",
+        "artist": "255",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Plan B - Es un Secreto",
+        "title": "1650",
+        "artist": "",
+        "streams": "11",
+        "link": null
+      },
+      {
+        "rank": "Rauw Alejandro - Todo De Ti",
+        "title": "1462",
+        "artist": "227",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Piso 21 - Te Vi",
+        "title": "2322",
+        "artist": "160",
+        "streams": "2",
+        "link": null
+      }
+    ]
+  },
+  "PH": {
+    "country_name": "Philippines",
+    "songs": [
+      {
+        "rank": "Up Dharma Down - Tadhana",
+        "title": "3881",
+        "artist": "71",
+        "streams": "6",
+        "link": null
+      },
+      {
+        "rank": "Arthur Nery - Isa lang",
+        "title": "1420",
+        "artist": "262",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "NOBITA - Ikaw Lang",
+        "title": "1619",
+        "artist": "338",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Adie - Mahika",
+        "title": "1254",
+        "artist": "403",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Ben&Ben - Kathang Isip",
+        "title": "2872",
+        "artist": "290",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Cup of Joe - Multo",
+        "title": "302",
+        "artist": "236",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Cup of Joe - Tingin",
+        "title": "777",
+        "artist": "286",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Dionela - sining",
+        "title": "506",
+        "artist": "266",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Arthur Nery - Pagsamo",
+        "title": "1497",
+        "artist": "278",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "IV OF SPADES - Mundo",
+        "title": "2822",
+        "artist": "230",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "PL": {
+    "country_name": "Poland",
+    "songs": [
+      {
+        "rank": "White 2115 - California",
+        "title": "2618",
+        "artist": "32",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "Guzior - BLUEBERRY",
+        "title": "1569",
+        "artist": "128",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Neighbourhood - Sweater Weather",
+        "title": "2500",
+        "artist": "",
+        "streams": "19",
+        "link": null
+      },
+      {
+        "rank": "Guzior - FALA",
+        "title": "1683",
+        "artist": "151",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "PRO8L3M - Ground Zero",
+        "title": "1677",
+        "artist": "10",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Gibbs - PiÄkny Åwiat",
+        "title": "1110",
+        "artist": "166",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "MÄskie Granie Orkiestra 2021 - I Ciebie teÅ¼, bardzo",
+        "title": "1262",
+        "artist": "97",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Mata - Schodki",
+        "title": "1714",
+        "artist": "12",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "Mata - Kiss cam (podryw roku)",
+        "title": "1299",
+        "artist": "56",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Mata - Szafir",
+        "title": "910",
+        "artist": "135",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "PT": {
+    "country_name": "Portugal",
+    "songs": [
+      {
+        "rank": "Wet Bed Gang - Devia Ir",
+        "title": "2663",
+        "artist": "201",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Calema - Te Amo",
+        "title": "2038",
+        "artist": "24",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "Ivandro - Lua",
+        "title": "1303",
+        "artist": "333",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Plutonio - Somos Iguais",
+        "title": "1727",
+        "artist": "110",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1735",
+        "artist": "290",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Slow J - Tata",
+        "title": "714",
+        "artist": "186",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1172",
+        "artist": "101",
+        "streams": "6",
+        "link": null
+      },
+      {
+        "rank": "Dillaz - Mo Boy",
+        "title": "2241",
+        "artist": "",
+        "streams": "18",
+        "link": null
+      },
+      {
+        "rank": "Plutonio - Interestelar",
+        "title": "370",
+        "artist": "358",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "BÃ¡rbara Bandeira - Como Tu",
+        "title": "805",
+        "artist": "294",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "RO": {
+    "country_name": "Romania",
+    "songs": [
+      {
+        "rank": "Gya - Baklava",
+        "title": "572",
+        "artist": "274",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jimin - Who",
+        "title": "476",
+        "artist": "315",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Tzanca Uraganu - Havana",
+        "title": "1132",
+        "artist": "410",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Babasha - PÄi naa",
+        "title": "516",
+        "artist": "182",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Tzanca Uraganu - Ciocolata",
+        "title": "812",
+        "artist": "212",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Neighbourhood - Sweater Weather",
+        "title": "1893",
+        "artist": "21",
+        "streams": "7",
+        "link": null
+      },
+      {
+        "rank": "Tzanca Uraganu - Banii",
+        "title": "1342",
+        "artist": "240",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "rares - La tine Èi la bani",
+        "title": "796",
+        "artist": "233",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Alex Botea - Papusa Barbie",
+        "title": "1256",
+        "artist": "",
+        "streams": "12",
+        "link": null
+      },
+      {
+        "rank": "Babasha - Amo, Amo",
+        "title": "491",
+        "artist": "119",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "RU": {
+    "country_name": "Russia",
+    "songs": [
+      {
+        "rank": "kizaru - Dezhavyu",
+        "title": "632",
+        "artist": "195",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Big Baby Tape - 99 Problems",
+        "title": "169",
+        "artist": "130",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Skryptonite - ÐÐ¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ",
+        "title": "632",
+        "artist": "32",
+        "streams": "6",
+        "link": null
+      },
+      {
+        "rank": "Skryptonite - ÐÐ¾ÑÐºÐ²Ð° Ð»ÑÐ±Ð¸Ñ...",
+        "title": "629",
+        "artist": "97",
+        "streams": "6",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "632",
+        "artist": "80",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "fem.love - Ð¤Ð¾ÑÐ¾Ð³ÑÐ°ÑÐ¸ÑÑÑ Ð·Ð°ÐºÐ°Ñ",
+        "title": "367",
+        "artist": "84",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Big Baby Tape - Million",
+        "title": "169",
+        "artist": "88",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "shadowraze - astral step",
+        "title": "161",
+        "artist": "116",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Big Baby Tape - Bandana",
+        "title": "169",
+        "artist": "92",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Korol i Shut - ÐÑÐºÐ»Ð° ÐºÐ¾Ð»Ð´ÑÐ½Ð°",
+        "title": "632",
+        "artist": "33",
+        "streams": "6",
+        "link": null
+      }
+    ]
+  },
+  "SA": {
+    "country_name": "Saudi Arabia",
+    "songs": [
+      {
+        "rank": "Tom Odell - Another Love",
+        "title": "1632",
+        "artist": "688",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Neighbourhood - Sweater Weather",
+        "title": "1837",
+        "artist": "50",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "Adele - Set Fire to the Rain",
+        "title": "1369",
+        "artist": "365",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Cigarettes After Sex - Apocalypse",
+        "title": "1449",
+        "artist": "6",
+        "streams": "9",
+        "link": null
+      },
+      {
+        "rank": "Billie Eilish - BIRDS OF A FEATHER",
+        "title": "540",
+        "artist": "484",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jung Kook - Seven",
+        "title": "847",
+        "artist": "306",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Billie Eilish - WILDFLOWER",
+        "title": "540",
+        "artist": "436",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Billie Eilish - lovely",
+        "title": "2211",
+        "artist": "42",
+        "streams": "7",
+        "link": null
+      },
+      {
+        "rank": "Arctic Monkeys - I Wanna Be Yours",
+        "title": "1254",
+        "artist": "143",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1874",
+        "artist": "65",
+        "streams": "2",
+        "link": null
+      }
+    ]
+  },
+  "SG": {
+    "country_name": "Singapore",
+    "songs": [
+      {
+        "rank": "Jimin - Who",
+        "title": "477",
+        "artist": "476",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "James Arthur - Say You Won't Let Go",
+        "title": "3193",
+        "artist": "155",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lewis Capaldi - Someone You Loved",
+        "title": "2482",
+        "artist": "376",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "Eric Chou - ä½ ,å¥½ä¸å¥½? - TVBSé£çºåãéºæ¾æ¼åãçå°¾æ²",
+        "title": "3369",
+        "artist": "",
+        "streams": "20",
+        "link": null
+      },
+      {
+        "rank": "The Chainsmokers - Something Just Like This",
+        "title": "3174",
+        "artist": "186",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Ed Sheeran - Perfect",
+        "title": "3170",
+        "artist": "145",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Ed Sheeran - Photograph",
+        "title": "3821",
+        "artist": "155",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jung Kook - Seven",
+        "title": "848",
+        "artist": "322",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jay Chou - åç½æ°£ç",
+        "title": "3378",
+        "artist": "",
+        "streams": "22",
+        "link": null
+      },
+      {
+        "rank": "Eric Chou - æéº¼äº",
+        "title": "2486",
+        "artist": "96",
+        "streams": "4",
+        "link": null
+      }
+    ]
+  },
+  "SK": {
+    "country_name": "Slovakia",
+    "songs": [
+      {
+        "rank": "Separ - Sunset",
+        "title": "953",
+        "artist": "464",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Calin - SafÃ­r",
+        "title": "1008",
+        "artist": "317",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Calin - Hannah Montana",
+        "title": "1305",
+        "artist": "348",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "NerieÅ¡ - Viac",
+        "title": "2064",
+        "artist": "161",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Tom Odell - Another Love",
+        "title": "1730",
+        "artist": "72",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "Pil C - NENI STRE$S",
+        "title": "519",
+        "artist": "193",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Separ - Bbejbb",
+        "title": "615",
+        "artist": "250",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Neighbourhood - Sweater Weather",
+        "title": "1859",
+        "artist": "",
+        "streams": "14",
+        "link": null
+      },
+      {
+        "rank": "Viktor Sheen - AÅ¾ na mÄsÃ­c",
+        "title": "2187",
+        "artist": "7",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "NerieÅ¡ - Ruka Na Volante",
+        "title": "1909",
+        "artist": "56",
+        "streams": "2",
+        "link": null
+      }
+    ]
+  },
+  "ZA": {
+    "country_name": "South Africa",
+    "songs": [
+      {
+        "rank": "Kabza De Small - Imithandazo",
+        "title": "667",
+        "artist": "251",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Miguel - Sure Thing",
+        "title": "1776",
+        "artist": "5",
+        "streams": "8",
+        "link": null
+      },
+      {
+        "rank": "Issa sisdoh - Vuma Dlozi Lami",
+        "title": "375",
+        "artist": "236",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Mthandeni SK - Paris",
+        "title": "753",
+        "artist": "152",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Fantasia - When I See U",
+        "title": "1966",
+        "artist": "",
+        "streams": "17",
+        "link": null
+      },
+      {
+        "rank": "Mario - Let Me Love You",
+        "title": "2157",
+        "artist": "",
+        "streams": "12",
+        "link": null
+      },
+      {
+        "rank": "CIZA - Isaka (6am)",
+        "title": "211",
+        "artist": "167",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "SZA - Snooze",
+        "title": "1052",
+        "artist": "6",
+        "streams": "9",
+        "link": null
+      },
+      {
+        "rank": "Dlala Thukzin - IPlan",
+        "title": "616",
+        "artist": "149",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Oscar Mbo - Vuka",
+        "title": "305",
+        "artist": "193",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "KR": {
+    "country_name": "South Korea",
+    "songs": [
+      {
+        "rank": "Jimin - Who",
+        "title": "477",
+        "artist": "477",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jung Kook - Seven",
+        "title": "848",
+        "artist": "833",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jimin - Like Crazy",
+        "title": "959",
+        "artist": "580",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jung Kook - 3D",
+        "title": "771",
+        "artist": "375",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Jimin - Like Crazy (English Version)",
+        "title": "500",
+        "artist": "480",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jimin - Be Mine",
+        "title": "477",
+        "artist": "399",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Jimin - Closer Than This",
+        "title": "687",
+        "artist": "305",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Jung Kook - Standing Next to You",
+        "title": "735",
+        "artist": "303",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Jimin - Set Me Free Pt.2",
+        "title": "514",
+        "artist": "484",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "NewJeans - Hype Boy",
+        "title": "1195",
+        "artist": "256",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "ES": {
+    "country_name": "Spain",
+    "songs": [
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1261",
+        "artist": "252",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bizarrap - Quevedo: Bzrp Music Sessions, Vol. 52",
+        "title": "1116",
+        "artist": "198",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Quevedo - Columbia",
+        "title": "856",
+        "artist": "194",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Rauw Alejandro - Todo De Ti",
+        "title": "1172",
+        "artist": "147",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Danny Ocean - Me RehÃºso",
+        "title": "2482",
+        "artist": "272",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Marshmello - El Merengue",
+        "title": "981",
+        "artist": "150",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "KAROL G - Si Antes Te Hubiera Conocido",
+        "title": "505",
+        "artist": "191",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "ROSALÃA - DESPECHÃ",
+        "title": "892",
+        "artist": "152",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Quevedo - PLAYA DEL INGLÃS",
+        "title": "926",
+        "artist": "126",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "zzoilo - Mon Amour - Remix",
+        "title": "1096",
+        "artist": "196",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "SE": {
+    "country_name": "Sweden",
+    "songs": [
+      {
+        "rank": "Babblarna - Babblarnas vaggvisa",
+        "title": "2365",
+        "artist": "302",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Victor Leksell - Svag",
+        "title": "2076",
+        "artist": "416",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Humlan Djojj - Djurens vaggvisa",
+        "title": "1503",
+        "artist": "500",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bolaget - Kan Inte GÃ¥",
+        "title": "1407",
+        "artist": "396",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "1690",
+        "artist": "297",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Hov1 - Hon dansar vidare i livet",
+        "title": "2367",
+        "artist": "113",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Avicii - Wake Me Up",
+        "title": "3182",
+        "artist": "26",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Avicii - Without You",
+        "title": "1577",
+        "artist": "148",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Ed Sheeran - Shape of You",
+        "title": "925",
+        "artist": "165",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bolaget - IkvÃ¤ll Igen",
+        "title": "938",
+        "artist": "234",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "CH": {
+    "country_name": "Switzerland",
+    "songs": [
+      {
+        "rank": "Lewis Capaldi - Someone You Loved",
+        "title": "2489",
+        "artist": "162",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "Tom Odell - Another Love",
+        "title": "1931",
+        "artist": "297",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "2018",
+        "artist": "313",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Tones And I - Dance Monkey",
+        "title": "1297",
+        "artist": "291",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lady Gaga - Shallow",
+        "title": "2332",
+        "artist": "107",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Glass Animals - Heat Waves",
+        "title": "1398",
+        "artist": "330",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "David Guetta - I'm Good (Blue)",
+        "title": "1112",
+        "artist": "319",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lost Frequencies - Where Are You Now",
+        "title": "1443",
+        "artist": "251",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Ed Sheeran - Shape of You",
+        "title": "2006",
+        "artist": "242",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Vance Joy - Riptide",
+        "title": "2643",
+        "artist": "10",
+        "streams": "9",
+        "link": null
+      }
+    ]
+  },
+  "TW": {
+    "country_name": "Taiwan",
+    "songs": [
+      {
+        "rank": "V - Winter Ahead",
+        "title": "344",
+        "artist": "344",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "é«ç¾å®£ OSN - Without You",
+        "title": "2408",
+        "artist": "613",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bestards - ä¸æ¯å çºå¤©æ°£æ´æææä½",
+        "title": "2196",
+        "artist": "373",
+        "streams": "4",
+        "link": null
+      },
+      {
+        "rank": "WeiBird - å¦æå¯ä»¥ - é»å½±\"æè\"ä¸»é¡æ²",
+        "title": "1463",
+        "artist": "608",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Eric Chou - æéº¼äº",
+        "title": "2491",
+        "artist": "586",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "V - Love Me Again",
+        "title": "820",
+        "artist": "396",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Ren Ran - é£é¸åè",
+        "title": "1570",
+        "artist": "757",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "åäºäºº - æ«ææ´æçæ³ä½",
+        "title": "2474",
+        "artist": "",
+        "streams": "15",
+        "link": null
+      },
+      {
+        "rank": "EggPlantEgg - æµªæµé£",
+        "title": "2505",
+        "artist": "266",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jimin - Who",
+        "title": "477",
+        "artist": "471",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "TH": {
+    "country_name": "Thailand",
+    "songs": [
+      {
+        "rank": "Jung Kook - Seven",
+        "title": "848",
+        "artist": "423",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jimin - Who",
+        "title": "477",
+        "artist": "470",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "V - Love Me Again",
+        "title": "499",
+        "artist": "408",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jung Kook - Standing Next to You",
+        "title": "433",
+        "artist": "378",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "LISA - MONEY",
+        "title": "1076",
+        "artist": "566",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jung Kook - 3D",
+        "title": "709",
+        "artist": "313",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jimin - Like Crazy",
+        "title": "509",
+        "artist": "416",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "LISA - Rockstar",
+        "title": "490",
+        "artist": "104",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "LISA - LALISA",
+        "title": "1056",
+        "artist": "418",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "LISA - Moonlit Floor",
+        "title": "147",
+        "artist": "133",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "TR": {
+    "country_name": "Turkey",
+    "songs": [
+      {
+        "rank": "Madrigal - Seni Dert Etmeler",
+        "title": "1880",
+        "artist": "297",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Dolu Kadehi Ters Tut - Gitme",
+        "title": "2408",
+        "artist": "",
+        "streams": "11",
+        "link": null
+      },
+      {
+        "rank": "Mavi Gri - AltÃ¼st OlmuÅum",
+        "title": "1583",
+        "artist": "",
+        "streams": "11",
+        "link": null
+      },
+      {
+        "rank": "mor ve Ã¶tesi - Bir Derdim Var",
+        "title": "3339",
+        "artist": "",
+        "streams": "21",
+        "link": null
+      },
+      {
+        "rank": "KÃFN - Bi' Tek Ben AnlarÄ±m",
+        "title": "930",
+        "artist": "256",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Simge - AÅkÄ±n OlayÄ±m",
+        "title": "1099",
+        "artist": "230",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "BLOK3 - aklÄ±na ben gelicem",
+        "title": "779",
+        "artist": "91",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "BLOK3 - SEVMEYÄ° DENEMEDÄ°N",
+        "title": "421",
+        "artist": "351",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Era7capone - CISTAK",
+        "title": "514",
+        "artist": "186",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "YÃ¼zyÃ¼zeyken KonuÅuruz - Dinle Beni Bi'",
+        "title": "2355",
+        "artist": "",
+        "streams": "18",
+        "link": null
+      }
+    ]
+  },
+  "UA": {
+    "country_name": "Ukraine",
+    "songs": [
+      {
+        "rank": "SadSvit - Ð¡Ð¸Ð»ÑÐµÑÐ¸",
+        "title": "1107",
+        "artist": "565",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Neighbourhood - Sweater Weather",
+        "title": "1865",
+        "artist": "",
+        "streams": "14",
+        "link": null
+      },
+      {
+        "rank": "SadSvit - ÐÐ°ÑÐµÑÐ°",
+        "title": "1300",
+        "artist": "181",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Wellboy - ÐÐ¾Ð´Ð¾Ð¼Ñ",
+        "title": "882",
+        "artist": "179",
+        "streams": "5",
+        "link": null
+      },
+      {
+        "rank": "KRBK - ÐÑÐµÐ¿ÑÐµ",
+        "title": "1024",
+        "artist": "79",
+        "streams": "7",
+        "link": null
+      },
+      {
+        "rank": "YAKTAK - ÐÐ¾Ð³Ð»ÑÐ´",
+        "title": "952",
+        "artist": "218",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Artemas - i like the way you kiss me",
+        "title": "589",
+        "artist": "218",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Klavdia Petrivna - ÐÐ½Ð°Ð¹Ð´Ð¸ Ð¼ÐµÐ½Ðµ",
+        "title": "759",
+        "artist": "165",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Parfeniuk - ÐÑÐ´ÑÐ¸Ð²Ð°ÑÑÐ¸ÑÑ",
+        "title": "842",
+        "artist": "123",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "xxxmanera - Never Broke Again",
+        "title": "1116",
+        "artist": "129",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "AE": {
+    "country_name": "United Arab Emirates",
+    "songs": [
+      {
+        "rank": "Jin - Running Wild",
+        "title": "226",
+        "artist": "221",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Billie Eilish - BIRDS OF A FEATHER",
+        "title": "540",
+        "artist": "496",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Blinding Lights",
+        "title": "2169",
+        "artist": "377",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Lady Gaga - Die With A Smile",
+        "title": "449",
+        "artist": "337",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Kid LAROI - Stay",
+        "title": "1388",
+        "artist": "382",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Harry Styles - As It Was",
+        "title": "1210",
+        "artist": "408",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jung Kook - Seven",
+        "title": "848",
+        "artist": "256",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "The Weeknd - Starboy",
+        "title": "1802",
+        "artist": "3",
+        "streams": "10",
+        "link": null
+      },
+      {
+        "rank": "Glass Animals - Heat Waves",
+        "title": "1607",
+        "artist": "373",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Sabrina Carpenter - Espresso",
+        "title": "575",
+        "artist": "234",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "UY": {
+    "country_name": "Uruguay",
+    "songs": [
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1196",
+        "artist": "227",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Big One - Un Finde | CROSSOVER #2",
+        "title": "886",
+        "artist": "208",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bizarrap - Quevedo: Bzrp Music Sessions, Vol. 52",
+        "title": "660",
+        "artist": "203",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Luck Ra - La Morocha",
+        "title": "799",
+        "artist": "192",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "TINI - MiÃ©nteme",
+        "title": "1298",
+        "artist": "153",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Big One - En la Intimidad",
+        "title": "780",
+        "artist": "201",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Taiu - Rara Vez",
+        "title": "966",
+        "artist": "86",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "LA NUEVA ESCUELA - Tu y Yo",
+        "title": "956",
+        "artist": "44",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Luck Ra - Ya No Vuelvas (VersiÃ³n Cuarteto)",
+        "title": "893",
+        "artist": "28",
+        "streams": "8",
+        "link": null
+      },
+      {
+        "rank": "Tiago PZK - Piel",
+        "title": "642",
+        "artist": "259",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "VE": {
+    "country_name": "Venezuela",
+    "songs": [
+      {
+        "rank": "Jimin - Who",
+        "title": "477",
+        "artist": "436",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Feid - LUNA",
+        "title": "708",
+        "artist": "376",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Manuel Turizo - La Bachata",
+        "title": "1222",
+        "artist": "255",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Mora - LA INOCENTE",
+        "title": "1311",
+        "artist": "182",
+        "streams": "3",
+        "link": null
+      },
+      {
+        "rank": "Feid - Feliz CumpleaÃ±os Ferxxo",
+        "title": "1110",
+        "artist": "223",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Plan B - Es un Secreto",
+        "title": "1308",
+        "artist": "53",
+        "streams": "6",
+        "link": null
+      },
+      {
+        "rank": "KAROL G - AMARGURA",
+        "title": "979",
+        "artist": "299",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Bad Bunny - PERRO NEGRO",
+        "title": "755",
+        "artist": "234",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "KAROL G - PROVENZA",
+        "title": "1290",
+        "artist": "126",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Alleh - capaz (merengueton)",
+        "title": "353",
+        "artist": "316",
+        "streams": "1",
+        "link": null
+      }
+    ]
+  },
+  "VN": {
+    "country_name": "Vietnam",
+    "songs": [
+      {
+        "rank": "Jung Kook - Seven",
+        "title": "848",
+        "artist": "848",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jung Kook - Standing Next to You",
+        "title": "735",
+        "artist": "432",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jimin - Who",
+        "title": "451",
+        "artist": "246",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jimin - Like Crazy",
+        "title": "529",
+        "artist": "461",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Jung Kook - 3D",
+        "title": "766",
+        "artist": "405",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "Emcee L (Da LAB) - Chuyá»n ÄÃ´i Ta",
+        "title": "1437",
+        "artist": "252",
+        "streams": "2",
+        "link": null
+      },
+      {
+        "rank": "tlinh - náº¿u lÃºc ÄÃ³",
+        "title": "982",
+        "artist": "213",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "SÆ¡n TÃ¹ng M-TP - ChÃºng Ta Cá»§a Hiá»n Táº¡i",
+        "title": "1784",
+        "artist": "362",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "GREY D - vaicaunoicokhiennguoithaydoi",
+        "title": "1237",
+        "artist": "267",
+        "streams": "1",
+        "link": null
+      },
+      {
+        "rank": "Madihu - VÃ¬ Anh ÄÃ¢u CÃ³ Biáº¿t",
+        "title": "1192",
+        "artist": "291",
+        "streams": "2",
+        "link": null
+      }
+    ]
+  }
+}

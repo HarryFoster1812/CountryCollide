@@ -1,0 +1,7199 @@
+{
+  "Canada": {
+    "code3": "CAN",
+    "code2": "CA",
+    "Annual CO\u2082 emissions (per capita)": {
+      "value": 13.977395,
+      "year": 2023
+    },
+    "Daily mean income": {
+      "value": 77.72996
+    },
+    "GDP per capita ($)": {
+      "value": 56691.906,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.803,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.9796889
+    },
+    "Land area (sq. km)": {
+      "value": 8788700.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 12.93,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.3130342,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 97784.54,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 13741740
+    }
+  },
+  "China": {
+    "code3": "CHN",
+    "code2": "CN",
+    "Annual CO\u2082 emissions (per capita)": {
+      "value": 8.366814,
+      "year": 2023
+    },
+    "Daily mean income": {
+      "value": 17.109299
+    },
+    "GDP per capita ($)": {
+      "value": 23845.62,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.921,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.5018561
+    },
+    "Land area (sq. km)": {
+      "value": 9388210.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.99,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.7112974,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 34514.457,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 544044355
+    }
+  },
+  "European Union (27)": {
+    "code2": null,
+    "Annual CO\u2082 emissions (per capita)": {
+      "value": 5.571019,
+      "year": 2023
+    }
+  },
+  "India": {
+    "code3": "IND",
+    "code2": "IN",
+    "Annual CO\u2082 emissions (per capita)": {
+      "value": 2.129469,
+      "year": 2023
+    },
+    "Daily mean income": {
+      "value": 6.3550925
+    },
+    "GDP per capita ($)": {
+      "value": 9817.071,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.389,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.8153043
+    },
+    "Land area (sq. km)": {
+      "value": 2973190.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 7.8,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.2712033,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 7812.9277,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 99.5,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 346278818
+    }
+  },
+  "Kenya": {
+    "code3": "KEN",
+    "code2": "KE",
+    "Annual CO\u2082 emissions (per capita)": {
+      "value": 0.38907528,
+      "year": 2023
+    },
+    "Daily mean income": {
+      "value": 4.288312
+    },
+    "GDP per capita ($)": {
+      "value": 5823.4077,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.51,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 4.8716683
+    },
+    "Land area (sq. km)": {
+      "value": 569140.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.73,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.9995466,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 1607.9135
+    },
+    "Electricity Access %": {
+      "value": 76.2,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 5769190
+    }
+  },
+  "South Africa": {
+    "code3": "ZAF",
+    "code2": "ZA",
+    "Annual CO\u2082 emissions (per capita)": {
+      "value": 6.357822,
+      "year": 2023
+    },
+    "GDP per capita ($)": {
+      "value": 13598.789,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.213,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 43.720257
+    },
+    "Land area (sq. km)": {
+      "value": 1213090.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.47,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.70015085,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 21286.549,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 87.7,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 13038501
+    }
+  },
+  "United Kingdom": {
+    "code3": "GBR",
+    "code2": "GB",
+    "Annual CO\u2082 emissions (per capita)": {
+      "value": 4.4428244,
+      "year": 2023
+    },
+    "Daily mean income": {
+      "value": 64.3205
+    },
+    "GDP per capita ($)": {
+      "value": 52517.984,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.728,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.1186842
+    },
+    "Land area (sq. km)": {
+      "value": 241930.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 12.9,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.2786179,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 28015.771,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 50121020
+    }
+  },
+  "United States": {
+    "code3": "USA",
+    "code2": "US",
+    "Annual CO\u2082 emissions (per capita)": {
+      "value": 14.299026,
+      "year": 2023
+    },
+    "Daily mean income": {
+      "value": 92.95212
+    },
+    "GDP per capita ($)": {
+      "value": 75491.61,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.724,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 5.7634077
+    },
+    "Land area (sq. km)": {
+      "value": 9147420.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 13.32,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 3.4192164,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 76799.57,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 154202683
+    }
+  },
+  "World": {
+    "code3": "OWID_WRL",
+    "code2": null,
+    "Annual CO\u2082 emissions (per capita)": {
+      "value": 4.6703916,
+      "year": 2023
+    },
+    "Population": {
+      "value": 2493092852
+    }
+  },
+  "Albania": {
+    "code2": "AL",
+    "Daily mean income": {
+      "value": 14.8471575
+    },
+    "code3": "ALB",
+    "GDP per capita ($)": {
+      "value": 18919.807,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.411,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.7551677,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 27400.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.32,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.0378623,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 8032.0703
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1247854
+    }
+  },
+  "Algeria": {
+    "code3": "DZA",
+    "code2": "DZ",
+    "GDP per capita ($)": {
+      "value": 15442.124,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.571,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.1610724
+    },
+    "Land area (sq. km)": {
+      "value": 2381741.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.18,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 7.9714575,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 16237.188,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 9018423
+    }
+  },
+  "Angola": {
+    "code3": "AGO",
+    "code2": "AO",
+    "GDP per capita ($)": {
+      "value": 7344.1455,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.795
+    },
+    "Land area (sq. km)": {
+      "value": 1246700.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.0004921,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 2680.3416
+    },
+    "Electricity Access %": {
+      "value": 51.1,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 4551869
+    }
+  },
+  "Armenia": {
+    "code2": "AM",
+    "Daily mean income": {
+      "value": 8.848503
+    },
+    "code3": "ARM",
+    "GDP per capita ($)": {
+      "value": 20078.785,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.494,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.2083356
+    },
+    "Land area (sq. km)": {
+      "value": 28470.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.54,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 5.481749,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 16027.844
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1382896
+    }
+  },
+  "Australia": {
+    "code2": "AU",
+    "Daily mean income": {
+      "value": 72.71122
+    },
+    "code3": "AUS",
+    "GDP per capita ($)": {
+      "value": 60082.004,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.974,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.85440606
+    },
+    "Land area (sq. km)": {
+      "value": 7692020.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 12.93,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.8837883,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 62595.04,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 8176751
+    }
+  },
+  "Austria": {
+    "code2": "AT",
+    "Daily mean income": {
+      "value": 81.63124
+    },
+    "code3": "AUT",
+    "GDP per capita ($)": {
+      "value": 63314.46,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.81,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.876191
+    },
+    "Land area (sq. km)": {
+      "value": 82520.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.39,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.9998431,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 45208.31,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 6936455
+    }
+  },
+  "Azerbaijan": {
+    "code3": "AZE",
+    "code2": "AZ",
+    "GDP per capita ($)": {
+      "value": 22072.105,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.875,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.9929228,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 82650.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 4.9929237,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 20137.387,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 3131979
+    }
+  },
+  "Bangladesh": {
+    "code2": "BD",
+    "Daily mean income": {
+      "value": 7.510242
+    },
+    "code3": "BGD",
+    "GDP per capita ($)": {
+      "value": 8486.785,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.851,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 130170.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 7.23,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.94132113,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 3048.3135,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 99.5,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 41206857
+    }
+  },
+  "Barbados": {
+    "code3": "BRB",
+    "code2": "BB",
+    "GDP per capita ($)": {
+      "value": 19945.736,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 15.231051
+    },
+    "Land area (sq. km)": {
+      "value": 430.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.67,
+      "year": 2020
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 20013.902
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 209928
+    }
+  },
+  "Belarus": {
+    "code2": "BY",
+    "Daily mean income": {
+      "value": 20.547213
+    },
+    "code3": "BLR",
+    "GDP per capita ($)": {
+      "value": 29037.53,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.821
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.3846316
+    },
+    "Land area (sq. km)": {
+      "value": 202990.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.0736492,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 34632.566,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 7127595
+    }
+  },
+  "Belgium": {
+    "code2": "BE",
+    "Daily mean income": {
+      "value": 69.923615
+    },
+    "code3": "BEL",
+    "GDP per capita ($)": {
+      "value": 63083.184,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.91,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.0803015
+    },
+    "Land area (sq. km)": {
+      "value": 30494.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.57,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.2770531,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 54870.88,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 8617442
+    }
+  },
+  "Belize": {
+    "code3": "BLZ",
+    "code2": "BZ",
+    "GDP per capita ($)": {
+      "value": 13277.936,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.711,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 28.058292
+    },
+    "Land area (sq. km)": {
+      "value": 22810.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.71,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.8988859,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 9012.318
+    },
+    "Electricity Access %": {
+      "value": 99.6,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 69085
+    }
+  },
+  "Benin": {
+    "code2": "BJ",
+    "Daily mean income": {
+      "value": 5.2668376
+    },
+    "code3": "BEN",
+    "GDP per capita ($)": {
+      "value": 3901.326,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.357,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 112760.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.27,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.7205496,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 1896.6274
+    },
+    "Electricity Access %": {
+      "value": 57.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2250476
+    }
+  },
+  "Bhutan": {
+    "code2": "BT",
+    "Daily mean income": {
+      "value": 18.073696
+    },
+    "GDP per capita ($)": {
+      "value": 14645.266
+    },
+    "Happiness (0-10)": {
+      "value": 5.082
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.4675133
+    },
+    "code3": "BTN",
+    "Land area (sq. km)": {
+      "value": 38140.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 18780.541
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 169991
+    }
+  },
+  "Bolivia": {
+    "code2": "BO",
+    "Daily mean income": {
+      "value": 22.932411
+    },
+    "code3": "BOL",
+    "GDP per capita ($)": {
+      "value": 9844.276,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.868,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 4.418433
+    },
+    "Land area (sq. km)": {
+      "value": 1083300.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.06,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.3706636,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 8598.6455
+    },
+    "Electricity Access %": {
+      "value": 99.8,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 3089975
+    }
+  },
+  "Bosnia and Herzegovina": {
+    "code3": "BIH",
+    "code2": "BA",
+    "GDP per capita ($)": {
+      "value": 20428.525,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.136,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.2244617
+    },
+    "Land area (sq. km)": {
+      "value": 51200.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.7470799,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 26735.992
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    }
+  },
+  "Botswana": {
+    "code3": "BWA",
+    "code2": "BW",
+    "GDP per capita ($)": {
+      "value": 18068.506,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.438,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 11.368176
+    },
+    "Land area (sq. km)": {
+      "value": 566730.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.58,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.8339279,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 9508.218
+    },
+    "Electricity Access %": {
+      "value": 76.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 413708
+    }
+  },
+  "Brazil": {
+    "code2": "BR",
+    "Daily mean income": {
+      "value": 25.532705
+    },
+    "code3": "BRA",
+    "GDP per capita ($)": {
+      "value": 19647.91,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.494,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 20.575377
+    },
+    "Land area (sq. km)": {
+      "value": 8358140.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.0,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.9727745,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 18486.229,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 99.8,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 53408551
+    }
+  },
+  "Bulgaria": {
+    "code2": "BG",
+    "Daily mean income": {
+      "value": 39.4116
+    },
+    "code3": "BGR",
+    "GDP per capita ($)": {
+      "value": 34083.234,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.554,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.0889074
+    },
+    "Land area (sq. km)": {
+      "value": 108560.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.75,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.1494734,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 28381.64,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 7248509
+    }
+  },
+  "Burkina Faso": {
+    "code2": "BF",
+    "Daily mean income": {
+      "value": 4.472096
+    },
+    "code3": "BFA",
+    "GDP per capita ($)": {
+      "value": 2547.9326,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.383,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 273600.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 4.679732,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 1020.26306
+    },
+    "Electricity Access %": {
+      "value": 21.7,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 4213152
+    }
+  },
+  "Burundi": {
+    "code2": "BI",
+    "Daily mean income": {
+      "value": 2.6171274
+    },
+    "code3": "BDI",
+    "GDP per capita ($)": {
+      "value": 835.62085,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.775
+    },
+    "Land area (sq. km)": {
+      "value": 25680.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 5.05,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 3.801279,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 277.14117
+    },
+    "Electricity Access %": {
+      "value": 11.6,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2254942
+    }
+  },
+  "Cameroon": {
+    "code2": "CM",
+    "Daily mean income": {
+      "value": 6.8537874
+    },
+    "code3": "CMR",
+    "GDP per capita ($)": {
+      "value": 4919.1416,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.887,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 6.7600894
+    },
+    "Land area (sq. km)": {
+      "value": 472710.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 7.37,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.0091276,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 1251.8386
+    },
+    "Electricity Access %": {
+      "value": 72.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 4330088
+    }
+  },
+  "Cape Verde": {
+    "code3": "CPV",
+    "code2": "CV",
+    "GDP per capita ($)": {
+      "value": 9907.589,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 6.994644
+    },
+    "Land area (sq. km)": {
+      "value": 4030.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.6239034,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 5861.1255
+    },
+    "Electricity Access %": {
+      "value": 98.6,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 184986
+    }
+  },
+  "Central African Republic": {
+    "code2": "CF",
+    "Daily mean income": {
+      "value": 2.7529066
+    },
+    "code3": "CAF",
+    "GDP per capita ($)": {
+      "value": 1111.6533,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.4759
+    },
+    "Land area (sq. km)": {
+      "value": 622980.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 4.64,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.5196912,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 279.59027
+    },
+    "Electricity Access %": {
+      "value": 17.6,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1438062
+    }
+  },
+  "Chad": {
+    "code2": "TD",
+    "Daily mean income": {
+      "value": 4.5775433
+    },
+    "code3": "TCD",
+    "GDP per capita ($)": {
+      "value": 2605.7717,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.384,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 1259200.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.98485,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 440.09256
+    },
+    "Electricity Access %": {
+      "value": 12.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2525457
+    }
+  },
+  "Chile": {
+    "code2": "CL",
+    "Daily mean income": {
+      "value": 32.76781
+    },
+    "code3": "CHL",
+    "GDP per capita ($)": {
+      "value": 30182.787,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.361,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 6.348291
+    },
+    "Land area (sq. km)": {
+      "value": 743532.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.74,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.5778039,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 26245.264,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 6628577
+    }
+  },
+  "Colombia": {
+    "code2": "CO",
+    "Daily mean income": {
+      "value": 19.182163
+    },
+    "code3": "COL",
+    "GDP per capita ($)": {
+      "value": 18503.67,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.004,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 24.913443
+    },
+    "Land area (sq. km)": {
+      "value": 1109500.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.2,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 3.3590336,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 11645.494,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 98.7,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 11766991
+    }
+  },
+  "Comoros": {
+    "code3": "COM",
+    "code2": "KM",
+    "GDP per capita ($)": {
+      "value": 3567.514,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.754,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 1861.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 2092.1536
+    },
+    "Electricity Access %": {
+      "value": 89.8,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 161951
+    }
+  },
+  "Congo": {
+    "code3": "COG",
+    "code2": "CG",
+    "GDP per capita ($)": {
+      "value": 6181.4707,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.03,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 341500.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.74,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.1859612,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 2154.2866
+    },
+    "Electricity Access %": {
+      "value": 51.3,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 835269
+    }
+  },
+  "Costa Rica": {
+    "code3": "CRI",
+    "code2": "CR",
+    "Daily mean income": {
+      "value": 30.73433,
+      "year": 2024.0
+    },
+    "GDP per capita ($)": {
+      "value": 26973.436,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 7.274,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 17.74548
+    },
+    "Land area (sq. km)": {
+      "value": 51060.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.12,
+      "year": 2020
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 9004.632
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 926761
+    }
+  },
+  "Cote d'Ivoire": {
+    "code2": "CI",
+    "Daily mean income": {
+      "value": 6.0716295
+    },
+    "code3": "CIV",
+    "GDP per capita ($)": {
+      "value": 6733.154,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.102,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 318000.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.05,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.762359,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 2488.0098
+    },
+    "Electricity Access %": {
+      "value": 72.4,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2735187
+    }
+  },
+  "Croatia": {
+    "code2": "HR",
+    "Daily mean income": {
+      "value": 41.354122
+    },
+    "code3": "HRV",
+    "GDP per capita ($)": {
+      "value": 42631.316,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.87,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.66734713
+    },
+    "Land area (sq. km)": {
+      "value": 55960.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 12.03,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.7932342,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 26615.488,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 3864992
+    }
+  },
+  "Cyprus": {
+    "code2": "CY",
+    "Daily mean income": {
+      "value": 63.37519
+    },
+    "code3": "CYP",
+    "GDP per capita ($)": {
+      "value": 53252.46,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.942,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.9570879,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 9240.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 12.42,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.6473522,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 24551.195,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 493883
+    }
+  },
+  "Czechia": {
+    "code2": "CZ",
+    "Daily mean income": {
+      "value": 43.34936
+    },
+    "code3": "CZE",
+    "GDP per capita ($)": {
+      "value": 47961.81,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.775,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.76782775
+    },
+    "Land area (sq. km)": {
+      "value": 77171.73,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 12.93,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.9168085,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 36589.773,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 8916715
+    }
+  },
+  "Democratic Republic of Congo": {
+    "code2": "CD",
+    "Daily mean income": {
+      "value": 1.9507064
+    },
+    "code3": "COD",
+    "GDP per capita ($)": {
+      "value": 1504.1438,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.469,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 2267050.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 4.85,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.2285527,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 382.4757
+    },
+    "Electricity Access %": {
+      "value": 22.1,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 12294293
+    }
+  },
+  "Denmark": {
+    "code2": "DK",
+    "Daily mean income": {
+      "value": 72.673805
+    },
+    "code3": "DNK",
+    "GDP per capita ($)": {
+      "value": 73709.0,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 7.521,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.8405994
+    },
+    "Land area (sq. km)": {
+      "value": 40000.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.69,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.4161744,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 32832.465,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 4268408
+    }
+  },
+  "Djibouti": {
+    "code3": "DJI",
+    "code2": "DJ",
+    "GDP per capita ($)": {
+      "value": 6841.1665,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.369
+    },
+    "Land area (sq. km)": {
+      "value": 23180.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 3056.166
+    },
+    "Electricity Access %": {
+      "value": 65.2,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 62349
+    }
+  },
+  "Dominican Republic": {
+    "code3": "DOM",
+    "code2": "DO",
+    "Daily mean income": {
+      "value": 22.729546,
+      "year": 2024.0
+    },
+    "GDP per capita ($)": {
+      "value": 24229.469,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.846,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 10.9166975
+    },
+    "Land area (sq. km)": {
+      "value": 48198.02,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.04,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.7824201,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 11526.293
+    },
+    "Electricity Access %": {
+      "value": 99.6,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2379896
+    }
+  },
+  "East Timor": {
+    "code3": "TLS",
+    "code2": "TL",
+    "GDP per capita ($)": {
+      "value": 4186.215,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 14870.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.6641567,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 2000.2352
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 414767
+    }
+  },
+  "Ecuador": {
+    "code3": "ECU",
+    "code2": "EC",
+    "Daily mean income": {
+      "value": 16.930481,
+      "year": 2024.0
+    },
+    "GDP per capita ($)": {
+      "value": 13935.539,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.965,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 45.722813
+    },
+    "Land area (sq. km)": {
+      "value": 248360.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.07,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.2219477,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 12722.083,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 98.7,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 3516791
+    }
+  },
+  "Egypt": {
+    "code2": "EG",
+    "Daily mean income": {
+      "value": 9.027522
+    },
+    "code3": "EGY",
+    "GDP per capita ($)": {
+      "value": 16798.152,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.817,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 995450.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.01,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.6652636,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 9660.864,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 21148168
+    }
+  },
+  "El Salvador": {
+    "code2": "SV",
+    "Daily mean income": {
+      "value": 15.455426
+    },
+    "code3": "SLV",
+    "GDP per capita ($)": {
+      "value": 11669.082,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.492,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 7.897688
+    },
+    "Land area (sq. km)": {
+      "value": 20720.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.1,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.1861192,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 7157.062
+    },
+    "Electricity Access %": {
+      "value": 98.3,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2183513
+    }
+  },
+  "Equatorial Guinea": {
+    "code2": "GQ",
+    "Daily mean income": {
+      "value": 9.440321
+    },
+    "code3": "GNQ",
+    "GDP per capita ($)": {
+      "value": 15454.429,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 28050.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.98218584,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 15974.835
+    },
+    "Electricity Access %": {
+      "value": 66.9,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 226570
+    }
+  },
+  "Estonia": {
+    "code2": "EE",
+    "Daily mean income": {
+      "value": 43.79758
+    },
+    "code3": "EST",
+    "GDP per capita ($)": {
+      "value": 41546.12,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.417,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.5359905
+    },
+    "Land area (sq. km)": {
+      "value": 42730.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 12.29,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 3.3740022,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 40986.305,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1102046
+    }
+  },
+  "Eswatini": {
+    "code3": "SWZ",
+    "code2": "SZ",
+    "GDP per capita ($)": {
+      "value": 10367.269,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.774,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 12.514571
+    },
+    "Land area (sq. km)": {
+      "value": 17200.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.46,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.4440675,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 5516.521
+    },
+    "Electricity Access %": {
+      "value": 86.4,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 271670
+    }
+  },
+  "Ethiopia": {
+    "code2": "ET",
+    "Daily mean income": {
+      "value": 4.163239
+    },
+    "code3": "ETH",
+    "GDP per capita ($)": {
+      "value": 2884.2646,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.898,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 1128571.4,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.6505065,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 693.36096
+    },
+    "Electricity Access %": {
+      "value": 55.4,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 17670418
+    }
+  },
+  "Fiji": {
+    "code2": "FJ",
+    "Daily mean income": {
+      "value": 8.526295
+    },
+    "code3": "FJI",
+    "GDP per capita ($)": {
+      "value": 14104.443,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.0559533
+    },
+    "Land area (sq. km)": {
+      "value": 18270.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.52,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.3128793,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 7436.558
+    },
+    "Electricity Access %": {
+      "value": 99.3,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 309525
+    }
+  },
+  "Finland": {
+    "code2": "FI",
+    "Daily mean income": {
+      "value": 64.4631
+    },
+    "code3": "FIN",
+    "GDP per capita ($)": {
+      "value": 55628.68,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 7.736,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.98193496
+    },
+    "Land area (sq. km)": {
+      "value": 303947.7,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.05,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.2997918,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 59564.754,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 4008410
+    }
+  },
+  "France": {
+    "code2": "FR",
+    "Daily mean income": {
+      "value": 66.80173
+    },
+    "code3": "FRA",
+    "GDP per capita ($)": {
+      "value": 54464.98,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.593,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.3478885,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 547557.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.89,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.0525768,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 37865.61,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 41883122
+    }
+  },
+  "Gabon": {
+    "code3": "GAB",
+    "code2": "GA",
+    "GDP per capita ($)": {
+      "value": 18923.09,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.12,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 257670.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.18,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.5382068,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 6477.258
+    },
+    "Electricity Access %": {
+      "value": 94.1,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 472843
+    }
+  },
+  "Gambia": {
+    "code2": "GM",
+    "Daily mean income": {
+      "value": 6.466066
+    },
+    "code3": "GMB",
+    "GDP per capita ($)": {
+      "value": 3030.974,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.423,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 10120.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 4.92,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.57444036,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 800.2949
+    },
+    "Electricity Access %": {
+      "value": 66.9,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 306745
+    }
+  },
+  "Georgia": {
+    "code3": "GEO",
+    "code2": "GE",
+    "Daily mean income": {
+      "value": 10.7141,
+      "year": 2024.0
+    },
+    "GDP per capita ($)": {
+      "value": 25000.633,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.4,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.028065
+    },
+    "Land area (sq. km)": {
+      "value": 69490.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.8640294,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 16434.389
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 3497447
+    }
+  },
+  "Germany": {
+    "code2": "DE",
+    "Daily mean income": {
+      "value": 79.63479
+    },
+    "code3": "DEU",
+    "GDP per capita ($)": {
+      "value": 62829.797,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.753,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.9107228
+    },
+    "Land area (sq. km)": {
+      "value": 349360.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 13.1,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.8919038,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 37792.51,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 69847778
+    }
+  },
+  "Ghana": {
+    "code3": "GHA",
+    "code2": "GH",
+    "GDP per capita ($)": {
+      "value": 7061.934,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.34,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.8311177
+    },
+    "Land area (sq. km)": {
+      "value": 227533.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.39,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.3839942,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 3075.1707
+    },
+    "Electricity Access %": {
+      "value": 89.5,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 5080664
+    }
+  },
+  "Greece": {
+    "code2": "GR",
+    "Daily mean income": {
+      "value": 34.240925
+    },
+    "code3": "GRC",
+    "GDP per capita ($)": {
+      "value": 37752.633,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.776,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.8396053
+    },
+    "Land area (sq. km)": {
+      "value": 128900.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.86,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 3.1279755,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 31965.838,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 7651080
+    }
+  },
+  "Grenada": {
+    "code3": "GRD",
+    "code2": "GD",
+    "GDP per capita ($)": {
+      "value": 17742.176,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 13.665752
+    },
+    "Land area (sq. km)": {
+      "value": 340.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 12220.67
+    },
+    "Electricity Access %": {
+      "value": 94.4,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 77280
+    }
+  },
+  "Guatemala": {
+    "code2": "GT",
+    "Daily mean income": {
+      "value": 12.511656
+    },
+    "code3": "GTM",
+    "GDP per capita ($)": {
+      "value": 12640.887,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.362,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 23.365726
+    },
+    "Land area (sq. km)": {
+      "value": 107160.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.26,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.36762208,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 5010.241
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 3097199
+    }
+  },
+  "Guinea": {
+    "code3": "GIN",
+    "code2": "GN",
+    "GDP per capita ($)": {
+      "value": 4028.4834,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.929,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 245720.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.0537033,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 1534.3684
+    },
+    "Electricity Access %": {
+      "value": 51.1,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 3013177
+    }
+  },
+  "Guinea-Bissau": {
+    "code2": "GW",
+    "Daily mean income": {
+      "value": 4.3089066
+    },
+    "code3": "GNB",
+    "GDP per capita ($)": {
+      "value": 2685.6174,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 28120.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.2348847
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 689.11017
+    },
+    "Electricity Access %": {
+      "value": 40.5,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 543632
+    }
+  },
+  "Guyana": {
+    "code3": "GUY",
+    "code2": "GY",
+    "GDP per capita ($)": {
+      "value": 70297.41,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 19.120157
+    },
+    "Land area (sq. km)": {
+      "value": 196850.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.52,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.8681622,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 13494.394
+    },
+    "Electricity Access %": {
+      "value": 98.9,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 418045
+    }
+  },
+  "Haiti": {
+    "code3": "HTI",
+    "code2": "HT",
+    "GDP per capita ($)": {
+      "value": 2800.6611,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.615
+    },
+    "Homicide rate per 100,100": {
+      "value": 41.15181
+    },
+    "Land area (sq. km)": {
+      "value": 27560.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 5.95,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.0684431,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 1021.7258
+    },
+    "Electricity Access %": {
+      "value": 51.3,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 3265716
+    }
+  },
+  "Honduras": {
+    "code3": "HND",
+    "code2": "HN",
+    "Daily mean income": {
+      "value": 11.546224,
+      "year": 2024.0
+    },
+    "GDP per capita ($)": {
+      "value": 6585.8555,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.964,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 31.442432
+    },
+    "Land area (sq. km)": {
+      "value": 111890.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 7.51,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.5753627,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 4877.1445
+    },
+    "Electricity Access %": {
+      "value": 95.6,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1558941
+    }
+  },
+  "Hungary": {
+    "code3": "HUN",
+    "code2": "HU",
+    "GDP per capita ($)": {
+      "value": 40702.152,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.915,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.722658
+    },
+    "Land area (sq. km)": {
+      "value": 91260.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.96,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.1563098,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 26952.049,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 9337883
+    }
+  },
+  "Iceland": {
+    "code2": "IS",
+    "Daily mean income": {
+      "value": 68.33211
+    },
+    "code3": "ISL",
+    "GDP per capita ($)": {
+      "value": 65645.09,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 7.515,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.2901311
+    },
+    "Land area (sq. km)": {
+      "value": 100830.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 13.53,
+      "year": 2020
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 159676.39,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 142684
+    }
+  },
+  "Indonesia": {
+    "code3": "IDN",
+    "code2": "ID",
+    "Daily mean income": {
+      "value": 8.235058,
+      "year": 2024.0
+    },
+    "GDP per capita ($)": {
+      "value": 14470.4375,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.617,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.30376875
+    },
+    "Land area (sq. km)": {
+      "value": 1892555.5,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.06,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.77921677,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 10528.601,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 99.4,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 68799031
+    }
+  },
+  "Iran": {
+    "code2": "IR",
+    "Daily mean income": {
+      "value": 12.783147
+    },
+    "code3": "IRN",
+    "GDP per capita ($)": {
+      "value": 16224.035,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.093,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 1622500.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.8,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.0104318,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 39203.61,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 16510553
+    }
+  },
+  "Iraq": {
+    "code2": "IQ",
+    "Daily mean income": {
+      "value": 12.957657
+    },
+    "code3": "IRQ",
+    "GDP per capita ($)": {
+      "value": 12725.043,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.976,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 434128.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.27,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.3571405,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 16002.357,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 5653357
+    }
+  },
+  "Ireland": {
+    "code2": "IE",
+    "Daily mean income": {
+      "value": 59.157333
+    },
+    "code3": "IRL",
+    "GDP per capita ($)": {
+      "value": 115337.164,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.889,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.6542702
+    },
+    "Land area (sq. km)": {
+      "value": 68890.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 13.74,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.23909633,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 34593.98,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2912656
+    }
+  },
+  "Israel": {
+    "code2": "IL",
+    "Daily mean income": {
+      "value": 42.778305
+    },
+    "code3": "ISR",
+    "GDP per capita ($)": {
+      "value": 47338.844,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 7.234,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.6258106
+    },
+    "Average years of education": {
+      "value": 12.04,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 8.776717,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 29591.316,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1289244
+    }
+  },
+  "Italy": {
+    "code2": "IT",
+    "Daily mean income": {
+      "value": 57.50909
+    },
+    "code3": "ITA",
+    "GDP per capita ($)": {
+      "value": 53115.137,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.415,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.56807244
+    },
+    "Land area (sq. km)": {
+      "value": 295720.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.51,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.6092457,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 28584.518,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 46391674
+    }
+  },
+  "Jamaica": {
+    "code2": "JM",
+    "Daily mean income": {
+      "value": 18.942043
+    },
+    "code3": "JAM",
+    "GDP per capita ($)": {
+      "value": 10259.995,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.87,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 49.299488
+    },
+    "Land area (sq. km)": {
+      "value": 10830.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.1,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.2738574,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 12336.739
+    },
+    "Electricity Access %": {
+      "value": 97.7,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1407214
+    }
+  },
+  "Japan": {
+    "code2": "JP",
+    "Daily mean income": {
+      "value": 48.10824
+    },
+    "code3": "JPN",
+    "GDP per capita ($)": {
+      "value": 46097.43,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.147,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.2291532
+    },
+    "Land area (sq. km)": {
+      "value": 364500.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 12.83,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.3713969,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 38745.04,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 86443278
+    }
+  },
+  "Jordan": {
+    "code3": "JOR",
+    "code2": "JO",
+    "GDP per capita ($)": {
+      "value": 9520.251,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.31,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.98783016
+    },
+    "Land area (sq. km)": {
+      "value": 88794.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.81,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 4.800187,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 9644.626
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 438808
+    }
+  },
+  "Kazakhstan": {
+    "code2": "KZ",
+    "Daily mean income": {
+      "value": 15.093543
+    },
+    "code3": "KAZ",
+    "GDP per capita ($)": {
+      "value": 35905.44,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.378,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.5505862
+    },
+    "Land area (sq. km)": {
+      "value": 2699700.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.79,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.42842844,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 41865.195,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 6787149
+    }
+  },
+  "Kiribati": {
+    "code2": "KI",
+    "Daily mean income": {
+      "value": 6.907507
+    },
+    "code3": "KIR",
+    "GDP per capita ($)": {
+      "value": 3257.1362,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 810.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 2513.8413
+    },
+    "Electricity Access %": {
+      "value": 95.9,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 37871
+    }
+  },
+  "Kosovo": {
+    "code2": null,
+    "Daily mean income": {
+      "value": 12.346149
+    },
+    "code3": "OWID_KOS",
+    "GDP per capita ($)": {
+      "value": 16380.868,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.659,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.8949775
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.4765964,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 15770.582
+    },
+    "Population": {
+      "value": 778478
+    }
+  },
+  "Kyrgyzstan": {
+    "code2": "KG",
+    "Daily mean income": {
+      "value": 7.388985
+    },
+    "code3": "KGZ",
+    "GDP per capita ($)": {
+      "value": 7046.31,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.858,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 191800.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.18,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.9662037,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 8082.865
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1751141
+    }
+  },
+  "Laos": {
+    "code3": "LAO",
+    "code2": "LA",
+    "GDP per capita ($)": {
+      "value": 8610.901,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.301,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 230800.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.05,
+      "year": 2020
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 10100.14
+    },
+    "Electricity Access %": {
+      "value": 96.5,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1684556
+    }
+  },
+  "Latvia": {
+    "code2": "LV",
+    "Daily mean income": {
+      "value": 40.018093
+    },
+    "code3": "LVA",
+    "GDP per capita ($)": {
+      "value": 38936.047,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.207,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.4968178
+    },
+    "Land area (sq. km)": {
+      "value": 62230.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.96,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 3.2579913,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 20722.363,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1918725
+    }
+  },
+  "Lebanon": {
+    "code2": "LB",
+    "Daily mean income": {
+      "value": 9.996689
+    },
+    "GDP per capita ($)": {
+      "value": 11330.269
+    },
+    "code3": "LBN",
+    "Happiness (0-10)": {
+      "value": 3.188,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.24467
+    },
+    "Land area (sq. km)": {
+      "value": 10230.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.5882852,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 12632.702
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1349351
+    }
+  },
+  "Lesotho": {
+    "code3": "LSO",
+    "code2": "LS",
+    "GDP per capita ($)": {
+      "value": 2637.9165,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.757,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 30360.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.88,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.5674502,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 2378.8113
+    },
+    "Electricity Access %": {
+      "value": 57.3,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 579554
+    }
+  },
+  "Liberia": {
+    "code3": "LBR",
+    "code2": "LR",
+    "GDP per capita ($)": {
+      "value": 1658.26,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.277,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 96320.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 5.8,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.7112069,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 533.9603
+    },
+    "Electricity Access %": {
+      "value": 32.5,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 918912
+    }
+  },
+  "Lithuania": {
+    "code2": "LT",
+    "Daily mean income": {
+      "value": 46.528545
+    },
+    "code3": "LTU",
+    "GDP per capita ($)": {
+      "value": 47169.008,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.829,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.6277995
+    },
+    "Land area (sq. km)": {
+      "value": 62604.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 12.5,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 3.1181748,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 25660.39,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2433000
+    }
+  },
+  "Luxembourg": {
+    "code2": "LU",
+    "Daily mean income": {
+      "value": 106.095955
+    },
+    "code3": "LUX",
+    "GDP per capita ($)": {
+      "value": 128181.7,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 7.122,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.5306611
+    },
+    "Land area (sq. km)": {
+      "value": 2574.46,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.53,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.9626792,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 59047.88,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 296580
+    }
+  },
+  "Madagascar": {
+    "code2": "MG",
+    "Daily mean income": {
+      "value": 2.9119458
+    },
+    "code3": "MDG",
+    "GDP per capita ($)": {
+      "value": 1657.0497,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.157,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 581800.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.70864815,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 532.2019
+    },
+    "Electricity Access %": {
+      "value": 39.4,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 3956077
+    }
+  },
+  "Malawi": {
+    "code2": "MW",
+    "Daily mean income": {
+      "value": 2.5915048
+    },
+    "code3": "MWI",
+    "GDP per capita ($)": {
+      "value": 1635.8569,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.26,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 94280.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 5.41,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.0249604,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 525.15204
+    },
+    "Electricity Access %": {
+      "value": 15.6,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2950299
+    }
+  },
+  "Malaysia": {
+    "code2": "MY",
+    "Daily mean income": {
+      "value": 39.696262
+    },
+    "code3": "MYS",
+    "GDP per capita ($)": {
+      "value": 34071.945,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.955,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.7344924
+    },
+    "Land area (sq. km)": {
+      "value": 328550.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.96,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.98755676,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 38865.867,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 6098285
+    }
+  },
+  "Maldives": {
+    "code2": "MV",
+    "Daily mean income": {
+      "value": 17.726778
+    },
+    "code3": "MDV",
+    "GDP per capita ($)": {
+      "value": 23351.055,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.198
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.6150932
+    },
+    "Land area (sq. km)": {
+      "value": 300.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.06,
+      "year": 2020
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 14912.831
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 74461
+    }
+  },
+  "Mali": {
+    "code2": "ML",
+    "Daily mean income": {
+      "value": 4.7777743
+    },
+    "code3": "MLI",
+    "GDP per capita ($)": {
+      "value": 2910.8154,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.345,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 1220190.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 3.55,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 4.198147,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 1262.197
+    },
+    "Electricity Access %": {
+      "value": 54.5,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 4696914
+    }
+  },
+  "Malta": {
+    "code2": "MT",
+    "Daily mean income": {
+      "value": 65.44735
+    },
+    "code3": "MLT",
+    "GDP per capita ($)": {
+      "value": 60469.78,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.316,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.5628983
+    },
+    "Land area (sq. km)": {
+      "value": 320.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 12.09,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.45112336,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 71107.69
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 294685
+    }
+  },
+  "Marshall Islands": {
+    "code2": "MH",
+    "Daily mean income": {
+      "value": 12.782961
+    },
+    "code3": "MHL",
+    "GDP per capita ($)": {
+      "value": 7212.3345,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 180.0,
+      "year": 2022
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 13019
+    }
+  },
+  "Mauritania": {
+    "code2": "MR",
+    "Daily mean income": {
+      "value": 7.20688
+    },
+    "code3": "MRT",
+    "GDP per capita ($)": {
+      "value": 6396.991,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.542,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.9999715
+    },
+    "Land area (sq. km)": {
+      "value": 1030700.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 5.55,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.155047,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 4142.4756
+    },
+    "Electricity Access %": {
+      "value": 50.3,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 657722
+    }
+  },
+  "Mauritius": {
+    "code3": "MUS",
+    "code2": "MU",
+    "GDP per capita ($)": {
+      "value": 27317.186,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.832,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.2724967
+    },
+    "Land area (sq. km)": {
+      "value": 1997.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.4,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.14959086,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 17639.248
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 525560
+    }
+  },
+  "Mexico": {
+    "code2": "MX",
+    "Daily mean income": {
+      "value": 17.818584
+    },
+    "code3": "MEX",
+    "GDP per capita ($)": {
+      "value": 22033.275,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.979,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 24.858995
+    },
+    "Land area (sq. km)": {
+      "value": 1943950.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.18,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.89325756,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 17653.777,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 99.7,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 27587941
+    }
+  },
+  "Micronesia (country)": {
+    "code3": "FSM",
+    "code2": "FM",
+    "GDP per capita ($)": {
+      "value": 3823.604,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.9067663
+    },
+    "Land area (sq. km)": {
+      "value": 700.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 4428.093
+    },
+    "Electricity Access %": {
+      "value": 86.9,
+      "year": 2023.0
+    }
+  },
+  "Moldova": {
+    "code2": "MD",
+    "Daily mean income": {
+      "value": 13.528752
+    },
+    "code3": "MDA",
+    "GDP per capita ($)": {
+      "value": 16465.928,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.819,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.5431437
+    },
+    "Land area (sq. km)": {
+      "value": 32890.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.84,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.5977808,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 11903.726
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2528365
+    }
+  },
+  "Mongolia": {
+    "code2": "MN",
+    "Daily mean income": {
+      "value": 14.330854
+    },
+    "code3": "MNG",
+    "GDP per capita ($)": {
+      "value": 16801.307,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.833,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 5.63941,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 1557506.8,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.0,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.7423073,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 19674.547
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 781691
+    }
+  },
+  "Montenegro": {
+    "code2": "ME",
+    "Daily mean income": {
+      "value": 20.636969
+    },
+    "code3": "MNE",
+    "GDP per capita ($)": {
+      "value": 27852.041,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.877,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.7892012
+    },
+    "Land area (sq. km)": {
+      "value": 13450.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.8325353,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 18582.63
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 402519
+    }
+  },
+  "Morocco": {
+    "code3": "MAR",
+    "code2": "MA",
+    "GDP per capita ($)": {
+      "value": 9065.914,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.622,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.6674905,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 446300.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.83,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 3.515754,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 7256.846,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 8935456
+    }
+  },
+  "Mozambique": {
+    "code2": "MZ",
+    "Daily mean income": {
+      "value": 2.380777
+    },
+    "code3": "MOZ",
+    "GDP per capita ($)": {
+      "value": 1495.3224,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.19,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 786380.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 4.22,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.9933012,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 1696.6578
+    },
+    "Electricity Access %": {
+      "value": 36.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 5910234
+    }
+  },
+  "Myanmar": {
+    "code3": "MMR",
+    "code2": "MM",
+    "GDP per capita ($)": {
+      "value": 5276.2944,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.321,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.5751011
+    },
+    "Land area (sq. km)": {
+      "value": 652670.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.48,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 6.794525,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 2457.1128
+    },
+    "Electricity Access %": {
+      "value": 76.8,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 17737123
+    }
+  },
+  "Namibia": {
+    "code3": "NAM",
+    "code2": "NA",
+    "GDP per capita ($)": {
+      "value": 10281.336,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.911,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 11.207781
+    },
+    "Land area (sq. km)": {
+      "value": 823290.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.88,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.734902,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 6369.585
+    },
+    "Electricity Access %": {
+      "value": 56.7,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 514598
+    }
+  },
+  "Nauru": {
+    "code3": "NRU",
+    "code2": "NR",
+    "GDP per capita ($)": {
+      "value": 12604.0625,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 20.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 29242.105
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 3424
+    }
+  },
+  "Nepal": {
+    "code2": "NP",
+    "Daily mean income": {
+      "value": 9.469674
+    },
+    "code3": "NPL",
+    "GDP per capita ($)": {
+      "value": 5046.816,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.311,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.1300414
+    },
+    "Land area (sq. km)": {
+      "value": 143350.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.19,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.9794525,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 1935.3121
+    },
+    "Electricity Access %": {
+      "value": 94.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 8396610
+    }
+  },
+  "Netherlands": {
+    "code2": "NL",
+    "Daily mean income": {
+      "value": 75.495895
+    },
+    "code3": "NLD",
+    "GDP per capita ($)": {
+      "value": 70901.836,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 7.306,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.69089305
+    },
+    "Land area (sq. km)": {
+      "value": 33670.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.82,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.9164255,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 50824.402,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 10113759
+    }
+  },
+  "Nicaragua": {
+    "code3": "NIC",
+    "code2": "NI",
+    "GDP per capita ($)": {
+      "value": 7661.602,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.33,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 11.34732
+    },
+    "Land area (sq. km)": {
+      "value": 120340.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 7.76,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.54513127,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 3124.2483
+    },
+    "Electricity Access %": {
+      "value": 88.3,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1331445
+    }
+  },
+  "Niger": {
+    "code2": "NE",
+    "Daily mean income": {
+      "value": 3.3583598
+    },
+    "code3": "NER",
+    "GDP per capita ($)": {
+      "value": 1772.7245,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.725,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 1266700.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 3.04,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.241776,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 519.35846
+    },
+    "Electricity Access %": {
+      "value": 20.1,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2597818
+    }
+  },
+  "Nigeria": {
+    "code2": "NG",
+    "Daily mean income": {
+      "value": 4.1566157
+    },
+    "code3": "NGA",
+    "GDP per capita ($)": {
+      "value": 5665.4517,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.885,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 15.746681
+    },
+    "Land area (sq. km)": {
+      "value": 910770.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.5554294,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 2342.6387
+    },
+    "Electricity Access %": {
+      "value": 61.2,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 37283019
+    }
+  },
+  "North Macedonia": {
+    "code2": "MK",
+    "Daily mean income": {
+      "value": 17.216728
+    },
+    "code3": "MKD",
+    "GDP per capita ($)": {
+      "value": 24463.984,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.503,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.5285499
+    },
+    "Land area (sq. km)": {
+      "value": 25220.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.1035285,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 16219.917,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1248682
+    }
+  },
+  "Norway": {
+    "code2": "NO",
+    "Daily mean income": {
+      "value": 86.74115
+    },
+    "code3": "NOR",
+    "GDP per capita ($)": {
+      "value": 91108.234,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 7.262,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.72474706
+    },
+    "Land area (sq. km)": {
+      "value": 364270.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 12.08,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.0912411,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 99634.31,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 3265199
+    }
+  },
+  "Pakistan": {
+    "code3": "PAK",
+    "code2": "PK",
+    "GDP per capita ($)": {
+      "value": 5530.996,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.768,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 4.334871
+    },
+    "Land area (sq. km)": {
+      "value": 770880.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.41,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.6676004,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 3535.5425,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 95.6,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 35849256
+    }
+  },
+  "Palestine": {
+    "code2": "PS",
+    "Daily mean income": {
+      "value": 15.01795
+    },
+    "code3": "PSE",
+    "GDP per capita ($)": {
+      "value": 3845.503,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.78,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.622023
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 4393.3086
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 944632
+    }
+  },
+  "Panama": {
+    "code3": "PAN",
+    "code2": "PA",
+    "Daily mean income": {
+      "value": 28.700144,
+      "year": 2024.0
+    },
+    "GDP per capita ($)": {
+      "value": 36426.008,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.407,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 12.469837
+    },
+    "Land area (sq. km)": {
+      "value": 74180.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.44,
+      "year": 2020
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 22862.531
+    },
+    "Electricity Access %": {
+      "value": 97.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 860855
+    }
+  },
+  "Papua New Guinea": {
+    "code3": "PNG",
+    "code2": "PG",
+    "GDP per capita ($)": {
+      "value": 4300.726,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 452860.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 4.84,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.30799577,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 2573.4968
+    },
+    "Electricity Access %": {
+      "value": 20.5,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1543441
+    }
+  },
+  "Paraguay": {
+    "code3": "PRY",
+    "code2": "PY",
+    "Daily mean income": {
+      "value": 21.274677,
+      "year": 2024.0
+    },
+    "GDP per capita ($)": {
+      "value": 16296.283,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.172,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 6.779516
+    },
+    "Land area (sq. km)": {
+      "value": 396012.03,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.83,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.9331061,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 7541.671
+    },
+    "Electricity Access %": {
+      "value": 99.8,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1504351
+    }
+  },
+  "Peru": {
+    "code3": "PER",
+    "code2": "PE",
+    "Daily mean income": {
+      "value": 13.862174,
+      "year": 2024.0
+    },
+    "GDP per capita ($)": {
+      "value": 15661.75,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.947,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 8.604808
+    },
+    "Land area (sq. km)": {
+      "value": 1280000.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.96,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.9092887,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 10941.455,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 96.2,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 7677414
+    }
+  },
+  "Philippines": {
+    "code2": "PH",
+    "Daily mean income": {
+      "value": 7.255237
+    },
+    "code3": "PHL",
+    "GDP per capita ($)": {
+      "value": 10375.94,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.107,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 4.3475914
+    },
+    "Land area (sq. km)": {
+      "value": 298170.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.44,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.3242689,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 5633.132,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 98.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 18849532
+    }
+  },
+  "Poland": {
+    "code2": "PL",
+    "Daily mean income": {
+      "value": 44.054623
+    },
+    "code3": "POL",
+    "GDP per capita ($)": {
+      "value": 45112.598,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.673,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.8023147
+    },
+    "Land area (sq. km)": {
+      "value": 306090.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 12.01,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 4.1543937,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 29205.824,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 24780169
+    }
+  },
+  "Portugal": {
+    "code2": "PT",
+    "Daily mean income": {
+      "value": 41.0672
+    },
+    "code3": "PRT",
+    "GDP per capita ($)": {
+      "value": 41883.85,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.013,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.71997195
+    },
+    "Land area (sq. km)": {
+      "value": 91605.6,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.56,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.5322683,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 25921.791,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 8418877
+    }
+  },
+  "Qatar": {
+    "code3": "QAT",
+    "code2": "QA",
+    "GDP per capita ($)": {
+      "value": 110945.88,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.374
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.06914541
+    },
+    "Land area (sq. km)": {
+      "value": 11490.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.52,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 6.5002055
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 214520.3,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 24304
+    }
+  },
+  "Romania": {
+    "code2": "RO",
+    "Daily mean income": {
+      "value": 32.655457
+    },
+    "code3": "ROU",
+    "GDP per capita ($)": {
+      "value": 40608.418,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.563,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.1201626,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 230080.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.28,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.2981524,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 18694.158,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 16397275
+    }
+  },
+  "Russia": {
+    "code2": "RU",
+    "Daily mean income": {
+      "value": 26.266544
+    },
+    "code3": "RUS",
+    "GDP per capita ($)": {
+      "value": 41704.71,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.945,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 7.8214107,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 16376870.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.6,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 7.052339,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 62485.312,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 103392364
+    }
+  },
+  "Rwanda": {
+    "code2": "RW",
+    "Daily mean income": {
+      "value": 4.8951716
+    },
+    "code3": "RWA",
+    "GDP per capita ($)": {
+      "value": 3264.6445,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.268
+    },
+    "Homicide rate per 100,100": {
+      "value": 3.6124742
+    },
+    "Land area (sq. km)": {
+      "value": 24670.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 5.24,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.2477208,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 529.7918
+    },
+    "Electricity Access %": {
+      "value": 63.9,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2157101
+    }
+  },
+  "Saint Lucia": {
+    "code3": "LCA",
+    "code2": "LC",
+    "GDP per capita ($)": {
+      "value": 24252.469,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 39.04409
+    },
+    "Land area (sq. km)": {
+      "value": 610.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 13926.932
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 93009
+    }
+  },
+  "Samoa": {
+    "code3": "WSM",
+    "code2": "WS",
+    "GDP per capita ($)": {
+      "value": 6894.8896,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 2780.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 6879.8896
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 88299
+    }
+  },
+  "Sao Tome and Principe": {
+    "code3": "STP",
+    "code2": "ST",
+    "GDP per capita ($)": {
+      "value": 5480.435,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 960.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 2600.9995
+    },
+    "Electricity Access %": {
+      "value": 81.3,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 60895
+    }
+  },
+  "Senegal": {
+    "code2": "SN",
+    "Daily mean income": {
+      "value": 6.512769
+    },
+    "code3": "SEN",
+    "GDP per capita ($)": {
+      "value": 4495.895,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.856,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 192530.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 4.4,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.5664777,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 2433.2778
+    },
+    "Electricity Access %": {
+      "value": 74.2,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2555376
+    }
+  },
+  "Serbia": {
+    "code2": "RS",
+    "Daily mean income": {
+      "value": 21.973694
+    },
+    "code3": "SRB",
+    "GDP per capita ($)": {
+      "value": 26884.463,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.606,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.314002
+    },
+    "Land area (sq. km)": {
+      "value": 84090.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.72,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.5951397,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 26332.174
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 6009201
+    }
+  },
+  "Seychelles": {
+    "code3": "SYC",
+    "code2": "SC",
+    "GDP per capita ($)": {
+      "value": 29241.775,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 7.966699
+    },
+    "Land area (sq. km)": {
+      "value": 460.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.1790686,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 28967.066
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 38306
+    }
+  },
+  "Sierra Leone": {
+    "code3": "SLE",
+    "code2": "SL",
+    "GDP per capita ($)": {
+      "value": 3092.8306,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 2.998,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.2243123
+    },
+    "Land area (sq. km)": {
+      "value": 72180.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 4.99,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.46253964,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 674.46545
+    },
+    "Electricity Access %": {
+      "value": 35.5,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1999628
+    }
+  },
+  "Slovakia": {
+    "code2": "SK",
+    "Daily mean income": {
+      "value": 25.447556
+    },
+    "code3": "SVK",
+    "GDP per capita ($)": {
+      "value": 40346.574,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.221,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.1235844
+    },
+    "Land area (sq. km)": {
+      "value": 48080.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 13.14,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.0107815,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 32882.68,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 3465750
+    }
+  },
+  "Slovenia": {
+    "code2": "SI",
+    "Daily mean income": {
+      "value": 54.709743
+    },
+    "code3": "SVN",
+    "GDP per capita ($)": {
+      "value": 48495.89,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.792,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.56646633
+    },
+    "Land area (sq. km)": {
+      "value": 20136.4,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 12.06,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.3100111,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 37360.676,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1446362
+    }
+  },
+  "Solomon Islands": {
+    "code3": "SLB",
+    "code2": "SB",
+    "GDP per capita ($)": {
+      "value": 2527.075,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 27990.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 1657.2433
+    },
+    "Electricity Access %": {
+      "value": 81.3,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 108650
+    }
+  },
+  "South Korea": {
+    "code2": "KR",
+    "Daily mean income": {
+      "value": 64.39007
+    },
+    "GDP per capita ($)": {
+      "value": 50414.207
+    },
+    "code3": "KOR",
+    "Happiness (0-10)": {
+      "value": 6.038,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.4773063
+    },
+    "Land area (sq. km)": {
+      "value": 97600.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 13.68,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.5620525,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 69922.41,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 19757319
+    }
+  },
+  "South Sudan": {
+    "code2": "SS",
+    "Happiness (0-10)": {
+      "value": 2.8166
+    },
+    "code3": "SSD",
+    "Land area (sq. km)": {
+      "value": 631930.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.9617071,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 613.11176
+    },
+    "Electricity Access %": {
+      "value": 5.4,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2493286
+    }
+  },
+  "Spain": {
+    "code2": "ES",
+    "Daily mean income": {
+      "value": 54.849464
+    },
+    "code3": "ESP",
+    "GDP per capita ($)": {
+      "value": 48373.047,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.466,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.690856
+    },
+    "Land area (sq. km)": {
+      "value": 499713.7,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.51,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.4321074,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 33901.656,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 28077048
+    }
+  },
+  "Sri Lanka": {
+    "code2": "LK",
+    "Daily mean income": {
+      "value": 10.576535
+    },
+    "code3": "LKA",
+    "GDP per capita ($)": {
+      "value": 13752.837,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.891,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 3.3109403
+    },
+    "Land area (sq. km)": {
+      "value": 61860.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.33,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.4253908,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 4819.1953,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 7811051
+    }
+  },
+  "Sudan": {
+    "code3": "SDN",
+    "code2": "SD",
+    "GDP per capita ($)": {
+      "value": 1871.5891,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.139
+    },
+    "Land area (sq. km)": {
+      "value": 1868000.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 4.38,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.9253773
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 1800.9769
+    },
+    "Electricity Access %": {
+      "value": 66.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 6189915
+    }
+  },
+  "Suriname": {
+    "code2": "SR",
+    "Daily mean income": {
+      "value": 18.695366
+    },
+    "code3": "SUR",
+    "GDP per capita ($)": {
+      "value": 19413.297,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.269
+    },
+    "Homicide rate per 100,100": {
+      "value": 6.5194645
+    },
+    "Land area (sq. km)": {
+      "value": 160507.61,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 17846.547
+    },
+    "Electricity Access %": {
+      "value": 99.6,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 195575
+    }
+  },
+  "Sweden": {
+    "code2": "SE",
+    "Daily mean income": {
+      "value": 62.833885
+    },
+    "code3": "SWE",
+    "GDP per capita ($)": {
+      "value": 63258.906,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 7.345,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.146757
+    },
+    "Land area (sq. km)": {
+      "value": 407280.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.93,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.9977175,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 57509.574,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 7016565
+    }
+  },
+  "Switzerland": {
+    "code2": "CH",
+    "Daily mean income": {
+      "value": 87.38968
+    },
+    "code3": "CHE",
+    "GDP per capita ($)": {
+      "value": 82026.41,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.935,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.59748197
+    },
+    "Land area (sq. km)": {
+      "value": 39509.63,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 12.97,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.71781206,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 38025.83,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 4692642
+    }
+  },
+  "Syria": {
+    "code2": "SY",
+    "Daily mean income": {
+      "value": 5.341807
+    },
+    "GDP per capita ($)": {
+      "value": 4189.8374
+    },
+    "Happiness (0-10)": {
+      "value": 3.462
+    },
+    "code3": "SYR",
+    "Land area (sq. km)": {
+      "value": 185179.7,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 7.92,
+      "year": 2020
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 3976.7585
+    },
+    "Electricity Access %": {
+      "value": 88.4,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 3612085
+    }
+  },
+  "Taiwan": {
+    "code2": "TW",
+    "Daily mean income": {
+      "value": 55.607807
+    },
+    "code3": "TWN",
+    "Happiness (0-10)": {
+      "value": 6.669,
+      "year": 2024.0
+    },
+    "Average years of education": {
+      "value": 12.76,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.0981145,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 54012.633,
+      "year": 2024.0
+    },
+    "Population": {
+      "value": 7596535
+    }
+  },
+  "Tajikistan": {
+    "code3": "TJK",
+    "code2": "TJ",
+    "Daily mean income": {
+      "value": 9.544276,
+      "year": 2024.0
+    },
+    "GDP per capita ($)": {
+      "value": 4755.933,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.411,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.8923708
+    },
+    "Land area (sq. km)": {
+      "value": 138790.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.12,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.8477497,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 4745.2627
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1528311
+    }
+  },
+  "Tanzania": {
+    "code3": "TZA",
+    "code2": "TZ",
+    "GDP per capita ($)": {
+      "value": 3713.263,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.8,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 3.749213
+    },
+    "Land area (sq. km)": {
+      "value": 885800.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.87,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.1546175,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 1199.0846
+    },
+    "Electricity Access %": {
+      "value": 48.3,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 7625152
+    }
+  },
+  "Thailand": {
+    "code2": "TH",
+    "Daily mean income": {
+      "value": 20.376883
+    },
+    "code3": "THA",
+    "GDP per capita ($)": {
+      "value": 21737.178,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.222,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 510890.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.32,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.0787609,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 19825.014,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 20428401
+    }
+  },
+  "Togo": {
+    "code2": "TG",
+    "Daily mean income": {
+      "value": 5.0608582
+    },
+    "code3": "TGO",
+    "GDP per capita ($)": {
+      "value": 2849.6038,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.315,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 54390.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 7.68,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.9987719,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 1329.8417
+    },
+    "Electricity Access %": {
+      "value": 59.2,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1399603
+    }
+  },
+  "Tonga": {
+    "code2": "TO",
+    "Daily mean income": {
+      "value": 12.599189
+    },
+    "GDP per capita ($)": {
+      "value": 7075.556
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.9463469
+    },
+    "code3": "TON",
+    "Land area (sq. km)": {
+      "value": 720.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.42,
+      "year": 2020
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 6819.3506
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 49679
+    }
+  },
+  "Trinidad and Tobago": {
+    "code3": "TTO",
+    "code2": "TT",
+    "GDP per capita ($)": {
+      "value": 31689.732,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.905,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 40.4433
+    },
+    "Land area (sq. km)": {
+      "value": 5130.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.28,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.9214164,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 105988.44,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 98.7,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 648778
+    }
+  },
+  "Tunisia": {
+    "code2": "TN",
+    "Daily mean income": {
+      "value": 15.890997
+    },
+    "code3": "TUN",
+    "GDP per capita ($)": {
+      "value": 12713.55,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.552,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 4.69348
+    },
+    "Land area (sq. km)": {
+      "value": 155360.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.29,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.506368,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 9892.207
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 3608997
+    }
+  },
+  "Turkey": {
+    "code2": "TR",
+    "Daily mean income": {
+      "value": 28.938576
+    },
+    "code3": "TUR",
+    "GDP per capita ($)": {
+      "value": 35294.395,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.262,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 3.2278948
+    },
+    "Land area (sq. km)": {
+      "value": 769630.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.49,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.9225523,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 23927.826,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 21021142
+    }
+  },
+  "Turkmenistan": {
+    "code3": "TKM",
+    "code2": "TM",
+    "GDP per capita ($)": {
+      "value": 17953.846,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.474
+    },
+    "Land area (sq. km)": {
+      "value": 469930.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 49524.95,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1269184
+    }
+  },
+  "Tuvalu": {
+    "code2": "TV",
+    "GDP per capita ($)": {
+      "value": 5812.3994
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.0
+    },
+    "code3": "TUV",
+    "Land area (sq. km)": {
+      "value": 30.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 0.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 4784
+    }
+  },
+  "Uganda": {
+    "code2": "UG",
+    "Daily mean income": {
+      "value": 3.648793
+    },
+    "code3": "UGA",
+    "GDP per capita ($)": {
+      "value": 2881.866,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.461,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 8.973088
+    },
+    "Land area (sq. km)": {
+      "value": 200520.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.69,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.881598,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 660.0664
+    },
+    "Electricity Access %": {
+      "value": 51.5,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 5750917
+    }
+  },
+  "Ukraine": {
+    "code2": "UA",
+    "Daily mean income": {
+      "value": 15.570489
+    },
+    "code3": "UKR",
+    "GDP per capita ($)": {
+      "value": 16319.845,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.68,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 3.7766397
+    },
+    "Land area (sq. km)": {
+      "value": 579400.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.82,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 34.48153,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 15875.597,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 37310888
+    }
+  },
+  "United Arab Emirates": {
+    "code3": "ARE",
+    "code2": "AE",
+    "GDP per capita ($)": {
+      "value": 68584.66,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.759,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.6932181
+    },
+    "Land area (sq. km)": {
+      "value": 71020.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.57,
+      "year": 2020
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 138026.48,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 74532
+    }
+  },
+  "Uruguay": {
+    "code3": "URY",
+    "code2": "UY",
+    "Daily mean income": {
+      "value": 35.21066,
+      "year": 2024.0
+    },
+    "GDP per capita ($)": {
+      "value": 32038.773,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.661,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 11.245305
+    },
+    "Land area (sq. km)": {
+      "value": 175020.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.76,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.3105383,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 13409.495
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2234414
+    }
+  },
+  "Uzbekistan": {
+    "code3": "UZB",
+    "code2": "UZ",
+    "Daily mean income": {
+      "value": 16.579653,
+      "year": 2024.0
+    },
+    "GDP per capita ($)": {
+      "value": 10450.205,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.193,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.3987976
+    },
+    "Land area (sq. km)": {
+      "value": 440652.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 19129.268,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 6239906
+    }
+  },
+  "Vanuatu": {
+    "code2": "VU",
+    "Daily mean income": {
+      "value": 6.004411
+    },
+    "code3": "VUT",
+    "GDP per capita ($)": {
+      "value": 3169.2324,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.3346065
+    },
+    "Land area (sq. km)": {
+      "value": 12190.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 3790.5647
+    },
+    "Electricity Access %": {
+      "value": 61.6,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 51557
+    }
+  },
+  "Venezuela": {
+    "code3": "VEN",
+    "code2": "VE",
+    "Happiness (0-10)": {
+      "value": 5.683,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 12.646645
+    },
+    "Land area (sq. km)": {
+      "value": 882050.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.33,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.50070447
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 24591.875,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 5488858
+    }
+  },
+  "Vietnam": {
+    "code2": "VN",
+    "Daily mean income": {
+      "value": 16.58664
+    },
+    "code3": "VNM",
+    "GDP per capita ($)": {
+      "value": 14415.216,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.352,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 313429.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.35,
+      "year": 2020
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 14618.14,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 99.8,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 25100732
+    }
+  },
+  "Yemen": {
+    "code3": "YEM",
+    "code2": "YE",
+    "Happiness (0-10)": {
+      "value": 3.561,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 527970.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 5.56,
+      "year": 2020
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 875.5177
+    },
+    "Electricity Access %": {
+      "value": 83.6,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 4616782
+    }
+  },
+  "Zambia": {
+    "code2": "ZM",
+    "Daily mean income": {
+      "value": 2.8581424
+    },
+    "code3": "ZMB",
+    "GDP per capita ($)": {
+      "value": 3716.0374,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.912,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 743390.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.37,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.3326836,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 2422.2598
+    },
+    "Electricity Access %": {
+      "value": 51.1,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2321310
+    }
+  },
+  "Zimbabwe": {
+    "code2": "ZW",
+    "Daily mean income": {
+      "value": 5.1664457
+    },
+    "code3": "ZWE",
+    "GDP per capita ($)": {
+      "value": 3450.1296,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 3.396,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 6.7583313
+    },
+    "Land area (sq. km)": {
+      "value": 386850.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.32,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.351195,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 3181.361
+    },
+    "Electricity Access %": {
+      "value": 62.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2790908
+    }
+  },
+  "Afghanistan": {
+    "code2": "AF",
+    "GDP per capita ($)": {
+      "value": 1983.8126
+    },
+    "code3": "AFG",
+    "Happiness (0-10)": {
+      "value": 1.364,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 4.0324583
+    },
+    "Land area (sq. km)": {
+      "value": 652230.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 5.69,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.8279338
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 990.46967
+    },
+    "Electricity Access %": {
+      "value": 85.3,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 7776180
+    }
+  },
+  "Andorra": {
+    "code3": "AND",
+    "code2": "AD",
+    "GDP per capita ($)": {
+      "value": 65928.305,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 2.5846472
+    },
+    "Land area (sq. km)": {
+      "value": 470.0,
+      "year": 2022
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 6018
+    }
+  },
+  "Antigua and Barbuda": {
+    "code3": "ATG",
+    "code2": "AG",
+    "GDP per capita ($)": {
+      "value": 29561.807,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 10.716333
+    },
+    "Land area (sq. km)": {
+      "value": 440.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 32266.113
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    }
+  },
+  "Argentina": {
+    "code3": "ARG",
+    "code2": "AR",
+    "GDP per capita ($)": {
+      "value": 26547.05,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.397,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 4.4929113
+    },
+    "Land area (sq. km)": {
+      "value": 2736690.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.86,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 0.6183504,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 21513.947,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 17018032
+    }
+  },
+  "Bahamas": {
+    "code3": "BHS",
+    "code2": "BS",
+    "GDP per capita ($)": {
+      "value": 36244.035,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 32.19814
+    },
+    "Land area (sq. km)": {
+      "value": 10010.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 30598.396
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 83505
+    }
+  },
+  "Bahrain": {
+    "code3": "BHR",
+    "code2": "BH",
+    "GDP per capita ($)": {
+      "value": 59129.14,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.03,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.19563614
+    },
+    "Land area (sq. km)": {
+      "value": 790.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 8.21,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.8946655,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 164932.52
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 117275
+    }
+  },
+  "Brunei": {
+    "code3": "BRN",
+    "code2": "BN",
+    "GDP per capita ($)": {
+      "value": 79184.09,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 5270.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.28,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 3.577816,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 118211.914
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 48316
+    }
+  },
+  "Cambodia": {
+    "code3": "KHM",
+    "code2": "KH",
+    "GDP per capita ($)": {
+      "value": 7011.5815,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.341,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 176520.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 5.81,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.5206646,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 4590.6875
+    },
+    "Electricity Access %": {
+      "value": 95.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 4375252
+    }
+  },
+  "Dominica": {
+    "code3": "DMA",
+    "code2": "DM",
+    "GDP per capita ($)": {
+      "value": 18739.363,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 28.431835
+    },
+    "Land area (sq. km)": {
+      "value": 750.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 10662.959
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 50219
+    }
+  },
+  "Greenland": {
+    "code2": "GL",
+    "GDP per capita ($)": {
+      "value": 71037.54
+    },
+    "code3": "GRL",
+    "Land area (sq. km)": {
+      "value": 410450.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 46980.75
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 23231
+    }
+  },
+  "Kuwait": {
+    "code3": "KWT",
+    "code2": "KW",
+    "GDP per capita ($)": {
+      "value": 45426.945,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.629,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.24999182
+    },
+    "Land area (sq. km)": {
+      "value": 17820.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 6.62,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 4.8409324,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 106398.59,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 153973
+    }
+  },
+  "Libya": {
+    "code3": "LBY",
+    "code2": "LY",
+    "GDP per capita ($)": {
+      "value": 12275.91,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 5.82,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 1759540.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.57,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 5.287051
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 29554.363
+    },
+    "Electricity Access %": {
+      "value": 73.2,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1131471
+    }
+  },
+  "New Zealand": {
+    "code3": "NZL",
+    "code2": "NZ",
+    "GDP per capita ($)": {
+      "value": 48162.86,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.952,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 1.4614942
+    },
+    "Land area (sq. km)": {
+      "value": 263310.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 10.81,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.194047,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 44711.75,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1911265
+    }
+  },
+  "Oman": {
+    "code3": "OMN",
+    "code2": "OM",
+    "GDP per capita ($)": {
+      "value": 36654.23,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.197,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.13863392
+    },
+    "Land area (sq. km)": {
+      "value": 309500.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 5.5941954,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 84610.64,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 456997
+    }
+  },
+  "Palau": {
+    "code2": "PW",
+    "GDP per capita ($)": {
+      "value": 15796.535
+    },
+    "code3": "PLW",
+    "Land area (sq. km)": {
+      "value": 460.0,
+      "year": 2022
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 7494
+    }
+  },
+  "Puerto Rico": {
+    "code3": "PRI",
+    "code2": "PR",
+    "GDP per capita ($)": {
+      "value": 44124.54,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 7.039
+    },
+    "Homicide rate per 100,100": {
+      "value": 15.082295,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 8870.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 25288.041
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2229095
+    }
+  },
+  "Saint Kitts and Nevis": {
+    "code3": "KNA",
+    "code2": "KN",
+    "GDP per capita ($)": {
+      "value": 31270.69,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 23.549812
+    },
+    "Land area (sq. km)": {
+      "value": 260.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 23859.037
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 47254
+    }
+  },
+  "Saint Vincent and the Grenadines": {
+    "code3": "VCT",
+    "code2": "VC",
+    "GDP per capita ($)": {
+      "value": 18714.2,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 41.15791
+    },
+    "Land area (sq. km)": {
+      "value": 390.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 10916.865
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 61686
+    }
+  },
+  "San Marino": {
+    "code2": "SM",
+    "GDP per capita ($)": {
+      "value": 70887.57
+    },
+    "code3": "SMR",
+    "Land area (sq. km)": {
+      "value": 60.0,
+      "year": 2022
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 12970
+    }
+  },
+  "Saudi Arabia": {
+    "code3": "SAU",
+    "code2": "SA",
+    "GDP per capita ($)": {
+      "value": 62676.7,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.6,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.93525994
+    },
+    "Land area (sq. km)": {
+      "value": 2149690.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 9.86,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 7.298103,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 96883.31,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1703280
+    }
+  },
+  "Singapore": {
+    "code3": "SGP",
+    "code2": "SG",
+    "GDP per capita ($)": {
+      "value": 132569.53,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 6.565,
+      "year": 2024.0
+    },
+    "Homicide rate per 100,100": {
+      "value": 0.06909549
+    },
+    "Land area (sq. km)": {
+      "value": 718.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 13.06,
+      "year": 2020
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 2.8417656,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 180701.45,
+      "year": 2024.0
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 1013318
+    }
+  },
+  "Somalia": {
+    "code3": "SOM",
+    "code2": "SO",
+    "GDP per capita ($)": {
+      "value": 1408.2783,
+      "year": 2024.0
+    },
+    "Happiness (0-10)": {
+      "value": 4.347,
+      "year": 2024.0
+    },
+    "Land area (sq. km)": {
+      "value": 627340.0,
+      "year": 2022
+    },
+    "Military expenditure (% of GDP)": {
+      "value": 1.5857805,
+      "year": 2024.0
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 190.11856
+    },
+    "Electricity Access %": {
+      "value": 50.3,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 2213139
+    }
+  },
+  "Cuba": {
+    "code2": "CU",
+    "Homicide rate per 100,100": {
+      "value": 4.4631515
+    },
+    "code3": "CUB",
+    "Land area (sq. km)": {
+      "value": 103800.0,
+      "year": 2022
+    },
+    "Average years of education": {
+      "value": 11.61,
+      "year": 2020
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 7640.304
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 5924519
+    }
+  },
+  "Eritrea": {
+    "code3": "ERI",
+    "code2": "ER",
+    "Land area (sq. km)": {
+      "value": 121040.83,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 872.5426
+    },
+    "Electricity Access %": {
+      "value": 54.4,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 814880
+    }
+  },
+  "French Guiana": {
+    "code2": "GF",
+    "Homicide rate per 100,100": {
+      "value": 13.38809
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 0.0
+    },
+    "Population": {
+      "value": 23418
+    }
+  },
+  "Liechtenstein": {
+    "code2": "LI",
+    "Homicide rate per 100,100": {
+      "value": 5.122426
+    },
+    "code3": "LIE",
+    "Land area (sq. km)": {
+      "value": 160.0,
+      "year": 2022
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 13786
+    }
+  },
+  "Monaco": {
+    "code3": "MCO",
+    "code2": "MC",
+    "Land area (sq. km)": {
+      "value": 2.084,
+      "year": 2022
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 19689
+    }
+  },
+  "New Caledonia": {
+    "code3": "NCL",
+    "code2": "NC",
+    "Land area (sq. km)": {
+      "value": 18280.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 63832.758
+    },
+    "Electricity Access %": {
+      "value": 100.0,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 63807
+    }
+  },
+  "North Korea": {
+    "code3": "PRK",
+    "code2": "KP",
+    "Land area (sq. km)": {
+      "value": 120410.0,
+      "year": 2022
+    },
+    "Energy use per capita (KWh/person)": {
+      "value": 6983.9766
+    },
+    "Electricity Access %": {
+      "value": 57.5,
+      "year": 2023.0
+    },
+    "Population": {
+      "value": 11116734
+    }
+  },
+  "Western Sahara": {
+    "code2": "EH",
+    "Energy use per capita (KWh/person)": {
+      "value": 2020.2874
+    },
+    "Population": {
+      "value": 12981
+    }
+  },
+  "French Polynesia": {
+    "Population": {
+      "value": 64360
+    }
+  },
+  "Gibraltar": {
+    "Population": {
+      "value": 21680
+    }
+  },
+  "Guadeloupe": {
+    "Population": {
+      "value": 215523
+    }
+  },
+  "Guam": {
+    "Population": {
+      "value": 60796
+    }
+  },
+  "Guernsey": {
+    "Population": {
+      "value": 44969
+    }
+  },
+  "High-income countries": {
+    "Population": {
+      "value": 692711431
+    }
+  },
+  "Hong Kong": {
+    "Population": {
+      "value": 1978347
+    }
+  },
+  "Isle of Man": {
+    "Population": {
+      "value": 55115
+    }
+  },
+  "Jersey": {
+    "Population": {
+      "value": 57134
+    }
+  },
+  "Least developed countries": {
+    "Population": {
+      "value": 198760112
+    }
+  },
+  "Less developed regions": {
+    "Population": {
+      "value": 1679684746
+    }
+  },
+  "Less developed regions, excluding China": {
+    "Population": {
+      "value": 1125868861
+    }
+  },
+  "Less developed regions, excluding least developed countries": {
+    "Population": {
+      "value": 1480924634
+    }
+  },
+  "Low-income countries": {
+    "Population": {
+      "value": 112417078
+    }
+  },
+  "Lower-middle-income countries": {
+    "Population": {
+      "value": 710724739
+    }
+  },
+  "Macao": {
+    "Population": {
+      "value": 196669
+    }
+  },
+  "Martinique": {
+    "Population": {
+      "value": 232081
+    }
+  },
+  "Mayotte": {
+    "Population": {
+      "value": 20549
+    }
+  },
+  "Montserrat": {
+    "Population": {
+      "value": 12964
+    }
+  },
+  "More developed regions": {
+    "Population": {
+      "value": 813408098
+    }
+  },
+  "Niue": {
+    "Population": {
+      "value": 4519
+    }
+  },
+  "Northern Mariana Islands": {
+    "Population": {
+      "value": 7131
+    }
+  },
+  "Reunion": {
+    "Population": {
+      "value": 249229
+    }
+  },
+  "Saint Barthelemy": {
+    "Population": {
+      "value": 2024
+    }
+  },
+  "Saint Helena": {
+    "Population": {
+      "value": 5249
+    }
+  },
+  "Saint Pierre and Miquelon": {
+    "Population": {
+      "value": 4507
+    }
+  },
+  "Tokelau": {
+    "Population": {
+      "value": 1612
+    }
+  },
+  "Turks and Caicos Islands": {
+    "Population": {
+      "value": 5059
+    }
+  },
+  "United States Virgin Islands": {
+    "Population": {
+      "value": 27104
+    }
+  },
+  "Upper-middle-income countries": {
+    "Population": {
+      "value": 971459726
+    }
+  },
+  "Vatican": {
+    "Population": {
+      "value": 889
+    }
+  },
+  "Wallis and Futuna": {
+    "Population": {
+      "value": 8557
+    }
+  }
+}

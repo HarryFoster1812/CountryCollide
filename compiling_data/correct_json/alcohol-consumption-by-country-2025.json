@@ -1,0 +1,730 @@
+{
+  "RO": {
+    "country": "Romania",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 17.1
+  },
+  "GE": {
+    "country": "Georgia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 15.5
+  },
+  "LV": {
+    "country": "Latvia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 14.7
+  },
+  "MD": {
+    "country": "Moldova",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 14.1
+  },
+  "CZ": {
+    "country": "Czechia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 13.7
+  },
+  "LT": {
+    "country": "Lithuania",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 12.2
+  },
+  "NA": {
+    "country": "Namibia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 12
+  },
+  "PL": {
+    "country": "Poland",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 11.9
+  },
+  "AT": {
+    "country": "Austria",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 11.8
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 11.5
+  },
+  "BY": {
+    "country": "Belarus",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 11.4
+  },
+  "LC": {
+    "country": "Saint Lucia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 11.4
+  },
+  "SC": {
+    "country": "Seychelles",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 11.4
+  },
+  "HU": {
+    "country": "Hungary",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 11.3
+  },
+  "DE": {
+    "country": "Germany",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 11.2
+  },
+  "FR": {
+    "country": "France",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 11.2
+  },
+  "AU": {
+    "country": "Australia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 11.2
+  },
+  "PT": {
+    "country": "Portugal",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 11.2
+  },
+  "AD": {
+    "country": "Andorra",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 11.1
+  },
+  "ES": {
+    "country": "Spain",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 11
+  },
+  "SK": {
+    "country": "Slovakia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 11
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 10.9
+  },
+  "SI": {
+    "country": "Slovenia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 10.9
+  },
+  "HR": {
+    "country": "Croatia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 10.8
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 10.8
+  },
+  "VN": {
+    "country": "Vietnam",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 10.7
+  },
+  "RU": {
+    "country": "Russia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 10.5
+  },
+  "IE": {
+    "country": "Ireland",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 10.5
+  },
+  "EE": {
+    "country": "Estonia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 10.5
+  },
+  "CA": {
+    "country": "Canada",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 10
+  },
+  "DK": {
+    "country": "Denmark",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 10
+  },
+  "US": {
+    "country": "United States",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 9.8
+  },
+  "SE": {
+    "country": "Sweden",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 9.6
+  },
+  "FI": {
+    "country": "Finland",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 9.5
+  },
+  "BB": {
+    "country": "Barbados",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 9.5
+  },
+  "BR": {
+    "country": "Brazil",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 9.4
+  },
+  "AG": {
+    "country": "Antigua and Barbuda",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 9.4
+  },
+  "CH": {
+    "country": "Switzerland",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 9.2
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 9.2
+  },
+  "RS": {
+    "country": "Serbia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 9
+  },
+  "AR": {
+    "country": "Argentina",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 8.8
+  },
+  "NL": {
+    "country": "Netherlands",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 8.7
+  },
+  "BE": {
+    "country": "Belgium",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 8.7
+  },
+  "KR": {
+    "country": "South Korea",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 8.4
+  },
+  "IT": {
+    "country": "Italy",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 8.3
+  },
+  "IS": {
+    "country": "Iceland",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 8.2
+  },
+  "CM": {
+    "country": "Cameroon",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 8
+  },
+  "ME": {
+    "country": "Montenegro",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 8
+  },
+  "CL": {
+    "country": "Chile",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7.9
+  },
+  "GA": {
+    "country": "Gabon",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7.9
+  },
+  "ZA": {
+    "country": "South Africa",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7.8
+  },
+  "GD": {
+    "country": "Grenada",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7.8
+  },
+  "MN": {
+    "country": "Mongolia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7.7
+  },
+  "MU": {
+    "country": "Mauritius",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7.7
+  },
+  "TH": {
+    "country": "Thailand",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7.6
+  },
+  "BF": {
+    "country": "Burkina Faso",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7.5
+  },
+  "NO": {
+    "country": "Norway",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7.5
+  },
+  "UA": {
+    "country": "Ukraine",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7.4
+  },
+  "SZ": {
+    "country": "Eswatini",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7.2
+  },
+  "BJ": {
+    "country": "Benin",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7
+  },
+  "GR": {
+    "country": "Greece",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7
+  },
+  "DM": {
+    "country": "Dominica",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7
+  },
+  "KN": {
+    "country": "Saint Kitts and Nevis",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 7
+  },
+  "BS": {
+    "country": "Bahamas",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6.9
+  },
+  "PE": {
+    "country": "Peru",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6.8
+  },
+  "VC": {
+    "country": "Saint Vincent and the Grenadines",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6.8
+  },
+  "PY": {
+    "country": "Paraguay",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6.7
+  },
+  "RW": {
+    "country": "Rwanda",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6.5
+  },
+  "CG": {
+    "country": "Republic of the Congo",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6.4
+  },
+  "JP": {
+    "country": "Japan",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6.3
+  },
+  "UG": {
+    "country": "Uganda",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6.3
+  },
+  "PA": {
+    "country": "Panama",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6.3
+  },
+  "BA": {
+    "country": "Bosnia and Herzegovina",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6.3
+  },
+  "UY": {
+    "country": "Uruguay",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6.2
+  },
+  "MT": {
+    "country": "Malta",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6.2
+  },
+  "GQ": {
+    "country": "Equatorial Guinea",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6.1
+  },
+  "MX": {
+    "country": "Mexico",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6
+  },
+  "BW": {
+    "country": "Botswana",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 6
+  },
+  "SR": {
+    "country": "Suriname",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5.9
+  },
+  "MK": {
+    "country": "North Macedonia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5.8
+  },
+  "PH": {
+    "country": "Philippines",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5.7
+  },
+  "ST": {
+    "country": "Sao Tome and Principe",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5.7
+  },
+  "TZ": {
+    "country": "Tanzania",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5.6
+  },
+  "CU": {
+    "country": "Cuba",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5.6
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5.4
+  },
+  "KH": {
+    "country": "Cambodia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5.4
+  },
+  "ZW": {
+    "country": "Zimbabwe",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5.4
+  },
+  "GY": {
+    "country": "Guyana",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5.3
+  },
+  "DO": {
+    "country": "Dominican Republic",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5.2
+  },
+  "CY": {
+    "country": "Cyprus",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5.2
+  },
+  "BZ": {
+    "country": "Belize",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5.1
+  },
+  "AL": {
+    "country": "Albania",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5
+  },
+  "KP": {
+    "country": "North Korea",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 4.8
+  },
+  "TT": {
+    "country": "Trinidad and Tobago",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 4.8
+  },
+  "IN": {
+    "country": "India",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 4.5
+  },
+  "CN": {
+    "country": "China",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 4.5
+  },
+  "CI": {
+    "country": "Ivory Coast",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 4.5
+  },
+  "BI": {
+    "country": "Burundi",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 4.5
+  },
+  "GH": {
+    "country": "Ghana",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 4.4
+  },
+  "BT": {
+    "country": "Bhutan",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 4.4
+  },
+  "CO": {
+    "country": "Colombia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 4.3
+  },
+  "AM": {
+    "country": "Armenia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 4.3
+  },
+  "AO": {
+    "country": "Angola",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 4
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.9
+  },
+  "NI": {
+    "country": "Nicaragua",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.9
+  },
+  "JM": {
+    "country": "Jamaica",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.9
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.8
+  },
+  "LS": {
+    "country": "Lesotho",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.8
+  },
+  "CV": {
+    "country": "Cape Verde",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.8
+  },
+  "NP": {
+    "country": "Nepal",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.7
+  },
+  "ML": {
+    "country": "Mali",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.6
+  },
+  "ZM": {
+    "country": "Zambia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.6
+  },
+  "BO": {
+    "country": "Bolivia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.6
+  },
+  "FJ": {
+    "country": "Fiji",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.5
+  },
+  "SV": {
+    "country": "El Salvador",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.4
+  },
+  "HT": {
+    "country": "Haiti",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.3
+  },
+  "NU": {
+    "country": "Niue",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.3
+  },
+  "GW": {
+    "country": "Guinea-Bissau",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.2
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.1
+  },
+  "HN": {
+    "country": "Honduras",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.1
+  },
+  "IL": {
+    "country": "Israel",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3.1
+  },
+  "TD": {
+    "country": "Chad",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3
+  },
+  "TM": {
+    "country": "Turkmenistan",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3
+  },
+  "NR": {
+    "country": "Nauru",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 3
+  },
+  "WS": {
+    "country": "Samoa",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 2.9
+  },
+  "LR": {
+    "country": "Liberia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 2.8
+  },
+  "LK": {
+    "country": "Sri Lanka",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 2.7
+  },
+  "EC": {
+    "country": "Ecuador",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 2.7
+  },
+  "KE": {
+    "country": "Kenya",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 2.5
+  },
+  "NG": {
+    "country": "Nigeria",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 2.3
+  },
+  "VE": {
+    "country": "Venezuela",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 2.3
+  },
+  "AZ": {
+    "country": "Azerbaijan",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 2.3
+  },
+  "TR": {
+    "country": "Turkey",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 2.2
+  },
+  "UZ": {
+    "country": "Uzbekistan",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 2.1
+  },
+  "CF": {
+    "country": "Central African Republic",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 2.1
+  },
+  "CD": {
+    "country": "DR Congo",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 2
+  },
+  "SG": {
+    "country": "Singapore",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 2
+  },
+  "FM": {
+    "country": "Micronesia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 2
+  },
+  "MM": {
+    "country": "Myanmar",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1.9
+  },
+  "MZ": {
+    "country": "Mozambique",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1.9
+  },
+  "VU": {
+    "country": "Vanuatu",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1.9
+  },
+  "TN": {
+    "country": "Tunisia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1.8
+  },
+  "MW": {
+    "country": "Malawi",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1.7
+  },
+  "GT": {
+    "country": "Guatemala",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1.7
+  },
+  "BH": {
+    "country": "Bahrain",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1.7
+  },
+  "LB": {
+    "country": "Lebanon",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1.6
+  },
+  "MV": {
+    "country": "Maldives",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1.6
+  },
+  "PG": {
+    "country": "Papua New Guinea",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1.3
+  },
+  "ER": {
+    "country": "Eritrea",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1.3
+  },
+  "QA": {
+    "country": "Qatar",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1.3
+  },
+  "TG": {
+    "country": "Togo",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1.2
+  },
+  "LA": {
+    "country": "Laos",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1
+  },
+  "KI": {
+    "country": "Kiribati",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 1
+  },
+  "MG": {
+    "country": "Madagascar",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.9
+  },
+  "MY": {
+    "country": "Malaysia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.8
+  },
+  "SS": {
+    "country": "South Sudan",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.8
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.8
+  },
+  "SB": {
+    "country": "Solomon Islands",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.8
+  },
+  "TJ": {
+    "country": "Tajikistan",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.7
+  },
+  "OM": {
+    "country": "Oman",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.7
+  },
+  "BN": {
+    "country": "Brunei",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.7
+  },
+  "IQ": {
+    "country": "Iraq",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.6
+  },
+  "MA": {
+    "country": "Morocco",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.6
+  },
+  "GM": {
+    "country": "Gambia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.6
+  },
+  "DZ": {
+    "country": "Algeria",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.5
+  },
+  "GN": {
+    "country": "Guinea",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.5
+  },
+  "SN": {
+    "country": "Senegal",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.4
+  },
+  "DJ": {
+    "country": "Djibouti",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.4
+  },
+  "KM": {
+    "country": "Comoros",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.4
+  },
+  "JO": {
+    "country": "Jordan",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.3
+  },
+  "SL": {
+    "country": "Sierra Leone",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.3
+  },
+  "TO": {
+    "country": "Tonga",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.3
+  },
+  "TV": {
+    "country": "Tuvalu",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.3
+  },
+  "NE": {
+    "country": "Niger",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.2
+  },
+  "TL": {
+    "country": "Timor-Leste",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.2
+  },
+  "ID": {
+    "country": "Indonesia",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.1
+  },
+  "PK": {
+    "country": "Pakistan",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.1
+  },
+  "EG": {
+    "country": "Egypt",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.1
+  },
+  "IR": {
+    "country": "Iran",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.1
+  },
+  "SY": {
+    "country": "Syria",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.1
+  },
+  "KW": {
+    "country": "Kuwait",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 0.1
+  },
+  "null": {
+    "country": "Average",
+    "AlcoholConsumptionPerCapitaByCountry_2022": 5.464640883977899
+  }
+}

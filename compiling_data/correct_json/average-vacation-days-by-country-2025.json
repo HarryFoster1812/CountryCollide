@@ -1,0 +1,1118 @@
+{
+  "IR": {
+    "country": "Iran",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 53,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 26,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 27
+  },
+  "KI": {
+    "country": "Kiribati",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 46,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 30,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 16
+  },
+  "BF": {
+    "country": "Burkina Faso",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 45,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 30,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 15
+  },
+  "KH": {
+    "country": "Cambodia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 45,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 18,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 27
+  },
+  "AD": {
+    "country": "Andorra",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 45,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 31,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 44,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 30,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "BH": {
+    "country": "Bahrain",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 44,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 30,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "KW": {
+    "country": "Kuwait",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 43,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 30,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "RU": {
+    "country": "Russia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 42.5,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 28.5,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "FR": {
+    "country": "France",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 42,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 31,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 42,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 28.5,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "DZ": {
+    "country": "Algeria",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 41,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 30,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "MT": {
+    "country": "Malta",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 41,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 27,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "LK": {
+    "country": "Sri Lanka",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 40,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 20
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 40,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 24,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 16
+  },
+  "AZ": {
+    "country": "Azerbaijan",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 40,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 21,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 19
+  },
+  "PA": {
+    "country": "Panama",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 40,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 30,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "AL": {
+    "country": "Albania",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 40,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 28,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "GE": {
+    "country": "Georgia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 39,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 24,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 15
+  },
+  "EE": {
+    "country": "Estonia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 39,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 28,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "AT": {
+    "country": "Austria",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 38,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 25,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "MU": {
+    "country": "Mauritius",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 38,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 16
+  },
+  "IS": {
+    "country": "Iceland",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 38,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 24,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "DK": {
+    "country": "Denmark",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 37.5,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 27.5,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "TZ": {
+    "country": "Tanzania",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 37,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 17
+  },
+  "YE": {
+    "country": "Yemen",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 37,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 15
+  },
+  "UA": {
+    "country": "Ukraine",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 37,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 24,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "SY": {
+    "country": "Syria",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 37,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 24,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "RO": {
+    "country": "Romania",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 37,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 17
+  },
+  "BJ": {
+    "country": "Benin",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 37,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 24,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "LB": {
+    "country": "Lebanon",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 37,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 22
+  },
+  "MH": {
+    "country": "Marshall Islands",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 37,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 26,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "ES": {
+    "country": "Spain",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 36,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "PL": {
+    "country": "Poland",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 36,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 23,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "FI": {
+    "country": "Finland",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 36,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 25,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "AM": {
+    "country": "Armenia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 36,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "IN": {
+    "country": "India",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 35,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 25,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "KR": {
+    "country": "South Korea",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 35,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 15
+  },
+  "AF": {
+    "country": "Afghanistan",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 35,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 15
+  },
+  "MG": {
+    "country": "Madagascar",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 35,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "NO": {
+    "country": "Norway",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 35,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 25,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "BA": {
+    "country": "Bosnia and Herzegovina",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 35,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 25,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "DJ": {
+    "country": "Djibouti",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 35,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 25,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "EG": {
+    "country": "Egypt",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 34,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 21,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 17
+  },
+  "CI": {
+    "country": "Ivory Coast",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 34,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "SE": {
+    "country": "Sweden",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 34,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 25,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "SK": {
+    "country": "Slovakia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 34,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22.5,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "LT": {
+    "country": "Lithuania",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 34,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "GA": {
+    "country": "Gabon",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 34,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "CY": {
+    "country": "Cyprus",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 34,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "ST": {
+    "country": "Sao Tome and Principe",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 34,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 25,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "SC": {
+    "country": "Seychelles",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 34,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 21,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "CO": {
+    "country": "Colombia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 33,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 18
+  },
+  "AO": {
+    "country": "Angola",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 33,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "NE": {
+    "country": "Niger",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 33,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "ZW": {
+    "country": "Zimbabwe",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 33,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "GN": {
+    "country": "Guinea",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 33,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "CU": {
+    "country": "Cuba",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 33,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "CZ": {
+    "country": "Czechia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 33,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "HU": {
+    "country": "Hungary",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 33,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "BY": {
+    "country": "Belarus",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 33,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 24,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "HR": {
+    "country": "Croatia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 33,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "SI": {
+    "country": "Slovenia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 33,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "IT": {
+    "country": "Italy",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 32,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "SN": {
+    "country": "Senegal",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 32,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "SS": {
+    "country": "South Sudan",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 32,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 32,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 32,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "LV": {
+    "country": "Latvia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 32,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "MK": {
+    "country": "North Macedonia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 32,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "KE": {
+    "country": "Kenya",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 31,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 21,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "ZM": {
+    "country": "Zambia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 31,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "BO": {
+    "country": "Bolivia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 31,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "PT": {
+    "country": "Portugal",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 31,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "RS": {
+    "country": "Serbia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 31,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "OM": {
+    "country": "Oman",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 31,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "ID": {
+    "country": "Indonesia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 30,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 12,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 18
+  },
+  "DE": {
+    "country": "Germany",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 30,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "SA": {
+    "country": "Saudi Arabia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 30,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 21,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "AU": {
+    "country": "Australia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 30,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "CL": {
+    "country": "Chile",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 30,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 15
+  },
+  "BI": {
+    "country": "Burundi",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 30,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 17,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "BE": {
+    "country": "Belgium",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 30,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "IE": {
+    "country": "Ireland",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 30,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "GQ": {
+    "country": "Equatorial Guinea",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 30,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 30,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "SR": {
+    "country": "Suriname",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 30,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 12,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 18
+  },
+  "PK": {
+    "country": "Pakistan",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 29,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 14,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 15
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 29,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "AR": {
+    "country": "Argentina",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 29,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 19
+  },
+  "VE": {
+    "country": "Venezuela",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 29,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "GR": {
+    "country": "Greece",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 29,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "BW": {
+    "country": "Botswana",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 29,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "PE": {
+    "country": "Peru",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 28.5,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 16.5,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "TW": {
+    "country": "Taiwan",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 28.5,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 16.5,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "BR": {
+    "country": "Brazil",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 28,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 16,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "UG": {
+    "country": "Uganda",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 28,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "GH": {
+    "country": "Ghana",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 28,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "NP": {
+    "country": "Nepal",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 28,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "NL": {
+    "country": "Netherlands",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 28,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 8
+  },
+  "HK": {
+    "country": "Hong Kong",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 27.5,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10.5,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 17
+  },
+  "ZA": {
+    "country": "South Africa",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 27,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "TD": {
+    "country": "Chad",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 27,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 24,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 3
+  },
+  "HT": {
+    "country": "Haiti",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 27,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 11,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 16
+  },
+  "CH": {
+    "country": "Switzerland",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 27,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 7
+  },
+  "BZ": {
+    "country": "Belize",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 27,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 14,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "LC": {
+    "country": "Saint Lucia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 27,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 14,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "TR": {
+    "country": "Turkey",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 26.5,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 12,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14.5
+  },
+  "RW": {
+    "country": "Rwanda",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 26,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "JO": {
+    "country": "Jordan",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 26,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 14,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "CG": {
+    "country": "Republic of the Congo",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 26,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 26,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "SV": {
+    "country": "El Salvador",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 26,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 25,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 12,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "CA": {
+    "country": "Canada",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 25,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "MA": {
+    "country": "Morocco",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 25,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "GT": {
+    "country": "Guatemala",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 25,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "UY": {
+    "country": "Uruguay",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 25,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 5
+  },
+  "QA": {
+    "country": "Qatar",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 25,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "KM": {
+    "country": "Comoros",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 25,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 25,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "MM": {
+    "country": "Myanmar",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 24,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "CF": {
+    "country": "Central African Republic",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 24,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 24,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "TT": {
+    "country": "Trinidad and Tobago",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 24,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 14
+  },
+  "CN": {
+    "country": "China",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 23,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "VN": {
+    "country": "Vietnam",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 23,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 12,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "EC": {
+    "country": "Ecuador",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 23,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 11,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "DO": {
+    "country": "Dominican Republic",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 23,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "GD": {
+    "country": "Grenada",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 23,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "AG": {
+    "country": "Antigua and Barbuda",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 23,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 12,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "ML": {
+    "country": "Mali",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 22,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "SO": {
+    "country": "Somalia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 22,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 13,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "TG": {
+    "country": "Togo",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 22,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "LY": {
+    "country": "Libya",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 22,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "PY": {
+    "country": "Paraguay",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 22,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "MR": {
+    "country": "Mauritania",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 22,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 7
+  },
+  "LS": {
+    "country": "Lesotho",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 22,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 12,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "GW": {
+    "country": "Guinea-Bissau",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 22,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "FJ": {
+    "country": "Fiji",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 22,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "MV": {
+    "country": "Maldives",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 22,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "CV": {
+    "country": "Cape Verde",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 22,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 22,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "DM": {
+    "country": "Dominica",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 22,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "SG": {
+    "country": "Singapore",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 21.5,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10.5,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "BD": {
+    "country": "Bangladesh",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 21,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "IL": {
+    "country": "Israel",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 21,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 12,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "LR": {
+    "country": "Liberia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 21,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "GM": {
+    "country": "Gambia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 21,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 21,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "ME": {
+    "country": "Montenegro",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 21,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 21,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "WS": {
+    "country": "Samoa",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 21,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "SD": {
+    "country": "Sudan",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 20,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "IQ": {
+    "country": "Iraq",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 20,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 20,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "NI": {
+    "country": "Nicaragua",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 20,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 11,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "NA": {
+    "country": "Namibia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 20,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "MD": {
+    "country": "Moldova",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 20,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "BS": {
+    "country": "Bahamas",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 20,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 10
+  },
+  "TO": {
+    "country": "Tonga",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 20,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 20,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "MX": {
+    "country": "Mexico",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 19,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 12,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 7
+  },
+  "TH": {
+    "country": "Thailand",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 19,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 6,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 13
+  },
+  "MY": {
+    "country": "Malaysia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 19,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 8,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "MZ": {
+    "country": "Mozambique",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 19,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "HN": {
+    "country": "Honduras",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 19,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 8,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "PG": {
+    "country": "Papua New Guinea",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 19,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 19,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "JE": {
+    "country": "Jersey",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 19,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 9
+  },
+  "CM": {
+    "country": "Cameroon",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 18,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 18,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "SL": {
+    "country": "Sierra Leone",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 18,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 18,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "BN": {
+    "country": "Brunei",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 18,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 7,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 11
+  },
+  "PH": {
+    "country": "Philippines",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 17,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 5,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 12
+  },
+  "TN": {
+    "country": "Tunisia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 16,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": 6
+  },
+  "VC": {
+    "country": "Saint Vincent and the Grenadines",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 16,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 16,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "JP": {
+    "country": "Japan",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 15,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "UZ": {
+    "country": "Uzbekistan",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 15,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "LA": {
+    "country": "Laos",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 15,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "MN": {
+    "country": "Mongolia",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 15,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "PR": {
+    "country": "Puerto Rico",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 15,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "SB": {
+    "country": "Solomon Islands",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 15,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "VU": {
+    "country": "Vanuatu",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 15,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "BB": {
+    "country": "Barbados",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 15,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 15,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "CD": {
+    "country": "DR Congo",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 12,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 12,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "ER": {
+    "country": "Eritrea",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 12,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 12,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "TL": {
+    "country": "Timor-Leste",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 12,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 12,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "GY": {
+    "country": "Guyana",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 12,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 12,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "JM": {
+    "country": "Jamaica",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 10,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "SM": {
+    "country": "San Marino",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 10,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 10,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "BT": {
+    "country": "Bhutan",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 9,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 9,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "NG": {
+    "country": "Nigeria",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": 5,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 5,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "MW": {
+    "country": "Malawi",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": null,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 18,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  },
+  "KN": {
+    "country": "Saint Kitts and Nevis",
+    "AverageVacationDays_MinimumTotalPaidLeave_days_YearFree": null,
+    "AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree": 12,
+    "AverageVacationDays_PaidPublicHolidays_days_YearFree": null
+  }
+}
