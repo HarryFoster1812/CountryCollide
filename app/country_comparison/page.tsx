@@ -211,7 +211,7 @@ export default function WorldComparePage({}: WorldComparePageProps) {
         return (
             <div style={{
                 flex: 1,
-                background: "#0d1226",
+                background: "#0e1328", // a bit deeper blue-black for contrast
                 color: "#eaeefb",
                 borderRadius: 12,
                 border: "1px solid #222",
@@ -219,8 +219,12 @@ export default function WorldComparePage({}: WorldComparePageProps) {
                 display: "flex",
                 flexDirection: "column",
                 overflowY: "auto",
-                height: "100%"
-            }}>
+                height: "100%",
+
+                /* --- Scrollbar styling --- */
+                scrollbarWidth: "thin",            // Firefox
+                scrollbarColor: "#444 #121528",    // thumb + track
+            }} >
                 <div
                     style={{
                         display: "flex",
