@@ -1,0 +1,922 @@
+{
+  "ER": {
+    "country": "Eritrea",
+    "CountriesNationalDishes": "Zigini"
+  },
+  "CK": {
+    "country": "Cook Islands",
+    "CountriesNationalDishes": "Umukai"
+  },
+  "KE": {
+    "country": "Kenya",
+    "CountriesNationalDishes": "Ugali Nyama Choma Na Kachumbari"
+  },
+  "TZ": {
+    "country": "Tanzania",
+    "CountriesNationalDishes": "Ugali na Maharage ya Nazi"
+  },
+  "KY": {
+    "country": "Cayman Islands",
+    "CountriesNationalDishes": "Turtle Stew"
+  },
+  "SM": {
+    "country": "San Marino",
+    "CountriesNationalDishes": "Torta Tre Monti"
+  },
+  "ML": {
+    "country": "Mali",
+    "CountriesNationalDishes": "Tiguadege Na"
+  },
+  "MR": {
+    "country": "Mauritania",
+    "CountriesNationalDishes": "Thieboudienne (Cheb-u-jin)"
+  },
+  "DM": {
+    "country": "Dominica",
+    "CountriesNationalDishes": "The Mountain Chicken"
+  },
+  "AL": {
+    "country": "Albania",
+    "CountriesNationalDishes": "Tave Kosi"
+  },
+  "MK": {
+    "country": "North Macedonia",
+    "CountriesNationalDishes": "Tavče Gravče"
+  },
+  "WF": {
+    "country": "Wallis and Futuna",
+    "CountriesNationalDishes": "Tama`ara`a"
+  },
+  "NU": {
+    "country": "Niue",
+    "CountriesNationalDishes": "Takihi"
+  },
+  "MA": {
+    "country": "Morocco",
+    "CountriesNationalDishes": "Tagine"
+  },
+  "AT": {
+    "country": "Austria",
+    "CountriesNationalDishes": "Tafelspitz"
+  },
+  "GQ": {
+    "country": "Equatorial Guinea",
+    "CountriesNationalDishes": "Succotash"
+  },
+  "GL": {
+    "country": "Greenland",
+    "CountriesNationalDishes": "Suaasat"
+  },
+  "DK": {
+    "country": "Denmark",
+    "CountriesNationalDishes": "Stegt Flæsk"
+  },
+  "NL": {
+    "country": "Netherlands",
+    "CountriesNationalDishes": "Stamppot"
+  },
+  "LK": {
+    "country": "Sri Lanka",
+    "CountriesNationalDishes": "Sri Lankan Rice and Curry"
+  },
+  "PY": {
+    "country": "Paraguay",
+    "CountriesNationalDishes": "Sopa Paraguaya"
+  },
+  "SO": {
+    "country": "Somalia",
+    "CountriesNationalDishes": "Somalia"
+  },
+  "DJ": {
+    "country": "Djibouti",
+    "CountriesNationalDishes": "Skudahkharis"
+  },
+  "FO": {
+    "country": "Faroe Islands",
+    "CountriesNationalDishes": "Skerpikjøt"
+  },
+  "OM": {
+    "country": "Oman",
+    "CountriesNationalDishes": "Shuwa"
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "CountriesNationalDishes": "Shopska Salad"
+  },
+  "BW": {
+    "country": "Botswana",
+    "CountriesNationalDishes": "Seswaa"
+  },
+  "SN": {
+    "country": "Senegal",
+    "CountriesNationalDishes": "Senegalese Fish and Rice"
+  },
+  "DE": {
+    "country": "Germany",
+    "CountriesNationalDishes": "Sauerbraten"
+  },
+  "PA": {
+    "country": "Panama",
+    "CountriesNationalDishes": "Sancocho"
+  },
+  "LC": {
+    "country": "Saint Lucia",
+    "CountriesNationalDishes": "Saltfish"
+  },
+  "BO": {
+    "country": "Bolivia",
+    "CountriesNationalDishes": "Salteñas"
+  },
+  "YE": {
+    "country": "Yemen",
+    "CountriesNationalDishes": "Saltah"
+  },
+  "ZW": {
+    "country": "Zimbabwe",
+    "CountriesNationalDishes": "Sadza"
+  },
+  "FI": {
+    "country": "Finland",
+    "CountriesNationalDishes": "Rye Bread"
+  },
+  "CH": {
+    "country": "Switzerland",
+    "CountriesNationalDishes": "Rosti"
+  },
+  "CU": {
+    "country": "Cuba",
+    "CountriesNationalDishes": "Ropa Vieja"
+  },
+  "MG": {
+    "country": "Madagascar",
+    "CountriesNationalDishes": "Romazava"
+  },
+  "VC": {
+    "country": "Saint Vincent and the Grenadines",
+    "CountriesNationalDishes": "Roasted Breadfruit"
+  },
+  "CZ": {
+    "country": "Czechia",
+    "CountriesNationalDishes": "Roast Pork with Dumplings"
+  },
+  "HR": {
+    "country": "Croatia",
+    "CountriesNationalDishes": "Roast Pork with Dumplings"
+  },
+  "AU": {
+    "country": "Australia",
+    "CountriesNationalDishes": "Roast Lamb Rules"
+  },
+  "HK": {
+    "country": "Hong Kong",
+    "CountriesNationalDishes": "Roast Goose"
+  },
+  "BF": {
+    "country": "Burkina Faso",
+    "CountriesNationalDishes": "Riz Gras"
+  },
+  "TM": {
+    "country": "Turkmenistan",
+    "CountriesNationalDishes": "Rice Pilaf"
+  },
+  "BZ": {
+    "country": "Belize",
+    "CountriesNationalDishes": "Rice And Beans"
+  },
+  "EE": {
+    "country": "Estonia",
+    "CountriesNationalDishes": "Raim"
+  },
+  "IT": {
+    "country": "Italy",
+    "CountriesNationalDishes": "Ragu alla Bolognese"
+  },
+  "PW": {
+    "country": "Palau",
+    "CountriesNationalDishes": "Qabili Palau"
+  },
+  "SV": {
+    "country": "El Salvador",
+    "CountriesNationalDishes": "Pupusa"
+  },
+  "TV": {
+    "country": "Tuvalu",
+    "CountriesNationalDishes": "Pulaka"
+  },
+  "GI": {
+    "country": "Gibraltar",
+    "CountriesNationalDishes": "Profiteroles"
+  },
+  "CA": {
+    "country": "Canada",
+    "CountriesNationalDishes": "Poutine"
+  },
+  "GN": {
+    "country": "Guinea",
+    "CountriesNationalDishes": "Poulet Yassa"
+  },
+  "CG": {
+    "country": "Republic of the Congo",
+    "CountriesNationalDishes": "Poulet Moambé"
+  },
+  "CD": {
+    "country": "DR Congo",
+    "CountriesNationalDishes": "Poulet a la Moambe"
+  },
+  "FR": {
+    "country": "France",
+    "CountriesNationalDishes": "Pot-au-Feu"
+  },
+  "GP": {
+    "country": "Guadeloupe",
+    "CountriesNationalDishes": "Porc-Colombo"
+  },
+  "PF": {
+    "country": "French Polynesia",
+    "CountriesNationalDishes": "Poisson Cru"
+  },
+  "SB": {
+    "country": "Solomon Islands",
+    "CountriesNationalDishes": "Poi"
+  },
+  "UZ": {
+    "country": "Uzbekistan",
+    "CountriesNationalDishes": "Plov"
+  },
+  "TJ": {
+    "country": "Tajikistan",
+    "CountriesNationalDishes": "Plov"
+  },
+  "AZ": {
+    "country": "Azerbaijan",
+    "CountriesNationalDishes": "Plov"
+  },
+  "HN": {
+    "country": "Honduras",
+    "CountriesNationalDishes": "Plato Típico"
+  },
+  "FM": {
+    "country": "Micronesia",
+    "CountriesNationalDishes": "Pihlohlo Mwehng"
+  },
+  "AI": {
+    "country": "Anguilla",
+    "CountriesNationalDishes": "Pigeon Peas and Rice"
+  },
+  "VN": {
+    "country": "Vietnam",
+    "CountriesNationalDishes": "Pho"
+  },
+  "RU": {
+    "country": "Russia",
+    "CountriesNationalDishes": "Pelmeni"
+  },
+  "LV": {
+    "country": "Latvia",
+    "CountriesNationalDishes": "Pelēkie Zirņi Ar Speķi"
+  },
+  "CN": {
+    "country": "China",
+    "CountriesNationalDishes": "Peking Roast Duck"
+  },
+  "LS": {
+    "country": "Lesotho",
+    "CountriesNationalDishes": "Pap-Pap"
+  },
+  "NA": {
+    "country": "Namibia",
+    "CountriesNationalDishes": "Pap"
+  },
+  "WS": {
+    "country": "Samoa",
+    "CountriesNationalDishes": "Panipopo"
+  },
+  "KI": {
+    "country": "Kiribati",
+    "CountriesNationalDishes": "Palusami"
+  },
+  "ES": {
+    "country": "Spain",
+    "CountriesNationalDishes": "Paella"
+  },
+  "TH": {
+    "country": "Thailand",
+    "CountriesNationalDishes": "Pad thai"
+  },
+  "VE": {
+    "country": "Venezuela",
+    "CountriesNationalDishes": "Pabellon"
+  },
+  "TO": {
+    "country": "Tonga",
+    "CountriesNationalDishes": "Ota Ika"
+  },
+  "TK": {
+    "country": "Tokelau",
+    "CountriesNationalDishes": "Ota"
+  },
+  "CF": {
+    "country": "Central African Republic",
+    "CountriesNationalDishes": "Okra or Gombo"
+  },
+  "GD": {
+    "country": "Grenada",
+    "CountriesNationalDishes": "Oil Down"
+  },
+  "SC": {
+    "country": "Seychelles",
+    "CountriesNationalDishes": "Octopus Curry"
+  },
+  "GA": {
+    "country": "Gabon",
+    "CountriesNationalDishes": "Nyembwe Chicken"
+  },
+  "MW": {
+    "country": "Malawi",
+    "CountriesNationalDishes": "Nsima"
+  },
+  "ZM": {
+    "country": "Zambia",
+    "CountriesNationalDishes": "Nshima"
+  },
+  "PK": {
+    "country": "Pakistan",
+    "CountriesNationalDishes": "Nihari"
+  },
+  "CM": {
+    "country": "Cameroon",
+    "CountriesNationalDishes": "Ndolé"
+  },
+  "MY": {
+    "country": "Malaysia",
+    "CountriesNationalDishes": "Nasi lemak"
+  },
+  "ID": {
+    "country": "Indonesia",
+    "CountriesNationalDishes": "Nasi Goreng"
+  },
+  "PG": {
+    "country": "Papua New Guinea",
+    "CountriesNationalDishes": "Mumu"
+  },
+  "BE": {
+    "country": "Belgium",
+    "CountriesNationalDishes": "Moules-Frite"
+  },
+  "MX": {
+    "country": "Mexico",
+    "CountriesNationalDishes": "Mole"
+  },
+  "MM": {
+    "country": "Myanmar",
+    "CountriesNationalDishes": "Mohinga. Rice noodles"
+  },
+  "MO": {
+    "country": "Macau",
+    "CountriesNationalDishes": "Minchi"
+  },
+  "EH": {
+    "country": "Western Sahara",
+    "CountriesNationalDishes": "Meifrisa"
+  },
+  "UG": {
+    "country": "Uganda",
+    "CountriesNationalDishes": "Matoke or Matooke"
+  },
+  "IQ": {
+    "country": "Iraq",
+    "CountriesNationalDishes": "Masgouf"
+  },
+  "IM": {
+    "country": "Isle of Man",
+    "CountriesNationalDishes": "Manx Queenies"
+  },
+  "JO": {
+    "country": "Jordan",
+    "CountriesNationalDishes": "Mansaf"
+  },
+  "MD": {
+    "country": "Moldova",
+    "CountriesNationalDishes": "Mamaliga"
+  },
+  "MT": {
+    "country": "Malta",
+    "CountriesNationalDishes": "Maltese Stewed Rabbit"
+  },
+  "QA": {
+    "country": "Qatar",
+    "CountriesNationalDishes": "Machbūs"
+  },
+  "KW": {
+    "country": "Kuwait",
+    "CountriesNationalDishes": "Machboos Laham"
+  },
+  "AS": {
+    "country": "American Samoa",
+    "CountriesNationalDishes": "Luau Palusami"
+  },
+  "KM": {
+    "country": "Comoros",
+    "CountriesNationalDishes": "Lobster a la Vanille"
+  },
+  "VU": {
+    "country": "Vanuatu",
+    "CountriesNationalDishes": "Lap Lap"
+  },
+  "TR": {
+    "country": "Turkey",
+    "CountriesNationalDishes": "Lamb"
+  },
+  "LA": {
+    "country": "Laos",
+    "CountriesNationalDishes": "Laap"
+  },
+  "DO": {
+    "country": "Dominican Republic",
+    "CountriesNationalDishes": "La Bandera"
+  },
+  "BJ": {
+    "country": "Benin",
+    "CountriesNationalDishes": "Kuli-kuli"
+  },
+  "EG": {
+    "country": "Egypt",
+    "CountriesNationalDishes": "Koshari"
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "CountriesNationalDishes": "Kiwi Pie"
+  },
+  "KR": {
+    "country": "South Korea",
+    "CountriesNationalDishes": "Kimchi"
+  },
+  "KP": {
+    "country": "North Korea",
+    "CountriesNationalDishes": "Kimchi"
+  },
+  "SY": {
+    "country": "Syria",
+    "CountriesNationalDishes": "Kibbeh Bil Sanieh"
+  },
+  "LB": {
+    "country": "Lebanon",
+    "CountriesNationalDishes": "Kibbeh"
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "CountriesNationalDishes": "Khuzi"
+  },
+  "GE": {
+    "country": "Georgia",
+    "CountriesNationalDishes": "Khinkali"
+  },
+  "IN": {
+    "country": "India",
+    "CountriesNationalDishes": "Khichdi"
+  },
+  "CW": {
+    "country": "Curacao",
+    "CountriesNationalDishes": "Keshi Yena"
+  },
+  "AW": {
+    "country": "Aruba",
+    "CountriesNationalDishes": "Keshi yena"
+  },
+  "GU": {
+    "country": "Guam",
+    "CountriesNationalDishes": "Kelaguen, Spam"
+  },
+  "MP": {
+    "country": "Northern Mariana Islands",
+    "CountriesNationalDishes": "Kelaguen"
+  },
+  "LI": {
+    "country": "Liechtenstein",
+    "CountriesNationalDishes": "Käsknöpfle"
+  },
+  "SZ": {
+    "country": "Eswatini",
+    "CountriesNationalDishes": "Karoo Roast Ostrich Steak"
+  },
+  "SE": {
+    "country": "Sweden",
+    "CountriesNationalDishes": "Kanelbulle"
+  },
+  "PS": {
+    "country": "Palestine",
+    "CountriesNationalDishes": "Kanafeh"
+  },
+  "AF": {
+    "country": "Afghanistan",
+    "CountriesNationalDishes": "Kabuli Palaw"
+  },
+  "SA": {
+    "country": "Saudi Arabia",
+    "CountriesNationalDishes": "Kabsa"
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "CountriesNationalDishes": "Judd mat Gaardebounen"
+  },
+  "NG": {
+    "country": "Nigeria",
+    "CountriesNationalDishes": "Jollof Rice"
+  },
+  "IE": {
+    "country": "Ireland",
+    "CountriesNationalDishes": "Irish Stew"
+  },
+  "BD": {
+    "country": "Bangladesh",
+    "CountriesNationalDishes": "Ilish macher paturi"
+  },
+  "TL": {
+    "country": "Timor-Leste",
+    "CountriesNationalDishes": "Ikan Pepes"
+  },
+  "AM": {
+    "country": "Armenia",
+    "CountriesNationalDishes": "Harissa"
+  },
+  "US": {
+    "country": "United States",
+    "CountriesNationalDishes": "Hamburger"
+  },
+  "IS": {
+    "country": "Iceland",
+    "CountriesNationalDishes": "Hákarl"
+  },
+  "SG": {
+    "country": "Singapore",
+    "CountriesNationalDishes": "Hainanese Chicken Rice"
+  },
+  "GR": {
+    "country": "Greece",
+    "CountriesNationalDishes": "Gyro"
+  },
+  "GY": {
+    "country": "Guyana",
+    "CountriesNationalDishes": "Guyanese Pepperpot"
+  },
+  "NP": {
+    "country": "Nepal",
+    "CountriesNationalDishes": "Gundruk"
+  },
+  "GG": {
+    "country": "Guernsey",
+    "CountriesNationalDishes": "Guernsey Gâche"
+  },
+  "HT": {
+    "country": "Haiti",
+    "CountriesNationalDishes": "Griots"
+  },
+  "MQ": {
+    "country": "Martinique",
+    "CountriesNationalDishes": "Grilled Snapper"
+  },
+  "HU": {
+    "country": "Hungary",
+    "CountriesNationalDishes": "Gooyash"
+  },
+  "MS": {
+    "country": "Montserrat",
+    "CountriesNationalDishes": "Goat Water"
+  },
+  "RS": {
+    "country": "Serbia",
+    "CountriesNationalDishes": "Gibanica"
+  },
+  "MV": {
+    "country": "Maldives",
+    "CountriesNationalDishes": "Garuthiya and fish dishes"
+  },
+  "NI": {
+    "country": "Nicaragua",
+    "CountriesNationalDishes": "Gallo Pinto"
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "CountriesNationalDishes": "Gallo Pinto"
+  },
+  "AG": {
+    "country": "Antigua and Barbuda",
+    "CountriesNationalDishes": "Fungie"
+  },
+  "SD": {
+    "country": "Sudan",
+    "CountriesNationalDishes": "Ful Medames"
+  },
+  "SS": {
+    "country": "South Sudan",
+    "CountriesNationalDishes": "Ful Medames"
+  },
+  "GH": {
+    "country": "Ghana",
+    "CountriesNationalDishes": "Fufu"
+  },
+  "CI": {
+    "country": "Ivory Coast",
+    "CountriesNationalDishes": "Fufu"
+  },
+  "TG": {
+    "country": "Togo",
+    "CountriesNationalDishes": "Fufu"
+  },
+  "MZ": {
+    "country": "Mozambique",
+    "CountriesNationalDishes": "Fresh Seafood"
+  },
+  "BM": {
+    "country": "Bermuda",
+    "CountriesNationalDishes": "Fish chowder"
+  },
+  "PT": {
+    "country": "Portugal",
+    "CountriesNationalDishes": "Fish and Seafood"
+  },
+  "KH": {
+    "country": "Cambodia",
+    "CountriesNationalDishes": "Fish Amok"
+  },
+  "VI": {
+    "country": "United States Virgin Islands",
+    "CountriesNationalDishes": "Fish & Fungi"
+  },
+  "VG": {
+    "country": "British Virgin Islands",
+    "CountriesNationalDishes": "Fish & Fungi"
+  },
+  "FJ": {
+    "country": "Fiji",
+    "CountriesNationalDishes": "Fijian Kokoda"
+  },
+  "VA": {
+    "country": "Vatican City",
+    "CountriesNationalDishes": "Fettuccine"
+  },
+  "BR": {
+    "country": "Brazil",
+    "CountriesNationalDishes": "Feijoada"
+  },
+  "CY": {
+    "country": "Cyprus",
+    "CountriesNationalDishes": "Fasolada"
+  },
+  "NO": {
+    "country": "Norway",
+    "CountriesNationalDishes": "Fårikål"
+  },
+  "IL": {
+    "country": "Israel",
+    "CountriesNationalDishes": "Falafel"
+  },
+  "AD": {
+    "country": "Andorra",
+    "CountriesNationalDishes": "Escudella"
+  },
+  "EC": {
+    "country": "Ecuador",
+    "CountriesNationalDishes": "Encebollado"
+  },
+  "BT": {
+    "country": "Bhutan",
+    "CountriesNationalDishes": "Ema Datshi"
+  },
+  "SI": {
+    "country": "Slovenia",
+    "CountriesNationalDishes": "Dumplings"
+  },
+  "LR": {
+    "country": "Liberia",
+    "CountriesNationalDishes": "Dumboy"
+  },
+  "BY": {
+    "country": "Belarus",
+    "CountriesNationalDishes": "Draniki"
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "CountriesNationalDishes": "Doro Wat"
+  },
+  "GM": {
+    "country": "Gambia",
+    "CountriesNationalDishes": "Domoda"
+  },
+  "NE": {
+    "country": "Niger",
+    "CountriesNationalDishes": "Djerma Stew"
+  },
+  "MU": {
+    "country": "Mauritius",
+    "CountriesNationalDishes": "Dholl Puri"
+  },
+  "JP": {
+    "country": "Japan",
+    "CountriesNationalDishes": "Curry Rice"
+  },
+  "CL": {
+    "country": "Chile",
+    "CountriesNationalDishes": "Curanto"
+  },
+  "TC": {
+    "country": "Turks and Caicos Islands",
+    "CountriesNationalDishes": "Cracked Conch"
+  },
+  "TT": {
+    "country": "Trinidad and Tobago",
+    "CountriesNationalDishes": "Crab & Calaloo"
+  },
+  "DZ": {
+    "country": "Algeria",
+    "CountriesNationalDishes": "Couscous, chakhchoukha"
+  },
+  "TN": {
+    "country": "Tunisia",
+    "CountriesNationalDishes": "Couscous"
+  },
+  "LY": {
+    "country": "Libya",
+    "CountriesNationalDishes": "Couscous"
+  },
+  "BB": {
+    "country": "Barbados",
+    "CountriesNationalDishes": "Cou-Cou"
+  },
+  "SX": {
+    "country": "Sint Maarten",
+    "CountriesNationalDishes": "Conch and Dumplings"
+  },
+  "BS": {
+    "country": "Bahamas",
+    "CountriesNationalDishes": "Conch"
+  },
+  "NR": {
+    "country": "Nauru",
+    "CountriesNationalDishes": "Coconut Fish"
+  },
+  "ME": {
+    "country": "Montenegro",
+    "CountriesNationalDishes": "Chorba or Čorba"
+  },
+  "UY": {
+    "country": "Uruguay",
+    "CountriesNationalDishes": "Chivito"
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "CountriesNationalDishes": "Chicken Tikka Masala"
+  },
+  "GT": {
+    "country": "Guatemala",
+    "CountriesNationalDishes": "Chicken Pepian"
+  },
+  "AO": {
+    "country": "Angola",
+    "CountriesNationalDishes": "Chicken Muamba"
+  },
+  "BH": {
+    "country": "Bahrain",
+    "CountriesNationalDishes": "Chicken Machboos"
+  },
+  "SR": {
+    "country": "Suriname",
+    "CountriesNationalDishes": "Chicken and Rice"
+  },
+  "IR": {
+    "country": "Iran",
+    "CountriesNationalDishes": "Chelow Kabab"
+  },
+  "PE": {
+    "country": "Peru",
+    "CountriesNationalDishes": "Ceviche"
+  },
+  "BA": {
+    "country": "Bosnia and Herzegovina",
+    "CountriesNationalDishes": "Cevapi"
+  },
+  "LT": {
+    "country": "Lithuania",
+    "CountriesNationalDishes": "Cepelinai"
+  },
+  "SL": {
+    "country": "Sierra Leone",
+    "CountriesNationalDishes": "Cassava Leaves"
+  },
+  "RE": {
+    "country": "Reunion",
+    "CountriesNationalDishes": "Carri"
+  },
+  "ST": {
+    "country": "Sao Tome and Principe",
+    "CountriesNationalDishes": "Calulu"
+  },
+  "MF": {
+    "country": "Saint Martin",
+    "CountriesNationalDishes": "Callaloo Soup"
+  },
+  "GW": {
+    "country": "Guinea-Bissau",
+    "CountriesNationalDishes": "Cafriela de Frango"
+  },
+  "CV": {
+    "country": "Cape Verde",
+    "CountriesNationalDishes": "Cachupa"
+  },
+  "RO": {
+    "country": "Romania",
+    "CountriesNationalDishes": "Cabbage Rolls"
+  },
+  "MN": {
+    "country": "Mongolia",
+    "CountriesNationalDishes": "Buuz"
+  },
+  "SK": {
+    "country": "Slovakia",
+    "CountriesNationalDishes": "Bryndzové Halušky"
+  },
+  "RW": {
+    "country": "Rwanda",
+    "CountriesNationalDishes": "Brochettes"
+  },
+  "TD": {
+    "country": "Chad",
+    "CountriesNationalDishes": "Boule"
+  },
+  "GF": {
+    "country": "French Guiana",
+    "CountriesNationalDishes": "Bouillon D'awara"
+  },
+  "NC": {
+    "country": "New Caledonia",
+    "CountriesNationalDishes": "Bougna"
+  },
+  "UA": {
+    "country": "Ukraine",
+    "CountriesNationalDishes": "Borsch"
+  },
+  "BI": {
+    "country": "Burundi",
+    "CountriesNationalDishes": "Boko Boko"
+  },
+  "ZA": {
+    "country": "South Africa",
+    "CountriesNationalDishes": "Bobotie"
+  },
+  "PL": {
+    "country": "Poland",
+    "CountriesNationalDishes": "Bigos Stew"
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "CountriesNationalDishes": "Beshbarmak"
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "CountriesNationalDishes": "Besbarmak"
+  },
+  "TW": {
+    "country": "Taiwan",
+    "CountriesNationalDishes": "Beef Noodle Soup"
+  },
+  "JE": {
+    "country": "Jersey",
+    "CountriesNationalDishes": "Bean Crock (les pais au fou)"
+  },
+  "MH": {
+    "country": "Marshall Islands",
+    "CountriesNationalDishes": "Barramundi Cod"
+  },
+  "MC": {
+    "country": "Monaco",
+    "CountriesNationalDishes": "Barbagiuan"
+  },
+  "CO": {
+    "country": "Colombia",
+    "CountriesNationalDishes": "Bandeja Paisa"
+  },
+  "AR": {
+    "country": "Argentina",
+    "CountriesNationalDishes": "Asados"
+  },
+  "PR": {
+    "country": "Puerto Rico",
+    "CountriesNationalDishes": "Arroz con Gandules, Mofongo"
+  },
+  "BN": {
+    "country": "Brunei",
+    "CountriesNationalDishes": "Ambuyat"
+  },
+  "PH": {
+    "country": "Philippines",
+    "CountriesNationalDishes": "Adobo"
+  },
+  "JM": {
+    "country": "Jamaica",
+    "CountriesNationalDishes": "Ackee and Saltfish"
+  },
+  "BL": {
+    "country": "Saint Barthelemy",
+    "CountriesNationalDishes": "Accras"
+  }
+}

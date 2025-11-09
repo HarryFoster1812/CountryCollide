@@ -1,0 +1,202 @@
+{
+  "IN": {
+    "country": "India",
+    "AverageWakeupTime_2025": null
+  },
+  "CN": {
+    "country": "China",
+    "AverageWakeupTime_2025": null
+  },
+  "US": {
+    "country": "United States",
+    "AverageWakeupTime_2025": null
+  },
+  "ID": {
+    "country": "Indonesia",
+    "AverageWakeupTime_2025": null
+  },
+  "BR": {
+    "country": "Brazil",
+    "AverageWakeupTime_2025": null
+  },
+  "RU": {
+    "country": "Russia",
+    "AverageWakeupTime_2025": null
+  },
+  "MX": {
+    "country": "Mexico",
+    "AverageWakeupTime_2025": null
+  },
+  "JP": {
+    "country": "Japan",
+    "AverageWakeupTime_2025": null
+  },
+  "PH": {
+    "country": "Philippines",
+    "AverageWakeupTime_2025": null
+  },
+  "TR": {
+    "country": "Turkey",
+    "AverageWakeupTime_2025": null
+  },
+  "DE": {
+    "country": "Germany",
+    "AverageWakeupTime_2025": null
+  },
+  "TH": {
+    "country": "Thailand",
+    "AverageWakeupTime_2025": null
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "AverageWakeupTime_2025": null
+  },
+  "FR": {
+    "country": "France",
+    "AverageWakeupTime_2025": null
+  },
+  "ZA": {
+    "country": "South Africa",
+    "AverageWakeupTime_2025": null
+  },
+  "IT": {
+    "country": "Italy",
+    "AverageWakeupTime_2025": null
+  },
+  "CO": {
+    "country": "Colombia",
+    "AverageWakeupTime_2025": null
+  },
+  "KR": {
+    "country": "South Korea",
+    "AverageWakeupTime_2025": null
+  },
+  "ES": {
+    "country": "Spain",
+    "AverageWakeupTime_2025": null
+  },
+  "CA": {
+    "country": "Canada",
+    "AverageWakeupTime_2025": null
+  },
+  "UA": {
+    "country": "Ukraine",
+    "AverageWakeupTime_2025": null
+  },
+  "PL": {
+    "country": "Poland",
+    "AverageWakeupTime_2025": null
+  },
+  "MY": {
+    "country": "Malaysia",
+    "AverageWakeupTime_2025": null
+  },
+  "SA": {
+    "country": "Saudi Arabia",
+    "AverageWakeupTime_2025": null
+  },
+  "AU": {
+    "country": "Australia",
+    "AverageWakeupTime_2025": null
+  },
+  "TW": {
+    "country": "Taiwan",
+    "AverageWakeupTime_2025": null
+  },
+  "CL": {
+    "country": "Chile",
+    "AverageWakeupTime_2025": null
+  },
+  "RO": {
+    "country": "Romania",
+    "AverageWakeupTime_2025": null
+  },
+  "NL": {
+    "country": "Netherlands",
+    "AverageWakeupTime_2025": null
+  },
+  "BE": {
+    "country": "Belgium",
+    "AverageWakeupTime_2025": null
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "AverageWakeupTime_2025": null
+  },
+  "SE": {
+    "country": "Sweden",
+    "AverageWakeupTime_2025": null
+  },
+  "CZ": {
+    "country": "Czechia",
+    "AverageWakeupTime_2025": null
+  },
+  "PT": {
+    "country": "Portugal",
+    "AverageWakeupTime_2025": null
+  },
+  "GR": {
+    "country": "Greece",
+    "AverageWakeupTime_2025": null
+  },
+  "HU": {
+    "country": "Hungary",
+    "AverageWakeupTime_2025": null
+  },
+  "IL": {
+    "country": "Israel",
+    "AverageWakeupTime_2025": null
+  },
+  "AT": {
+    "country": "Austria",
+    "AverageWakeupTime_2025": null
+  },
+  "CH": {
+    "country": "Switzerland",
+    "AverageWakeupTime_2025": null
+  },
+  "HK": {
+    "country": "Hong Kong",
+    "AverageWakeupTime_2025": null
+  },
+  "DK": {
+    "country": "Denmark",
+    "AverageWakeupTime_2025": null
+  },
+  "SG": {
+    "country": "Singapore",
+    "AverageWakeupTime_2025": null
+  },
+  "FI": {
+    "country": "Finland",
+    "AverageWakeupTime_2025": null
+  },
+  "NO": {
+    "country": "Norway",
+    "AverageWakeupTime_2025": null
+  },
+  "SK": {
+    "country": "Slovakia",
+    "AverageWakeupTime_2025": null
+  },
+  "IE": {
+    "country": "Ireland",
+    "AverageWakeupTime_2025": null
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "AverageWakeupTime_2025": null
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "AverageWakeupTime_2025": null
+  },
+  "KW": {
+    "country": "Kuwait",
+    "AverageWakeupTime_2025": null
+  },
+  "QA": {
+    "country": "Qatar",
+    "AverageWakeupTime_2025": null
+  }
+}

@@ -1,0 +1,882 @@
+{
+  "RW": {
+    "country": "Rwanda",
+    "BananaConsumptionPerCapita_2022": 116.31,
+    "BananaConsumption_2022": 1602000
+  },
+  "PG": {
+    "country": "Papua New Guinea",
+    "BananaConsumptionPerCapita_2022": 109.16,
+    "BananaConsumption_2022": 1107000
+  },
+  "KM": {
+    "country": "Comoros",
+    "BananaConsumptionPerCapita_2022": 90.85,
+    "BananaConsumption_2022": 76000
+  },
+  "LA": {
+    "country": "Laos",
+    "BananaConsumptionPerCapita_2022": 80.91,
+    "BananaConsumption_2022": 609000
+  },
+  "WS": {
+    "country": "Samoa",
+    "BananaConsumptionPerCapita_2022": 69.67,
+    "BananaConsumption_2022": 15000
+  },
+  "BI": {
+    "country": "Burundi",
+    "BananaConsumptionPerCapita_2022": 66.47,
+    "BananaConsumption_2022": 857000
+  },
+  "PE": {
+    "country": "Peru",
+    "BananaConsumptionPerCapita_2022": 60.06,
+    "BananaConsumption_2022": 2045000
+  },
+  "GT": {
+    "country": "Guatemala",
+    "BananaConsumptionPerCapita_2022": 57.55,
+    "BananaConsumption_2022": 1027000
+  },
+  "KI": {
+    "country": "Kiribati",
+    "BananaConsumptionPerCapita_2022": 49.09,
+    "BananaConsumption_2022": 6000
+  },
+  "DO": {
+    "country": "Dominican Republic",
+    "BananaConsumptionPerCapita_2022": 48.55,
+    "BananaConsumption_2022": 545000
+  },
+  "VU": {
+    "country": "Vanuatu",
+    "BananaConsumptionPerCapita_2022": 47.18,
+    "BananaConsumption_2022": 15000
+  },
+  "AO": {
+    "country": "Angola",
+    "BananaConsumptionPerCapita_2022": 38.05,
+    "BananaConsumption_2022": 1354000
+  },
+  "NG": {
+    "country": "Nigeria",
+    "BananaConsumptionPerCapita_2022": 36.69,
+    "BananaConsumption_2022": 8019000
+  },
+  "TZ": {
+    "country": "Tanzania",
+    "BananaConsumptionPerCapita_2022": 36.49,
+    "BananaConsumption_2022": 2390000
+  },
+  "VC": {
+    "country": "Saint Vincent and the Grenadines",
+    "BananaConsumptionPerCapita_2022": 33,
+    "BananaConsumption_2022": 3000
+  },
+  "DM": {
+    "country": "Dominica",
+    "BananaConsumptionPerCapita_2022": 32.71,
+    "BananaConsumption_2022": 2000
+  },
+  "KE": {
+    "country": "Kenya",
+    "BananaConsumptionPerCapita_2022": 32.25,
+    "BananaConsumption_2022": 1742000
+  },
+  "ID": {
+    "country": "Indonesia",
+    "BananaConsumptionPerCapita_2022": 31.89,
+    "BananaConsumption_2022": 8786000
+  },
+  "BR": {
+    "country": "Brazil",
+    "BananaConsumptionPerCapita_2022": 26.67,
+    "BananaConsumption_2022": 5741000
+  },
+  "BS": {
+    "country": "Bahamas",
+    "BananaConsumptionPerCapita_2022": 25.88,
+    "BananaConsumption_2022": 11000
+  },
+  "CF": {
+    "country": "Central African Republic",
+    "BananaConsumptionPerCapita_2022": 24.87,
+    "BananaConsumption_2022": 139000
+  },
+  "LR": {
+    "country": "Liberia",
+    "BananaConsumptionPerCapita_2022": 24.62,
+    "BananaConsumption_2022": 131000
+  },
+  "PH": {
+    "country": "Philippines",
+    "BananaConsumptionPerCapita_2022": 24.17,
+    "BananaConsumption_2022": 2793000
+  },
+  "TV": {
+    "country": "Tuvalu",
+    "BananaConsumptionPerCapita_2022": 23.55,
+    "BananaConsumption_2022": null
+  },
+  "ST": {
+    "country": "Sao Tome and Principe",
+    "BananaConsumptionPerCapita_2022": 22.11,
+    "BananaConsumption_2022": 5000
+  },
+  "ML": {
+    "country": "Mali",
+    "BananaConsumptionPerCapita_2022": 22.05,
+    "BananaConsumption_2022": 498000
+  },
+  "JM": {
+    "country": "Jamaica",
+    "BananaConsumptionPerCapita_2022": 21.76,
+    "BananaConsumption_2022": 62000
+  },
+  "NL": {
+    "country": "Netherlands",
+    "BananaConsumptionPerCapita_2022": 21.02,
+    "BananaConsumption_2022": 369000
+  },
+  "CM": {
+    "country": "Cameroon",
+    "BananaConsumptionPerCapita_2022": 20.57,
+    "BananaConsumption_2022": 574000
+  },
+  "IL": {
+    "country": "Israel",
+    "BananaConsumptionPerCapita_2022": 19.67,
+    "BananaConsumption_2022": 178000
+  },
+  "IN": {
+    "country": "India",
+    "BananaConsumptionPerCapita_2022": 19.29,
+    "BananaConsumption_2022": 27337000
+  },
+  "GY": {
+    "country": "Guyana",
+    "BananaConsumptionPerCapita_2022": 19.11,
+    "BananaConsumption_2022": 15000
+  },
+  "MW": {
+    "country": "Malawi",
+    "BananaConsumptionPerCapita_2022": 18.91,
+    "BananaConsumption_2022": 386000
+  },
+  "SD": {
+    "country": "Sudan",
+    "BananaConsumptionPerCapita_2022": 18.52,
+    "BananaConsumption_2022": 868000
+  },
+  "VN": {
+    "country": "Vietnam",
+    "BananaConsumptionPerCapita_2022": 18.31,
+    "BananaConsumption_2022": 1798000
+  },
+  "CU": {
+    "country": "Cuba",
+    "BananaConsumptionPerCapita_2022": 17.81,
+    "BananaConsumption_2022": 200000
+  },
+  "HR": {
+    "country": "Croatia",
+    "BananaConsumptionPerCapita_2022": 17.7,
+    "BananaConsumption_2022": 71000
+  },
+  "PT": {
+    "country": "Portugal",
+    "BananaConsumptionPerCapita_2022": 17.57,
+    "BananaConsumption_2022": 180000
+  },
+  "AT": {
+    "country": "Austria",
+    "BananaConsumptionPerCapita_2022": 17.02,
+    "BananaConsumption_2022": 152000
+  },
+  "MT": {
+    "country": "Malta",
+    "BananaConsumptionPerCapita_2022": 17.02,
+    "BananaConsumption_2022": 9000
+  },
+  "FM": {
+    "country": "Micronesia",
+    "BananaConsumptionPerCapita_2022": 16.37,
+    "BananaConsumption_2022": 2000
+  },
+  "FI": {
+    "country": "Finland",
+    "BananaConsumptionPerCapita_2022": 16.2,
+    "BananaConsumption_2022": 90000
+  },
+  "PA": {
+    "country": "Panama",
+    "BananaConsumptionPerCapita_2022": 16.01,
+    "BananaConsumption_2022": 71000
+  },
+  "HT": {
+    "country": "Haiti",
+    "BananaConsumptionPerCapita_2022": 15.52,
+    "BananaConsumption_2022": 180000
+  },
+  "VE": {
+    "country": "Venezuela",
+    "BananaConsumptionPerCapita_2022": 15.32,
+    "BananaConsumption_2022": 434000
+  },
+  "MX": {
+    "country": "Mexico",
+    "BananaConsumptionPerCapita_2022": 14.91,
+    "BananaConsumption_2022": 1901000
+  },
+  "GR": {
+    "country": "Greece",
+    "BananaConsumptionPerCapita_2022": 14.8,
+    "BananaConsumption_2022": 154000
+  },
+  "EE": {
+    "country": "Estonia",
+    "BananaConsumptionPerCapita_2022": 13.98,
+    "BananaConsumption_2022": 19000
+  },
+  "NO": {
+    "country": "Norway",
+    "BananaConsumptionPerCapita_2022": 13.97,
+    "BananaConsumption_2022": 76000
+  },
+  "CG": {
+    "country": "Republic of the Congo",
+    "BananaConsumptionPerCapita_2022": 13.67,
+    "BananaConsumption_2022": 82000
+  },
+  "CA": {
+    "country": "Canada",
+    "BananaConsumptionPerCapita_2022": 13.47,
+    "BananaConsumption_2022": 518000
+  },
+  "BA": {
+    "country": "Bosnia and Herzegovina",
+    "BananaConsumptionPerCapita_2022": 13.47,
+    "BananaConsumption_2022": 44000
+  },
+  "BE": {
+    "country": "Belgium",
+    "BananaConsumptionPerCapita_2022": 13.31,
+    "BananaConsumption_2022": 155000
+  },
+  "AR": {
+    "country": "Argentina",
+    "BananaConsumptionPerCapita_2022": 13.21,
+    "BananaConsumption_2022": 601000
+  },
+  "UY": {
+    "country": "Uruguay",
+    "BananaConsumptionPerCapita_2022": 12.78,
+    "BananaConsumption_2022": 44000
+  },
+  "GN": {
+    "country": "Guinea",
+    "BananaConsumptionPerCapita_2022": 12.75,
+    "BananaConsumption_2022": 177000
+  },
+  "IS": {
+    "country": "Iceland",
+    "BananaConsumptionPerCapita_2022": 12.7,
+    "BananaConsumption_2022": 5000
+  },
+  "DK": {
+    "country": "Denmark",
+    "BananaConsumptionPerCapita_2022": 12.49,
+    "BananaConsumption_2022": 73000
+  },
+  "GD": {
+    "country": "Grenada",
+    "BananaConsumptionPerCapita_2022": 12.09,
+    "BananaConsumption_2022": 2000
+  },
+  "MG": {
+    "country": "Madagascar",
+    "BananaConsumptionPerCapita_2022": 12.03,
+    "BananaConsumption_2022": 356000
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "BananaConsumptionPerCapita_2022": 11.98,
+    "BananaConsumption_2022": 809000
+  },
+  "SC": {
+    "country": "Seychelles",
+    "BananaConsumptionPerCapita_2022": 11.84,
+    "BananaConsumption_2022": 1000
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "BananaConsumptionPerCapita_2022": 11.75,
+    "BananaConsumption_2022": 111000
+  },
+  "IE": {
+    "country": "Ireland",
+    "BananaConsumptionPerCapita_2022": 11.62,
+    "BananaConsumption_2022": 58000
+  },
+  "AG": {
+    "country": "Antigua and Barbuda",
+    "BananaConsumptionPerCapita_2022": 11.62,
+    "BananaConsumption_2022": 1000
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "BananaConsumptionPerCapita_2022": 11.41,
+    "BananaConsumption_2022": 59000
+  },
+  "KW": {
+    "country": "Kuwait",
+    "BananaConsumptionPerCapita_2022": 11.34,
+    "BananaConsumption_2022": 48000
+  },
+  "IT": {
+    "country": "Italy",
+    "BananaConsumptionPerCapita_2022": 11.29,
+    "BananaConsumption_2022": 667000
+  },
+  "NP": {
+    "country": "Nepal",
+    "BananaConsumptionPerCapita_2022": 11.29,
+    "BananaConsumption_2022": 345000
+  },
+  "LC": {
+    "country": "Saint Lucia",
+    "BananaConsumptionPerCapita_2022": 11.19,
+    "BananaConsumption_2022": 2000
+  },
+  "CZ": {
+    "country": "Czechia",
+    "BananaConsumptionPerCapita_2022": 11.18,
+    "BananaConsumption_2022": 117000
+  },
+  "LV": {
+    "country": "Latvia",
+    "BananaConsumptionPerCapita_2022": 11.18,
+    "BananaConsumption_2022": 21000
+  },
+  "CH": {
+    "country": "Switzerland",
+    "BananaConsumptionPerCapita_2022": 11.13,
+    "BananaConsumption_2022": 97000
+  },
+  "DE": {
+    "country": "Germany",
+    "BananaConsumptionPerCapita_2022": 11.1,
+    "BananaConsumption_2022": 926000
+  },
+  "US": {
+    "country": "United States",
+    "BananaConsumptionPerCapita_2022": 11,
+    "BananaConsumption_2022": 3722000
+  },
+  "OM": {
+    "country": "Oman",
+    "BananaConsumptionPerCapita_2022": 10.99,
+    "BananaConsumption_2022": 50000
+  },
+  "FR": {
+    "country": "France",
+    "BananaConsumptionPerCapita_2022": 10.87,
+    "BananaConsumption_2022": 703000
+  },
+  "ZA": {
+    "country": "South Africa",
+    "BananaConsumptionPerCapita_2022": 10.78,
+    "BananaConsumption_2022": 646000
+  },
+  "RU": {
+    "country": "Russia",
+    "BananaConsumptionPerCapita_2022": 10.74,
+    "BananaConsumption_2022": 1554000
+  },
+  "ZW": {
+    "country": "Zimbabwe",
+    "BananaConsumptionPerCapita_2022": 10.63,
+    "BananaConsumption_2022": 173000
+  },
+  "TW": {
+    "country": "Taiwan",
+    "BananaConsumptionPerCapita_2022": 10.62,
+    "BananaConsumption_2022": 254000
+  },
+  "TR": {
+    "country": "Turkey",
+    "BananaConsumptionPerCapita_2022": 10.56,
+    "BananaConsumption_2022": 901000
+  },
+  "SI": {
+    "country": "Slovenia",
+    "BananaConsumptionPerCapita_2022": 10.48,
+    "BananaConsumption_2022": 22000
+  },
+  "LY": {
+    "country": "Libya",
+    "BananaConsumptionPerCapita_2022": 10.45,
+    "BananaConsumption_2022": 71000
+  },
+  "RS": {
+    "country": "Serbia",
+    "BananaConsumptionPerCapita_2022": 10.39,
+    "BananaConsumption_2022": 75000
+  },
+  "SV": {
+    "country": "El Salvador",
+    "BananaConsumptionPerCapita_2022": 10.11,
+    "BananaConsumption_2022": 64000
+  },
+  "TH": {
+    "country": "Thailand",
+    "BananaConsumptionPerCapita_2022": 10.01,
+    "BananaConsumption_2022": 717000
+  },
+  "EG": {
+    "country": "Egypt",
+    "BananaConsumptionPerCapita_2022": 9.98,
+    "BananaConsumption_2022": 1108000
+  },
+  "FJ": {
+    "country": "Fiji",
+    "BananaConsumptionPerCapita_2022": 9.76,
+    "BananaConsumption_2022": 9000
+  },
+  "AU": {
+    "country": "Australia",
+    "BananaConsumptionPerCapita_2022": 9.66,
+    "BananaConsumption_2022": 253000
+  },
+  "LT": {
+    "country": "Lithuania",
+    "BananaConsumptionPerCapita_2022": 9.58,
+    "BananaConsumption_2022": 26000
+  },
+  "AL": {
+    "country": "Albania",
+    "BananaConsumptionPerCapita_2022": 9.32,
+    "BananaConsumption_2022": 26000
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "BananaConsumptionPerCapita_2022": 9.19,
+    "BananaConsumption_2022": 6000
+  },
+  "GE": {
+    "country": "Georgia",
+    "BananaConsumptionPerCapita_2022": 9.08,
+    "BananaConsumption_2022": 34000
+  },
+  "SK": {
+    "country": "Slovakia",
+    "BananaConsumptionPerCapita_2022": 8.86,
+    "BananaConsumption_2022": 50000
+  },
+  "BB": {
+    "country": "Barbados",
+    "BananaConsumptionPerCapita_2022": 8.78,
+    "BananaConsumption_2022": 2000
+  },
+  "MA": {
+    "country": "Morocco",
+    "BananaConsumptionPerCapita_2022": 8.65,
+    "BananaConsumption_2022": 324000
+  },
+  "AM": {
+    "country": "Armenia",
+    "BananaConsumptionPerCapita_2022": 8.47,
+    "BananaConsumption_2022": 24000
+  },
+  "CY": {
+    "country": "Cyprus",
+    "BananaConsumptionPerCapita_2022": 8.4,
+    "BananaConsumption_2022": 11000
+  },
+  "TT": {
+    "country": "Trinidad and Tobago",
+    "BananaConsumptionPerCapita_2022": 8.28,
+    "BananaConsumption_2022": 13000
+  },
+  "MO": {
+    "country": "Macau",
+    "BananaConsumptionPerCapita_2022": 8.24,
+    "BananaConsumption_2022": 6000
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "BananaConsumptionPerCapita_2022": 8.1,
+    "BananaConsumption_2022": 999000
+  },
+  "MZ": {
+    "country": "Mozambique",
+    "BananaConsumptionPerCapita_2022": 7.96,
+    "BananaConsumption_2022": 262000
+  },
+  "MY": {
+    "country": "Malaysia",
+    "BananaConsumptionPerCapita_2022": 7.87,
+    "BananaConsumption_2022": 267000
+  },
+  "LB": {
+    "country": "Lebanon",
+    "BananaConsumptionPerCapita_2022": 7.81,
+    "BananaConsumption_2022": 43000
+  },
+  "CN": {
+    "country": "China",
+    "BananaConsumptionPerCapita_2022": 7.61,
+    "BananaConsumption_2022": 10848000
+  },
+  "BY": {
+    "country": "Belarus",
+    "BananaConsumptionPerCapita_2022": 7.57,
+    "BananaConsumption_2022": 72000
+  },
+  "CD": {
+    "country": "DR Congo",
+    "BananaConsumptionPerCapita_2022": 7.46,
+    "BananaConsumption_2022": 738000
+  },
+  "RO": {
+    "country": "Romania",
+    "BananaConsumptionPerCapita_2022": 7.42,
+    "BananaConsumption_2022": 146000
+  },
+  "CV": {
+    "country": "Cape Verde",
+    "BananaConsumptionPerCapita_2022": 7.16,
+    "BananaConsumption_2022": 4000
+  },
+  "MU": {
+    "country": "Mauritius",
+    "BananaConsumptionPerCapita_2022": 7.09,
+    "BananaConsumption_2022": 9000
+  },
+  "JP": {
+    "country": "Japan",
+    "BananaConsumptionPerCapita_2022": 7.05,
+    "BananaConsumption_2022": 874000
+  },
+  "TO": {
+    "country": "Tonga",
+    "BananaConsumptionPerCapita_2022": 7.05,
+    "BananaConsumption_2022": 1000
+  },
+  "BO": {
+    "country": "Bolivia",
+    "BananaConsumptionPerCapita_2022": 6.94,
+    "BananaConsumption_2022": 85000
+  },
+  "SE": {
+    "country": "Sweden",
+    "BananaConsumptionPerCapita_2022": 6.93,
+    "BananaConsumption_2022": 73000
+  },
+  "ES": {
+    "country": "Spain",
+    "BananaConsumptionPerCapita_2022": 6.92,
+    "BananaConsumption_2022": 329000
+  },
+  "GA": {
+    "country": "Gabon",
+    "BananaConsumptionPerCapita_2022": 6.9,
+    "BananaConsumption_2022": 16000
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "BananaConsumptionPerCapita_2022": 6.76,
+    "BananaConsumption_2022": 35000
+  },
+  "IQ": {
+    "country": "Iraq",
+    "BananaConsumptionPerCapita_2022": 6.63,
+    "BananaConsumption_2022": 253000
+  },
+  "PY": {
+    "country": "Paraguay",
+    "BananaConsumptionPerCapita_2022": 6.62,
+    "BananaConsumption_2022": 45000
+  },
+  "SR": {
+    "country": "Suriname",
+    "BananaConsumptionPerCapita_2022": 6.18,
+    "BananaConsumption_2022": 4000
+  },
+  "HK": {
+    "country": "Hong Kong",
+    "BananaConsumptionPerCapita_2022": 6.17,
+    "BananaConsumption_2022": 46000
+  },
+  "HN": {
+    "country": "Honduras",
+    "BananaConsumptionPerCapita_2022": 6.15,
+    "BananaConsumption_2022": 64000
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "BananaConsumptionPerCapita_2022": 5.94,
+    "BananaConsumption_2022": 40000
+  },
+  "KR": {
+    "country": "South Korea",
+    "BananaConsumptionPerCapita_2022": 5.86,
+    "BananaConsumption_2022": 304000
+  },
+  "JO": {
+    "country": "Jordan",
+    "BananaConsumptionPerCapita_2022": 5.78,
+    "BananaConsumption_2022": 65000
+  },
+  "NC": {
+    "country": "New Caledonia",
+    "BananaConsumptionPerCapita_2022": 5.64,
+    "BananaConsumption_2022": 2000
+  },
+  "MV": {
+    "country": "Maldives",
+    "BananaConsumptionPerCapita_2022": 5.09,
+    "BananaConsumption_2022": 3000
+  },
+  "ME": {
+    "country": "Montenegro",
+    "BananaConsumptionPerCapita_2022": 5.05,
+    "BananaConsumption_2022": 3000
+  },
+  "AZ": {
+    "country": "Azerbaijan",
+    "BananaConsumptionPerCapita_2022": 5.02,
+    "BananaConsumption_2022": 52000
+  },
+  "UA": {
+    "country": "Ukraine",
+    "BananaConsumptionPerCapita_2022": 4.9,
+    "BananaConsumption_2022": 195000
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "BananaConsumptionPerCapita_2022": 4.77,
+    "BananaConsumption_2022": 32000
+  },
+  "BT": {
+    "country": "Bhutan",
+    "BananaConsumptionPerCapita_2022": 4.63,
+    "BananaConsumption_2022": 4000
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "BananaConsumptionPerCapita_2022": 4.44,
+    "BananaConsumption_2022": 86000
+  },
+  "CO": {
+    "country": "Colombia",
+    "BananaConsumptionPerCapita_2022": 4.43,
+    "BananaConsumption_2022": 230000
+  },
+  "BD": {
+    "country": "Bangladesh",
+    "BananaConsumptionPerCapita_2022": 4.42,
+    "BananaConsumption_2022": 757000
+  },
+  "MD": {
+    "country": "Moldova",
+    "BananaConsumptionPerCapita_2022": 4.34,
+    "BananaConsumption_2022": 12000
+  },
+  "BW": {
+    "country": "Botswana",
+    "BananaConsumptionPerCapita_2022": 4.32,
+    "BananaConsumption_2022": 11000
+  },
+  "UZ": {
+    "country": "Uzbekistan",
+    "BananaConsumptionPerCapita_2022": 4.05,
+    "BananaConsumption_2022": 140000
+  },
+  "GW": {
+    "country": "Guinea-Bissau",
+    "BananaConsumptionPerCapita_2022": 3.67,
+    "BananaConsumption_2022": 8000
+  },
+  "CL": {
+    "country": "Chile",
+    "BananaConsumptionPerCapita_2022": 3.64,
+    "BananaConsumption_2022": 71000
+  },
+  "TN": {
+    "country": "Tunisia",
+    "BananaConsumptionPerCapita_2022": 3.52,
+    "BananaConsumption_2022": 43000
+  },
+  "PL": {
+    "country": "Poland",
+    "BananaConsumptionPerCapita_2022": 3.1,
+    "BananaConsumption_2022": 123000
+  },
+  "HU": {
+    "country": "Hungary",
+    "BananaConsumptionPerCapita_2022": 2.98,
+    "BananaConsumption_2022": 30000
+  },
+  "IR": {
+    "country": "Iran",
+    "BananaConsumptionPerCapita_2022": 2.92,
+    "BananaConsumption_2022": 259000
+  },
+  "YE": {
+    "country": "Yemen",
+    "BananaConsumptionPerCapita_2022": 2.56,
+    "BananaConsumption_2022": 86000
+  },
+  "KN": {
+    "country": "Saint Kitts and Nevis",
+    "BananaConsumptionPerCapita_2022": 2.46,
+    "BananaConsumption_2022": null
+  },
+  "AF": {
+    "country": "Afghanistan",
+    "BananaConsumptionPerCapita_2022": 2.35,
+    "BananaConsumption_2022": 97000
+  },
+  "TJ": {
+    "country": "Tajikistan",
+    "BananaConsumptionPerCapita_2022": 2.35,
+    "BananaConsumption_2022": 23000
+  },
+  "SN": {
+    "country": "Senegal",
+    "BananaConsumptionPerCapita_2022": 2.32,
+    "BananaConsumption_2022": 40000
+  },
+  "TG": {
+    "country": "Togo",
+    "BananaConsumptionPerCapita_2022": 2.24,
+    "BananaConsumption_2022": 20000
+  },
+  "BF": {
+    "country": "Burkina Faso",
+    "BananaConsumptionPerCapita_2022": 2.08,
+    "BananaConsumption_2022": 47000
+  },
+  "KH": {
+    "country": "Cambodia",
+    "BananaConsumptionPerCapita_2022": 2.07,
+    "BananaConsumption_2022": 35000
+  },
+  "DZ": {
+    "country": "Algeria",
+    "BananaConsumptionPerCapita_2022": 1.97,
+    "BananaConsumption_2022": 88000
+  },
+  "QA": {
+    "country": "Qatar",
+    "BananaConsumptionPerCapita_2022": 1.86,
+    "BananaConsumption_2022": 5000
+  },
+  "MN": {
+    "country": "Mongolia",
+    "BananaConsumptionPerCapita_2022": 1.69,
+    "BananaConsumption_2022": 6000
+  },
+  "SO": {
+    "country": "Somalia",
+    "BananaConsumptionPerCapita_2022": 1.45,
+    "BananaConsumption_2022": 26000
+  },
+  "BJ": {
+    "country": "Benin",
+    "BananaConsumptionPerCapita_2022": 1.43,
+    "BananaConsumption_2022": 19000
+  },
+  "LS": {
+    "country": "Lesotho",
+    "BananaConsumptionPerCapita_2022": 1.43,
+    "BananaConsumption_2022": 3000
+  },
+  "DJ": {
+    "country": "Djibouti",
+    "BananaConsumptionPerCapita_2022": 1.42,
+    "BananaConsumption_2022": 2000
+  },
+  "NR": {
+    "country": "Nauru",
+    "BananaConsumptionPerCapita_2022": 0.95,
+    "BananaConsumption_2022": null
+  },
+  "NA": {
+    "country": "Namibia",
+    "BananaConsumptionPerCapita_2022": 0.92,
+    "BananaConsumption_2022": 2000
+  },
+  "GH": {
+    "country": "Ghana",
+    "BananaConsumptionPerCapita_2022": 0.85,
+    "BananaConsumption_2022": 28000
+  },
+  "SY": {
+    "country": "Syria",
+    "BananaConsumptionPerCapita_2022": 0.84,
+    "BananaConsumption_2022": 19000
+  },
+  "MH": {
+    "country": "Marshall Islands",
+    "BananaConsumptionPerCapita_2022": 0.76,
+    "BananaConsumption_2022": null
+  },
+  "PF": {
+    "country": "French Polynesia",
+    "BananaConsumptionPerCapita_2022": 0.62,
+    "BananaConsumption_2022": null
+  },
+  "SA": {
+    "country": "Saudi Arabia",
+    "BananaConsumptionPerCapita_2022": 0.61,
+    "BananaConsumption_2022": 22000
+  },
+  "ZM": {
+    "country": "Zambia",
+    "BananaConsumptionPerCapita_2022": 0.47,
+    "BananaConsumption_2022": 9000
+  },
+  "TL": {
+    "country": "Timor-Leste",
+    "BananaConsumptionPerCapita_2022": 0.44,
+    "BananaConsumption_2022": 1000
+  },
+  "BH": {
+    "country": "Bahrain",
+    "BananaConsumptionPerCapita_2022": 0.4,
+    "BananaConsumption_2022": 1000
+  },
+  "SB": {
+    "country": "Solomon Islands",
+    "BananaConsumptionPerCapita_2022": 0.4,
+    "BananaConsumption_2022": null
+  },
+  "PK": {
+    "country": "Pakistan",
+    "BananaConsumptionPerCapita_2022": 0.29,
+    "BananaConsumption_2022": 68000
+  },
+  "NE": {
+    "country": "Niger",
+    "BananaConsumptionPerCapita_2022": 0.18,
+    "BananaConsumption_2022": 5000
+  },
+  "CI": {
+    "country": "Ivory Coast",
+    "BananaConsumptionPerCapita_2022": 0.08,
+    "BananaConsumption_2022": 2000
+  },
+  "SZ": {
+    "country": "Eswatini",
+    "BananaConsumptionPerCapita_2022": 0.01,
+    "BananaConsumption_2022": null
+  },
+  "null": {
+    "country": "Total",
+    "BananaConsumptionPerCapita_2022": 2490.2900000000013,
+    "BananaConsumption_2022": 109144000
+  }
+}

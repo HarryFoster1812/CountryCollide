@@ -1,0 +1,1640 @@
+{
+  "PG": {
+    "country": "Papua New Guinea",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 840,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 840,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 11.81
+  },
+  "ID": {
+    "country": "Indonesia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 709,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 707,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 9.98
+  },
+  "NG": {
+    "country": "Nigeria",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 532,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 525,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 7.37
+  },
+  "IN": {
+    "country": "India",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 459,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 453,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 6,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 6.37
+  },
+  "US": {
+    "country": "United States",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 335,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 219,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 116,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 4.71
+  },
+  "AU": {
+    "country": "Australia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 319,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 226,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 93,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 4.49
+  },
+  "CN": {
+    "country": "China",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 305,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 302,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 4.29
+  },
+  "MX": {
+    "country": "Mexico",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 292,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 287,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 5,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 4.11
+  },
+  "CM": {
+    "country": "Cameroon",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 275,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 274,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 3.87
+  },
+  "BR": {
+    "country": "Brazil",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 228,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 217,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 11,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 3.21
+  },
+  "CD": {
+    "country": "DR Congo",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 214,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 212,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 3.01
+  },
+  "CA": {
+    "country": "Canada",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 195,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 96,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 99,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 2.74
+  },
+  "PH": {
+    "country": "Philippines",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 191,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 183,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 8,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 2.69
+  },
+  "RU": {
+    "country": "Russia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 159,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 115,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 44,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 2.24
+  },
+  "MY": {
+    "country": "Malaysia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 144,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 133,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 11,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 2.03
+  },
+  "TD": {
+    "country": "Chad",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 131,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 130,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.84
+  },
+  "NP": {
+    "country": "Nepal",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 129,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 122,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.81
+  },
+  "TZ": {
+    "country": "Tanzania",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 126,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 125,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.77
+  },
+  "MM": {
+    "country": "Myanmar",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 126,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 120,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 6,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.77
+  },
+  "VU": {
+    "country": "Vanuatu",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 116,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 110,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 6,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.63
+  },
+  "VN": {
+    "country": "Vietnam",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 112,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 109,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.58
+  },
+  "CI": {
+    "country": "Ivory Coast",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 101,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 86,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 15,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.42
+  },
+  "DE": {
+    "country": "Germany",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 95,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 25,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 70,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.34
+  },
+  "FR": {
+    "country": "France",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 95,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 22,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 73,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.42
+  },
+  "PE": {
+    "country": "Peru",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 94,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 93,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.32
+  },
+  "LA": {
+    "country": "Laos",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 92,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 85,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.29
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 91,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 90,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.28
+  },
+  "CO": {
+    "country": "Colombia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 89,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 85,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.25
+  },
+  "TH": {
+    "country": "Thailand",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 88,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 73,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 15,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.24
+  },
+  "GH": {
+    "country": "Ghana",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 87,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 81,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 6,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.22
+  },
+  "PK": {
+    "country": "Pakistan",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 85,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 74,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 11,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.2
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 85,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 13,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 72,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.2
+  },
+  "IR": {
+    "country": "Iran",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 84,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 79,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 5,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.18
+  },
+  "CF": {
+    "country": "Central African Republic",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 83,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 72,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 11,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.17
+  },
+  "SD": {
+    "country": "Sudan",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 76,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 75,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.07
+  },
+  "KE": {
+    "country": "Kenya",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 72,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 67,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 5,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.01
+  },
+  "SB": {
+    "country": "Solomon Islands",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 72,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 72,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1.01
+  },
+  "ML": {
+    "country": "Mali",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 71,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 68,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1
+  },
+  "BF": {
+    "country": "Burkina Faso",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 71,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 71,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 1
+  },
+  "SS": {
+    "country": "South Sudan",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 69,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 69,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.97
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 65,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 61,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.91
+  },
+  "CG": {
+    "country": "Republic of the Congo",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 64,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 62,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.9
+  },
+  "BJ": {
+    "country": "Benin",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 56,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 55,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.79
+  },
+  "ZM": {
+    "country": "Zambia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 55,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 46,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 9,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.77
+  },
+  "TR": {
+    "country": "Turkey",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 54,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 39,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 15,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.76
+  },
+  "IL": {
+    "country": "Israel",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 53,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 36,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 17,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.75
+  },
+  "NL": {
+    "country": "Netherlands",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 50,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 15,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 35,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.7
+  },
+  "UA": {
+    "country": "Ukraine",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 48,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 21,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 27,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.68
+  },
+  "VE": {
+    "country": "Venezuela",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 48,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 42,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 6,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.68
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 48,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 13,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 35,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.68
+  },
+  "IT": {
+    "country": "Italy",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 47,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 35,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 12,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.66
+  },
+  "AO": {
+    "country": "Angola",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 47,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 46,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.66
+  },
+  "MZ": {
+    "country": "Mozambique",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 47,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 43,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.66
+  },
+  "NO": {
+    "country": "Norway",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 47,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 11,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 36,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.66
+  },
+  "SN": {
+    "country": "Senegal",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 46,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 38,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 8,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.65
+  },
+  "TG": {
+    "country": "Togo",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 46,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 44,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.65
+  },
+  "BD": {
+    "country": "Bangladesh",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 45,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 41,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.63
+  },
+  "UG": {
+    "country": "Uganda",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 45,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 43,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.63
+  },
+  "BO": {
+    "country": "Bolivia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 45,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 43,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.63
+  },
+  "GA": {
+    "country": "Gabon",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 44,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 43,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.62
+  },
+  "ZA": {
+    "country": "South Africa",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 42,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 30,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 12,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.59
+  },
+  "AF": {
+    "country": "Afghanistan",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 42,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 41,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.59
+  },
+  "AR": {
+    "country": "Argentina",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 40,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 24,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 16,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.56
+  },
+  "GN": {
+    "country": "Guinea",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 40,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 37,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.56
+  },
+  "NC": {
+    "country": "New Caledonia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 40,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 38,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.56
+  },
+  "DK": {
+    "country": "Denmark",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 39,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 5,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 34,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.55
+  },
+  "AZ": {
+    "country": "Azerbaijan",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 38,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 18,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 20,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.53
+  },
+  "FI": {
+    "country": "Finland",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 38,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 13,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 25,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.53
+  },
+  "BW": {
+    "country": "Botswana",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 38,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 31,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.53
+  },
+  "UZ": {
+    "country": "Uzbekistan",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 37,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 11,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 26,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.52
+  },
+  "SE": {
+    "country": "Sweden",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 37,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 15,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 22,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.52
+  },
+  "BE": {
+    "country": "Belgium",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 36,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 12,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 24,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.51
+  },
+  "AT": {
+    "country": "Austria",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 36,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 15,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 21,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.51
+  },
+  "TW": {
+    "country": "Taiwan",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 35,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 23,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 12,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.49
+  },
+  "ES": {
+    "country": "Spain",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 34,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 17,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 17,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.48
+  },
+  "GR": {
+    "country": "Greece",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 34,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 20,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 14,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.48
+  },
+  "LR": {
+    "country": "Liberia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 34,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 31,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.48
+  },
+  "TJ": {
+    "country": "Tajikistan",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 33,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 13,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 20,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.46
+  },
+  "CH": {
+    "country": "Switzerland",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 33,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 13,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 20,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.46
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 33,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 6,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 27,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.46
+  },
+  "NA": {
+    "country": "Namibia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 33,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 27,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 6,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.46
+  },
+  "TM": {
+    "country": "Turkmenistan",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 31,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 6,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 25,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.44
+  },
+  "SG": {
+    "country": "Singapore",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 31,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 24,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.44
+  },
+  "OM": {
+    "country": "Oman",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 31,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 17,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 14,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.44
+  },
+  "BT": {
+    "country": "Bhutan",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 31,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 23,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 8,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.44
+  },
+  "GW": {
+    "country": "Guinea-Bissau",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 30,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 23,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.42
+  },
+  "RO": {
+    "country": "Romania",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 29,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 26,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.41
+  },
+  "KH": {
+    "country": "Cambodia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 29,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 27,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.41
+  },
+  "LY": {
+    "country": "Libya",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 29,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 9,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 20,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.41
+  },
+  "IQ": {
+    "country": "Iraq",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 27,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 23,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.38
+  },
+  "PL": {
+    "country": "Poland",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 27,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 22,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 5,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.38
+  },
+  "GT": {
+    "country": "Guatemala",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 27,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 27,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.38
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 27,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 10,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 17,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.38
+  },
+  "PY": {
+    "country": "Paraguay",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 27,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 23,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.38
+  },
+  "HR": {
+    "country": "Croatia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 27,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 16,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 11,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.38
+  },
+  "GE": {
+    "country": "Georgia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 27,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 20,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.38
+  },
+  "SR": {
+    "country": "Suriname",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 27,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 21,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 6,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.38
+  },
+  "CZ": {
+    "country": "Czechia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 26,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 11,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 15,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.37
+  },
+  "SL": {
+    "country": "Sierra Leone",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 26,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 24,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.37
+  },
+  "SA": {
+    "country": "Saudi Arabia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 25,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 7,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 18,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.35
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 25,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 13,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 12,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.35
+  },
+  "SY": {
+    "country": "Syria",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 24,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 17,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.34
+  },
+  "MW": {
+    "country": "Malawi",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 24,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 17,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.34
+  },
+  "EC": {
+    "country": "Ecuador",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 24,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 24,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.34
+  },
+  "ZW": {
+    "country": "Zimbabwe",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 24,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 22,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.34
+  },
+  "RS": {
+    "country": "Serbia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 24,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 17,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.34
+  },
+  "GM": {
+    "country": "Gambia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 24,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 11,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 13,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.34
+  },
+  "EG": {
+    "country": "Egypt",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 23,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 16,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.32
+  },
+  "NE": {
+    "country": "Niger",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 23,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 23,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.32
+  },
+  "PT": {
+    "country": "Portugal",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 23,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 10,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 13,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.32
+  },
+  "DZ": {
+    "country": "Algeria",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 22,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 18,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.31
+  },
+  "HU": {
+    "country": "Hungary",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 21,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 18,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.3
+  },
+  "TL": {
+    "country": "Timor-Leste",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 21,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 20,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.3
+  },
+  "FJ": {
+    "country": "Fiji",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 21,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 10,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 11,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.3
+  },
+  "MG": {
+    "country": "Madagascar",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 20,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 14,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 6,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.28
+  },
+  "EE": {
+    "country": "Estonia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 20,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 7,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 13,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.28
+  },
+  "JP": {
+    "country": "Japan",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 19,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 15,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.27
+  },
+  "FM": {
+    "country": "Micronesia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 19,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 18,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.27
+  },
+  "PA": {
+    "country": "Panama",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 18,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 14,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.25
+  },
+  "QA": {
+    "country": "Qatar",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 18,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 15,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.25
+  },
+  "GY": {
+    "country": "Guyana",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 18,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 16,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.25
+  },
+  "YE": {
+    "country": "Yemen",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 17,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 11,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 6,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.24
+  },
+  "CL": {
+    "country": "Chile",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 17,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 11,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 6,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.24
+  },
+  "ER": {
+    "country": "Eritrea",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 17,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 15,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.24
+  },
+  "BN": {
+    "country": "Brunei",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 17,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 15,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.24
+  },
+  "LB": {
+    "country": "Lebanon",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 16,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 7,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 9,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.23
+  },
+  "GQ": {
+    "country": "Equatorial Guinea",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 16,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 14,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.23
+  },
+  "LV": {
+    "country": "Latvia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 16,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 8,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 8,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.23
+  },
+  "CY": {
+    "country": "Cyprus",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 16,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 5,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 11,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.23
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 16,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 12,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.23
+  },
+  "GF": {
+    "country": "French Guiana",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 16,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 13,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.23
+  },
+  "MA": {
+    "country": "Morocco",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 15,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 14,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.21
+  },
+  "TN": {
+    "country": "Tunisia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 15,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 7,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 8,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.21
+  },
+  "SK": {
+    "country": "Slovakia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 15,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 12,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.21
+  },
+  "LT": {
+    "country": "Lithuania",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 15,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 11,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.21
+  },
+  "SI": {
+    "country": "Slovenia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 15,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 11,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.21
+  },
+  "MK": {
+    "country": "North Macedonia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 15,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 10,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 5,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.21
+  },
+  "SO": {
+    "country": "Somalia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 14,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 13,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.2
+  },
+  "JO": {
+    "country": "Jordan",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 14,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 11,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.2
+  },
+  "MN": {
+    "country": "Mongolia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 14,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 12,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.2
+  },
+  "UY": {
+    "country": "Uruguay",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 14,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 5,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 9,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.2
+  },
+  "MD": {
+    "country": "Moldova",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 14,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 10,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.2
+  },
+  "AM": {
+    "country": "Armenia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 14,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 8,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 6,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.2
+  },
+  "BH": {
+    "country": "Bahrain",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 14,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 6,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 8,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.2
+  },
+  "MU": {
+    "country": "Mauritius",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 14,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 7,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.2
+  },
+  "IE": {
+    "country": "Ireland",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 13,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 5,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 8,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.18
+  },
+  "ME": {
+    "country": "Montenegro",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 13,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 6,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.18
+  },
+  "LK": {
+    "country": "Sri Lanka",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 12,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 7,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 5,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.17
+  },
+  "HN": {
+    "country": "Honduras",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 12,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 10,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.17
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 12,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 11,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.17
+  },
+  "PR": {
+    "country": "Puerto Rico",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 12,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 8,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.17
+  },
+  "BA": {
+    "country": "Bosnia and Herzegovina",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 12,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 5,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.17
+  },
+  "AL": {
+    "country": "Albania",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 12,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 8,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.17
+  },
+  "BZ": {
+    "country": "Belize",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 12,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 8,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.17
+  },
+  "BY": {
+    "country": "Belarus",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 11,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.15
+  },
+  "HK": {
+    "country": "Hong Kong",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 11,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 7,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.15
+  },
+  "NI": {
+    "country": "Nicaragua",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 11,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 11,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.15
+  },
+  "PS": {
+    "country": "Palestine",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 10,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 7,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.14
+  },
+  "DJ": {
+    "country": "Djibouti",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 10,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 5,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 5,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.14
+  },
+  "PF": {
+    "country": "French Polynesia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 10,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 9,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.14
+  },
+  "DO": {
+    "country": "Dominican Republic",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 9,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 5,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.13
+  },
+  "TT": {
+    "country": "Trinidad and Tobago",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 9,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 7,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.13
+  },
+  "GU": {
+    "country": "Guam",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 9,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 7,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.13
+  },
+  "SX": {
+    "country": "Sint Maarten",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 9,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 5,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.13
+  },
+  "NR": {
+    "country": "Nauru",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 9,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 6,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.13
+  },
+  "MR": {
+    "country": "Mauritania",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 8,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 7,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.11
+  },
+  "JM": {
+    "country": "Jamaica",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 8,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.11
+  },
+  "RE": {
+    "country": "Reunion",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 8,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 5,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.11
+  },
+  "MT": {
+    "country": "Malta",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 8,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.11
+  },
+  "ST": {
+    "country": "Sao Tome and Principe",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 8,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 5,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.11
+  },
+  "KW": {
+    "country": "Kuwait",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 7,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 4,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.1
+  },
+  "SZ": {
+    "country": "Eswatini",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 7,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 5,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.1
+  },
+  "MO": {
+    "country": "Macau",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 7,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 5,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.1
+  },
+  "AS": {
+    "country": "American Samoa",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 7,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 5,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.1
+  },
+  "MP": {
+    "country": "Northern Mariana Islands",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 7,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.1
+  },
+  "KM": {
+    "country": "Comoros",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 6,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 6,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.08
+  },
+  "CW": {
+    "country": "Curacao",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 6,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 5,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.08
+  },
+  "AW": {
+    "country": "Aruba",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 6,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.08
+  },
+  "VI": {
+    "country": "United States Virgin Islands",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 6,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.08
+  },
+  "PW": {
+    "country": "Palau",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 6,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.08
+  },
+  "KR": {
+    "country": "South Korea",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 5,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.07
+  },
+  "RW": {
+    "country": "Rwanda",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 5,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.07
+  },
+  "CU": {
+    "country": "Cuba",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 5,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.07
+  },
+  "SV": {
+    "country": "El Salvador",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 5,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 5,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.07
+  },
+  "LS": {
+    "country": "Lesotho",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 5,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 5,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.07
+  },
+  "BS": {
+    "country": "Bahamas",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 5,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.07
+  },
+  "YT": {
+    "country": "Mayotte",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 5,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.07
+  },
+  "AD": {
+    "country": "Andorra",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 5,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.07
+  },
+  "DM": {
+    "country": "Dominica",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 5,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.07
+  },
+  "LI": {
+    "country": "Liechtenstein",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 5,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.07
+  },
+  "MC": {
+    "country": "Monaco",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 5,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 5,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.07
+  },
+  "MF": {
+    "country": "Saint Martin",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 5,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.07
+  },
+  "CK": {
+    "country": "Cook Islands",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 5,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 5,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.07
+  },
+  "TK": {
+    "country": "Tokelau",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 5,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.07
+  },
+  "BI": {
+    "country": "Burundi",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 4,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.06
+  },
+  "HT": {
+    "country": "Haiti",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 4,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.06
+  },
+  "EH": {
+    "country": "Western Sahara",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 4,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.06
+  },
+  "GP": {
+    "country": "Guadeloupe",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 4,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.06
+  },
+  "MQ": {
+    "country": "Martinique",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 4,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.06
+  },
+  "LC": {
+    "country": "Saint Lucia",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 4,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.06
+  },
+  "GD": {
+    "country": "Grenada",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 4,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 4,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.06
+  },
+  "JE": {
+    "country": "Jersey",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 4,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.06
+  },
+  "TO": {
+    "country": "Tonga",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 4,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.06
+  },
+  "AG": {
+    "country": "Antigua and Barbuda",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 4,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.06
+  },
+  "KY": {
+    "country": "Cayman Islands",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 4,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 1,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 3,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.06
+  },
+  "GG": {
+    "country": "Guernsey",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 4,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.06
+  },
+  "TC": {
+    "country": "Turks and Caicos Islands",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 4,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 2,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.06
+  },
+  "CV": {
+    "country": "Cape Verde",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 3,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.04
+  },
+  "BB": {
+    "country": "Barbados",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 3,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.04
+  },
+  "WS": {
+    "country": "Samoa",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 3,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.04
+  },
+  "KI": {
+    "country": "Kiribati",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 3,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.04
+  },
+  "SC": {
+    "country": "Seychelles",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 3,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.04
+  },
+  "VC": {
+    "country": "Saint Vincent and the Grenadines",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 3,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.04
+  },
+  "BM": {
+    "country": "Bermuda",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 3,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.04
+  },
+  "GL": {
+    "country": "Greenland",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 3,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.04
+  },
+  "KN": {
+    "country": "Saint Kitts and Nevis",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 3,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.04
+  },
+  "GI": {
+    "country": "Gibraltar",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 3,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.04
+  },
+  "BL": {
+    "country": "Saint Barthelemy",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 3,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.04
+  },
+  "WF": {
+    "country": "Wallis and Futuna",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 3,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.04
+  },
+  "TV": {
+    "country": "Tuvalu",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 3,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 3,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.04
+  },
+  "NU": {
+    "country": "Niue",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 3,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.04
+  },
+  "MV": {
+    "country": "Maldives",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 2,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.03
+  },
+  "IS": {
+    "country": "Iceland",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 2,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.03
+  },
+  "IM": {
+    "country": "Isle of Man",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 2,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.03
+  },
+  "FO": {
+    "country": "Faroe Islands",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 2,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.03
+  },
+  "VG": {
+    "country": "British Virgin Islands",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 2,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.03
+  },
+  "MH": {
+    "country": "Marshall Islands",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 2,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.03
+  },
+  "SM": {
+    "country": "San Marino",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 2,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.03
+  },
+  "AI": {
+    "country": "Anguilla",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 2,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.03
+  },
+  "MS": {
+    "country": "Montserrat",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 2,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.03
+  },
+  "FK": {
+    "country": "Falkland Islands",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 2,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 1,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": 1,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.03
+  },
+  "VA": {
+    "country": "Vatican City",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 2,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 2,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.03
+  },
+  "KP": {
+    "country": "North Korea",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 1,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 1,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.01
+  },
+  "PM": {
+    "country": "Saint Pierre and Miquelon",
+    "AverageNumberOfLanguagesTotalLivingLanguages": 1,
+    "AverageNumberOfLanguagesEstablishedLivingLanguages": 1,
+    "AverageNumberOfLanguagesImmigrantLivingLanguages": null,
+    "AverageNumberOfLanguagesPercentOfWorldsLivingLanguages": 0.01
+  }
+}

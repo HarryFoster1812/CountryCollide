@@ -1,0 +1,654 @@
+{
+  "MX": {
+    "country": "Mexico",
+    "AvocadoConsumption_2022": 1275946.88
+  },
+  "US": {
+    "country": "United States",
+    "AvocadoConsumption_2022": 1162050.18
+  },
+  "CO": {
+    "country": "Colombia",
+    "AvocadoConsumption_2022": 895434.46
+  },
+  "DO": {
+    "country": "Dominican Republic",
+    "AvocadoConsumption_2022": 549912.18
+  },
+  "ID": {
+    "country": "Indonesia",
+    "AvocadoConsumption_2022": 384152.11
+  },
+  "KE": {
+    "country": "Kenya",
+    "AvocadoConsumption_2022": 316895.99
+  },
+  "BR": {
+    "country": "Brazil",
+    "AvocadoConsumption_2022": 260222.88
+  },
+  "VN": {
+    "country": "Vietnam",
+    "AvocadoConsumption_2022": 210541.85
+  },
+  "CN": {
+    "country": "China",
+    "AvocadoConsumption_2022": 160946.24
+  },
+  "PE": {
+    "country": "Peru",
+    "AvocadoConsumption_2022": 154061.99
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "AvocadoConsumption_2022": 150580.77
+  },
+  "FR": {
+    "country": "France",
+    "AvocadoConsumption_2022": 131736.61
+  },
+  "IL": {
+    "country": "Israel",
+    "AvocadoConsumption_2022": 130677.8
+  },
+  "HT": {
+    "country": "Haiti",
+    "AvocadoConsumption_2022": 128471.15
+  },
+  "ES": {
+    "country": "Spain",
+    "AvocadoConsumption_2022": 126848.73
+  },
+  "VE": {
+    "country": "Venezuela",
+    "AvocadoConsumption_2022": 115912.69
+  },
+  "GT": {
+    "country": "Guatemala",
+    "AvocadoConsumption_2022": 112092
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "AvocadoConsumption_2022": 102603.71
+  },
+  "DE": {
+    "country": "Germany",
+    "AvocadoConsumption_2022": 98713.16
+  },
+  "CA": {
+    "country": "Canada",
+    "AvocadoConsumption_2022": 94655.99
+  },
+  "MW": {
+    "country": "Malawi",
+    "AvocadoConsumption_2022": 86215.38
+  },
+  "AU": {
+    "country": "Australia",
+    "AvocadoConsumption_2022": 82780.64
+  },
+  "CM": {
+    "country": "Cameroon",
+    "AvocadoConsumption_2022": 68052.63
+  },
+  "AO": {
+    "country": "Angola",
+    "AvocadoConsumption_2022": 55128.8
+  },
+  "RU": {
+    "country": "Russia",
+    "AvocadoConsumption_2022": 52800.14
+  },
+  "CD": {
+    "country": "DR Congo",
+    "AvocadoConsumption_2022": 51858.34
+  },
+  "JP": {
+    "country": "Japan",
+    "AvocadoConsumption_2022": 45516.21
+  },
+  "CL": {
+    "country": "Chile",
+    "AvocadoConsumption_2022": 44903.53
+  },
+  "IT": {
+    "country": "Italy",
+    "AvocadoConsumption_2022": 44734.33
+  },
+  "MA": {
+    "country": "Morocco",
+    "AvocadoConsumption_2022": 43686.9
+  },
+  "TR": {
+    "country": "Turkey",
+    "AvocadoConsumption_2022": 40688.63
+  },
+  "NL": {
+    "country": "Netherlands",
+    "AvocadoConsumption_2022": 35382
+  },
+  "ZA": {
+    "country": "South Africa",
+    "AvocadoConsumption_2022": 34527.5
+  },
+  "SV": {
+    "country": "El Salvador",
+    "AvocadoConsumption_2022": 33035.61
+  },
+  "AR": {
+    "country": "Argentina",
+    "AvocadoConsumption_2022": 27797.43
+  },
+  "PL": {
+    "country": "Poland",
+    "AvocadoConsumption_2022": 25173.4
+  },
+  "MG": {
+    "country": "Madagascar",
+    "AvocadoConsumption_2022": 25063.87
+  },
+  "PT": {
+    "country": "Portugal",
+    "AvocadoConsumption_2022": 25028.06
+  },
+  "EC": {
+    "country": "Ecuador",
+    "AvocadoConsumption_2022": 23830.7
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "AvocadoConsumption_2022": 21722.55
+  },
+  "CI": {
+    "country": "Ivory Coast",
+    "AvocadoConsumption_2022": 21317.54
+  },
+  "GR": {
+    "country": "Greece",
+    "AvocadoConsumption_2022": 19244.74
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "AvocadoConsumption_2022": 19200.23
+  },
+  "CH": {
+    "country": "Switzerland",
+    "AvocadoConsumption_2022": 18242.46
+  },
+  "SE": {
+    "country": "Sweden",
+    "AvocadoConsumption_2022": 17298.65
+  },
+  "PH": {
+    "country": "Philippines",
+    "AvocadoConsumption_2022": 16932.72
+  },
+  "PY": {
+    "country": "Paraguay",
+    "AvocadoConsumption_2022": 14373.38
+  },
+  "NO": {
+    "country": "Norway",
+    "AvocadoConsumption_2022": 14136.71
+  },
+  "DK": {
+    "country": "Denmark",
+    "AvocadoConsumption_2022": 13480.12
+  },
+  "KR": {
+    "country": "South Korea",
+    "AvocadoConsumption_2022": 13478.72
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "AvocadoConsumption_2022": 13250.47
+  },
+  "PA": {
+    "country": "Panama",
+    "AvocadoConsumption_2022": 13200.27
+  },
+  "RO": {
+    "country": "Romania",
+    "AvocadoConsumption_2022": 13053.05
+  },
+  "LK": {
+    "country": "Sri Lanka",
+    "AvocadoConsumption_2022": 13012.43
+  },
+  "BO": {
+    "country": "Bolivia",
+    "AvocadoConsumption_2022": 12909.56
+  },
+  "AT": {
+    "country": "Austria",
+    "AvocadoConsumption_2022": 12828.24
+  },
+  "SA": {
+    "country": "Saudi Arabia",
+    "AvocadoConsumption_2022": 12475.49
+  },
+  "HK": {
+    "country": "Hong Kong",
+    "AvocadoConsumption_2022": 11534.77
+  },
+  "BE": {
+    "country": "Belgium",
+    "AvocadoConsumption_2022": 11343.11
+  },
+  "UA": {
+    "country": "Ukraine",
+    "AvocadoConsumption_2022": 10468.96
+  },
+  "HN": {
+    "country": "Honduras",
+    "AvocadoConsumption_2022": 10232.56
+  },
+  "LB": {
+    "country": "Lebanon",
+    "AvocadoConsumption_2022": 9705.06
+  },
+  "ML": {
+    "country": "Mali",
+    "AvocadoConsumption_2022": 9069.21
+  },
+  "CG": {
+    "country": "Republic of the Congo",
+    "AvocadoConsumption_2022": 8709.63
+  },
+  "IE": {
+    "country": "Ireland",
+    "AvocadoConsumption_2022": 7849.76
+  },
+  "CZ": {
+    "country": "Czechia",
+    "AvocadoConsumption_2022": 7724.18
+  },
+  "CF": {
+    "country": "Central African Republic",
+    "AvocadoConsumption_2022": 7376.96
+  },
+  "FI": {
+    "country": "Finland",
+    "AvocadoConsumption_2022": 6145.47
+  },
+  "HU": {
+    "country": "Hungary",
+    "AvocadoConsumption_2022": 4940.55
+  },
+  "GH": {
+    "country": "Ghana",
+    "AvocadoConsumption_2022": 4845.51
+  },
+  "LT": {
+    "country": "Lithuania",
+    "AvocadoConsumption_2022": 4500.59
+  },
+  "BF": {
+    "country": "Burkina Faso",
+    "AvocadoConsumption_2022": 4273.94
+  },
+  "MY": {
+    "country": "Malaysia",
+    "AvocadoConsumption_2022": 4264.03
+  },
+  "TL": {
+    "country": "Timor-Leste",
+    "AvocadoConsumption_2022": 3970.6
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "AvocadoConsumption_2022": 3525.09
+  },
+  "QA": {
+    "country": "Qatar",
+    "AvocadoConsumption_2022": 3274.21
+  },
+  "CU": {
+    "country": "Cuba",
+    "AvocadoConsumption_2022": 3212.9
+  },
+  "RW": {
+    "country": "Rwanda",
+    "AvocadoConsumption_2022": 3133.17
+  },
+  "LV": {
+    "country": "Latvia",
+    "AvocadoConsumption_2022": 3018.81
+  },
+  "SK": {
+    "country": "Slovakia",
+    "AvocadoConsumption_2022": 2817.32
+  },
+  "BY": {
+    "country": "Belarus",
+    "AvocadoConsumption_2022": 2546.39
+  },
+  "HR": {
+    "country": "Croatia",
+    "AvocadoConsumption_2022": 2471.3
+  },
+  "SI": {
+    "country": "Slovenia",
+    "AvocadoConsumption_2022": 2421.74
+  },
+  "UY": {
+    "country": "Uruguay",
+    "AvocadoConsumption_2022": 2414.32
+  },
+  "SO": {
+    "country": "Somalia",
+    "AvocadoConsumption_2022": 2303.81
+  },
+  "KW": {
+    "country": "Kuwait",
+    "AvocadoConsumption_2022": 2285.89
+  },
+  "IQ": {
+    "country": "Iraq",
+    "AvocadoConsumption_2022": 2277.35
+  },
+  "IN": {
+    "country": "India",
+    "AvocadoConsumption_2022": 2176.2
+  },
+  "JO": {
+    "country": "Jordan",
+    "AvocadoConsumption_2022": 2074.01
+  },
+  "JM": {
+    "country": "Jamaica",
+    "AvocadoConsumption_2022": 2060.63
+  },
+  "EE": {
+    "country": "Estonia",
+    "AvocadoConsumption_2022": 1854.95
+  },
+  "BS": {
+    "country": "Bahamas",
+    "AvocadoConsumption_2022": 1816.83
+  },
+  "RS": {
+    "country": "Serbia",
+    "AvocadoConsumption_2022": 1738.29
+  },
+  "CY": {
+    "country": "Cyprus",
+    "AvocadoConsumption_2022": 1648.15
+  },
+  "OM": {
+    "country": "Oman",
+    "AvocadoConsumption_2022": 1515.98
+  },
+  "MD": {
+    "country": "Moldova",
+    "AvocadoConsumption_2022": 1502.83
+  },
+  "BH": {
+    "country": "Bahrain",
+    "AvocadoConsumption_2022": 1452.6
+  },
+  "TH": {
+    "country": "Thailand",
+    "AvocadoConsumption_2022": 1426.3
+  },
+  "GD": {
+    "country": "Grenada",
+    "AvocadoConsumption_2022": 1357.91
+  },
+  "TW": {
+    "country": "Taiwan",
+    "AvocadoConsumption_2022": 1146.1
+  },
+  "WS": {
+    "country": "Samoa",
+    "AvocadoConsumption_2022": 1141.05
+  },
+  "BA": {
+    "country": "Bosnia and Herzegovina",
+    "AvocadoConsumption_2022": 1128.48
+  },
+  "GY": {
+    "country": "Guyana",
+    "AvocadoConsumption_2022": 1101.54
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "AvocadoConsumption_2022": 1087.98
+  },
+  "BB": {
+    "country": "Barbados",
+    "AvocadoConsumption_2022": 981.71
+  },
+  "IS": {
+    "country": "Iceland",
+    "AvocadoConsumption_2022": 954.95
+  },
+  "DM": {
+    "country": "Dominica",
+    "AvocadoConsumption_2022": 831.62
+  },
+  "DJ": {
+    "country": "Djibouti",
+    "AvocadoConsumption_2022": 816.59
+  },
+  "BW": {
+    "country": "Botswana",
+    "AvocadoConsumption_2022": 751.39
+  },
+  "GE": {
+    "country": "Georgia",
+    "AvocadoConsumption_2022": 731.33
+  },
+  "YE": {
+    "country": "Yemen",
+    "AvocadoConsumption_2022": 709.23
+  },
+  "TT": {
+    "country": "Trinidad and Tobago",
+    "AvocadoConsumption_2022": 693.5
+  },
+  "NA": {
+    "country": "Namibia",
+    "AvocadoConsumption_2022": 636.73
+  },
+  "MT": {
+    "country": "Malta",
+    "AvocadoConsumption_2022": 629.66
+  },
+  "MO": {
+    "country": "Macau",
+    "AvocadoConsumption_2022": 503.26
+  },
+  "SZ": {
+    "country": "Eswatini",
+    "AvocadoConsumption_2022": 454.14
+  },
+  "TN": {
+    "country": "Tunisia",
+    "AvocadoConsumption_2022": 409.63
+  },
+  "AL": {
+    "country": "Albania",
+    "AvocadoConsumption_2022": 394.17
+  },
+  "AZ": {
+    "country": "Azerbaijan",
+    "AvocadoConsumption_2022": 392.18
+  },
+  "LY": {
+    "country": "Libya",
+    "AvocadoConsumption_2022": 386.13
+  },
+  "AM": {
+    "country": "Armenia",
+    "AvocadoConsumption_2022": 373.89
+  },
+  "MK": {
+    "country": "North Macedonia",
+    "AvocadoConsumption_2022": 348.2
+  },
+  "FJ": {
+    "country": "Fiji",
+    "AvocadoConsumption_2022": 312.44
+  },
+  "NP": {
+    "country": "Nepal",
+    "AvocadoConsumption_2022": 307.02
+  },
+  "LC": {
+    "country": "Saint Lucia",
+    "AvocadoConsumption_2022": 292.72
+  },
+  "MV": {
+    "country": "Maldives",
+    "AvocadoConsumption_2022": 291.76
+  },
+  "UZ": {
+    "country": "Uzbekistan",
+    "AvocadoConsumption_2022": 245.94
+  },
+  "AG": {
+    "country": "Antigua and Barbuda",
+    "AvocadoConsumption_2022": 241.66
+  },
+  "LS": {
+    "country": "Lesotho",
+    "AvocadoConsumption_2022": 234.15
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "AvocadoConsumption_2022": 202.44
+  },
+  "ME": {
+    "country": "Montenegro",
+    "AvocadoConsumption_2022": 179.01
+  },
+  "BT": {
+    "country": "Bhutan",
+    "AvocadoConsumption_2022": 144.28
+  },
+  "MR": {
+    "country": "Mauritania",
+    "AvocadoConsumption_2022": 138.57
+  },
+  "MU": {
+    "country": "Mauritius",
+    "AvocadoConsumption_2022": 121.22
+  },
+  "LA": {
+    "country": "Laos",
+    "AvocadoConsumption_2022": 119.73
+  },
+  "KM": {
+    "country": "Comoros",
+    "AvocadoConsumption_2022": 111.44
+  },
+  "PF": {
+    "country": "French Polynesia",
+    "AvocadoConsumption_2022": 103.08
+  },
+  "SR": {
+    "country": "Suriname",
+    "AvocadoConsumption_2022": 99.35
+  },
+  "DZ": {
+    "country": "Algeria",
+    "AvocadoConsumption_2022": 86.6
+  },
+  "NC": {
+    "country": "New Caledonia",
+    "AvocadoConsumption_2022": 71.8
+  },
+  "BD": {
+    "country": "Bangladesh",
+    "AvocadoConsumption_2022": 46.53
+  },
+  "CV": {
+    "country": "Cape Verde",
+    "AvocadoConsumption_2022": 41.89
+  },
+  "SC": {
+    "country": "Seychelles",
+    "AvocadoConsumption_2022": 41.79
+  },
+  "MN": {
+    "country": "Mongolia",
+    "AvocadoConsumption_2022": 37.41
+  },
+  "NG": {
+    "country": "Nigeria",
+    "AvocadoConsumption_2022": 34.18
+  },
+  "NE": {
+    "country": "Niger",
+    "AvocadoConsumption_2022": 29.25
+  },
+  "SY": {
+    "country": "Syria",
+    "AvocadoConsumption_2022": 27.49
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "AvocadoConsumption_2022": 25.01
+  },
+  "SN": {
+    "country": "Senegal",
+    "AvocadoConsumption_2022": 24.46
+  },
+  "MH": {
+    "country": "Marshall Islands",
+    "AvocadoConsumption_2022": 12.48
+  },
+  "TM": {
+    "country": "Turkmenistan",
+    "AvocadoConsumption_2022": 11.86
+  },
+  "AF": {
+    "country": "Afghanistan",
+    "AvocadoConsumption_2022": 10
+  },
+  "LR": {
+    "country": "Liberia",
+    "AvocadoConsumption_2022": 9.79
+  },
+  "GM": {
+    "country": "Gambia",
+    "AvocadoConsumption_2022": 2.93
+  },
+  "NR": {
+    "country": "Nauru",
+    "AvocadoConsumption_2022": 1.84
+  },
+  "KH": {
+    "country": "Cambodia",
+    "AvocadoConsumption_2022": 1.26
+  },
+  "IR": {
+    "country": "Iran",
+    "AvocadoConsumption_2022": 1
+  },
+  "SS": {
+    "country": "South Sudan",
+    "AvocadoConsumption_2022": 0.51
+  },
+  "KI": {
+    "country": "Kiribati",
+    "AvocadoConsumption_2022": 0.48
+  },
+  "TO": {
+    "country": "Tonga",
+    "AvocadoConsumption_2022": 0.29
+  },
+  "PG": {
+    "country": "Papua New Guinea",
+    "AvocadoConsumption_2022": 0.13
+  },
+  "GW": {
+    "country": "Guinea-Bissau",
+    "AvocadoConsumption_2022": 0.12
+  },
+  "null": {
+    "country": "Total",
+    "AvocadoConsumption_2022": 7892368.039999999
+  }
+}

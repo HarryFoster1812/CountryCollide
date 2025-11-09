@@ -1,0 +1,234 @@
+{
+  "US": {
+    "country": "United States",
+    "CheeseConsumptionPerCapita_2025": 17.4,
+    "CheeseConsumptionAvgYearly": 5729000,
+    "CheeseConsumptionProjected_2030": 6748000,
+    "CheeseConsumptionPerCapita2018to2020": 17.4,
+    "CheeseConsumptionProjectedPerCapita_2030": 19.3
+  },
+  "CA": {
+    "country": "Canada",
+    "CheeseConsumptionPerCapita_2025": 13.7,
+    "CheeseConsumptionAvgYearly": 513000,
+    "CheeseConsumptionProjected_2030": 593000,
+    "CheeseConsumptionPerCapita2018to2020": 13.7,
+    "CheeseConsumptionProjectedPerCapita_2030": 14.5
+  },
+  "AU": {
+    "country": "Australia",
+    "CheeseConsumptionPerCapita_2025": 12.5,
+    "CheeseConsumptionAvgYearly": 315000,
+    "CheeseConsumptionProjected_2030": 335000,
+    "CheeseConsumptionPerCapita2018to2020": 12.5,
+    "CheeseConsumptionProjectedPerCapita_2030": 11.9
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "CheeseConsumptionPerCapita_2025": 11.9,
+    "CheeseConsumptionAvgYearly": 802000,
+    "CheeseConsumptionProjected_2030": 882000,
+    "CheeseConsumptionPerCapita2018to2020": 11.9,
+    "CheeseConsumptionProjectedPerCapita_2030": 12.5
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "CheeseConsumptionPerCapita_2025": 10.1,
+    "CheeseConsumptionAvgYearly": 48000,
+    "CheeseConsumptionProjected_2030": 53000,
+    "CheeseConsumptionPerCapita2018to2020": 10.1,
+    "CheeseConsumptionProjectedPerCapita_2030": 10.2
+  },
+  "AR": {
+    "country": "Argentina",
+    "CheeseConsumptionPerCapita_2025": 8.5,
+    "CheeseConsumptionAvgYearly": 380000,
+    "CheeseConsumptionProjected_2030": 461000,
+    "CheeseConsumptionPerCapita2018to2020": 8.5,
+    "CheeseConsumptionProjectedPerCapita_2030": 9.4
+  },
+  "SA": {
+    "country": "Saudi Arabia",
+    "CheeseConsumptionPerCapita_2025": 7.8,
+    "CheeseConsumptionAvgYearly": 267000,
+    "CheeseConsumptionProjected_2030": 344000,
+    "CheeseConsumptionPerCapita2018to2020": 7.8,
+    "CheeseConsumptionProjectedPerCapita_2030": 8.8
+  },
+  "CL": {
+    "country": "Chile",
+    "CheeseConsumptionPerCapita_2025": 7.4,
+    "CheeseConsumptionAvgYearly": 139000,
+    "CheeseConsumptionProjected_2030": 170000,
+    "CheeseConsumptionPerCapita2018to2020": 7.4,
+    "CheeseConsumptionProjectedPerCapita_2030": 8.7
+  },
+  "RU": {
+    "country": "Russia",
+    "CheeseConsumptionPerCapita_2025": 5.1,
+    "CheeseConsumptionAvgYearly": 749000,
+    "CheeseConsumptionProjected_2030": 986000,
+    "CheeseConsumptionPerCapita2018to2020": 5.1,
+    "CheeseConsumptionProjectedPerCapita_2030": 6.9
+  },
+  "UA": {
+    "country": "Ukraine",
+    "CheeseConsumptionPerCapita_2025": 4.9,
+    "CheeseConsumptionAvgYearly": 216000,
+    "CheeseConsumptionProjected_2030": 281000,
+    "CheeseConsumptionPerCapita2018to2020": 4.9,
+    "CheeseConsumptionProjectedPerCapita_2030": 6.9
+  },
+  "EG": {
+    "country": "Egypt",
+    "CheeseConsumptionPerCapita_2025": 4.6,
+    "CheeseConsumptionAvgYearly": 460000,
+    "CheeseConsumptionProjected_2030": 545000,
+    "CheeseConsumptionPerCapita2018to2020": 4.6,
+    "CheeseConsumptionProjectedPerCapita_2030": 4.5
+  },
+  "BR": {
+    "country": "Brazil",
+    "CheeseConsumptionPerCapita_2025": 3.7,
+    "CheeseConsumptionAvgYearly": 785000,
+    "CheeseConsumptionProjected_2030": 1014000,
+    "CheeseConsumptionPerCapita2018to2020": 3.7,
+    "CheeseConsumptionProjectedPerCapita_2030": 4.5
+  },
+  "MX": {
+    "country": "Mexico",
+    "CheeseConsumptionPerCapita_2025": 3.5,
+    "CheeseConsumptionAvgYearly": 447000,
+    "CheeseConsumptionProjected_2030": 547000,
+    "CheeseConsumptionPerCapita2018to2020": 3.5,
+    "CheeseConsumptionProjectedPerCapita_2030": 3.9
+  },
+  "KR": {
+    "country": "South Korea",
+    "CheeseConsumptionPerCapita_2025": 3.1,
+    "CheeseConsumptionAvgYearly": 159000,
+    "CheeseConsumptionProjected_2030": 197000,
+    "CheeseConsumptionPerCapita2018to2020": 3.1,
+    "CheeseConsumptionProjectedPerCapita_2030": 3.9
+  },
+  "JP": {
+    "country": "Japan",
+    "CheeseConsumptionPerCapita_2025": 2.6,
+    "CheeseConsumptionAvgYearly": 334000,
+    "CheeseConsumptionProjected_2030": 407000,
+    "CheeseConsumptionPerCapita2018to2020": 2.6,
+    "CheeseConsumptionProjectedPerCapita_2030": 3.4
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "CheeseConsumptionPerCapita_2025": 2.3,
+    "CheeseConsumptionAvgYearly": 43000,
+    "CheeseConsumptionProjected_2030": 59000,
+    "CheeseConsumptionPerCapita2018to2020": 2.3,
+    "CheeseConsumptionProjectedPerCapita_2030": 2.9
+  },
+  "IR": {
+    "country": "Iran",
+    "CheeseConsumptionPerCapita_2025": 1.8,
+    "CheeseConsumptionAvgYearly": 152000,
+    "CheeseConsumptionProjected_2030": 170000,
+    "CheeseConsumptionPerCapita2018to2020": 1.8,
+    "CheeseConsumptionProjectedPerCapita_2030": 1.8
+  },
+  "ZA": {
+    "country": "South Africa",
+    "CheeseConsumptionPerCapita_2025": 1.7,
+    "CheeseConsumptionAvgYearly": 99000,
+    "CheeseConsumptionProjected_2030": 112000,
+    "CheeseConsumptionPerCapita2018to2020": 1.7,
+    "CheeseConsumptionProjectedPerCapita_2030": 1.7
+  },
+  "CO": {
+    "country": "Colombia",
+    "CheeseConsumptionPerCapita_2025": 1.1,
+    "CheeseConsumptionAvgYearly": 53000,
+    "CheeseConsumptionProjected_2030": 53000,
+    "CheeseConsumptionPerCapita2018to2020": 1.1,
+    "CheeseConsumptionProjectedPerCapita_2030": 1
+  },
+  "MY": {
+    "country": "Malaysia",
+    "CheeseConsumptionPerCapita_2025": 0.8,
+    "CheeseConsumptionAvgYearly": 26000,
+    "CheeseConsumptionProjected_2030": 37000,
+    "CheeseConsumptionPerCapita2018to2020": 0.8,
+    "CheeseConsumptionProjectedPerCapita_2030": 1
+  },
+  "PY": {
+    "country": "Paraguay",
+    "CheeseConsumptionPerCapita_2025": 0.7,
+    "CheeseConsumptionAvgYearly": 5000,
+    "CheeseConsumptionProjected_2030": 6000,
+    "CheeseConsumptionPerCapita2018to2020": 0.7,
+    "CheeseConsumptionProjectedPerCapita_2030": 0.8
+  },
+  "CN": {
+    "country": "China",
+    "CheeseConsumptionPerCapita_2025": 0.3,
+    "CheeseConsumptionAvgYearly": 396000,
+    "CheeseConsumptionProjected_2030": 460000,
+    "CheeseConsumptionPerCapita2018to2020": 0.3,
+    "CheeseConsumptionProjectedPerCapita_2030": 0.3
+  },
+  "PH": {
+    "country": "Philippines",
+    "CheeseConsumptionPerCapita_2025": 0.3,
+    "CheeseConsumptionAvgYearly": 38000,
+    "CheeseConsumptionProjected_2030": 47000,
+    "CheeseConsumptionPerCapita2018to2020": 0.3,
+    "CheeseConsumptionProjectedPerCapita_2030": 0.4
+  },
+  "TH": {
+    "country": "Thailand",
+    "CheeseConsumptionPerCapita_2025": 0.3,
+    "CheeseConsumptionAvgYearly": 21000,
+    "CheeseConsumptionProjected_2030": 26000,
+    "CheeseConsumptionPerCapita2018to2020": 0.3,
+    "CheeseConsumptionProjectedPerCapita_2030": 0.4
+  },
+  "ID": {
+    "country": "Indonesia",
+    "CheeseConsumptionPerCapita_2025": 0.1,
+    "CheeseConsumptionAvgYearly": 28000,
+    "CheeseConsumptionProjected_2030": 35000,
+    "CheeseConsumptionPerCapita2018to2020": 0.1,
+    "CheeseConsumptionProjectedPerCapita_2030": 0.1
+  },
+  "NG": {
+    "country": "Nigeria",
+    "CheeseConsumptionPerCapita_2025": 0.1,
+    "CheeseConsumptionAvgYearly": 10000,
+    "CheeseConsumptionProjected_2030": 12000,
+    "CheeseConsumptionPerCapita2018to2020": 0.1,
+    "CheeseConsumptionProjectedPerCapita_2030": null
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "CheeseConsumptionPerCapita_2025": 0.1,
+    "CheeseConsumptionAvgYearly": 6000,
+    "CheeseConsumptionProjected_2030": 8000,
+    "CheeseConsumptionPerCapita2018to2020": 0.1,
+    "CheeseConsumptionProjectedPerCapita_2030": 0.1
+  },
+  "VN": {
+    "country": "Vietnam",
+    "CheeseConsumptionPerCapita_2025": 0.1,
+    "CheeseConsumptionAvgYearly": 10000,
+    "CheeseConsumptionProjected_2030": 11000,
+    "CheeseConsumptionPerCapita2018to2020": 0.1,
+    "CheeseConsumptionProjectedPerCapita_2030": 0.1
+  },
+  "PK": {
+    "country": "Pakistan",
+    "CheeseConsumptionPerCapita_2025": null,
+    "CheeseConsumptionAvgYearly": 4000,
+    "CheeseConsumptionProjected_2030": 5000,
+    "CheeseConsumptionPerCapita2018to2020": null,
+    "CheeseConsumptionProjectedPerCapita_2030": null
+  }
+}

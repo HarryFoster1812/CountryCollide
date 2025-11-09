@@ -1,0 +1,492 @@
+{
+  "US": {
+    "country": "United States",
+    "BooksReadAnnually_2024": 17,
+    "HoursSpentReadingPerYear_2024": 357
+  },
+  "IN": {
+    "country": "India",
+    "BooksReadAnnually_2024": 16,
+    "HoursSpentReadingPerYear_2024": 352
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "BooksReadAnnually_2024": 15,
+    "HoursSpentReadingPerYear_2024": 343
+  },
+  "FR": {
+    "country": "France",
+    "BooksReadAnnually_2024": 14,
+    "HoursSpentReadingPerYear_2024": 305
+  },
+  "IT": {
+    "country": "Italy",
+    "BooksReadAnnually_2024": 13,
+    "HoursSpentReadingPerYear_2024": 278
+  },
+  "RU": {
+    "country": "Russia",
+    "BooksReadAnnually_2024": 11,
+    "HoursSpentReadingPerYear_2024": 223
+  },
+  "AU": {
+    "country": "Australia",
+    "BooksReadAnnually_2024": 10,
+    "HoursSpentReadingPerYear_2024": 217
+  },
+  "ES": {
+    "country": "Spain",
+    "BooksReadAnnually_2024": 9,
+    "HoursSpentReadingPerYear_2024": 187
+  },
+  "NL": {
+    "country": "Netherlands",
+    "BooksReadAnnually_2024": 8,
+    "HoursSpentReadingPerYear_2024": 187
+  },
+  "CH": {
+    "country": "Switzerland",
+    "BooksReadAnnually_2024": 6.9,
+    "HoursSpentReadingPerYear_2024": 157
+  },
+  "TW": {
+    "country": "Taiwan",
+    "BooksReadAnnually_2024": 6.83,
+    "HoursSpentReadingPerYear_2024": 157
+  },
+  "BE": {
+    "country": "Belgium",
+    "BooksReadAnnually_2024": 6.76,
+    "HoursSpentReadingPerYear_2024": 155
+  },
+  "SG": {
+    "country": "Singapore",
+    "BooksReadAnnually_2024": 6.72,
+    "HoursSpentReadingPerYear_2024": 155
+  },
+  "HK": {
+    "country": "Hong Kong",
+    "BooksReadAnnually_2024": 6.66,
+    "HoursSpentReadingPerYear_2024": 155
+  },
+  "ZA": {
+    "country": "South Africa",
+    "BooksReadAnnually_2024": 6.62,
+    "HoursSpentReadingPerYear_2024": 154
+  },
+  "CN": {
+    "country": "China",
+    "BooksReadAnnually_2024": 6.61,
+    "HoursSpentReadingPerYear_2024": 154
+  },
+  "NO": {
+    "country": "Norway",
+    "BooksReadAnnually_2024": 6.48,
+    "HoursSpentReadingPerYear_2024": 153
+  },
+  "IL": {
+    "country": "Israel",
+    "BooksReadAnnually_2024": 6.42,
+    "HoursSpentReadingPerYear_2024": 149
+  },
+  "AT": {
+    "country": "Austria",
+    "BooksReadAnnually_2024": 6.42,
+    "HoursSpentReadingPerYear_2024": 153
+  },
+  "TH": {
+    "country": "Thailand",
+    "BooksReadAnnually_2024": 6.37,
+    "HoursSpentReadingPerYear_2024": 149
+  },
+  "IR": {
+    "country": "Iran",
+    "BooksReadAnnually_2024": 6.36,
+    "HoursSpentReadingPerYear_2024": 149
+  },
+  "CO": {
+    "country": "Colombia",
+    "BooksReadAnnually_2024": 6.32,
+    "HoursSpentReadingPerYear_2024": 147
+  },
+  "CL": {
+    "country": "Chile",
+    "BooksReadAnnually_2024": 6.28,
+    "HoursSpentReadingPerYear_2024": 144
+  },
+  "RO": {
+    "country": "Romania",
+    "BooksReadAnnually_2024": 6.28,
+    "HoursSpentReadingPerYear_2024": 147
+  },
+  "DE": {
+    "country": "Germany",
+    "BooksReadAnnually_2024": 6.25,
+    "HoursSpentReadingPerYear_2024": 141
+  },
+  "JP": {
+    "country": "Japan",
+    "BooksReadAnnually_2024": 6.2,
+    "HoursSpentReadingPerYear_2024": 135
+  },
+  "CZ": {
+    "country": "Czechia",
+    "BooksReadAnnually_2024": 6.07,
+    "HoursSpentReadingPerYear_2024": 133
+  },
+  "FI": {
+    "country": "Finland",
+    "BooksReadAnnually_2024": 6.06,
+    "HoursSpentReadingPerYear_2024": 131
+  },
+  "TR": {
+    "country": "Turkey",
+    "BooksReadAnnually_2024": 6.05,
+    "HoursSpentReadingPerYear_2024": 130
+  },
+  "ID": {
+    "country": "Indonesia",
+    "BooksReadAnnually_2024": 5.91,
+    "HoursSpentReadingPerYear_2024": 129
+  },
+  "MX": {
+    "country": "Mexico",
+    "BooksReadAnnually_2024": 5.83,
+    "HoursSpentReadingPerYear_2024": 127
+  },
+  "KR": {
+    "country": "South Korea",
+    "BooksReadAnnually_2024": 5.69,
+    "HoursSpentReadingPerYear_2024": 125
+  },
+  "BR": {
+    "country": "Brazil",
+    "BooksReadAnnually_2024": 5.61,
+    "HoursSpentReadingPerYear_2024": 125
+  },
+  "PH": {
+    "country": "Philippines",
+    "BooksReadAnnually_2024": 5.59,
+    "HoursSpentReadingPerYear_2024": 123
+  },
+  "VN": {
+    "country": "Vietnam",
+    "BooksReadAnnually_2024": 5.54,
+    "HoursSpentReadingPerYear_2024": 123
+  },
+  "MY": {
+    "country": "Malaysia",
+    "BooksReadAnnually_2024": 5.49,
+    "HoursSpentReadingPerYear_2024": 122
+  },
+  "DK": {
+    "country": "Denmark",
+    "BooksReadAnnually_2024": 5.48,
+    "HoursSpentReadingPerYear_2024": 121
+  },
+  "EG": {
+    "country": "Egypt",
+    "BooksReadAnnually_2024": 5.41,
+    "HoursSpentReadingPerYear_2024": 121
+  },
+  "PE": {
+    "country": "Peru",
+    "BooksReadAnnually_2024": 5.35,
+    "HoursSpentReadingPerYear_2024": 120
+  },
+  "PT": {
+    "country": "Portugal",
+    "BooksReadAnnually_2024": 5.35,
+    "HoursSpentReadingPerYear_2024": 120
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "BooksReadAnnually_2024": 5.32,
+    "HoursSpentReadingPerYear_2024": 119
+  },
+  "GR": {
+    "country": "Greece",
+    "BooksReadAnnually_2024": 5.31,
+    "HoursSpentReadingPerYear_2024": 117
+  },
+  "UA": {
+    "country": "Ukraine",
+    "BooksReadAnnually_2024": 5.29,
+    "HoursSpentReadingPerYear_2024": 117
+  },
+  "HU": {
+    "country": "Hungary",
+    "BooksReadAnnually_2024": 5.29,
+    "HoursSpentReadingPerYear_2024": 117
+  },
+  "SK": {
+    "country": "Slovakia",
+    "BooksReadAnnually_2024": 5.26,
+    "HoursSpentReadingPerYear_2024": 116
+  },
+  "CU": {
+    "country": "Cuba",
+    "BooksReadAnnually_2024": 5.18,
+    "HoursSpentReadingPerYear_2024": 115
+  },
+  "DO": {
+    "country": "Dominican Republic",
+    "BooksReadAnnually_2024": 5.13,
+    "HoursSpentReadingPerYear_2024": 115
+  },
+  "EC": {
+    "country": "Ecuador",
+    "BooksReadAnnually_2024": 5.11,
+    "HoursSpentReadingPerYear_2024": 113
+  },
+  "PR": {
+    "country": "Puerto Rico",
+    "BooksReadAnnually_2024": 5.1,
+    "HoursSpentReadingPerYear_2024": 113
+  },
+  "KE": {
+    "country": "Kenya",
+    "BooksReadAnnually_2024": 4.97,
+    "HoursSpentReadingPerYear_2024": 108
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "BooksReadAnnually_2024": 4.96,
+    "HoursSpentReadingPerYear_2024": 106
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "BooksReadAnnually_2024": 4.94,
+    "HoursSpentReadingPerYear_2024": 106
+  },
+  "VE": {
+    "country": "Venezuela",
+    "BooksReadAnnually_2024": 4.91,
+    "HoursSpentReadingPerYear_2024": 104
+  },
+  "AR": {
+    "country": "Argentina",
+    "BooksReadAnnually_2024": 4.88,
+    "HoursSpentReadingPerYear_2024": 103
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "BooksReadAnnually_2024": 4.83,
+    "HoursSpentReadingPerYear_2024": 102
+  },
+  "PA": {
+    "country": "Panama",
+    "BooksReadAnnually_2024": 4.8,
+    "HoursSpentReadingPerYear_2024": 101
+  },
+  "LT": {
+    "country": "Lithuania",
+    "BooksReadAnnually_2024": 4.76,
+    "HoursSpentReadingPerYear_2024": 101
+  },
+  "SI": {
+    "country": "Slovenia",
+    "BooksReadAnnually_2024": 4.72,
+    "HoursSpentReadingPerYear_2024": 100
+  },
+  "EE": {
+    "country": "Estonia",
+    "BooksReadAnnually_2024": 4.66,
+    "HoursSpentReadingPerYear_2024": 98
+  },
+  "MO": {
+    "country": "Macau",
+    "BooksReadAnnually_2024": 4.66,
+    "HoursSpentReadingPerYear_2024": 98
+  },
+  "IS": {
+    "country": "Iceland",
+    "BooksReadAnnually_2024": 4.51,
+    "HoursSpentReadingPerYear_2024": 97
+  },
+  "GE": {
+    "country": "Georgia",
+    "BooksReadAnnually_2024": 4.3,
+    "HoursSpentReadingPerYear_2024": 96
+  },
+  "AM": {
+    "country": "Armenia",
+    "BooksReadAnnually_2024": 4.29,
+    "HoursSpentReadingPerYear_2024": 94
+  },
+  "MT": {
+    "country": "Malta",
+    "BooksReadAnnually_2024": 4.17,
+    "HoursSpentReadingPerYear_2024": 94
+  },
+  "MK": {
+    "country": "North Macedonia",
+    "BooksReadAnnually_2024": 4.11,
+    "HoursSpentReadingPerYear_2024": 94
+  },
+  "MU": {
+    "country": "Mauritius",
+    "BooksReadAnnually_2024": 4.02,
+    "HoursSpentReadingPerYear_2024": 89
+  },
+  "TJ": {
+    "country": "Tajikistan",
+    "BooksReadAnnually_2024": 4.01,
+    "HoursSpentReadingPerYear_2024": 89
+  },
+  "NA": {
+    "country": "Namibia",
+    "BooksReadAnnually_2024": 4,
+    "HoursSpentReadingPerYear_2024": 88
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "BooksReadAnnually_2024": 3.96,
+    "HoursSpentReadingPerYear_2024": 87
+  },
+  "NI": {
+    "country": "Nicaragua",
+    "BooksReadAnnually_2024": 3.93,
+    "HoursSpentReadingPerYear_2024": 86
+  },
+  "NE": {
+    "country": "Niger",
+    "BooksReadAnnually_2024": 3.77,
+    "HoursSpentReadingPerYear_2024": 86
+  },
+  "MD": {
+    "country": "Moldova",
+    "BooksReadAnnually_2024": 3.62,
+    "HoursSpentReadingPerYear_2024": 85
+  },
+  "JM": {
+    "country": "Jamaica",
+    "BooksReadAnnually_2024": 3.58,
+    "HoursSpentReadingPerYear_2024": 80
+  },
+  "SY": {
+    "country": "Syria",
+    "BooksReadAnnually_2024": 3.57,
+    "HoursSpentReadingPerYear_2024": 80
+  },
+  "KH": {
+    "country": "Cambodia",
+    "BooksReadAnnually_2024": 3.52,
+    "HoursSpentReadingPerYear_2024": 78
+  },
+  "ZW": {
+    "country": "Zimbabwe",
+    "BooksReadAnnually_2024": 3.49,
+    "HoursSpentReadingPerYear_2024": 78
+  },
+  "LB": {
+    "country": "Lebanon",
+    "BooksReadAnnually_2024": 3.46,
+    "HoursSpentReadingPerYear_2024": 77
+  },
+  "BH": {
+    "country": "Bahrain",
+    "BooksReadAnnually_2024": 3.44,
+    "HoursSpentReadingPerYear_2024": 77
+  },
+  "JO": {
+    "country": "Jordan",
+    "BooksReadAnnually_2024": 3.43,
+    "HoursSpentReadingPerYear_2024": 76
+  },
+  "LK": {
+    "country": "Sri Lanka",
+    "BooksReadAnnually_2024": 3.29,
+    "HoursSpentReadingPerYear_2024": 76
+  },
+  "MM": {
+    "country": "Myanmar",
+    "BooksReadAnnually_2024": 3.28,
+    "HoursSpentReadingPerYear_2024": 74
+  },
+  "AZ": {
+    "country": "Azerbaijan",
+    "BooksReadAnnually_2024": 3.25,
+    "HoursSpentReadingPerYear_2024": 74
+  },
+  "AO": {
+    "country": "Angola",
+    "BooksReadAnnually_2024": 3.18,
+    "HoursSpentReadingPerYear_2024": 69
+  },
+  "TM": {
+    "country": "Turkmenistan",
+    "BooksReadAnnually_2024": 3.18,
+    "HoursSpentReadingPerYear_2024": 74
+  },
+  "OM": {
+    "country": "Oman",
+    "BooksReadAnnually_2024": 3.13,
+    "HoursSpentReadingPerYear_2024": 69
+  },
+  "KW": {
+    "country": "Kuwait",
+    "BooksReadAnnually_2024": 3.08,
+    "HoursSpentReadingPerYear_2024": 69
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "BooksReadAnnually_2024": 3.06,
+    "HoursSpentReadingPerYear_2024": 69
+  },
+  "MA": {
+    "country": "Morocco",
+    "BooksReadAnnually_2024": 2.97,
+    "HoursSpentReadingPerYear_2024": 67
+  },
+  "QA": {
+    "country": "Qatar",
+    "BooksReadAnnually_2024": 2.93,
+    "HoursSpentReadingPerYear_2024": 67
+  },
+  "DZ": {
+    "country": "Algeria",
+    "BooksReadAnnually_2024": 2.83,
+    "HoursSpentReadingPerYear_2024": 65
+  },
+  "IQ": {
+    "country": "Iraq",
+    "BooksReadAnnually_2024": 2.77,
+    "HoursSpentReadingPerYear_2024": 64
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "BooksReadAnnually_2024": 2.77,
+    "HoursSpentReadingPerYear_2024": 65
+  },
+  "BD": {
+    "country": "Bangladesh",
+    "BooksReadAnnually_2024": 2.75,
+    "HoursSpentReadingPerYear_2024": 62
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "BooksReadAnnually_2024": 2.71,
+    "HoursSpentReadingPerYear_2024": 60
+  },
+  "SA": {
+    "country": "Saudi Arabia",
+    "BooksReadAnnually_2024": 2.69,
+    "HoursSpentReadingPerYear_2024": 60
+  },
+  "PK": {
+    "country": "Pakistan",
+    "BooksReadAnnually_2024": 2.6,
+    "HoursSpentReadingPerYear_2024": 60
+  },
+  "BN": {
+    "country": "Brunei",
+    "BooksReadAnnually_2024": 2.59,
+    "HoursSpentReadingPerYear_2024": 60
+  },
+  "AF": {
+    "country": "Afghanistan",
+    "BooksReadAnnually_2024": 2.56,
+    "HoursSpentReadingPerYear_2024": 58
+  }
+}

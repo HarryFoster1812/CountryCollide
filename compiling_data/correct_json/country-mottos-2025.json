@@ -1,0 +1,866 @@
+{
+  "AL": {
+    "country": "Albania",
+    "CountryMottos": "You, Albania, give me honor, give me the name Albanian"
+  },
+  "TG": {
+    "country": "Togo",
+    "CountryMottos": "Work, Liberty, Homeland"
+  },
+  "GN": {
+    "country": "Guinea",
+    "CountryMottos": "Work, Justice, Solidarity"
+  },
+  "GF": {
+    "country": "French Guiana",
+    "CountryMottos": "Work creates abundance"
+  },
+  "MC": {
+    "country": "Monaco",
+    "CountryMottos": "With God's help"
+  },
+  "VU": {
+    "country": "Vanuatu",
+    "CountryMottos": "With God we stand"
+  },
+  "BM": {
+    "country": "Bermuda",
+    "CountryMottos": "Whither the fates carry [us]"
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "CountryMottos": "We wish to remain what we are"
+  },
+  "YT": {
+    "country": "Mayotte",
+    "CountryMottos": "We are vigilant"
+  },
+  "SZ": {
+    "country": "Eswatini",
+    "CountryMottos": "We are the fortress"
+  },
+  "LB": {
+    "country": "Lebanon",
+    "CountryMottos": "We are all for the Country, the Sublime and the Flag"
+  },
+  "ER": {
+    "country": "Eritrea",
+    "CountryMottos": "Victory to the Masses!"
+  },
+  "BD": {
+    "country": "Bangladesh",
+    "CountryMottos": "Victory to Bengal (national slogan)"
+  },
+  "SD": {
+    "country": "Sudan",
+    "CountryMottos": "Victory is Ours"
+  },
+  "TD": {
+    "country": "Chad",
+    "CountryMottos": "Unity, Work, Progress"
+  },
+  "BI": {
+    "country": "Burundi",
+    "CountryMottos": "Unity, Work, Progress"
+  },
+  "CG": {
+    "country": "Republic of the Congo",
+    "CountryMottos": "Unity, Work, Progress"
+  },
+  "CV": {
+    "country": "Cape Verde",
+    "CountryMottos": "Unity, Work, Progress"
+  },
+  "RW": {
+    "country": "Rwanda",
+    "CountryMottos": "Unity, Work, and Patriotism"
+  },
+  "GW": {
+    "country": "Guinea-Bissau",
+    "CountryMottos": "Unity, Struggle, Progress"
+  },
+  "AI": {
+    "country": "Anguilla",
+    "CountryMottos": "Unity, strength and endurance"
+  },
+  "KM": {
+    "country": "Comoros",
+    "CountryMottos": "Unity, Solidarity, Development"
+  },
+  "BF": {
+    "country": "Burkina Faso",
+    "CountryMottos": "Unity, Progress, Justice"
+  },
+  "GQ": {
+    "country": "Equatorial Guinea",
+    "CountryMottos": "Unity, Peace, Justice"
+  },
+  "NA": {
+    "country": "Namibia",
+    "CountryMottos": "Unity, liberty, justice"
+  },
+  "ZW": {
+    "country": "Zimbabwe",
+    "CountryMottos": "Unity, Freedom, Work"
+  },
+  "SY": {
+    "country": "Syria",
+    "CountryMottos": "Unity, Freedom, Socialism"
+  },
+  "SL": {
+    "country": "Sierra Leone",
+    "CountryMottos": "Unity, freedom, justice"
+  },
+  "DJ": {
+    "country": "Djibouti",
+    "CountryMottos": "Unity, Equality, Peace"
+  },
+  "CF": {
+    "country": "Central African Republic",
+    "CountryMottos": "Unity, Dignity, Work"
+  },
+  "TL": {
+    "country": "Timor-Leste",
+    "CountryMottos": "Unity, Action, Progress"
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "CountryMottos": "Unity makes strength"
+  },
+  "MY": {
+    "country": "Malaysia",
+    "CountryMottos": "Unity is strength"
+  },
+  "BO": {
+    "country": "Bolivia",
+    "CountryMottos": "Unity is strength"
+  },
+  "ID": {
+    "country": "Indonesia",
+    "CountryMottos": "Unity in diversity"
+  },
+  "PG": {
+    "country": "Papua New Guinea",
+    "CountryMottos": "Unity in diversity"
+  },
+  "BE": {
+    "country": "Belgium",
+    "CountryMottos": "Unity gives strength"
+  },
+  "DE": {
+    "country": "Germany",
+    "CountryMottos": "Unity and justice and freedom (unofficial)"
+  },
+  "MW": {
+    "country": "Malawi",
+    "CountryMottos": "Unity and Freedom"
+  },
+  "NG": {
+    "country": "Nigeria",
+    "CountryMottos": "Unity and Faith, Peace and Progress"
+  },
+  "VI": {
+    "country": "United States Virgin Islands",
+    "CountryMottos": "United in pride and hope"
+  },
+  "GA": {
+    "country": "Gabon",
+    "CountryMottos": "Union, Work, Justice"
+  },
+  "BZ": {
+    "country": "Belize",
+    "CountryMottos": "Under the shade I flourish"
+  },
+  "TV": {
+    "country": "Tuvalu",
+    "CountryMottos": "Tuvalu for the Almighty"
+  },
+  "TM": {
+    "country": "Turkmenistan",
+    "CountryMottos": "Turkmenistan is the motherland of Neutrality!"
+  },
+  "CZ": {
+    "country": "Czechia",
+    "CountryMottos": "Truth prevails"
+  },
+  "IN": {
+    "country": "India",
+    "CountryMottos": "Truth alone triumphs"
+  },
+  "TK": {
+    "country": "Tokelau",
+    "CountryMottos": "Tokelau for the Almighty"
+  },
+  "TT": {
+    "country": "Trinidad and Tobago",
+    "CountryMottos": "Together we aspire, together we achieve"
+  },
+  "SB": {
+    "country": "Solomon Islands",
+    "CountryMottos": "To lead is to serve"
+  },
+  "KR": {
+    "country": "South Korea",
+    "CountryMottos": "To broadly benefit humanity / Devotion to human welfare"
+  },
+  "CL": {
+    "country": "Chile",
+    "CountryMottos": "Through reason or by force"
+  },
+  "PT": {
+    "country": "Portugal",
+    "CountryMottos": "This is my beloved blessed homeland"
+  },
+  "SA": {
+    "country": "Saudi Arabia",
+    "CountryMottos": "There is no God other than God and Muhammad is the Messenger of God"
+  },
+  "AF": {
+    "country": "Afghanistan",
+    "CountryMottos": "There is no god but God; Muhammad is the messenger of God."
+  },
+  "UZ": {
+    "country": "Uzbekistan",
+    "CountryMottos": "The Strength Is in the Justice!"
+  },
+  "LR": {
+    "country": "Liberia",
+    "CountryMottos": "The love of liberty brought us here"
+  },
+  "LC": {
+    "country": "Saint Lucia",
+    "CountryMottos": "The land, the people, the light"
+  },
+  "AZ": {
+    "country": "Azerbaijan",
+    "CountryMottos": "The land of fire (unofficial)"
+  },
+  "SC": {
+    "country": "Seychelles",
+    "CountryMottos": "The end crowns the work"
+  },
+  "AO": {
+    "country": "Angola",
+    "CountryMottos": "Strength united is stronger"
+  },
+  "AD": {
+    "country": "Andorra",
+    "CountryMottos": "Strength united is stronger"
+  },
+  "GE": {
+    "country": "Georgia",
+    "CountryMottos": "Strength is in Unity!"
+  },
+  "MT": {
+    "country": "Malta",
+    "CountryMottos": "Strength and consistency"
+  },
+  "PE": {
+    "country": "Peru",
+    "CountryMottos": "Steady and happy for the union"
+  },
+  "MV": {
+    "country": "Maldives",
+    "CountryMottos": "State of the Mahal Dibiyat"
+  },
+  "MU": {
+    "country": "Mauritius",
+    "CountryMottos": "Star and key of the Indian Ocean"
+  },
+  "AS": {
+    "country": "American Samoa",
+    "CountryMottos": "Samoa, God is first"
+  },
+  "BW": {
+    "country": "Botswana",
+    "CountryMottos": "Rain"
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "CountryMottos": "Pure life"
+  },
+  "GM": {
+    "country": "Gambia",
+    "CountryMottos": "Progress, Peace, Prosperity"
+  },
+  "BB": {
+    "country": "Barbados",
+    "CountryMottos": "Pride and Industry"
+  },
+  "KP": {
+    "country": "North Korea",
+    "CountryMottos": "Powerful and propserous nation"
+  },
+  "FM": {
+    "country": "Micronesia",
+    "CountryMottos": "Peace, Unity, Liberty"
+  },
+  "LS": {
+    "country": "Lesotho",
+    "CountryMottos": "Peace, Rain, Prosperity"
+  },
+  "LA": {
+    "country": "Laos",
+    "CountryMottos": "Peace, independence, democracy, unity and prosperity"
+  },
+  "PY": {
+    "country": "Paraguay",
+    "CountryMottos": "Peace and justice"
+  },
+  "VC": {
+    "country": "Saint Vincent and the Grenadines",
+    "CountryMottos": "Peace and justice"
+  },
+  "CM": {
+    "country": "Cameroon",
+    "CountryMottos": "Peace - Work - Fatherland"
+  },
+  "JM": {
+    "country": "Jamaica",
+    "CountryMottos": "Out of many, One People"
+  },
+  "BH": {
+    "country": "Bahrain",
+    "CountryMottos": "Our Bahrain (unofficial)"
+  },
+  "BR": {
+    "country": "Brazil",
+    "CountryMottos": "Order and progress"
+  },
+  "SG": {
+    "country": "Singapore",
+    "CountryMottos": "Onward Singapore"
+  },
+  "RS": {
+    "country": "Serbia",
+    "CountryMottos": "Only Unity Saves the Serbs"
+  },
+  "ZM": {
+    "country": "Zambia",
+    "CountryMottos": "One Zambia, One Nation"
+  },
+  "GY": {
+    "country": "Guyana",
+    "CountryMottos": "One People, One Nation, One Destiny"
+  },
+  "TC": {
+    "country": "Turks and Caicos Islands",
+    "CountryMottos": "One people, one nation, one destiny"
+  },
+  "ML": {
+    "country": "Mali",
+    "CountryMottos": "One people, one goal, one faith"
+  },
+  "SN": {
+    "country": "Senegal",
+    "CountryMottos": "One people, one goal, one faith"
+  },
+  "AM": {
+    "country": "Armenia",
+    "CountryMottos": "One Nation, One Culture"
+  },
+  "AW": {
+    "country": "Aruba",
+    "CountryMottos": "One happy island"
+  },
+  "CH": {
+    "country": "Switzerland",
+    "CountryMottos": "One for all, all for one (unofficial)"
+  },
+  "RO": {
+    "country": "Romania",
+    "CountryMottos": "Nothing without God (unofficial)"
+  },
+  "PW": {
+    "country": "Palau",
+    "CountryMottos": "none, though some sources suggest \"Rainbow's end\""
+  },
+  "MD": {
+    "country": "Moldova",
+    "CountryMottos": "none, though some sources suggest \"Our language is a treasure\""
+  },
+  "JP": {
+    "country": "Japan",
+    "CountryMottos": "none, though some sources suggest \"Let the rising sun bloom\""
+  },
+  "RU": {
+    "country": "Russia",
+    "CountryMottos": "none, though some sources suggest \"God is with us\""
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "CountryMottos": "none, though some sources suggest \"Freedom, unity, progress!\""
+  },
+  "LY": {
+    "country": "Libya",
+    "CountryMottos": "none, though some sources suggest \"Freedom, socialism, unity\""
+  },
+  "LV": {
+    "country": "Latvia",
+    "CountryMottos": "none, though some sources suggest \"For fatherland and freedom\""
+  },
+  "HU": {
+    "country": "Hungary",
+    "CountryMottos": "none, formerly \"With the help of God for Homeland and Freedom\""
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "CountryMottos": "none, formerly \"Onward\""
+  },
+  "NU": {
+    "country": "Niue",
+    "CountryMottos": "none, formerly \"Onward\""
+  },
+  "MM": {
+    "country": "Myanmar",
+    "CountryMottos": "none, formerly \"Happiness through harmony\""
+  },
+  "SK": {
+    "country": "Slovakia",
+    "CountryMottos": "none, formerly \"Faithful to Ourselves, Together Ahead!\""
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "CountryMottos": "none, formerly \"Ethiopia holds up her hands unto God\""
+  },
+  "SE": {
+    "country": "Sweden",
+    "CountryMottos": "none, but royal motto is \"For Sweden – in the time\""
+  },
+  "NO": {
+    "country": "Norway",
+    "CountryMottos": "none, but royal motto is \"Everything for Norway\""
+  },
+  "CN": {
+    "country": "China",
+    "CountryMottos": "none, but motto of ruling CCP is \"Serve the People\""
+  },
+  "TR": {
+    "country": "Turkey",
+    "CountryMottos": "none, but motto of Parliament is \"Sovereignty unconditionally belongs to the People\" and \"How happy is the one who says I am a Turk!\" is one of multiple unofficial mottos"
+  },
+  "IE": {
+    "country": "Ireland",
+    "CountryMottos": "none, but historical motto is \"Ireland forever\""
+  },
+  "VE": {
+    "country": "Venezuela",
+    "CountryMottos": "none, but historical motto is \"God and federation\""
+  },
+  "MX": {
+    "country": "Mexico",
+    "CountryMottos": "none, but congressional motto is \"The homeland is first\""
+  },
+  "IT": {
+    "country": "Italy",
+    "CountryMottos": "none"
+  },
+  "MZ": {
+    "country": "Mozambique",
+    "CountryMottos": "none"
+  },
+  "LK": {
+    "country": "Sri Lanka",
+    "CountryMottos": "none"
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "CountryMottos": "none"
+  },
+  "FI": {
+    "country": "Finland",
+    "CountryMottos": "none"
+  },
+  "OM": {
+    "country": "Oman",
+    "CountryMottos": "none"
+  },
+  "QA": {
+    "country": "Qatar",
+    "CountryMottos": "none"
+  },
+  "SI": {
+    "country": "Slovenia",
+    "CountryMottos": "none"
+  },
+  "EE": {
+    "country": "Estonia",
+    "CountryMottos": "none"
+  },
+  "AU": {
+    "country": "Australia",
+    "CountryMottos": "No official motto, formerly \"Advance Australia\""
+  },
+  "CY": {
+    "country": "Cyprus",
+    "CountryMottos": "No official Motto"
+  },
+  "TH": {
+    "country": "Thailand",
+    "CountryMottos": "Nation, Religion, King (unofficial)"
+  },
+  "KH": {
+    "country": "Cambodia",
+    "CountryMottos": "Nation, Religion, King"
+  },
+  "NP": {
+    "country": "Nepal",
+    "CountryMottos": "Mother and motherland are greater than heaven"
+  },
+  "ME": {
+    "country": "Montenegro",
+    "CountryMottos": "May Montenegro be eternal! (unofficial)"
+  },
+  "MG": {
+    "country": "Madagascar",
+    "CountryMottos": "Love, Ancestral Land, Progress"
+  },
+  "BY": {
+    "country": "Belarus",
+    "CountryMottos": "Long live Belarus! (unofficial)"
+  },
+  "FO": {
+    "country": "Faroe Islands",
+    "CountryMottos": "Live free or die"
+  },
+  "EG": {
+    "country": "Egypt",
+    "CountryMottos": "Life, Health, Well-Being (unofficial)"
+  },
+  "FR": {
+    "country": "France",
+    "CountryMottos": "Liberty, equality, fraternity"
+  },
+  "HT": {
+    "country": "Haiti",
+    "CountryMottos": "Liberty, equality, fraternity"
+  },
+  "PF": {
+    "country": "French Polynesia",
+    "CountryMottos": "Liberty, equality, fraternity"
+  },
+  "EH": {
+    "country": "Western Sahara",
+    "CountryMottos": "Liberty, Democracy, Unity"
+  },
+  "UY": {
+    "country": "Uruguay",
+    "CountryMottos": "Liberty or Death"
+  },
+  "MK": {
+    "country": "North Macedonia",
+    "CountryMottos": "Liberty or Death"
+  },
+  "SM": {
+    "country": "San Marino",
+    "CountryMottos": "Liberty"
+  },
+  "GU": {
+    "country": "Guam",
+    "CountryMottos": "Land of the chamorus"
+  },
+  "NC": {
+    "country": "New Caledonia",
+    "CountryMottos": "Land of speech, land of sharing"
+  },
+  "DK": {
+    "country": "Denmark",
+    "CountryMottos": "King and fatherland"
+  },
+  "SR": {
+    "country": "Suriname",
+    "CountryMottos": "Justice, piety, loyalty"
+  },
+  "CD": {
+    "country": "DR Congo",
+    "CountryMottos": "Justice, Peace, Work"
+  },
+  "SS": {
+    "country": "South Sudan",
+    "CountryMottos": "Justice, Liberty, Prosperity"
+  },
+  "PR": {
+    "country": "Puerto Rico",
+    "CountryMottos": "John is his name"
+  },
+  "IS": {
+    "country": "Iceland",
+    "CountryMottos": "It will all work out okay (unofficial)"
+  },
+  "AT": {
+    "country": "Austria",
+    "CountryMottos": "It is Austria's destiny to rule the whole world"
+  },
+  "VN": {
+    "country": "Vietnam",
+    "CountryMottos": "Independence, Liberty/Freedom, Happiness"
+  },
+  "TJ": {
+    "country": "Tajikistan",
+    "CountryMottos": "Independence, Freedom, Homeland!"
+  },
+  "AR": {
+    "country": "Argentina",
+    "CountryMottos": "In union and liberty (unofficial)"
+  },
+  "US": {
+    "country": "United States",
+    "CountryMottos": "In God We Trust"
+  },
+  "NI": {
+    "country": "Nicaragua",
+    "CountryMottos": "In God We Trust"
+  },
+  "IL": {
+    "country": "Israel",
+    "CountryMottos": "If you will it, it is no dream (unofficial)"
+  },
+  "NL": {
+    "country": "Netherlands",
+    "CountryMottos": "I will maintain"
+  },
+  "RE": {
+    "country": "Reunion",
+    "CountryMottos": "I will flourish wherever I am brought"
+  },
+  "MR": {
+    "country": "Mauritania",
+    "CountryMottos": "Honor, Fraternity, Justice"
+  },
+  "KI": {
+    "country": "Kiribati",
+    "CountryMottos": "Health, Peace, and Prosperity"
+  },
+  "KY": {
+    "country": "Cayman Islands",
+    "CountryMottos": "He hath founded it upon the sea"
+  },
+  "GT": {
+    "country": "Guatemala",
+    "CountryMottos": "Grow Free and Fertile"
+  },
+  "BT": {
+    "country": "Bhutan",
+    "CountryMottos": "Gross national happiness (unofficial)"
+  },
+  "MN": {
+    "country": "Mongolia",
+    "CountryMottos": "Great Mongol (unofficial)"
+  },
+  "NR": {
+    "country": "Nauru",
+    "CountryMottos": "God's will first"
+  },
+  "SV": {
+    "country": "El Salvador",
+    "CountryMottos": "God, Union, Liberty"
+  },
+  "KW": {
+    "country": "Kuwait",
+    "CountryMottos": "God, the Nation, the Emir"
+  },
+  "MA": {
+    "country": "Morocco",
+    "CountryMottos": "God, the Country, the King"
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "CountryMottos": "God, Nation, President"
+  },
+  "YE": {
+    "country": "Yemen",
+    "CountryMottos": "God, Homeland, Revolution, Unity"
+  },
+  "JO": {
+    "country": "Jordan",
+    "CountryMottos": "God, Homeland, King"
+  },
+  "EC": {
+    "country": "Ecuador",
+    "CountryMottos": "God, homeland, and feedom"
+  },
+  "DO": {
+    "country": "Dominican Republic",
+    "CountryMottos": "God, Fatherland, Liberty"
+  },
+  "IR": {
+    "country": "Iran",
+    "CountryMottos": "God is the Greatest"
+  },
+  "IQ": {
+    "country": "Iraq",
+    "CountryMottos": "God is the Greatest"
+  },
+  "WS": {
+    "country": "Samoa",
+    "CountryMottos": "God be the Foundation of Samoa"
+  },
+  "TO": {
+    "country": "Tonga",
+    "CountryMottos": "God and Tonga are my Inheritance"
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "CountryMottos": "God and my right (unofficial)"
+  },
+  "JE": {
+    "country": "Jersey",
+    "CountryMottos": "God and my right"
+  },
+  "HR": {
+    "country": "Croatia",
+    "CountryMottos": "God and Croats"
+  },
+  "UA": {
+    "country": "Ukraine",
+    "CountryMottos": "Glory to Ukraine! Glory to the heroes! (unofficial)"
+  },
+  "ES": {
+    "country": "Spain",
+    "CountryMottos": "Further beyond"
+  },
+  "PM": {
+    "country": "Saint Pierre and Miquelon",
+    "CountryMottos": "From the sea, work"
+  },
+  "CA": {
+    "country": "Canada",
+    "CountryMottos": "From sea to sea"
+  },
+  "PS": {
+    "country": "Palestine",
+    "CountryMottos": "From river to the sea, Palestine will be free (unofficial)"
+  },
+  "LT": {
+    "country": "Lithuania",
+    "CountryMottos": "Freedom, unity, prosperity (unofficial)"
+  },
+  "TN": {
+    "country": "Tunisia",
+    "CountryMottos": "Freedom, Order, and Justice"
+  },
+  "GR": {
+    "country": "Greece",
+    "CountryMottos": "Freedom or Death"
+  },
+  "TZ": {
+    "country": "Tanzania",
+    "CountryMottos": "Freedom and Unity"
+  },
+  "CO": {
+    "country": "Colombia",
+    "CountryMottos": "Freedom and order"
+  },
+  "GH": {
+    "country": "Ghana",
+    "CountryMottos": "Freedom and Justice"
+  },
+  "HN": {
+    "country": "Honduras",
+    "CountryMottos": "Free, sovereign and independent"
+  },
+  "NE": {
+    "country": "Niger",
+    "CountryMottos": "Fraternity, Work, Progress"
+  },
+  "BS": {
+    "country": "Bahamas",
+    "CountryMottos": "Forward, Upward, Onward Together"
+  },
+  "PA": {
+    "country": "Panama",
+    "CountryMottos": "For the benefit of the world"
+  },
+  "PL": {
+    "country": "Poland",
+    "CountryMottos": "For our freedom and yours (unofficial)"
+  },
+  "LI": {
+    "country": "Liechtenstein",
+    "CountryMottos": "For God, Prince and Fatherland"
+  },
+  "PH": {
+    "country": "Philippines",
+    "CountryMottos": "For God, for the people, for nature and for the country"
+  },
+  "UG": {
+    "country": "Uganda",
+    "CountryMottos": "For God and My Country"
+  },
+  "BJ": {
+    "country": "Benin",
+    "CountryMottos": "Fellowship, Justice, Labor"
+  },
+  "CW": {
+    "country": "Curacao",
+    "CountryMottos": "Feel it for yourself"
+  },
+  "FJ": {
+    "country": "Fiji",
+    "CountryMottos": "Fear God and honor the King"
+  },
+  "CU": {
+    "country": "Cuba",
+    "CountryMottos": "Fatherland or death"
+  },
+  "PK": {
+    "country": "Pakistan",
+    "CountryMottos": "Faith, Unity, Discipine"
+  },
+  "GD": {
+    "country": "Grenada",
+    "CountryMottos": "Ever Conscious of God We Aspire, Build and Advance as One People"
+  },
+  "AG": {
+    "country": "Antigua and Barbuda",
+    "CountryMottos": "Each endeavouring, all achieving"
+  },
+  "ZA": {
+    "country": "South Africa",
+    "CountryMottos": "Diverse people unite / Unity in diversity"
+  },
+  "FK": {
+    "country": "Falkland Islands",
+    "CountryMottos": "Desire the right"
+  },
+  "MQ": {
+    "country": "Martinique",
+    "CountryMottos": "Community service in the country"
+  },
+  "DZ": {
+    "country": "Algeria",
+    "CountryMottos": "By the people and for the people"
+  },
+  "VA": {
+    "country": "Vatican City",
+    "CountryMottos": "By giving mercy and by choosing (unofficial)"
+  },
+  "SO": {
+    "country": "Somalia",
+    "CountryMottos": "Arise Somalis! (unofficial), some sources suggest \"Go forward, and never backward\""
+  },
+  "SX": {
+    "country": "Sint Maarten",
+    "CountryMottos": "Always progressing"
+  },
+  "BN": {
+    "country": "Brunei",
+    "CountryMottos": "Always in service with God's guidance"
+  },
+  "KE": {
+    "country": "Kenya",
+    "CountryMottos": "All pull together"
+  },
+  "DM": {
+    "country": "Dominica",
+    "CountryMottos": "After God, the Earth"
+  },
+  "MH": {
+    "country": "Marshall Islands",
+    "CountryMottos": "Accomplishment/Achievement through joint effort"
+  },
+  "MS": {
+    "country": "Montserrat",
+    "CountryMottos": "A people of excellence, molded by nature, nurtured by God"
+  }
+}

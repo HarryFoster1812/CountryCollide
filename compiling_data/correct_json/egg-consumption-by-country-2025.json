@@ -1,0 +1,922 @@
+{
+  "CN": {
+    "country": "China",
+    "EggConsumptionTotal_2022": 31092000,
+    "EggConsumptionPerCapita_2022": 21.81
+  },
+  "IN": {
+    "country": "India",
+    "EggConsumptionTotal_2022": 6602000,
+    "EggConsumptionPerCapita_2022": 4.66
+  },
+  "ID": {
+    "country": "Indonesia",
+    "EggConsumptionTotal_2022": 5378000,
+    "EggConsumptionPerCapita_2022": 19.52
+  },
+  "US": {
+    "country": "United States",
+    "EggConsumptionTotal_2022": 5377000,
+    "EggConsumptionPerCapita_2022": 15.9
+  },
+  "BR": {
+    "country": "Brazil",
+    "EggConsumptionTotal_2022": 2746000,
+    "EggConsumptionPerCapita_2022": 12.75
+  },
+  "MX": {
+    "country": "Mexico",
+    "EggConsumptionTotal_2022": 2744000,
+    "EggConsumptionPerCapita_2022": 21.52
+  },
+  "JP": {
+    "country": "Japan",
+    "EggConsumptionTotal_2022": 2470000,
+    "EggConsumptionPerCapita_2022": 19.92
+  },
+  "RU": {
+    "country": "Russia",
+    "EggConsumptionTotal_2022": 2425000,
+    "EggConsumptionPerCapita_2022": 16.76
+  },
+  "DE": {
+    "country": "Germany",
+    "EggConsumptionTotal_2022": 1310000,
+    "EggConsumptionPerCapita_2022": 15.71
+  },
+  "PK": {
+    "country": "Pakistan",
+    "EggConsumptionTotal_2022": 905000,
+    "EggConsumptionPerCapita_2022": 3.84
+  },
+  "FR": {
+    "country": "France",
+    "EggConsumptionTotal_2022": 887000,
+    "EggConsumptionPerCapita_2022": 13.72
+  },
+  "TR": {
+    "country": "Turkey",
+    "EggConsumptionTotal_2022": 854000,
+    "EggConsumptionPerCapita_2022": 10
+  },
+  "TH": {
+    "country": "Thailand",
+    "EggConsumptionTotal_2022": 848000,
+    "EggConsumptionPerCapita_2022": 11.83
+  },
+  "IR": {
+    "country": "Iran",
+    "EggConsumptionTotal_2022": 793000,
+    "EggConsumptionPerCapita_2022": 8.96
+  },
+  "IT": {
+    "country": "Italy",
+    "EggConsumptionTotal_2022": 726000,
+    "EggConsumptionPerCapita_2022": 12.3
+  },
+  "AR": {
+    "country": "Argentina",
+    "EggConsumptionTotal_2022": 721000,
+    "EggConsumptionPerCapita_2022": 15.83
+  },
+  "ES": {
+    "country": "Spain",
+    "EggConsumptionTotal_2022": 708000,
+    "EggConsumptionPerCapita_2022": 14.89
+  },
+  "KR": {
+    "country": "South Korea",
+    "EggConsumptionTotal_2022": 653000,
+    "EggConsumptionPerCapita_2022": 12.6
+  },
+  "PH": {
+    "country": "Philippines",
+    "EggConsumptionTotal_2022": 643000,
+    "EggConsumptionPerCapita_2022": 5.57
+  },
+  "UA": {
+    "country": "Ukraine",
+    "EggConsumptionTotal_2022": 639000,
+    "EggConsumptionPerCapita_2022": 16.09
+  },
+  "CO": {
+    "country": "Colombia",
+    "EggConsumptionTotal_2022": 629000,
+    "EggConsumptionPerCapita_2022": 12.14
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "EggConsumptionTotal_2022": 623000,
+    "EggConsumptionPerCapita_2022": 9.23
+  },
+  "BD": {
+    "country": "Bangladesh",
+    "EggConsumptionTotal_2022": 613000,
+    "EggConsumptionPerCapita_2022": 3.58
+  },
+  "CV": {
+    "country": "Cape Verde",
+    "EggConsumptionTotal_2022": 605000,
+    "EggConsumptionPerCapita_2022": 5.04
+  },
+  "NG": {
+    "country": "Nigeria",
+    "EggConsumptionTotal_2022": 595000,
+    "EggConsumptionPerCapita_2022": 2.72
+  },
+  "NL": {
+    "country": "Netherlands",
+    "EggConsumptionTotal_2022": 581000,
+    "EggConsumptionPerCapita_2022": 33.08
+  },
+  "MY": {
+    "country": "Malaysia",
+    "EggConsumptionTotal_2022": 545000,
+    "EggConsumptionPerCapita_2022": 16.06
+  },
+  "EG": {
+    "country": "Egypt",
+    "EggConsumptionTotal_2022": 454000,
+    "EggConsumptionPerCapita_2022": 4.09
+  },
+  "ZA": {
+    "country": "South Africa",
+    "EggConsumptionTotal_2022": 428000,
+    "EggConsumptionPerCapita_2022": 7.14
+  },
+  "UZ": {
+    "country": "Uzbekistan",
+    "EggConsumptionTotal_2022": 426000,
+    "EggConsumptionPerCapita_2022": 12.31
+  },
+  "TW": {
+    "country": "Taiwan",
+    "EggConsumptionTotal_2022": 382000,
+    "EggConsumptionPerCapita_2022": 15.99
+  },
+  "PE": {
+    "country": "Peru",
+    "EggConsumptionTotal_2022": 376000,
+    "EggConsumptionPerCapita_2022": 11.03
+  },
+  "VN": {
+    "country": "Vietnam",
+    "EggConsumptionTotal_2022": 370000,
+    "EggConsumptionPerCapita_2022": 3.77
+  },
+  "SA": {
+    "country": "Saudi Arabia",
+    "EggConsumptionTotal_2022": 342000,
+    "EggConsumptionPerCapita_2022": 9.4
+  },
+  "MA": {
+    "country": "Morocco",
+    "EggConsumptionTotal_2022": 304000,
+    "EggConsumptionPerCapita_2022": 8.12
+  },
+  "DZ": {
+    "country": "Algeria",
+    "EggConsumptionTotal_2022": 282000,
+    "EggConsumptionPerCapita_2022": 6.28
+  },
+  "RO": {
+    "country": "Romania",
+    "EggConsumptionTotal_2022": 256000,
+    "EggConsumptionPerCapita_2022": 13.04
+  },
+  "BE": {
+    "country": "Belgium",
+    "EggConsumptionTotal_2022": 225000,
+    "EggConsumptionPerCapita_2022": 19.31
+  },
+  "GT": {
+    "country": "Guatemala",
+    "EggConsumptionTotal_2022": 218000,
+    "EggConsumptionPerCapita_2022": 12.19
+  },
+  "PL": {
+    "country": "Poland",
+    "EggConsumptionTotal_2022": 214000,
+    "EggConsumptionPerCapita_2022": 5.37
+  },
+  "CL": {
+    "country": "Chile",
+    "EggConsumptionTotal_2022": 191000,
+    "EggConsumptionPerCapita_2022": 9.76
+  },
+  "AU": {
+    "country": "Australia",
+    "EggConsumptionTotal_2022": 186000,
+    "EggConsumptionPerCapita_2022": 7.09
+  },
+  "DO": {
+    "country": "Dominican Republic",
+    "EggConsumptionTotal_2022": 184000,
+    "EggConsumptionPerCapita_2022": 16.35
+  },
+  "HK": {
+    "country": "Hong Kong",
+    "EggConsumptionTotal_2022": 180000,
+    "EggConsumptionPerCapita_2022": 24.05
+  },
+  "VE": {
+    "country": "Venezuela",
+    "EggConsumptionTotal_2022": 169000,
+    "EggConsumptionPerCapita_2022": 5.98
+  },
+  "TZ": {
+    "country": "Tanzania",
+    "EggConsumptionTotal_2022": 168000,
+    "EggConsumptionPerCapita_2022": 2.56
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "EggConsumptionTotal_2022": 151000,
+    "EggConsumptionPerCapita_2022": 7.79
+  },
+  "EC": {
+    "country": "Ecuador",
+    "EggConsumptionTotal_2022": 140000,
+    "EggConsumptionPerCapita_2022": 7.8
+  },
+  "SE": {
+    "country": "Sweden",
+    "EggConsumptionTotal_2022": 140000,
+    "EggConsumptionPerCapita_2022": 13.31
+  },
+  "HU": {
+    "country": "Hungary",
+    "EggConsumptionTotal_2022": 134000,
+    "EggConsumptionPerCapita_2022": 13.39
+  },
+  "AT": {
+    "country": "Austria",
+    "EggConsumptionTotal_2022": 134000,
+    "EggConsumptionPerCapita_2022": 14.97
+  },
+  "BY": {
+    "country": "Belarus",
+    "EggConsumptionTotal_2022": 123000,
+    "EggConsumptionPerCapita_2022": 12.91
+  },
+  "PT": {
+    "country": "Portugal",
+    "EggConsumptionTotal_2022": 122000,
+    "EggConsumptionPerCapita_2022": 11.88
+  },
+  "PY": {
+    "country": "Paraguay",
+    "EggConsumptionTotal_2022": 120000,
+    "EggConsumptionPerCapita_2022": 17.73
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "EggConsumptionTotal_2022": 115000,
+    "EggConsumptionPerCapita_2022": 12.23
+  },
+  "IL": {
+    "country": "Israel",
+    "EggConsumptionTotal_2022": 112000,
+    "EggConsumptionPerCapita_2022": 12.38
+  },
+  "CH": {
+    "country": "Switzerland",
+    "EggConsumptionTotal_2022": 111000,
+    "EggConsumptionPerCapita_2022": 12.69
+  },
+  "MM": {
+    "country": "Myanmar",
+    "EggConsumptionTotal_2022": 107000,
+    "EggConsumptionPerCapita_2022": 1.97
+  },
+  "IQ": {
+    "country": "Iraq",
+    "EggConsumptionTotal_2022": 105000,
+    "EggConsumptionPerCapita_2022": 2.74
+  },
+  "AZ": {
+    "country": "Azerbaijan",
+    "EggConsumptionTotal_2022": 102000,
+    "EggConsumptionPerCapita_2022": 9.89
+  },
+  "GR": {
+    "country": "Greece",
+    "EggConsumptionTotal_2022": 98000,
+    "EggConsumptionPerCapita_2022": 9.47
+  },
+  "CU": {
+    "country": "Cuba",
+    "EggConsumptionTotal_2022": 96000,
+    "EggConsumptionPerCapita_2022": 8.59
+  },
+  "RS": {
+    "country": "Serbia",
+    "EggConsumptionTotal_2022": 91000,
+    "EggConsumptionPerCapita_2022": 12.54
+  },
+  "DK": {
+    "country": "Denmark",
+    "EggConsumptionTotal_2022": 87000,
+    "EggConsumptionPerCapita_2022": 14.78
+  },
+  "SY": {
+    "country": "Syria",
+    "EggConsumptionTotal_2022": 86000,
+    "EggConsumptionPerCapita_2022": 3.88
+  },
+  "TN": {
+    "country": "Tunisia",
+    "EggConsumptionTotal_2022": 86000,
+    "EggConsumptionPerCapita_2022": 6.96
+  },
+  "CZ": {
+    "country": "Czechia",
+    "EggConsumptionTotal_2022": 86000,
+    "EggConsumptionPerCapita_2022": 8.22
+  },
+  "LK": {
+    "country": "Sri Lanka",
+    "EggConsumptionTotal_2022": 85000,
+    "EggConsumptionPerCapita_2022": 3.89
+  },
+  "TM": {
+    "country": "Turkmenistan",
+    "EggConsumptionTotal_2022": 82000,
+    "EggConsumptionPerCapita_2022": 12.81
+  },
+  "BO": {
+    "country": "Bolivia",
+    "EggConsumptionTotal_2022": 81000,
+    "EggConsumptionPerCapita_2022": 6.64
+  },
+  "KW": {
+    "country": "Kuwait",
+    "EggConsumptionTotal_2022": 77000,
+    "EggConsumptionPerCapita_2022": 18.14
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "EggConsumptionTotal_2022": 72000,
+    "EggConsumptionPerCapita_2022": 13.82
+  },
+  "NO": {
+    "country": "Norway",
+    "EggConsumptionTotal_2022": 67000,
+    "EggConsumptionPerCapita_2022": 12.35
+  },
+  "IE": {
+    "country": "Ireland",
+    "EggConsumptionTotal_2022": 67000,
+    "EggConsumptionPerCapita_2022": 13.37
+  },
+  "AO": {
+    "country": "Angola",
+    "EggConsumptionTotal_2022": 64000,
+    "EggConsumptionPerCapita_2022": 1.79
+  },
+  "LY": {
+    "country": "Libya",
+    "EggConsumptionTotal_2022": 64000,
+    "EggConsumptionPerCapita_2022": 9.38
+  },
+  "SN": {
+    "country": "Senegal",
+    "EggConsumptionTotal_2022": 63000,
+    "EggConsumptionPerCapita_2022": 3.63
+  },
+  "KE": {
+    "country": "Kenya",
+    "EggConsumptionTotal_2022": 61000,
+    "EggConsumptionPerCapita_2022": 1.13
+  },
+  "SD": {
+    "country": "Sudan",
+    "EggConsumptionTotal_2022": 59000,
+    "EggConsumptionPerCapita_2022": 1.26
+  },
+  "CI": {
+    "country": "Ivory Coast",
+    "EggConsumptionTotal_2022": 59000,
+    "EggConsumptionPerCapita_2022": 2.11
+  },
+  "NP": {
+    "country": "Nepal",
+    "EggConsumptionTotal_2022": 58000,
+    "EggConsumptionPerCapita_2022": 1.91
+  },
+  "YE": {
+    "country": "Yemen",
+    "EggConsumptionTotal_2022": 57000,
+    "EggConsumptionPerCapita_2022": 1.7
+  },
+  "ZM": {
+    "country": "Zambia",
+    "EggConsumptionTotal_2022": 56000,
+    "EggConsumptionPerCapita_2022": 2.8
+  },
+  "SV": {
+    "country": "El Salvador",
+    "EggConsumptionTotal_2022": 56000,
+    "EggConsumptionPerCapita_2022": 8.85
+  },
+  "OM": {
+    "country": "Oman",
+    "EggConsumptionTotal_2022": 56000,
+    "EggConsumptionPerCapita_2022": 12.26
+  },
+  "FI": {
+    "country": "Finland",
+    "EggConsumptionTotal_2022": 55000,
+    "EggConsumptionPerCapita_2022": 9.95
+  },
+  "QA": {
+    "country": "Qatar",
+    "EggConsumptionTotal_2022": 55000,
+    "EggConsumptionPerCapita_2022": 20.45
+  },
+  "SK": {
+    "country": "Slovakia",
+    "EggConsumptionTotal_2022": 54000,
+    "EggConsumptionPerCapita_2022": 9.57
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "EggConsumptionTotal_2022": 53000,
+    "EggConsumptionPerCapita_2022": 10.14
+  },
+  "UY": {
+    "country": "Uruguay",
+    "EggConsumptionTotal_2022": 50000,
+    "EggConsumptionPerCapita_2022": 14.51
+  },
+  "JO": {
+    "country": "Jordan",
+    "EggConsumptionTotal_2022": 49000,
+    "EggConsumptionPerCapita_2022": 4.37
+  },
+  "CA": {
+    "country": "Canada",
+    "EggConsumptionTotal_2022": 47000,
+    "EggConsumptionPerCapita_2022": 15.73
+  },
+  "AL": {
+    "country": "Albania",
+    "EggConsumptionTotal_2022": 43000,
+    "EggConsumptionPerCapita_2022": 15.11
+  },
+  "HN": {
+    "country": "Honduras",
+    "EggConsumptionTotal_2022": 42000,
+    "EggConsumptionPerCapita_2022": 4.03
+  },
+  "LB": {
+    "country": "Lebanon",
+    "EggConsumptionTotal_2022": 42000,
+    "EggConsumptionPerCapita_2022": 7.56
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "EggConsumptionTotal_2022": 41000,
+    "EggConsumptionPerCapita_2022": 0.33
+  },
+  "GE": {
+    "country": "Georgia",
+    "EggConsumptionTotal_2022": 41000,
+    "EggConsumptionPerCapita_2022": 11.07
+  },
+  "LT": {
+    "country": "Lithuania",
+    "EggConsumptionTotal_2022": 41000,
+    "EggConsumptionPerCapita_2022": 15.08
+  },
+  "TJ": {
+    "country": "Tajikistan",
+    "EggConsumptionTotal_2022": 40000,
+    "EggConsumptionPerCapita_2022": 4.02
+  },
+  "AM": {
+    "country": "Armenia",
+    "EggConsumptionTotal_2022": 40000,
+    "EggConsumptionPerCapita_2022": 14.47
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "EggConsumptionTotal_2022": 39000,
+    "EggConsumptionPerCapita_2022": 5.89
+  },
+  "UG": {
+    "country": "Uganda",
+    "EggConsumptionTotal_2022": 37000,
+    "EggConsumptionPerCapita_2022": 0.79
+  },
+  "GH": {
+    "country": "Ghana",
+    "EggConsumptionTotal_2022": 36000,
+    "EggConsumptionPerCapita_2022": 1.07
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "EggConsumptionTotal_2022": 35000,
+    "EggConsumptionPerCapita_2022": 5.17
+  },
+  "PA": {
+    "country": "Panama",
+    "EggConsumptionTotal_2022": 34000,
+    "EggConsumptionPerCapita_2022": 7.81
+  },
+  "HR": {
+    "country": "Croatia",
+    "EggConsumptionTotal_2022": 34000,
+    "EggConsumptionPerCapita_2022": 8.39
+  },
+  "NI": {
+    "country": "Nicaragua",
+    "EggConsumptionTotal_2022": 32000,
+    "EggConsumptionPerCapita_2022": 4.59
+  },
+  "MD": {
+    "country": "Moldova",
+    "EggConsumptionTotal_2022": 31000,
+    "EggConsumptionPerCapita_2022": 11.08
+  },
+  "AF": {
+    "country": "Afghanistan",
+    "EggConsumptionTotal_2022": 29000,
+    "EggConsumptionPerCapita_2022": 0.69
+  },
+  "GN": {
+    "country": "Guinea",
+    "EggConsumptionTotal_2022": 28000,
+    "EggConsumptionPerCapita_2022": 1.99
+  },
+  "BF": {
+    "country": "Burkina Faso",
+    "EggConsumptionTotal_2022": 24000,
+    "EggConsumptionPerCapita_2022": 1.06
+  },
+  "MN": {
+    "country": "Mongolia",
+    "EggConsumptionTotal_2022": 22000,
+    "EggConsumptionPerCapita_2022": 6.57
+  },
+  "TG": {
+    "country": "Togo",
+    "EggConsumptionTotal_2022": 20000,
+    "EggConsumptionPerCapita_2022": 2.25
+  },
+  "LV": {
+    "country": "Latvia",
+    "EggConsumptionTotal_2022": 20000,
+    "EggConsumptionPerCapita_2022": 10.82
+  },
+  "BH": {
+    "country": "Bahrain",
+    "EggConsumptionTotal_2022": 20000,
+    "EggConsumptionPerCapita_2022": 13.32
+  },
+  "CM": {
+    "country": "Cameroon",
+    "EggConsumptionTotal_2022": 19000,
+    "EggConsumptionPerCapita_2022": 1.68
+  },
+  "MW": {
+    "country": "Malawi",
+    "EggConsumptionTotal_2022": 19000,
+    "EggConsumptionPerCapita_2022": 0.92
+  },
+  "BA": {
+    "country": "Bosnia and Herzegovina",
+    "EggConsumptionTotal_2022": 19000,
+    "EggConsumptionPerCapita_2022": 5.95
+  },
+  "ZW": {
+    "country": "Zimbabwe",
+    "EggConsumptionTotal_2022": 18000,
+    "EggConsumptionPerCapita_2022": 1.1
+  },
+  "SI": {
+    "country": "Slovenia",
+    "EggConsumptionTotal_2022": 18000,
+    "EggConsumptionPerCapita_2022": 8.72
+  },
+  "EE": {
+    "country": "Estonia",
+    "EggConsumptionTotal_2022": 17000,
+    "EggConsumptionPerCapita_2022": 12.95
+  },
+  "MZ": {
+    "country": "Mozambique",
+    "EggConsumptionTotal_2022": 16000,
+    "EggConsumptionPerCapita_2022": 0.49
+  },
+  "MG": {
+    "country": "Madagascar",
+    "EggConsumptionTotal_2022": 16000,
+    "EggConsumptionPerCapita_2022": 0.52
+  },
+  "LA": {
+    "country": "Laos",
+    "EggConsumptionTotal_2022": 16000,
+    "EggConsumptionPerCapita_2022": 2.07
+  },
+  "MO": {
+    "country": "Macau",
+    "EggConsumptionTotal_2022": 14000,
+    "EggConsumptionPerCapita_2022": 20.63
+  },
+  "BJ": {
+    "country": "Benin",
+    "EggConsumptionTotal_2022": 13000,
+    "EggConsumptionPerCapita_2022": 0.95
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "EggConsumptionTotal_2022": 13000,
+    "EggConsumptionPerCapita_2022": 20.48
+  },
+  "SL": {
+    "country": "Sierra Leone",
+    "EggConsumptionTotal_2022": 12000,
+    "EggConsumptionPerCapita_2022": 1.4
+  },
+  "MK": {
+    "country": "North Macedonia",
+    "EggConsumptionTotal_2022": 12000,
+    "EggConsumptionPerCapita_2022": 5.93
+  },
+  "ML": {
+    "country": "Mali",
+    "EggConsumptionTotal_2022": 11000,
+    "EggConsumptionPerCapita_2022": 0.5
+  },
+  "LR": {
+    "country": "Liberia",
+    "EggConsumptionTotal_2022": 11000,
+    "EggConsumptionPerCapita_2022": 2.15
+  },
+  "MU": {
+    "country": "Mauritius",
+    "EggConsumptionTotal_2022": 11000,
+    "EggConsumptionPerCapita_2022": 8.39
+  },
+  "MV": {
+    "country": "Maldives",
+    "EggConsumptionTotal_2022": 11000,
+    "EggConsumptionPerCapita_2022": 20.71
+  },
+  "JM": {
+    "country": "Jamaica",
+    "EggConsumptionTotal_2022": 10000,
+    "EggConsumptionPerCapita_2022": 3.53
+  },
+  "GM": {
+    "country": "Gambia",
+    "EggConsumptionTotal_2022": 10000,
+    "EggConsumptionPerCapita_2022": 3.83
+  },
+  "CY": {
+    "country": "Cyprus",
+    "EggConsumptionTotal_2022": 9000,
+    "EggConsumptionPerCapita_2022": 7.46
+  },
+  "ME": {
+    "country": "Montenegro",
+    "EggConsumptionTotal_2022": 9000,
+    "EggConsumptionPerCapita_2022": 14.54
+  },
+  "CD": {
+    "country": "DR Congo",
+    "EggConsumptionTotal_2022": 8000,
+    "EggConsumptionPerCapita_2022": 0.08
+  },
+  "TT": {
+    "country": "Trinidad and Tobago",
+    "EggConsumptionTotal_2022": 8000,
+    "EggConsumptionPerCapita_2022": 4.95
+  },
+  "MR": {
+    "country": "Mauritania",
+    "EggConsumptionTotal_2022": 7000,
+    "EggConsumptionPerCapita_2022": 1.51
+  },
+  "MT": {
+    "country": "Malta",
+    "EggConsumptionTotal_2022": 7000,
+    "EggConsumptionPerCapita_2022": 12.83
+  },
+  "NE": {
+    "country": "Niger",
+    "EggConsumptionTotal_2022": 6000,
+    "EggConsumptionPerCapita_2022": 0.23
+  },
+  "PG": {
+    "country": "Papua New Guinea",
+    "EggConsumptionTotal_2022": 5000,
+    "EggConsumptionPerCapita_2022": 0.45
+  },
+  "FJ": {
+    "country": "Fiji",
+    "EggConsumptionTotal_2022": 5000,
+    "EggConsumptionPerCapita_2022": 5.83
+  },
+  "BS": {
+    "country": "Bahamas",
+    "EggConsumptionTotal_2022": 5000,
+    "EggConsumptionPerCapita_2022": 12.82
+  },
+  "TD": {
+    "country": "Chad",
+    "EggConsumptionTotal_2022": 4000,
+    "EggConsumptionPerCapita_2022": 0.21
+  },
+  "RW": {
+    "country": "Rwanda",
+    "EggConsumptionTotal_2022": 4000,
+    "EggConsumptionPerCapita_2022": 0.3
+  },
+  "HT": {
+    "country": "Haiti",
+    "EggConsumptionTotal_2022": 4000,
+    "EggConsumptionPerCapita_2022": 0.38
+  },
+  "CF": {
+    "country": "Central African Republic",
+    "EggConsumptionTotal_2022": 4000,
+    "EggConsumptionPerCapita_2022": 0.66
+  },
+  "BW": {
+    "country": "Botswana",
+    "EggConsumptionTotal_2022": 4000,
+    "EggConsumptionPerCapita_2022": 1.4
+  },
+  "BT": {
+    "country": "Bhutan",
+    "EggConsumptionTotal_2022": 4000,
+    "EggConsumptionPerCapita_2022": 5.18
+  },
+  "SR": {
+    "country": "Suriname",
+    "EggConsumptionTotal_2022": 4000,
+    "EggConsumptionPerCapita_2022": 5.95
+  },
+  "IS": {
+    "country": "Iceland",
+    "EggConsumptionTotal_2022": 4000,
+    "EggConsumptionPerCapita_2022": 9.78
+  },
+  "PF": {
+    "country": "French Polynesia",
+    "EggConsumptionTotal_2022": 4000,
+    "EggConsumptionPerCapita_2022": 11.99
+  },
+  "KH": {
+    "country": "Cambodia",
+    "EggConsumptionTotal_2022": 3000,
+    "EggConsumptionPerCapita_2022": 1.12
+  },
+  "NA": {
+    "country": "Namibia",
+    "EggConsumptionTotal_2022": 3000,
+    "EggConsumptionPerCapita_2022": 1.11
+  },
+  "GW": {
+    "country": "Guinea-Bissau",
+    "EggConsumptionTotal_2022": 3000,
+    "EggConsumptionPerCapita_2022": 1.25
+  },
+  "TL": {
+    "country": "Timor-Leste",
+    "EggConsumptionTotal_2022": 3000,
+    "EggConsumptionPerCapita_2022": 2.37
+  },
+  "NC": {
+    "country": "New Caledonia",
+    "EggConsumptionTotal_2022": 3000,
+    "EggConsumptionPerCapita_2022": 10.08
+  },
+  "BB": {
+    "country": "Barbados",
+    "EggConsumptionTotal_2022": 3000,
+    "EggConsumptionPerCapita_2022": 9.85
+  },
+  "BI": {
+    "country": "Burundi",
+    "EggConsumptionTotal_2022": 2000,
+    "EggConsumptionPerCapita_2022": 0.14
+  },
+  "GA": {
+    "country": "Gabon",
+    "EggConsumptionTotal_2022": 2000,
+    "EggConsumptionPerCapita_2022": 0.82
+  },
+  "SZ": {
+    "country": "Eswatini",
+    "EggConsumptionTotal_2022": 2000,
+    "EggConsumptionPerCapita_2022": 1.68
+  },
+  "DJ": {
+    "country": "Djibouti",
+    "EggConsumptionTotal_2022": 2000,
+    "EggConsumptionPerCapita_2022": 1.82
+  },
+  "BZ": {
+    "country": "Belize",
+    "EggConsumptionTotal_2022": 2000,
+    "EggConsumptionPerCapita_2022": 4.53
+  },
+  "GD": {
+    "country": "Grenada",
+    "EggConsumptionTotal_2022": 2000,
+    "EggConsumptionPerCapita_2022": 19.03
+  },
+  "CG": {
+    "country": "Republic of the Congo",
+    "EggConsumptionTotal_2022": 1000,
+    "EggConsumptionPerCapita_2022": 0.21
+  },
+  "LS": {
+    "country": "Lesotho",
+    "EggConsumptionTotal_2022": 1000,
+    "EggConsumptionPerCapita_2022": 0.56
+  },
+  "KM": {
+    "country": "Comoros",
+    "EggConsumptionTotal_2022": 1000,
+    "EggConsumptionPerCapita_2022": 1.22
+  },
+  "SB": {
+    "country": "Solomon Islands",
+    "EggConsumptionTotal_2022": 1000,
+    "EggConsumptionPerCapita_2022": 0.9
+  },
+  "GY": {
+    "country": "Guyana",
+    "EggConsumptionTotal_2022": 1000,
+    "EggConsumptionPerCapita_2022": 1.43
+  },
+  "VU": {
+    "country": "Vanuatu",
+    "EggConsumptionTotal_2022": 1000,
+    "EggConsumptionPerCapita_2022": 2.47
+  },
+  "LC": {
+    "country": "Saint Lucia",
+    "EggConsumptionTotal_2022": 1000,
+    "EggConsumptionPerCapita_2022": 5.57
+  },
+  "SC": {
+    "country": "Seychelles",
+    "EggConsumptionTotal_2022": 1000,
+    "EggConsumptionPerCapita_2022": 12
+  },
+  "FM": {
+    "country": "Micronesia",
+    "EggConsumptionTotal_2022": 1000,
+    "EggConsumptionPerCapita_2022": 5.18
+  },
+  "VC": {
+    "country": "Saint Vincent and the Grenadines",
+    "EggConsumptionTotal_2022": 1000,
+    "EggConsumptionPerCapita_2022": 5.29
+  },
+  "AG": {
+    "country": "Antigua and Barbuda",
+    "EggConsumptionTotal_2022": 1000,
+    "EggConsumptionPerCapita_2022": 10.4
+  },
+  "DM": {
+    "country": "Dominica",
+    "EggConsumptionTotal_2022": 1000,
+    "EggConsumptionPerCapita_2022": 8.35
+  },
+  "ST": {
+    "country": "Sao Tome and Principe",
+    "EggConsumptionTotal_2022": null,
+    "EggConsumptionPerCapita_2022": 0.71
+  },
+  "WS": {
+    "country": "Samoa",
+    "EggConsumptionTotal_2022": null,
+    "EggConsumptionPerCapita_2022": 1.59
+  },
+  "KI": {
+    "country": "Kiribati",
+    "EggConsumptionTotal_2022": null,
+    "EggConsumptionPerCapita_2022": 2.93
+  },
+  "KN": {
+    "country": "Saint Kitts and Nevis",
+    "EggConsumptionTotal_2022": null,
+    "EggConsumptionPerCapita_2022": 4.8
+  },
+  "NR": {
+    "country": "Nauru",
+    "EggConsumptionTotal_2022": null,
+    "EggConsumptionPerCapita_2022": 13.41
+  },
+  "null": {
+    "country": "Total",
+    "EggConsumptionTotal_2022": 83164000,
+    "EggConsumptionPerCapita_2022": null
+  }
+}

@@ -1,0 +1,1340 @@
+{
+  "IN": {
+    "country": "India",
+    "FacebookUsers_2025": 581580800,
+    "FacebookUsersPctFemale_2025": 31.5,
+    "FacebookUsersPctMale_2025": 68.5
+  },
+  "US": {
+    "country": "United States",
+    "FacebookUsers_2025": 279809300,
+    "FacebookUsersPctFemale_2025": 53.8,
+    "FacebookUsersPctMale_2025": 46.2
+  },
+  "BR": {
+    "country": "Brazil",
+    "FacebookUsers_2025": 175109400,
+    "FacebookUsersPctFemale_2025": 55.3,
+    "FacebookUsersPctMale_2025": 44.7
+  },
+  "ID": {
+    "country": "Indonesia",
+    "FacebookUsers_2025": 174000000,
+    "FacebookUsersPctFemale_2025": 46.2,
+    "FacebookUsersPctMale_2025": 53.8
+  },
+  "MX": {
+    "country": "Mexico",
+    "FacebookUsers_2025": 111406100,
+    "FacebookUsersPctFemale_2025": 52.1,
+    "FacebookUsersPctMale_2025": 47.9
+  },
+  "PH": {
+    "country": "Philippines",
+    "FacebookUsers_2025": 102317900,
+    "FacebookUsersPctFemale_2025": 53,
+    "FacebookUsersPctMale_2025": 47
+  },
+  "VN": {
+    "country": "Vietnam",
+    "FacebookUsers_2025": 86111300,
+    "FacebookUsersPctFemale_2025": 51.1,
+    "FacebookUsersPctMale_2025": 48.9
+  },
+  "RU": {
+    "country": "Russia",
+    "FacebookUsers_2025": 70607400,
+    "FacebookUsersPctFemale_2025": 58.9,
+    "FacebookUsersPctMale_2025": 41.1
+  },
+  "TR": {
+    "country": "Turkey",
+    "FacebookUsers_2025": 70302201,
+    "FacebookUsersPctFemale_2025": 43.7,
+    "FacebookUsersPctMale_2025": 56.3
+  },
+  "BD": {
+    "country": "Bangladesh",
+    "FacebookUsers_2025": 67179200,
+    "FacebookUsersPctFemale_2025": 35.3,
+    "FacebookUsersPctMale_2025": 64.7
+  },
+  "JP": {
+    "country": "Japan",
+    "FacebookUsers_2025": 61700000,
+    "FacebookUsersPctFemale_2025": 55.9,
+    "FacebookUsersPctMale_2025": 44.1
+  },
+  "PK": {
+    "country": "Pakistan",
+    "FacebookUsers_2025": 60422300,
+    "FacebookUsersPctFemale_2025": 23.5,
+    "FacebookUsersPctMale_2025": 76.5
+  },
+  "TH": {
+    "country": "Thailand",
+    "FacebookUsers_2025": 58300000,
+    "FacebookUsersPctFemale_2025": 52.3,
+    "FacebookUsersPctMale_2025": 47.7
+  },
+  "EG": {
+    "country": "Egypt",
+    "FacebookUsers_2025": 56398600,
+    "FacebookUsersPctFemale_2025": 40.1,
+    "FacebookUsersPctMale_2025": 59.9
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "FacebookUsers_2025": 55902500,
+    "FacebookUsersPctFemale_2025": 53.3,
+    "FacebookUsersPctMale_2025": 46.7
+  },
+  "NG": {
+    "country": "Nigeria",
+    "FacebookUsers_2025": 51225500,
+    "FacebookUsersPctFemale_2025": 43.2,
+    "FacebookUsersPctMale_2025": 56.8
+  },
+  "FR": {
+    "country": "France",
+    "FacebookUsers_2025": 47300000,
+    "FacebookUsersPctFemale_2025": 52.9,
+    "FacebookUsersPctMale_2025": 47.1
+  },
+  "DE": {
+    "country": "Germany",
+    "FacebookUsers_2025": 46600000,
+    "FacebookUsersPctFemale_2025": 51.7,
+    "FacebookUsersPctMale_2025": 48.3
+  },
+  "CO": {
+    "country": "Colombia",
+    "FacebookUsers_2025": 43602900,
+    "FacebookUsersPctFemale_2025": 51.6,
+    "FacebookUsersPctMale_2025": 48.4
+  },
+  "IT": {
+    "country": "Italy",
+    "FacebookUsers_2025": 43600000,
+    "FacebookUsersPctFemale_2025": 51.4,
+    "FacebookUsersPctMale_2025": 48.6
+  },
+  "AR": {
+    "country": "Argentina",
+    "FacebookUsers_2025": 41700000,
+    "FacebookUsersPctFemale_2025": 53.7,
+    "FacebookUsersPctMale_2025": 46.3
+  },
+  "ES": {
+    "country": "Spain",
+    "FacebookUsers_2025": 35900000,
+    "FacebookUsersPctFemale_2025": 53.2,
+    "FacebookUsersPctMale_2025": 46.8
+  },
+  "DZ": {
+    "country": "Algeria",
+    "FacebookUsers_2025": 32627000,
+    "FacebookUsersPctFemale_2025": 43.1,
+    "FacebookUsersPctMale_2025": 56.9
+  },
+  "CA": {
+    "country": "Canada",
+    "FacebookUsers_2025": 32000000,
+    "FacebookUsersPctFemale_2025": 52.8,
+    "FacebookUsersPctMale_2025": 47.2
+  },
+  "ZA": {
+    "country": "South Africa",
+    "FacebookUsers_2025": 31968600,
+    "FacebookUsersPctFemale_2025": 50.6,
+    "FacebookUsersPctMale_2025": 49.4
+  },
+  "MY": {
+    "country": "Malaysia",
+    "FacebookUsers_2025": 30997000,
+    "FacebookUsersPctFemale_2025": 48,
+    "FacebookUsersPctMale_2025": 52
+  },
+  "IQ": {
+    "country": "Iraq",
+    "FacebookUsers_2025": 30928401,
+    "FacebookUsersPctFemale_2025": 34.6,
+    "FacebookUsersPctMale_2025": 65.4
+  },
+  "SA": {
+    "country": "Saudi Arabia",
+    "FacebookUsers_2025": 29178900,
+    "FacebookUsersPctFemale_2025": 34,
+    "FacebookUsersPctMale_2025": 66
+  },
+  "PE": {
+    "country": "Peru",
+    "FacebookUsers_2025": 29045900,
+    "FacebookUsersPctFemale_2025": 48.5,
+    "FacebookUsersPctMale_2025": 51.5
+  },
+  "MA": {
+    "country": "Morocco",
+    "FacebookUsers_2025": 27500600,
+    "FacebookUsersPctFemale_2025": 42.2,
+    "FacebookUsersPctMale_2025": 57.8
+  },
+  "KR": {
+    "country": "South Korea",
+    "FacebookUsers_2025": 27148100,
+    "FacebookUsersPctFemale_2025": 53.2,
+    "FacebookUsersPctMale_2025": 46.8
+  },
+  "PL": {
+    "country": "Poland",
+    "FacebookUsers_2025": 24754600,
+    "FacebookUsersPctFemale_2025": 55.3,
+    "FacebookUsersPctMale_2025": 44.7
+  },
+  "AU": {
+    "country": "Australia",
+    "FacebookUsers_2025": 22700000,
+    "FacebookUsersPctFemale_2025": 52.4,
+    "FacebookUsersPctMale_2025": 47.6
+  },
+  "TW": {
+    "country": "Taiwan",
+    "FacebookUsers_2025": 22426100,
+    "FacebookUsersPctFemale_2025": 53,
+    "FacebookUsersPctMale_2025": 47
+  },
+  "UA": {
+    "country": "Ukraine",
+    "FacebookUsers_2025": 20613200,
+    "FacebookUsersPctFemale_2025": 58.7,
+    "FacebookUsersPctMale_2025": 41.3
+  },
+  "MM": {
+    "country": "Myanmar",
+    "FacebookUsers_2025": 20361700,
+    "FacebookUsersPctFemale_2025": 47.2,
+    "FacebookUsersPctMale_2025": 52.8
+  },
+  "VE": {
+    "country": "Venezuela",
+    "FacebookUsers_2025": 18910900,
+    "FacebookUsersPctFemale_2025": 54.3,
+    "FacebookUsersPctMale_2025": 45.7
+  },
+  "CL": {
+    "country": "Chile",
+    "FacebookUsers_2025": 18681700,
+    "FacebookUsersPctFemale_2025": 52.3,
+    "FacebookUsersPctMale_2025": 47.7
+  },
+  "KE": {
+    "country": "Kenya",
+    "FacebookUsers_2025": 17035400,
+    "FacebookUsersPctFemale_2025": 43.5,
+    "FacebookUsersPctMale_2025": 56.5
+  },
+  "NP": {
+    "country": "Nepal",
+    "FacebookUsers_2025": 16479500,
+    "FacebookUsersPctFemale_2025": 44.1,
+    "FacebookUsersPctMale_2025": 55.9
+  },
+  "EC": {
+    "country": "Ecuador",
+    "FacebookUsers_2025": 15323600,
+    "FacebookUsersPctFemale_2025": 50,
+    "FacebookUsersPctMale_2025": 50
+  },
+  "KH": {
+    "country": "Cambodia",
+    "FacebookUsers_2025": 13863800,
+    "FacebookUsersPctFemale_2025": 45.6,
+    "FacebookUsersPctMale_2025": 54.4
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "FacebookUsers_2025": 13858000,
+    "FacebookUsersPctFemale_2025": 31.3,
+    "FacebookUsersPctMale_2025": 68.7
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "FacebookUsers_2025": 13172100,
+    "FacebookUsersPctFemale_2025": 58.2,
+    "FacebookUsersPctMale_2025": 41.8
+  },
+  "NL": {
+    "country": "Netherlands",
+    "FacebookUsers_2025": 12874900,
+    "FacebookUsersPctFemale_2025": 54,
+    "FacebookUsersPctMale_2025": 46
+  },
+  "RO": {
+    "country": "Romania",
+    "FacebookUsers_2025": 12341100,
+    "FacebookUsersPctFemale_2025": 51.8,
+    "FacebookUsersPctMale_2025": 48.2
+  },
+  "GT": {
+    "country": "Guatemala",
+    "FacebookUsers_2025": 10484700,
+    "FacebookUsersPctFemale_2025": 50.3,
+    "FacebookUsersPctMale_2025": 49.7
+  },
+  "UZ": {
+    "country": "Uzbekistan",
+    "FacebookUsers_2025": 10096600,
+    "FacebookUsersPctFemale_2025": 37.4,
+    "FacebookUsersPctMale_2025": 62.6
+  },
+  "GH": {
+    "country": "Ghana",
+    "FacebookUsers_2025": 10088700,
+    "FacebookUsersPctFemale_2025": 42.2,
+    "FacebookUsersPctMale_2025": 57.8
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "FacebookUsers_2025": 9409300,
+    "FacebookUsersPctFemale_2025": 33.3,
+    "FacebookUsersPctMale_2025": 66.7
+  },
+  "LK": {
+    "country": "Sri Lanka",
+    "FacebookUsers_2025": 9405900,
+    "FacebookUsersPctFemale_2025": 40.6,
+    "FacebookUsersPctMale_2025": 59.4
+  },
+  "PT": {
+    "country": "Portugal",
+    "FacebookUsers_2025": 9092300,
+    "FacebookUsersPctFemale_2025": 52.7,
+    "FacebookUsersPctMale_2025": 47.3
+  },
+  "TN": {
+    "country": "Tunisia",
+    "FacebookUsers_2025": 8844100,
+    "FacebookUsersPctFemale_2025": 47.7,
+    "FacebookUsersPctMale_2025": 52.3
+  },
+  "CI": {
+    "country": "Ivory Coast",
+    "FacebookUsers_2025": 8763400,
+    "FacebookUsersPctFemale_2025": 38.2,
+    "FacebookUsersPctMale_2025": 61.8
+  },
+  "SE": {
+    "country": "Sweden",
+    "FacebookUsers_2025": 8746000,
+    "FacebookUsersPctFemale_2025": 53,
+    "FacebookUsersPctMale_2025": 47
+  },
+  "BO": {
+    "country": "Bolivia",
+    "FacebookUsers_2025": 8683400,
+    "FacebookUsersPctFemale_2025": 47.9,
+    "FacebookUsersPctMale_2025": 52.1
+  },
+  "BE": {
+    "country": "Belgium",
+    "FacebookUsers_2025": 8683400,
+    "FacebookUsersPctFemale_2025": 47.9,
+    "FacebookUsersPctMale_2025": 52.1
+  },
+  "TZ": {
+    "country": "Tanzania",
+    "FacebookUsers_2025": 8384700,
+    "FacebookUsersPctFemale_2025": 40.7,
+    "FacebookUsersPctMale_2025": 59.3
+  },
+  "CD": {
+    "country": "DR Congo",
+    "FacebookUsers_2025": 8067600,
+    "FacebookUsersPctFemale_2025": 37.2,
+    "FacebookUsersPctMale_2025": 62.8
+  },
+  "LY": {
+    "country": "Libya",
+    "FacebookUsers_2025": 7471100,
+    "FacebookUsersPctFemale_2025": 40,
+    "FacebookUsersPctMale_2025": 60
+  },
+  "GR": {
+    "country": "Greece",
+    "FacebookUsers_2025": 7299200,
+    "FacebookUsersPctFemale_2025": 50.5,
+    "FacebookUsersPctMale_2025": 49.5
+  },
+  "JO": {
+    "country": "Jordan",
+    "FacebookUsers_2025": 7247200,
+    "FacebookUsersPctFemale_2025": 46.3,
+    "FacebookUsersPctMale_2025": 53.7
+  },
+  "HU": {
+    "country": "Hungary",
+    "FacebookUsers_2025": 7109300,
+    "FacebookUsersPctFemale_2025": 53.4,
+    "FacebookUsersPctMale_2025": 46.6
+  },
+  "CZ": {
+    "country": "Czechia",
+    "FacebookUsers_2025": 7036100,
+    "FacebookUsersPctFemale_2025": 53.6,
+    "FacebookUsersPctMale_2025": 46.4
+  },
+  "IL": {
+    "country": "Israel",
+    "FacebookUsers_2025": 6921200,
+    "FacebookUsersPctFemale_2025": 51.7,
+    "FacebookUsersPctMale_2025": 48.3
+  },
+  "HK": {
+    "country": "Hong Kong",
+    "FacebookUsers_2025": 6404300,
+    "FacebookUsersPctFemale_2025": 57.6,
+    "FacebookUsersPctMale_2025": 42.4
+  },
+  "CM": {
+    "country": "Cameroon",
+    "FacebookUsers_2025": 6173900,
+    "FacebookUsersPctFemale_2025": 42,
+    "FacebookUsersPctMale_2025": 58
+  },
+  "AO": {
+    "country": "Angola",
+    "FacebookUsers_2025": 5818400,
+    "FacebookUsersPctFemale_2025": 41.5,
+    "FacebookUsersPctMale_2025": 58.5
+  },
+  "CH": {
+    "country": "Switzerland",
+    "FacebookUsers_2025": 5651200,
+    "FacebookUsersPctFemale_2025": 50.9,
+    "FacebookUsersPctMale_2025": 49.1
+  },
+  "CN": {
+    "country": "China",
+    "FacebookUsers_2025": 5612901,
+    "FacebookUsersPctFemale_2025": 47.8,
+    "FacebookUsersPctMale_2025": 52.1
+  },
+  "AT": {
+    "country": "Austria",
+    "FacebookUsers_2025": 5408100,
+    "FacebookUsersPctFemale_2025": 52.3,
+    "FacebookUsersPctMale_2025": 47.7
+  },
+  "HN": {
+    "country": "Honduras",
+    "FacebookUsers_2025": 5405700,
+    "FacebookUsersPctFemale_2025": 52.6,
+    "FacebookUsersPctMale_2025": 47.4
+  },
+  "YE": {
+    "country": "Yemen",
+    "FacebookUsers_2025": 5344700,
+    "FacebookUsersPctFemale_2025": 17.1,
+    "FacebookUsersPctMale_2025": 82.9
+  },
+  "SG": {
+    "country": "Singapore",
+    "FacebookUsers_2025": 5315100,
+    "FacebookUsersPctFemale_2025": 51.2,
+    "FacebookUsersPctMale_2025": 48.8
+  },
+  "AZ": {
+    "country": "Azerbaijan",
+    "FacebookUsers_2025": 5078400,
+    "FacebookUsersPctFemale_2025": 44.6,
+    "FacebookUsersPctMale_2025": 55.4
+  },
+  "AF": {
+    "country": "Afghanistan",
+    "FacebookUsers_2025": 5016700,
+    "FacebookUsersPctFemale_2025": 17,
+    "FacebookUsersPctMale_2025": 83
+  },
+  "SV": {
+    "country": "El Salvador",
+    "FacebookUsers_2025": 4853300,
+    "FacebookUsersPctFemale_2025": 52.6,
+    "FacebookUsersPctMale_2025": 47.4
+  },
+  "DK": {
+    "country": "Denmark",
+    "FacebookUsers_2025": 4852700,
+    "FacebookUsersPctFemale_2025": 53.6,
+    "FacebookUsersPctMale_2025": 46.4
+  },
+  "RS": {
+    "country": "Serbia",
+    "FacebookUsers_2025": 4825000,
+    "FacebookUsersPctFemale_2025": 51.5,
+    "FacebookUsersPctMale_2025": 48.5
+  },
+  "PY": {
+    "country": "Paraguay",
+    "FacebookUsers_2025": 4814400,
+    "FacebookUsersPctFemale_2025": 50.4,
+    "FacebookUsersPctMale_2025": 49.6
+  },
+  "SN": {
+    "country": "Senegal",
+    "FacebookUsers_2025": 4659200,
+    "FacebookUsersPctFemale_2025": 36,
+    "FacebookUsersPctMale_2025": 64
+  },
+  "LA": {
+    "country": "Laos",
+    "FacebookUsers_2025": 4636000,
+    "FacebookUsersPctFemale_2025": 46.6,
+    "FacebookUsersPctMale_2025": 53.4
+  },
+  "KW": {
+    "country": "Kuwait",
+    "FacebookUsers_2025": 4628000,
+    "FacebookUsersPctFemale_2025": 38.3,
+    "FacebookUsersPctMale_2025": 61.7
+  },
+  "NO": {
+    "country": "Norway",
+    "FacebookUsers_2025": 4598500,
+    "FacebookUsersPctFemale_2025": 52.8,
+    "FacebookUsersPctMale_2025": 47.2
+  },
+  "LB": {
+    "country": "Lebanon",
+    "FacebookUsers_2025": 4533000,
+    "FacebookUsersPctFemale_2025": 47.4,
+    "FacebookUsersPctMale_2025": 52.6
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "FacebookUsers_2025": 4465500,
+    "FacebookUsersPctFemale_2025": 53.2,
+    "FacebookUsersPctMale_2025": 46.8
+  },
+  "NI": {
+    "country": "Nicaragua",
+    "FacebookUsers_2025": 4449400,
+    "FacebookUsersPctFemale_2025": 50.3,
+    "FacebookUsersPctMale_2025": 49.7
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "FacebookUsers_2025": 4434900,
+    "FacebookUsersPctFemale_2025": 52.8,
+    "FacebookUsersPctMale_2025": 47.2
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "FacebookUsers_2025": 4412000,
+    "FacebookUsersPctFemale_2025": 51.3,
+    "FacebookUsersPctMale_2025": 48.7
+  },
+  "BY": {
+    "country": "Belarus",
+    "FacebookUsers_2025": 4258400,
+    "FacebookUsersPctFemale_2025": 64.3,
+    "FacebookUsersPctMale_2025": 35.7
+  },
+  "MG": {
+    "country": "Madagascar",
+    "FacebookUsers_2025": 4123900,
+    "FacebookUsersPctFemale_2025": 45.8,
+    "FacebookUsersPctMale_2025": 54.2
+  },
+  "ZM": {
+    "country": "Zambia",
+    "FacebookUsers_2025": 4111500,
+    "FacebookUsersPctFemale_2025": 45.1,
+    "FacebookUsersPctMale_2025": 54.9
+  },
+  "IE": {
+    "country": "Ireland",
+    "FacebookUsers_2025": 4063400,
+    "FacebookUsersPctFemale_2025": 55.1,
+    "FacebookUsersPctMale_2025": 44.9
+  },
+  "MZ": {
+    "country": "Mozambique",
+    "FacebookUsers_2025": 3913500,
+    "FacebookUsersPctFemale_2025": 42.2,
+    "FacebookUsersPctMale_2025": 57.8
+  },
+  "FI": {
+    "country": "Finland",
+    "FacebookUsers_2025": 3860100,
+    "FacebookUsersPctFemale_2025": 55.4,
+    "FacebookUsersPctMale_2025": 44.6
+  },
+  "OM": {
+    "country": "Oman",
+    "FacebookUsers_2025": 3770900,
+    "FacebookUsersPctFemale_2025": 33.4,
+    "FacebookUsersPctMale_2025": 66.6
+  },
+  "GE": {
+    "country": "Georgia",
+    "FacebookUsers_2025": 3709900,
+    "FacebookUsersPctFemale_2025": 53.7,
+    "FacebookUsersPctMale_2025": 46.3
+  },
+  "BF": {
+    "country": "Burkina Faso",
+    "FacebookUsers_2025": 3471900,
+    "FacebookUsersPctFemale_2025": 30.5,
+    "FacebookUsersPctMale_2025": 69.5
+  },
+  "SK": {
+    "country": "Slovakia",
+    "FacebookUsers_2025": 3468100,
+    "FacebookUsersPctFemale_2025": 53.1,
+    "FacebookUsersPctMale_2025": 46.9
+  },
+  "QA": {
+    "country": "Qatar",
+    "FacebookUsers_2025": 3462400,
+    "FacebookUsersPctFemale_2025": 30.2,
+    "FacebookUsersPctMale_2025": 69.8
+  },
+  "PA": {
+    "country": "Panama",
+    "FacebookUsers_2025": 3433100,
+    "FacebookUsersPctFemale_2025": 50.8,
+    "FacebookUsersPctMale_2025": 49.2
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "FacebookUsers_2025": 3302900,
+    "FacebookUsersPctFemale_2025": 54.4,
+    "FacebookUsersPctMale_2025": 45.6
+  },
+  "UY": {
+    "country": "Uruguay",
+    "FacebookUsers_2025": 3269900,
+    "FacebookUsersPctFemale_2025": 54.6,
+    "FacebookUsersPctMale_2025": 45.4
+  },
+  "HT": {
+    "country": "Haiti",
+    "FacebookUsers_2025": 3211500,
+    "FacebookUsersPctFemale_2025": 47.4,
+    "FacebookUsersPctMale_2025": 52.6
+  },
+  "UG": {
+    "country": "Uganda",
+    "FacebookUsers_2025": 3204300,
+    "FacebookUsersPctFemale_2025": 38.7,
+    "FacebookUsersPctMale_2025": 61.3
+  },
+  "GN": {
+    "country": "Guinea",
+    "FacebookUsers_2025": 3148200,
+    "FacebookUsersPctFemale_2025": 41.6,
+    "FacebookUsersPctMale_2025": 58.4
+  },
+  "MN": {
+    "country": "Mongolia",
+    "FacebookUsers_2025": 3012800,
+    "FacebookUsersPctFemale_2025": 53.2,
+    "FacebookUsersPctMale_2025": 46.8
+  },
+  "PS": {
+    "country": "Palestine",
+    "FacebookUsers_2025": 2984100,
+    "FacebookUsersPctFemale_2025": 48.9,
+    "FacebookUsersPctMale_2025": 51.1
+  },
+  "SO": {
+    "country": "Somalia",
+    "FacebookUsers_2025": 2978700,
+    "FacebookUsersPctFemale_2025": 43.8,
+    "FacebookUsersPctMale_2025": 56.2
+  },
+  "BJ": {
+    "country": "Benin",
+    "FacebookUsers_2025": 2886300,
+    "FacebookUsersPctFemale_2025": 38.1,
+    "FacebookUsersPctMale_2025": 61.9
+  },
+  "ML": {
+    "country": "Mali",
+    "FacebookUsers_2025": 2658000,
+    "FacebookUsersPctFemale_2025": 24.6,
+    "FacebookUsersPctMale_2025": 75.4
+  },
+  "PR": {
+    "country": "Puerto Rico",
+    "FacebookUsers_2025": 2582800,
+    "FacebookUsersPctFemale_2025": 54.7,
+    "FacebookUsersPctMale_2025": 45.3
+  },
+  "HR": {
+    "country": "Croatia",
+    "FacebookUsers_2025": 2574100,
+    "FacebookUsersPctFemale_2025": 51.9,
+    "FacebookUsersPctMale_2025": 48.1
+  },
+  "ZW": {
+    "country": "Zimbabwe",
+    "FacebookUsers_2025": 2458700,
+    "FacebookUsersPctFemale_2025": 44.8,
+    "FacebookUsersPctMale_2025": 55.2
+  },
+  "AM": {
+    "country": "Armenia",
+    "FacebookUsers_2025": 2272600,
+    "FacebookUsersPctFemale_2025": 53.6,
+    "FacebookUsersPctMale_2025": 46.4
+  },
+  "LT": {
+    "country": "Lithuania",
+    "FacebookUsers_2025": 2170600,
+    "FacebookUsersPctFemale_2025": 55.3,
+    "FacebookUsersPctMale_2025": 44.7
+  },
+  "BA": {
+    "country": "Bosnia and Herzegovina",
+    "FacebookUsers_2025": 2015800,
+    "FacebookUsersPctFemale_2025": 51,
+    "FacebookUsersPctMale_2025": 49
+  },
+  "MD": {
+    "country": "Moldova",
+    "FacebookUsers_2025": 1904200,
+    "FacebookUsersPctFemale_2025": 57.5,
+    "FacebookUsersPctMale_2025": 42.5
+  },
+  "AL": {
+    "country": "Albania",
+    "FacebookUsers_2025": 1866100,
+    "FacebookUsersPctFemale_2025": 44.6,
+    "FacebookUsersPctMale_2025": 55.4
+  },
+  "TJ": {
+    "country": "Tajikistan",
+    "FacebookUsers_2025": 1823600,
+    "FacebookUsersPctFemale_2025": 24.8,
+    "FacebookUsersPctMale_2025": 75.2
+  },
+  "JM": {
+    "country": "Jamaica",
+    "FacebookUsers_2025": 1715100,
+    "FacebookUsersPctFemale_2025": 54.2,
+    "FacebookUsersPctMale_2025": 45.8
+  },
+  "MW": {
+    "country": "Malawi",
+    "FacebookUsers_2025": 1668400,
+    "FacebookUsersPctFemale_2025": 36.9,
+    "FacebookUsersPctMale_2025": 63.1
+  },
+  "BH": {
+    "country": "Bahrain",
+    "FacebookUsers_2025": 1632600,
+    "FacebookUsersPctFemale_2025": 36.3,
+    "FacebookUsersPctMale_2025": 63.7
+  },
+  "RW": {
+    "country": "Rwanda",
+    "FacebookUsers_2025": 1512600,
+    "FacebookUsersPctFemale_2025": 38.1,
+    "FacebookUsersPctMale_2025": 61.9
+  },
+  "MR": {
+    "country": "Mauritania",
+    "FacebookUsers_2025": 1480900,
+    "FacebookUsersPctFemale_2025": 36.1,
+    "FacebookUsersPctMale_2025": 63.9
+  },
+  "BW": {
+    "country": "Botswana",
+    "FacebookUsers_2025": 1416100,
+    "FacebookUsersPctFemale_2025": 50.3,
+    "FacebookUsersPctMale_2025": 49.7
+  },
+  "PG": {
+    "country": "Papua New Guinea",
+    "FacebookUsers_2025": 1409400,
+    "FacebookUsersPctFemale_2025": 37.6,
+    "FacebookUsersPctMale_2025": 62.4
+  },
+  "MK": {
+    "country": "North Macedonia",
+    "FacebookUsers_2025": 1369900,
+    "FacebookUsersPctFemale_2025": 47.7,
+    "FacebookUsersPctMale_2025": 52.3
+  },
+  "SI": {
+    "country": "Slovenia",
+    "FacebookUsers_2025": 1336300,
+    "FacebookUsersPctFemale_2025": 51.2,
+    "FacebookUsersPctMale_2025": 48.8
+  },
+  "SL": {
+    "country": "Sierra Leone",
+    "FacebookUsers_2025": 1294500,
+    "FacebookUsersPctFemale_2025": 43.6,
+    "FacebookUsersPctMale_2025": 56.4
+  },
+  "CY": {
+    "country": "Cyprus",
+    "FacebookUsers_2025": 1282100,
+    "FacebookUsersPctFemale_2025": 48.7,
+    "FacebookUsersPctMale_2025": 51.3
+  },
+  "LV": {
+    "country": "Latvia",
+    "FacebookUsers_2025": 1254100,
+    "FacebookUsersPctFemale_2025": 57.4,
+    "FacebookUsersPctMale_2025": 42.6
+  },
+  "CG": {
+    "country": "Republic of the Congo",
+    "FacebookUsers_2025": 1234700,
+    "FacebookUsersPctFemale_2025": 42,
+    "FacebookUsersPctMale_2025": 58
+  },
+  "TG": {
+    "country": "Togo",
+    "FacebookUsers_2025": 1173300,
+    "FacebookUsersPctFemale_2025": 31.2,
+    "FacebookUsersPctMale_2025": 68.8
+  },
+  "BI": {
+    "country": "Burundi",
+    "FacebookUsers_2025": 1158200,
+    "FacebookUsersPctFemale_2025": 36.4,
+    "FacebookUsersPctMale_2025": 63.6
+  },
+  "TT": {
+    "country": "Trinidad and Tobago",
+    "FacebookUsers_2025": 1143100,
+    "FacebookUsersPctFemale_2025": 52.9,
+    "FacebookUsersPctMale_2025": 47.1
+  },
+  "MU": {
+    "country": "Mauritius",
+    "FacebookUsers_2025": 1051700,
+    "FacebookUsersPctFemale_2025": 48.7,
+    "FacebookUsersPctMale_2025": 51.3
+  },
+  "TD": {
+    "country": "Chad",
+    "FacebookUsers_2025": 1022200,
+    "FacebookUsersPctFemale_2025": 22.8,
+    "FacebookUsersPctMale_2025": 77.2
+  },
+  "LR": {
+    "country": "Liberia",
+    "FacebookUsers_2025": 1003000,
+    "FacebookUsersPctFemale_2025": 45.5,
+    "FacebookUsersPctMale_2025": 54.5
+  },
+  "NA": {
+    "country": "Namibia",
+    "FacebookUsers_2025": 954900,
+    "FacebookUsersPctFemale_2025": 51.3,
+    "FacebookUsersPctMale_2025": 48.7
+  },
+  "EE": {
+    "country": "Estonia",
+    "FacebookUsers_2025": 949100,
+    "FacebookUsersPctFemale_2025": 56.3,
+    "FacebookUsersPctMale_2025": 43.7
+  },
+  "GA": {
+    "country": "Gabon",
+    "FacebookUsers_2025": 906700,
+    "FacebookUsersPctFemale_2025": 43.7,
+    "FacebookUsersPctMale_2025": 56.3
+  },
+  "SS": {
+    "country": "South Sudan",
+    "FacebookUsers_2025": 892200,
+    "FacebookUsersPctFemale_2025": 28.2,
+    "FacebookUsersPctMale_2025": 71.8
+  },
+  "NE": {
+    "country": "Niger",
+    "FacebookUsers_2025": 790900,
+    "FacebookUsersPctFemale_2025": 20.3,
+    "FacebookUsersPctMale_2025": 79.7
+  },
+  "LS": {
+    "country": "Lesotho",
+    "FacebookUsers_2025": 721000,
+    "FacebookUsersPctFemale_2025": 52.6,
+    "FacebookUsersPctMale_2025": 47.4
+  },
+  "FJ": {
+    "country": "Fiji",
+    "FacebookUsers_2025": 664500,
+    "FacebookUsersPctFemale_2025": 49.2,
+    "FacebookUsersPctMale_2025": 50.8
+  },
+  "RE": {
+    "country": "Reunion",
+    "FacebookUsers_2025": 650900,
+    "FacebookUsersPctFemale_2025": 52.1,
+    "FacebookUsersPctMale_2025": 47.9
+  },
+  "GY": {
+    "country": "Guyana",
+    "FacebookUsers_2025": 617600,
+    "FacebookUsersPctFemale_2025": 51.7,
+    "FacebookUsersPctMale_2025": 48.3
+  },
+  "GM": {
+    "country": "Gambia",
+    "FacebookUsers_2025": 604800,
+    "FacebookUsersPctFemale_2025": 33.6,
+    "FacebookUsersPctMale_2025": 66.4
+  },
+  "ME": {
+    "country": "Montenegro",
+    "FacebookUsers_2025": 552900,
+    "FacebookUsersPctFemale_2025": 50.6,
+    "FacebookUsersPctMale_2025": 49.4
+  },
+  "BT": {
+    "country": "Bhutan",
+    "FacebookUsers_2025": 536800,
+    "FacebookUsersPctFemale_2025": 47.8,
+    "FacebookUsersPctMale_2025": 52.2
+  },
+  "MV": {
+    "country": "Maldives",
+    "FacebookUsers_2025": 500300,
+    "FacebookUsersPctFemale_2025": 38,
+    "FacebookUsersPctMale_2025": 62
+  },
+  "BN": {
+    "country": "Brunei",
+    "FacebookUsers_2025": 495200,
+    "FacebookUsersPctFemale_2025": 47.7,
+    "FacebookUsersPctMale_2025": 52.3
+  },
+  "SZ": {
+    "country": "Eswatini",
+    "FacebookUsers_2025": 495100,
+    "FacebookUsersPctFemale_2025": 49.1,
+    "FacebookUsersPctMale_2025": 50.9
+  },
+  "MT": {
+    "country": "Malta",
+    "FacebookUsers_2025": 482700,
+    "FacebookUsersPctFemale_2025": 46.7,
+    "FacebookUsersPctMale_2025": 53.3
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "FacebookUsers_2025": 468000,
+    "FacebookUsersPctFemale_2025": 50.4,
+    "FacebookUsersPctMale_2025": 49.6
+  },
+  "MO": {
+    "country": "Macau",
+    "FacebookUsers_2025": 456000,
+    "FacebookUsersPctFemale_2025": 55.2,
+    "FacebookUsersPctMale_2025": 44.8
+  },
+  "SR": {
+    "country": "Suriname",
+    "FacebookUsers_2025": 418200,
+    "FacebookUsersPctFemale_2025": 49.1,
+    "FacebookUsersPctMale_2025": 50.9
+  },
+  "IS": {
+    "country": "Iceland",
+    "FacebookUsers_2025": 331400,
+    "FacebookUsersPctFemale_2025": 51.4,
+    "FacebookUsersPctMale_2025": 48.6
+  },
+  "CV": {
+    "country": "Cape Verde",
+    "FacebookUsers_2025": 321000,
+    "FacebookUsersPctFemale_2025": 49.6,
+    "FacebookUsersPctMale_2025": 50.4
+  },
+  "BZ": {
+    "country": "Belize",
+    "FacebookUsers_2025": 298400,
+    "FacebookUsersPctFemale_2025": 51.5,
+    "FacebookUsersPctMale_2025": 48.5
+  },
+  "KM": {
+    "country": "Comoros",
+    "FacebookUsers_2025": 283000,
+    "FacebookUsersPctFemale_2025": 41.7,
+    "FacebookUsersPctMale_2025": 58.3
+  },
+  "GP": {
+    "country": "Guadeloupe",
+    "FacebookUsers_2025": 266800,
+    "FacebookUsersPctFemale_2025": 54.8,
+    "FacebookUsersPctMale_2025": 45.2
+  },
+  "BB": {
+    "country": "Barbados",
+    "FacebookUsers_2025": 255700,
+    "FacebookUsersPctFemale_2025": 54.5,
+    "FacebookUsersPctMale_2025": 45.5
+  },
+  "MQ": {
+    "country": "Martinique",
+    "FacebookUsers_2025": 245900,
+    "FacebookUsersPctFemale_2025": 54.7,
+    "FacebookUsersPctMale_2025": 45.3
+  },
+  "TM": {
+    "country": "Turkmenistan",
+    "FacebookUsers_2025": 238200,
+    "FacebookUsersPctFemale_2025": 55.4,
+    "FacebookUsersPctMale_2025": 44.6
+  },
+  "PF": {
+    "country": "French Polynesia",
+    "FacebookUsers_2025": 214800,
+    "FacebookUsersPctFemale_2025": 53.1,
+    "FacebookUsersPctMale_2025": 46.9
+  },
+  "NC": {
+    "country": "New Caledonia",
+    "FacebookUsers_2025": 201700,
+    "FacebookUsersPctFemale_2025": 52.8,
+    "FacebookUsersPctMale_2025": 47.2
+  },
+  "GQ": {
+    "country": "Equatorial Guinea",
+    "FacebookUsers_2025": 193400,
+    "FacebookUsersPctFemale_2025": 39.7,
+    "FacebookUsersPctMale_2025": 60.3
+  },
+  "SB": {
+    "country": "Solomon Islands",
+    "FacebookUsers_2025": 192900,
+    "FacebookUsersPctFemale_2025": 46.1,
+    "FacebookUsersPctMale_2025": 53.9
+  },
+  "CF": {
+    "country": "Central African Republic",
+    "FacebookUsers_2025": 187400,
+    "FacebookUsersPctFemale_2025": 34,
+    "FacebookUsersPctMale_2025": 66
+  },
+  "GU": {
+    "country": "Guam",
+    "FacebookUsers_2025": 166800,
+    "FacebookUsersPctFemale_2025": 50.5,
+    "FacebookUsersPctMale_2025": 49.5
+  },
+  "GF": {
+    "country": "French Guiana",
+    "FacebookUsers_2025": 141700,
+    "FacebookUsersPctFemale_2025": 52.5,
+    "FacebookUsersPctMale_2025": 47.5
+  },
+  "VU": {
+    "country": "Vanuatu",
+    "FacebookUsers_2025": 137400,
+    "FacebookUsersPctFemale_2025": 50,
+    "FacebookUsersPctMale_2025": 50
+  },
+  "WS": {
+    "country": "Samoa",
+    "FacebookUsers_2025": 135000,
+    "FacebookUsersPctFemale_2025": 52.7,
+    "FacebookUsersPctMale_2025": 47.3
+  },
+  "CW": {
+    "country": "Curacao",
+    "FacebookUsers_2025": 131900,
+    "FacebookUsersPctFemale_2025": 55.1,
+    "FacebookUsersPctMale_2025": 44.9
+  },
+  "BS": {
+    "country": "Bahamas",
+    "FacebookUsers_2025": 127700,
+    "FacebookUsersPctFemale_2025": 56.4,
+    "FacebookUsersPctMale_2025": 43.6
+  },
+  "LC": {
+    "country": "Saint Lucia",
+    "FacebookUsers_2025": 124100,
+    "FacebookUsersPctFemale_2025": 53.3,
+    "FacebookUsersPctMale_2025": 46.7
+  },
+  "DJ": {
+    "country": "Djibouti",
+    "FacebookUsers_2025": 108900,
+    "FacebookUsersPctFemale_2025": 38.6,
+    "FacebookUsersPctMale_2025": 61.4
+  },
+  "AW": {
+    "country": "Aruba",
+    "FacebookUsers_2025": 108500,
+    "FacebookUsersPctFemale_2025": 53.2,
+    "FacebookUsersPctMale_2025": 46.8
+  },
+  "YT": {
+    "country": "Mayotte",
+    "FacebookUsers_2025": 100200,
+    "FacebookUsersPctFemale_2025": 49.9,
+    "FacebookUsersPctMale_2025": 50.1
+  },
+  "GD": {
+    "country": "Grenada",
+    "FacebookUsers_2025": 92300,
+    "FacebookUsersPctFemale_2025": 51.7,
+    "FacebookUsersPctMale_2025": 48.3
+  },
+  "SC": {
+    "country": "Seychelles",
+    "FacebookUsers_2025": 88500,
+    "FacebookUsersPctFemale_2025": 46.1,
+    "FacebookUsersPctMale_2025": 53.9
+  },
+  "VC": {
+    "country": "Saint Vincent and the Grenadines",
+    "FacebookUsers_2025": 88000,
+    "FacebookUsersPctFemale_2025": 52.6,
+    "FacebookUsersPctMale_2025": 47.4
+  },
+  "AG": {
+    "country": "Antigua and Barbuda",
+    "FacebookUsers_2025": 78400,
+    "FacebookUsersPctFemale_2025": 53.3,
+    "FacebookUsersPctMale_2025": 46.7
+  },
+  "KY": {
+    "country": "Cayman Islands",
+    "FacebookUsers_2025": 78200,
+    "FacebookUsersPctFemale_2025": 51,
+    "FacebookUsersPctMale_2025": 49
+  },
+  "JE": {
+    "country": "Jersey",
+    "FacebookUsers_2025": 76700,
+    "FacebookUsersPctFemale_2025": 53.6,
+    "FacebookUsersPctMale_2025": 46.4
+  },
+  "TO": {
+    "country": "Tonga",
+    "FacebookUsers_2025": 75000,
+    "FacebookUsersPctFemale_2025": 53.5,
+    "FacebookUsersPctMale_2025": 46.5
+  },
+  "ST": {
+    "country": "Sao Tome and Principe",
+    "FacebookUsers_2025": 74200,
+    "FacebookUsersPctFemale_2025": 47.8,
+    "FacebookUsersPctMale_2025": 52.2
+  },
+  "AD": {
+    "country": "Andorra",
+    "FacebookUsers_2025": 65200,
+    "FacebookUsersPctFemale_2025": 51.5,
+    "FacebookUsersPctMale_2025": 48.5
+  },
+  "IM": {
+    "country": "Isle of Man",
+    "FacebookUsers_2025": 63800,
+    "FacebookUsersPctFemale_2025": 52.5,
+    "FacebookUsersPctMale_2025": 47.5
+  },
+  "KI": {
+    "country": "Kiribati",
+    "FacebookUsers_2025": 57900,
+    "FacebookUsersPctFemale_2025": 50.3,
+    "FacebookUsersPctMale_2025": 49.7
+  },
+  "BM": {
+    "country": "Bermuda",
+    "FacebookUsers_2025": 51600,
+    "FacebookUsersPctFemale_2025": 54.1,
+    "FacebookUsersPctMale_2025": 45.9
+  },
+  "VI": {
+    "country": "United States Virgin Islands",
+    "FacebookUsers_2025": 50900,
+    "FacebookUsersPctFemale_2025": 57,
+    "FacebookUsersPctMale_2025": 43
+  },
+  "GG": {
+    "country": "Guernsey",
+    "FacebookUsers_2025": 46800,
+    "FacebookUsersPctFemale_2025": 52.8,
+    "FacebookUsersPctMale_2025": 47.2
+  },
+  "KN": {
+    "country": "Saint Kitts and Nevis",
+    "FacebookUsers_2025": 46700,
+    "FacebookUsersPctFemale_2025": 54.2,
+    "FacebookUsersPctMale_2025": 45.8
+  },
+  "DO": {
+    "country": "Dominican Republic",
+    "FacebookUsers_2025": 46600,
+    "FacebookUsersPctFemale_2025": 51.7,
+    "FacebookUsersPctMale_2025": 48.3
+  },
+  "DM": {
+    "country": "Dominica",
+    "FacebookUsers_2025": 46600,
+    "FacebookUsersPctFemale_2025": 51.7,
+    "FacebookUsersPctMale_2025": 48.3
+  },
+  "FM": {
+    "country": "Micronesia",
+    "FacebookUsers_2025": 46400,
+    "FacebookUsersPctFemale_2025": 53.7,
+    "FacebookUsersPctMale_2025": 46.3
+  },
+  "GL": {
+    "country": "Greenland",
+    "FacebookUsers_2025": 46300,
+    "FacebookUsersPctFemale_2025": 47.9,
+    "FacebookUsersPctMale_2025": 52.1
+  },
+  "FO": {
+    "country": "Faroe Islands",
+    "FacebookUsers_2025": 44800,
+    "FacebookUsersPctFemale_2025": 50.7,
+    "FacebookUsersPctMale_2025": 49.3
+  },
+  "TC": {
+    "country": "Turks and Caicos Islands",
+    "FacebookUsers_2025": 42600,
+    "FacebookUsersPctFemale_2025": 44.8,
+    "FacebookUsersPctMale_2025": 55.2
+  },
+  "SX": {
+    "country": "Sint Maarten",
+    "FacebookUsers_2025": 39000,
+    "FacebookUsersPctFemale_2025": 52.6,
+    "FacebookUsersPctMale_2025": 47.4
+  },
+  "MP": {
+    "country": "Northern Mariana Islands",
+    "FacebookUsers_2025": 34200,
+    "FacebookUsersPctFemale_2025": 57.3,
+    "FacebookUsersPctMale_2025": 42.7
+  },
+  "AS": {
+    "country": "American Samoa",
+    "FacebookUsers_2025": 32500,
+    "FacebookUsersPctFemale_2025": 52.9,
+    "FacebookUsersPctMale_2025": 47.1
+  },
+  "GI": {
+    "country": "Gibraltar",
+    "FacebookUsers_2025": 29000,
+    "FacebookUsersPctFemale_2025": 51.7,
+    "FacebookUsersPctMale_2025": 48.3
+  },
+  "VG": {
+    "country": "British Virgin Islands",
+    "FacebookUsers_2025": 26500,
+    "FacebookUsersPctFemale_2025": 51.3,
+    "FacebookUsersPctMale_2025": 48.7
+  },
+  "MH": {
+    "country": "Marshall Islands",
+    "FacebookUsers_2025": 24100,
+    "FacebookUsersPctFemale_2025": 51,
+    "FacebookUsersPctMale_2025": 49
+  },
+  "MC": {
+    "country": "Monaco",
+    "FacebookUsers_2025": 17200,
+    "FacebookUsersPctFemale_2025": 54.7,
+    "FacebookUsersPctMale_2025": 45.3
+  },
+  "MF": {
+    "country": "Saint Martin",
+    "FacebookUsers_2025": 17100,
+    "FacebookUsersPctFemale_2025": 53.2,
+    "FacebookUsersPctMale_2025": 46.8
+  },
+  "ER": {
+    "country": "Eritrea",
+    "FacebookUsers_2025": 16001,
+    "FacebookUsersPctFemale_2025": 35.6,
+    "FacebookUsersPctMale_2025": 51.2
+  },
+  "PW": {
+    "country": "Palau",
+    "FacebookUsers_2025": 14900,
+    "FacebookUsersPctFemale_2025": 45,
+    "FacebookUsersPctMale_2025": 55
+  },
+  "LI": {
+    "country": "Liechtenstein",
+    "FacebookUsers_2025": 13000,
+    "FacebookUsersPctFemale_2025": 54.6,
+    "FacebookUsersPctMale_2025": 45.4
+  },
+  "BL": {
+    "country": "Saint Barthelemy",
+    "FacebookUsers_2025": 11900,
+    "FacebookUsersPctFemale_2025": 47.1,
+    "FacebookUsersPctMale_2025": 52.9
+  },
+  "SM": {
+    "country": "San Marino",
+    "FacebookUsers_2025": 10700,
+    "FacebookUsersPctFemale_2025": 53.3,
+    "FacebookUsersPctMale_2025": 46.7
+  },
+  "NR": {
+    "country": "Nauru",
+    "FacebookUsers_2025": 7800,
+    "FacebookUsersPctFemale_2025": 50,
+    "FacebookUsersPctMale_2025": 50
+  },
+  "CK": {
+    "country": "Cook Islands",
+    "FacebookUsers_2025": 7600,
+    "FacebookUsersPctFemale_2025": 52.6,
+    "FacebookUsersPctMale_2025": 47.4
+  },
+  "AI": {
+    "country": "Anguilla",
+    "FacebookUsers_2025": 6600,
+    "FacebookUsersPctFemale_2025": 53,
+    "FacebookUsersPctMale_2025": 47
+  },
+  "WF": {
+    "country": "Wallis and Futuna",
+    "FacebookUsers_2025": 5600,
+    "FacebookUsersPctFemale_2025": null,
+    "FacebookUsersPctMale_2025": null
+  },
+  "TV": {
+    "country": "Tuvalu",
+    "FacebookUsers_2025": 5600,
+    "FacebookUsersPctFemale_2025": null,
+    "FacebookUsersPctMale_2025": null
+  },
+  "PM": {
+    "country": "Saint Pierre and Miquelon",
+    "FacebookUsers_2025": 4800,
+    "FacebookUsersPctFemale_2025": null,
+    "FacebookUsersPctMale_2025": null
+  },
+  "MS": {
+    "country": "Montserrat",
+    "FacebookUsers_2025": 2800,
+    "FacebookUsersPctFemale_2025": null,
+    "FacebookUsersPctMale_2025": null
+  },
+  "null": {
+    "country": "Total",
+    "FacebookUsers_2025": 3278527504,
+    "FacebookUsersPctFemale_2025": null,
+    "FacebookUsersPctMale_2025": null
+  }
+}
