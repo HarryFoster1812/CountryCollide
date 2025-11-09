@@ -264,141 +264,54 @@ export async function loadCountries(): Promise<any[]> {
   }));
 }
 
-// ---------------------------------------
-// Name normalization + finder
-// ---------------------------------------
-export function normalize(s: string) {
-  return (s || "")
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .replace(/[^a-z0-9\s]/g, "")
-    .trim();
+let isoToNumPromise: Promise<Record<string, number>> | null = null;
+
+/**
+ * Loads /iso_to_num.json from your public folder.
+ * The file should look like: { "US": 840, "GB": 826, ... }
+ * Keys are normalized to UPPERCASE; values coerced to number.
+ */
+export async function loadIsoToNum(): Promise<Record<string, number>> {
+  if (!isoToNumPromise) {
+    isoToNumPromise = (async () => {
+      const res = await fetch("iso_to_num.json");
+      if (!res.ok) return {};
+      const json = await res.json();
+      const out: Record<string, number> = {};
+      for (const [k, v] of Object.entries(json || {})) {
+        const key = String(k).trim().toUpperCase();
+        const num = typeof v === "string" ? Number(v) : (v as number);
+        if (key && Number.isFinite(num)) out[key] = num;
+      }
+      return out;
+    })();
+  }
+  return isoToNumPromise;
 }
 
-export function stripDiacritics(s: string) {
-  return s.normalize("NFKD").replace(/[\u0300-\u036f]/g, "");
-}
-
-export function normalizeLoose(s: string) {
-  return stripDiacritics(s)
-    .toLowerCase()
-    .replace(/['’`.,()-]/g, " ")
-    .replace(/&/g, " and ")
-    .replace(
-      /\b(the|and|of|state|states|republic|democratic|people|plurinational|federal|federated|arab|bolivarian|united|socialist|kingdom)\b/g,
-      " "
-    )
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-export function normalizeTight(s: string) {
-  return stripDiacritics(s)
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "")
-    .trim();
-}
-
-export function tokenOverlap(a: string, b: string) {
-  const A = new Set(a.split(" ").filter(Boolean));
-  const B = new Set(b.split(" ").filter(Boolean));
-  const inter = [...A].filter(x => B.has(x)).length;
-  return inter / Math.max(1, Math.min(A.size, B.size));
-}
-
-export function makeCountryFinder(features: any[]) {
-  const byKey = new Map<string, any>();
-
+/* =========================
+ * ISO-based finder
+ * =======================*/
+/**
+ * Build a finder that accepts an ISO A-2 code and returns the matching feature.
+ * 1) Map ISO2 → Natural Earth numeric id via isoToNum
+ * 2) Lookup feature where feature.id === numeric id
+ */
+export function makeCountryFinderISO(features: any[], isoToNum: Record<string, number>) {
+  const byId = new Map<number, any>();
   for (const f of features) {
-    const name = f?.properties?.name as string;
-    if (!name) continue;
-    const keys = new Set<string>([
-      normalizeLoose(name),
-      normalizeTight(name),
-      normalizeLoose(name.replace(/\./g, "")), // e.g., "Dem Rep Congo"
-    ]);
-    for (const k of keys) byKey.set(k, f);
+    const idNum = Number((f?.id ?? f?.properties?.id));
+    if (Number.isFinite(idNum)) byId.set(idNum, f);
   }
 
-  // IMPORTANT: aliases map to **dataset names** (Natural Earth short names)
-  const aliasToDatasetName: Record<string, string> = {
-    usa: "United States of America",
-    us: "United States of America",
-    "united states": "United States of America",
-    uk: "United Kingdom",
-    uae: "United Arab Emirates",
-    ivorycoast: "Côte d'Ivoire",
-    "cote divoire": "Côte d'Ivoire",
-    czech: "Czechia",
-    russia: "Russia",
-    "russian federation": "Russia",
-    southkorea: "Korea, Republic of",
-    northkorea: "Korea, Democratic People's Republic of",
-    laos: "Lao People's Democratic Republic",
-    vietnam: "Viet Nam",
-    brunei: "Brunei Darussalam",
-    tanzania: "Tanzania",
-    syria: "Syrian Arab Republic",
-    iran: "Iran (Islamic Republic of)",
-    bolivia: "Bolivia",
-    venezuela: "Venezuela",
-    moldova: "Moldova",
-    drc: "Dem. Rep. Congo",
-    "democratic republic of the congo": "Dem. Rep. Congo",
-    "republic of the congo": "Congo",
-    "cape verde": "Cabo Verde",
-    "east timor": "Timor-Leste",
-    burma: "Myanmar",
-    swaziland: "Eswatini",
-    palestine: "Palestine",
-    vatican: "Holy See",
-    micronesia: "Micronesia",
-    "czech republic": "Czechia",
-    eswatini: "Eswatini",
-    "türkiye": "Turkey", // Natural Earth still "Turkey" in this file
-    "cote d'ivoire": "Côte d'Ivoire",
-    "cote d ivoire": "Côte d'Ivoire",
-    "dominican republic": "Dominican Rep.",
-    "equatorial guinea": "Eq. Guinea",
-    "solomon islands": "Solomon Is.",
-    "marshall islands": "Marshall Is.",
-    "falkland islands": "Falkland Is.",
-  };
+  return (iso2: string) => {
+    if (!iso2) return null;
+    const key = iso2.trim().toUpperCase();
+    if (!/^[A-Z]{2}$/.test(key)) return null;
 
-  return (name: string) => {
-    if (!name) return null;
+    const num = isoToNum[key];
+    if (!Number.isFinite(num)) return null;
 
-    const nTight = normalizeTight(name);
-    const nLoose = normalizeLoose(name);
-
-    const aliasHit =
-      aliasToDatasetName[nTight] ||
-      aliasToDatasetName[nLoose] ||
-      aliasToDatasetName[name.toLowerCase().trim()];
-
-    const target = aliasHit || name;
-
-    // exact / near-exact
-    const exact =
-      byKey.get(normalizeLoose(target)) ||
-      byKey.get(normalizeTight(target)) ||
-      byKey.get(normalizeLoose(target.replace(/\./g, "")));
-    if (exact) return exact;
-
-    // contains / reverse-contains
-    for (const [k, f] of byKey) {
-      if (k.includes(nLoose) || nLoose.includes(k)) return f;
-    }
-
-    // token-overlap fallback
-    let best: { f: any; score: number } | null = null;
-    for (const [k, f] of byKey) {
-      const score = tokenOverlap(k, nLoose);
-      if (!best || score > best.score) best = { f, score };
-    }
-    if (best && best.score >= 0.6) return best.f;
-
-    return null;
+    return byId.get(num) || null;
   };
 }
