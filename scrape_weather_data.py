@@ -40,6 +40,7 @@ for name in CountryInfo().all():
 
         lat, lon = info["latlng"]
         location = Point(lat, lon)
+        iso = info["ISO"]["alpha2"]
 
         # --- Try Meteostat first ---
         data = Monthly(location, start, end).fetch()
@@ -77,6 +78,7 @@ for name in CountryInfo().all():
 
                     all_data.append({
                         "country": name,
+                        "iso": iso,
                         "latitude": lat,
                         "longitude": lon,
                         "source": "Open-Meteo",
@@ -106,6 +108,7 @@ for name in CountryInfo().all():
 
         all_data.append({
             "country": name,
+            "iso": iso,
             "latitude": lat,
             "longitude": lon,
             "source": "Meteostat",

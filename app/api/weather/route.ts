@@ -10,6 +10,7 @@ type MonthlyAverage = {
 
 type CountryClimate = {
   country: string;
+  iso: string;
   latitude: number | null;
   longitude: number | null;
   monthly_averages: MonthlyAverage[];
@@ -18,28 +19,28 @@ type CountryClimate = {
 
 const climateIndex = new Map<string, CountryClimate>();
 (climateData as CountryClimate[]).forEach((entry) => {
-  if (entry?.country) {
-    climateIndex.set(entry.country.toLowerCase(), entry);
+  if (entry?.iso) {
+    climateIndex.set(entry.iso, entry);
   }
 });
 
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
-    const country = searchParams.get("country");
+    const iso = searchParams.get("iso");
 
-    if (!country) {
+    if (!iso) {
       return NextResponse.json(
-        { error: "Missing required query parameter: country" },
+        { error: "Missing required query parameter: iso" },
         { status: 400 }
       );
     }
 
-    const lookup = climateIndex.get(country.toLowerCase());
+    const lookup = climateIndex.get(iso);
 
     if (!lookup || !Array.isArray(lookup.monthly_averages)) {
       return NextResponse.json(
-        { error: `No climate data found for '${country}'` },
+        { error: `No climate data found for '${iso}'` },
         { status: 404 }
       );
     }
@@ -47,6 +48,7 @@ export async function GET(request: Request) {
     return NextResponse.json(
       {
         country: lookup.country,
+        iso: lookup.iso,
         latitude: lookup.latitude,
         longitude: lookup.longitude,
         source: lookup.source ?? "compiled",
