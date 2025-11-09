@@ -816,30 +816,6 @@ const handleHealthReport = async (countryName: string) => {
                     </div>
                 ))}
 
-                {renderInfoBox("Top Songs", (
-                    <ol style={{ paddingLeft: 0, margin: 0 }}>
-                        {data.topSongs?.songs?.slice(0, 5).map((song, i) => {
-                            const [artist, ...titleParts] = song.rank.split(" - ");
-                            const title = titleParts.join(" - ");
-                            const isTop1 = i === 0;
-                            return (
-                                <li
-                                    key={i}
-                                    style={{
-                                        marginBottom: 8,
-                                        fontSize: isTop1 ? 16 : 12,
-                                        fontWeight: isTop1 ? "bold" : "bold",
-                                        color: isTop1 ? "#fffa72" : "#eaeefb",
-                                    }}
-                                >
-                                    <span style={{ marginRight: 8 }}>{i + 1}.</span>
-                                    <span style={{ fontStyle: "italic" }}>{title}</span>
-                                    {artist ? ` by ${artist}` : ""}
-                                </li>
-                            );
-                        }) || <li>Data Not Found</li>}
-                    </ol>
-                ))}
 
 <div style={{ marginTop: "auto", width: "100%" }}>
   <div style={{ display: "flex", flexDirection: "column", gap: 12, alignItems: "center", paddingBottom: 12 }}>
