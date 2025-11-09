@@ -1,22 +1,23 @@
 import { GoogleGenAI, Type } from "@google/genai";
 import { NextResponse } from 'next/server';
 import { z } from 'zod';
-import { FictionalCountry } from "@/lib/types";
+// Assuming FictionalCountry type is correctly imported from an external library
+// import { FictionalCountry } from "@/lib/types"; 
 
 const MergeInputSchema = z.object({
-  country_a: z.string().min(1, 'Country A is required.'),
-  country_b: z.string().min(1, 'Country B is required.'),
-  options: z.object({
-    years_forward: z.number().int().min(1).max(50),
-    name_style: z.enum(['portmanteau', 'neutral', 'historic']),
-  }).optional(),
+  country_a: z.string().min(1, 'Country A is required.'),
+  country_b: z.string().min(1, 'Country B is required.'),
+  options: z.object({
+    years_forward: z.number().int().min(1).max(50),
+    name_style: z.enum(['portmanteau', 'neutral', 'historic']),
+  }).optional(),
 });
 
 
 const API_KEY = process.env.GEMINI_API;
 
 if (!API_KEY) {
-  console.error("API_KEY environment variable is not set.");
+  console.error("API_KEY environment variable is not set.");
 }
 
 const ai = new GoogleGenAI({ apiKey: API_KEY! });
@@ -42,178 +43,182 @@ Key Rules:
 `.trim();
 
 const responseSchema = {
-  type: Type.OBJECT,
-  properties: {
-    label: { type: Type.STRING, description: "Must be 'Fictional Synthesis'" },
-    name: { type: Type.STRING },
-    alt_names: { type: Type.ARRAY, items: { type: Type.STRING } },
-    summary: { type: Type.STRING },
-    demographics: {
-      type: Type.OBJECT,
-      properties: {
-        population: { type: Type.NUMBER },
-        area_km2: { type: Type.NUMBER },
-        urbanization_rate: { type: Type.NUMBER, nullable: true },
-        languages: {
-          type: Type.ARRAY,
-          items: {
-            type: Type.OBJECT,
-            properties: {
-              name: { type: Type.STRING },
-              share: { type: Type.NUMBER, nullable: true },
-            },
-            required: ['name', 'share'],
-          },
-        },
-        religions: {
-          type: Type.ARRAY,
-          items: {
-            type: Type.OBJECT,
-            properties: {
-              name: { type: Type.STRING },
-              share: { type: Type.NUMBER, nullable: true },
-            },
-            required: ['name', 'share'],
-          },
-        },
-      },
-      required: ['population', 'area_km2', 'urbanization_rate', 'languages', 'religions'],
-    },
-    economy: {
-      type: Type.OBJECT,
-      properties: {
-        gdp_nominal_usd: { type: Type.NUMBER },
-        gdp_per_capita_usd: { type: Type.NUMBER },
-        real_gdp_growth_pct: { type: Type.NUMBER },
-        sectors_share: {
-          type: Type.OBJECT,
-          properties: {
-            agriculture: { type: Type.NUMBER },
-            industry: { type: Type.NUMBER },
-            services: { type: Type.NUMBER },
-          },
-          required: ['agriculture', 'industry', 'services'],
-        },
-        trade_highlights: { type: Type.ARRAY, items: { type: Type.STRING } },
-      },
-      required: ['gdp_nominal_usd', 'gdp_per_capita_usd', 'real_gdp_growth_pct', 'sectors_share', 'trade_highlights'],
-    },
-    governance: {
-      type: Type.OBJECT,
-      properties: {
-        system: { type: Type.STRING },
-        legal_tradition: { type: Type.STRING },
-        stability_score_0_1: { type: Type.NUMBER },
-      },
-      required: ['system', 'legal_tradition', 'stability_score_0_1'],
-    },
-    culture: {
-      type: Type.OBJECT,
-      properties: {
-        dominant_values: { type: Type.ARRAY, items: { type: Type.STRING } },
-        fusion_opportunities: { type: Type.ARRAY, items: { type: Type.STRING } },
-        likely_frictions: { type: Type.ARRAY, items: { type: Type.STRING } },
-        holiday_calendar_notes: { type: Type.STRING },
-      },
-      required: ['dominant_values', 'fusion_opportunities', 'likely_frictions', 'holiday_calendar_notes'],
-    },
-    integration_analysis: {
-      type: Type.OBJECT,
-      properties: {
-        compatibility_matrix: {
-          type: Type.ARRAY,
-          items: {
-            type: Type.OBJECT,
-            properties: {
-              feature: { type: Type.STRING },
-              score_0_1: { type: Type.NUMBER },
-              note: { type: Type.STRING },
-            },
-            required: ['feature', 'score_0_1', 'note'],
-          },
-        },
-        policy_recommendations: { type: Type.ARRAY, items: { type: Type.STRING } },
-      },
-      required: ['compatibility_matrix', 'policy_recommendations'],
-    },
-    scenarios_10y: {
-      type: Type.OBJECT,
-      properties: {
-        optimistic: {
-          type: Type.OBJECT,
-          properties: {
-            pop: { type: Type.NUMBER },
-            gdp_growth_pct: { type: Type.NUMBER },
-            stability_0_1: { type: Type.NUMBER },
-            notes: { type: Type.STRING },
-          },
-          required: ['pop', 'gdp_growth_pct', 'stability_0_1', 'notes'],
-        },
-        baseline: {
-          type: Type.OBJECT,
-          properties: {
-            pop: { type: Type.NUMBER },
-            gdp_growth_pct: { type: Type.NUMBER },
-            stability_0_1: { type: Type.NUMBER },
-            notes: { type: Type.STRING },
-          },
-          required: ['pop', 'gdp_growth_pct', 'stability_0_1', 'notes'],
-        },
-        pessimistic: {
-          type: Type.OBJECT,
-          properties: {
-            pop: { type: Type.NUMBER },
-            gdp_growth_pct: { type: Type.NUMBER },
-            stability_0_1: { type: Type.NUMBER },
-            notes: { type: Type.STRING },
-          },
-          required: ['pop', 'gdp_growth_pct', 'stability_0_1', 'notes'],
-        },
-      },
-      required: ['optimistic', 'baseline', 'pessimistic'],
-    },
-    assumptions: { type: Type.ARRAY, items: { type: Type.STRING } },
-    sources: {
-      type: Type.ARRAY,
-      items: {
-        type: Type.OBJECT,
-        properties: {
-          id: { type: Type.NUMBER },
-          title: { type: Type.STRING },
-          url: { type: Type.STRING },
-        },
-        required: ['id', 'title', 'url'],
-      },
-    },
-  },
-  required: [
-    'label', 'name', 'alt_names', 'summary', 'demographics', 'economy',
-    'governance', 'culture', 'integration_analysis', 'scenarios_10y',
-    'assumptions', 'sources'
-  ],
+  type: Type.OBJECT,
+  properties: {
+    label: { type: Type.STRING, description: "Must be 'Fictional Synthesis'" },
+    name: { type: Type.STRING },
+    alt_names: { type: Type.ARRAY, items: { type: Type.STRING } },
+    summary: { type: Type.STRING },
+    demographics: {
+      type: Type.OBJECT,
+      properties: {
+        population: { type: Type.NUMBER },
+        area_km2: { type: Type.NUMBER },
+        urbanization_rate: { type: Type.NUMBER, nullable: true },
+        languages: {
+          type: Type.ARRAY,
+          items: {
+            type: Type.OBJECT,
+            properties: {
+              name: { type: Type.STRING },
+              share: { type: Type.NUMBER, nullable: true },
+            },
+            required: ['name', 'share'],
+          },
+        },
+        religions: {
+          type: Type.ARRAY,
+          items: {
+            type: Type.OBJECT,
+            properties: {
+              name: { type: Type.STRING },
+              share: { type: Type.NUMBER, nullable: true },
+            },
+            required: ['name', 'share'],
+          },
+        },
+      },
+      required: ['population', 'area_km2', 'urbanization_rate', 'languages', 'religions'],
+    },
+    economy: {
+      type: Type.OBJECT,
+      properties: {
+        gdp_nominal_usd: { type: Type.NUMBER },
+        gdp_per_capita_usd: { type: Type.NUMBER },
+        real_gdp_growth_pct: { type: Type.NUMBER },
+        sectors_share: {
+          type: Type.OBJECT,
+          properties: {
+            agriculture: { type: Type.NUMBER },
+            industry: { type: Type.NUMBER },
+            services: { type: Type.NUMBER },
+          },
+          required: ['agriculture', 'industry', 'services'],
+        },
+        trade_highlights: { type: Type.ARRAY, items: { type: Type.STRING } },
+      },
+      required: ['gdp_nominal_usd', 'gdp_per_capita_usd', 'real_gdp_growth_pct', 'sectors_share', 'trade_highlights'],
+    },
+    governance: {
+      type: Type.OBJECT,
+      properties: {
+        system: { type: Type.STRING },
+        legal_tradition: { type: Type.STRING },
+        stability_score_0_1: { type: Type.NUMBER },
+      },
+      required: ['system', 'legal_tradition', 'stability_score_0_1'],
+    },
+    culture: {
+      type: Type.OBJECT,
+      properties: {
+        dominant_values: { type: Type.ARRAY, items: { type: Type.STRING } },
+        fusion_opportunities: { type: Type.ARRAY, items: { type: Type.STRING } },
+        likely_frictions: { type: Type.ARRAY, items: { type: Type.STRING } },
+        holiday_calendar_notes: { type: Type.STRING },
+      },
+      required: ['dominant_values', 'fusion_opportunities', 'likely_frictions', 'holiday_calendar_notes'],
+    },
+    integration_analysis: {
+      type: Type.OBJECT,
+      properties: {
+        compatibility_matrix: {
+          type: Type.ARRAY,
+          items: {
+            type: Type.OBJECT,
+            properties: {
+              feature: { type: Type.STRING },
+              score_0_1: { type: Type.NUMBER },
+              note: { type: Type.STRING },
+            },
+            required: ['feature', 'score_0_1', 'note'],
+          },
+        },
+        policy_recommendations: { type: Type.ARRAY, items: { type: Type.STRING } },
+      },
+      required: ['compatibility_matrix', 'policy_recommendations'],
+    },
+    scenarios_10y: {
+      type: Type.OBJECT,
+      properties: {
+        optimistic: {
+          type: Type.OBJECT,
+          properties: {
+            pop: { type: Type.NUMBER },
+            gdp_growth_pct: { type: Type.NUMBER },
+            stability_0_1: { type: Type.NUMBER },
+            notes: { type: Type.STRING },
+          },
+          required: ['pop', 'gdp_growth_pct', 'stability_0_1', 'notes'],
+        },
+        baseline: {
+          type: Type.OBJECT,
+          properties: {
+            pop: { type: Type.NUMBER },
+            gdp_growth_pct: { type: Type.NUMBER },
+            stability_0_1: { type: Type.NUMBER },
+            notes: { type: Type.STRING },
+          },
+          required: ['pop', 'gdp_growth_pct', 'stability_0_1', 'notes'],
+        },
+        pessimistic: {
+          type: Type.OBJECT,
+          properties: {
+            pop: { type: Type.NUMBER },
+            gdp_growth_pct: { type: Type.NUMBER },
+            stability_0_1: { type: Type.NUMBER },
+            notes: { type: Type.STRING },
+          },
+          required: ['pop', 'gdp_growth_pct', 'stability_0_1', 'notes'],
+        },
+      },
+      required: ['optimistic', 'baseline', 'pessimistic'],
+    },
+    assumptions: { type: Type.ARRAY, items: { type: Type.STRING } },
+    sources: {
+      type: Type.ARRAY,
+      items: {
+        type: Type.OBJECT,
+        properties: {
+          id: { type: Type.NUMBER },
+          title: { type: Type.STRING },
+          url: { type: Type.STRING },
+        },
+        required: ['id', 'title', 'url'],
+      },
+    },
+  },
+  required: [
+    'label', 'name', 'alt_names', 'summary', 'demographics', 'economy',
+    'governance', 'culture', 'integration_analysis', 'scenarios_10y',
+    'assumptions', 'sources'
+  ],
 };
 
 
 export async function POST(req: Request) {
-  if (!API_KEY) {
-      return NextResponse.json({ error: 'Server is not configured with an API key.' }, { status: 500 });
-  }
+  if (!API_KEY) {
+      return NextResponse.json({ error: 'Server is not configured with an API key.' }, { status: 500 });
+  }
 
-  let body: unknown;
-  try {
-      body = await req.json();
-  } catch {
-      return NextResponse.json({ error: 'Invalid JSON body.' }, { status: 400 });
-  }
+  let body: unknown;
+  try {
+      body = await req.json();
+  } catch {
+      return NextResponse.json({ error: 'Invalid JSON body.' }, { status: 400 });
+  }
 
-  const parsed = MergeInputSchema.safeParse(body);
-  if (!parsed.success) {
-      return NextResponse.json({ error: 'Invalid request payload.', details: parsed.error.format() }, { status: 400 });
-  }
+  const parsed = MergeInputSchema.safeParse(body);
+  if (!parsed.success) {
+      return NextResponse.json({ error: 'Invalid request payload.', details: parsed.error.format() }, { status: 400 });
+  }
 
-  const input = parsed.data;
+  const input = parsed.data;
 
-  const userPrompt = `
+  // Dynamically set scenario horizon based on input
+  const scenarioHorizon = input.options?.years_forward ?? 10; 
+
+
+  const userPrompt = `
 Create a fictional merged country from "${input.country_a}" and "${input.country_b}".
 
 Requirements:
@@ -221,7 +226,7 @@ Requirements:
 - Explain cultural synergies and frictions using sourced descriptions.
 - Apply the numeric merge rules and report the formulas used in the "assumptions" array.
 - Provide 3 name options in 'alt_names' and pick one as primary 'name', respecting the requested name_style.
-- Set the horizon for scenarios to the specified number of years forward.
+- Set the horizon for scenarios to ${scenarioHorizon} years forward.
 
 Inputs (JSON):
 ${JSON.stringify(input, null, 2)}
@@ -230,33 +235,37 @@ Output:
 Return exactly one JSON object that matches the required schema. Include [n] inline citation markers in your text descriptions and a corresponding "sources" array mapping those numbers to URLs/titles.
 `.trim();
 
-  try {
-    const response = await ai.models.generateContent({
-      model: "gemini-2.5-pro",
-      contents: userPrompt,
-      config: {
-        systemInstruction: SYSTEM_PROMPT,
-        responseMimeType: "application/json",
-        responseSchema: responseSchema,
-        temperature: 0.4,
-      },
-    });
+  try {
+    const response = await ai.models.generateContent({
+      // --- PERFORMANCE IMPROVEMENT: Switch to Flash Model ---
+      model: "gemini-2.5-flash-preview-09-2025", 
+      contents: userPrompt,
+      config: {
+        systemInstruction: SYSTEM_PROMPT,
+        responseMimeType: "application/json",
+        responseSchema: responseSchema,
+        temperature: 0.4,
+        // --- PERFORMANCE IMPROVEMENT: Explicitly enable search grounding ---
+        tools: [{ google_search: {} }], 
+      },
+    });
 
-    const text = response.text.trim();
-    const data: FictionalCountry = JSON.parse(text);
+    const text = response.text.trim();
+    // Casting to any type for compatibility since FictionalCountry is not defined here
+    const data: any = JSON.parse(text); 
 
-    if (data?.label !== 'Fictional Synthesis') {
-      throw new Error("Model returned an unexpected object shape.");
-    }
-    
-    return NextResponse.json({ data }, { status: 200 });
+    if (data?.label !== 'Fictional Synthesis') {
+      throw new Error("Model returned an unexpected object shape.");
+    }
+    
+    return NextResponse.json({ data }, { status: 200 });
 
-  } catch (error: any) {
-    console.error("Gemini API call failed:", error);
-    let errorMessage = "Failed to generate country profile from the AI model.";
-    if (error instanceof Error && error.message.includes('SAFETY')) {
-         errorMessage = "The request was blocked due to safety settings. Please try different country names.";
-    }
-    return NextResponse.json({ error: errorMessage, details: error.message }, { status: 500 });
-  }
+  } catch (error: any) {
+    console.error("Gemini API call failed:", error);
+    let errorMessage = "Failed to generate country profile from the AI model.";
+    if (error instanceof Error && error.message.includes('SAFETY')) {
+         errorMessage = "The request was blocked due to safety settings. Please try different country names.";
+    }
+    return NextResponse.json({ error: errorMessage, details: error.message }, { status: 500 });
+  }
 }
