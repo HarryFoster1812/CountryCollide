@@ -5,9 +5,11 @@ import { useSearchParams } from "next/navigation";
 import Link from 'next/link';
 import {TravelPlan } from '@/libs/types';
 import { getCountryData } from "../api/country_api.js";
-
+import { TTSPlayButton } from '@/components/TTSPlayButton';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+
+
 
 interface MonthlyAverage {
     month: number;
@@ -242,6 +244,8 @@ interface ChatModalProps {
     initialData: TravelFormData;
 }
 
+const DEFAULT_VOICE_ID = 'JBFqnCBsd6RMkjVDRZzb';
+
 const TravelPlanComponent: React.FC<{ plan: TravelPlan }> = ({ plan }) => {
     return (
         <div className="space-y-6 text-sm">
@@ -258,7 +262,10 @@ const TravelPlanComponent: React.FC<{ plan: TravelPlan }> = ({ plan }) => {
 
             {/* Summary */}
             <div>
-                <h4 className="font-semibold text-sky-300 mb-1">Trip Summary</h4>
+                <div className="flex items-center justify-between mb-1">
+                <h4 className="font-semibold text-sky-300">Trip Summary</h4>
+                <TTSPlayButton text={plan.summary} voiceId={DEFAULT_VOICE_ID} />
+                </div>
                 <p className="whitespace-pre-wrap">{plan.summary}</p>
             </div>
 

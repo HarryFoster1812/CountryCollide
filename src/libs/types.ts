@@ -1,3 +1,5 @@
+import { z } from 'zod';
+
 export interface MergeInput {
   country_a: string;
   country_b: string;
@@ -109,7 +111,7 @@ export interface TravelPlan {
 
 // --- Zod Input Schema (New) ---
 
-const TravelInputSchema = z.object({
+export const TravelInputSchema = z.object({
   destination: z.string().min(1),
   start_date: z.string().min(1),
   end_date: z.string().min(1),

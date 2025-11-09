@@ -2,42 +2,9 @@ import { GoogleGenAI, Type } from "@google/genai";
 import { NextResponse } from 'next/server';
 import { z } from 'zod';
 
-// NOTE: Assuming TravelPlan and TravelFormData types are available from your libraries.
-// Since external types cannot be guaranteed here, we define a minimal structure for context:
-interface TravelPlan {
-    label: 'Travel Itinerary Synthesis';
-    destination: string;
-    trip_dates: string;
-    summary: string;
-    budget_analysis: {
-        total_estimated_cost_usd: number;
-        cost_breakdown: Array<{ category: string; estimated_cost_usd: number; notes: string }>;
-    };
-    recommended_activities: Array<{ day: string; activity: string; estimated_cost_usd: number; notes: string }>;
-    logistics: {
-        flights_notes: string;
-        accommodation_recommendation: string;
-        visa_or_entry_requirements: string;
-        transport_notes: string;
-    };
-    assumptions: string[];
-    sources: Array<{ id: number; title: string; url: string }>;
-}
+// Note: Removed the unused 'Buffer' import
+import { TravelPlan, TravelInputSchema } from "@/libs/types"; // <-- Importing types and schema
 
-
-const TravelInputSchema = z.object({
-    destination: z.string().min(1),
-    start_date: z.string().min(1),
-    end_date: z.string().min(1),
-    origin_city: z.string().min(1),
-    traveler_count: z.number().int().min(1).default(1),
-    budget_style: z.enum(['economy', 'mid-range', 'luxury']).default('mid-range'),
-    query: z.string().optional(),
-    history: z.array(z.object({
-        role: z.enum(['user', 'assistant']),
-        content: z.string(),
-    })).optional(),
-});
 
 const API_KEY = process.env.GEMINI_API;
 
@@ -47,7 +14,6 @@ if (!API_KEY) {
 
 const ai = new GoogleGenAI({ apiKey: API_KEY! });
 
-// Use the new system prompt
 const SYSTEM_PROMPT = `
 You are an expert, evidence-driven **Travel Research and Planning Model**.
 Your job is to:
@@ -66,7 +32,6 @@ Key Rules:
 - All final values in the JSON must be **clean numbers** (no currency symbols, no commas).
 `.trim();
 
-// Use the new response schema
 const TravelPlanSchema = {
     type: Type.OBJECT,
     description: "Structured travel itinerary output.",
@@ -227,27 +192,27 @@ Return **only** a JSON object that exactly matches the schema.
     return contents;
 };
 
+
 export async function POST(req: Request) {
     if (!API_KEY) return NextResponse.json({ error: 'No API key' }, { status: 500 });
 
     let body: unknown;
     try { body = await req.json(); } catch { return NextResponse.json({ error: 'Invalid JSON' }, { status: 400 }); }
 
+    // Use the imported TravelInputSchema for validation
     const parsed = TravelInputSchema.safeParse(body);
     if (!parsed.success) return NextResponse.json({ error: 'Invalid payload', details: parsed.error.format() }, { status: 400 });
 
     const { query, history = [], ...input } = parsed.data;
 
-    // Use a simplified contents array builder that doesn't include the redundant system instruction turns
     const finalContents = buildContents(input, query, history);
 
     try {
+        // 1. GENERATE TRAVEL PLAN (Text/JSON)
         const response = await ai.models.generateContent({
             model: "gemini-2.5-flash-preview-09-2025",
             contents: finalContents,
-            // --- OPTIMIZATION 1: Add Google Search Grounding for evidence-driven facts (required by SYSTEM_PROMPT) ---
             tools: [{ googleSearch: {} }],
-            // --- OPTIMIZATION 2: Use dedicated systemInstruction field for faster token processing ---
             systemInstruction: SYSTEM_PROMPT,
             config: {
                 responseMimeType: "application/json",
@@ -257,13 +222,16 @@ export async function POST(req: Request) {
         });
 
         const text = response.text.trim();
-        const plan: TravelPlan = JSON.parse(text);
+        const plan: TravelPlan = JSON.parse(text); // Use the imported TravelPlan interface
 
         if (plan.label !== 'Travel Itinerary Synthesis') {
+            // Note: This check ensures the LLM adhered to the schema structure.
             throw new Error("Model did not return expected label");
         }
 
-        // Build history for next call
+        // 2. TTS GENERATION IS REMOVED. Your app can now use plan.summary with ElevenLabs.
+
+        // 3. BUILD HISTORY AND RETURN RESPONSE
         const lastUserContent = finalContents.find(c => c.role === 'user' && c === finalContents[finalContents.length - 1])?.parts[0].text;
 
         const newHistory = query
@@ -273,11 +241,15 @@ export async function POST(req: Request) {
                 { role: 'assistant', content: text },
             ];
 
+        // Return the plan data and history, omitting all TTS audio fields
+        return NextResponse.json({
+            data: plan,
+            history: newHistory,
+            // The client can extract plan.summary and use it for ElevenLabs.
+        }, { status: 200 });
 
-        return NextResponse.json({ data: plan, history: newHistory }, { status: 200 });
     } catch (error: any) {
         console.error("Gemini API error:", error);
-        // Include the response text for debugging if available
         const details = error.message || (error.response?.text ? `API Response: ${error.response.text}` : 'Unknown error');
         return NextResponse.json(
             { error: "Failed to generate plan", details },
