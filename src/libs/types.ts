@@ -71,3 +71,49 @@ export interface Scenario {
   stability_0_1: number;
   notes: string;
 }
+
+
+// Replace FictionalCountry with this:
+export interface TravelPlan {
+    label: 'Travel Itinerary Synthesis';
+    destination: string;
+    trip_dates: string; // E.g., "From Jan 1st to Jan 7th"
+    summary: string; // Overview of the trip plan
+    budget_analysis: {
+        total_estimated_cost_usd: number;
+        cost_breakdown: {
+            category: string;
+            estimated_cost_usd: number;
+            notes: string;
+        }[];
+    };
+    recommended_activities: {
+        day: string; // E.g., "Day 1"
+        activity: string;
+        estimated_cost_usd: number;
+        notes: string; // E.g., "Must book tickets online 3 days in advance."
+    }[];
+    logistics: {
+        flights_notes: string;
+        accommodation_recommendation: string; // E.g., "Stay near the city center, focusing on the X district."
+        visa_or_entry_requirements: string;
+        transport_notes: string;
+    };
+    assumptions: string[]; // List of assumptions made (e.g., flight price, food budget per day)
+    sources: {
+        id: number;
+        title: string;
+        url: string;
+    }[];
+}
+
+// --- Zod Input Schema (New) ---
+
+const TravelInputSchema = z.object({
+  destination: z.string().min(1, 'Destination is required.'),
+  start_date: z.string().min(1, 'Start date is required (e.g., YYYY-MM-DD).'),
+  end_date: z.string().min(1, 'End date is required (e.g., YYYY-MM-DD).'),
+  origin_city: z.string().min(1, 'Origin city is required for flight cost estimation.'),
+  traveler_count: z.number().int().min(1).default(1),
+  budget_style: z.enum(['economy', 'mid-range', 'luxury']).default('mid-range'),
+});
