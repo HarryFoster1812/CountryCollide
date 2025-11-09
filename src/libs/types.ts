@@ -110,10 +110,15 @@ export interface TravelPlan {
 // --- Zod Input Schema (New) ---
 
 const TravelInputSchema = z.object({
-  destination: z.string().min(1, 'Destination is required.'),
-  start_date: z.string().min(1, 'Start date is required (e.g., YYYY-MM-DD).'),
-  end_date: z.string().min(1, 'End date is required (e.g., YYYY-MM-DD).'),
-  origin_city: z.string().min(1, 'Origin city is required for flight cost estimation.'),
-  traveler_count: z.number().int().min(1).default(1),
-  budget_style: z.enum(['economy', 'mid-range', 'luxury']).default('mid-range'),
+  destination: z.string().min(1),
+  start_date: z.string().min(1),
+  end_date: z.string().min(1),
+  origin_city: z.string().min(1),
+  traveler_count: z.number().int().min(1).default(1),
+  budget_style: z.enum(['economy', 'mid-range', 'luxury']).default('mid-range'),
+  query: z.string().optional(),
+  history: z.array(z.object({
+    role: z.enum(['user', 'assistant']),
+    content: z.string(),
+  })).optional(),
 });

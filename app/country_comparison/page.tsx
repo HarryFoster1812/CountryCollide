@@ -3,6 +3,7 @@
 import React, { useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from 'next/link';
+import {TravelPlan } from '@/libs/types';
 import { getCountryData } from "../api/country_api.js";
 
 interface MonthlyAverage {
@@ -28,6 +29,7 @@ interface CountryStats {
     flagUrl?: string;
     topSongs?: { songs: { rank: string }[] };
 }
+
 
 
 // --- START: New Modal Component and Logic ---
@@ -220,6 +222,299 @@ const TravelModal: React.FC<TravelModalProps> = ({ initialDestination, onClose, 
     );
 };
 
+// --- START: Chat Modal Component ---
+
+// ──────────────────────────────────────────────────────────────────────
+//  ChatModal – now renders the full TravelPlan nicely
+// ──────────────────────────────────────────────────────────────────────
+interface ChatMessage {
+    role: 'user' | 'assistant';
+    content: React.ReactNode;
+}
+
+interface ChatModalProps {
+    onClose: () => void;
+    initialData: TravelFormData;
+}
+
+const TravelPlanComponent: React.FC<{ plan: TravelPlan }> = ({ plan }) => {
+    return (
+        <div className="space-y-6 text-sm">
+            {/* Header */}
+            <div className="border-b border-sky-500/30 pb-3">
+                <h3 className="text-xl font-bold text-sky-400">{plan.label}</h3>
+                <p className="mt-1">
+                    <strong>Destination:</strong> {plan.destination}
+                </p>
+                <p>
+                    <strong>Dates:</strong> {plan.trip_dates}
+                </p>
+            </div>
+
+            {/* Summary */}
+            <div>
+                <h4 className="font-semibold text-sky-300 mb-1">Trip Summary</h4>
+                <p className="whitespace-pre-wrap">{plan.summary}</p>
+            </div>
+
+            {/* Budget */}
+            <div className="bg-slate-800/50 rounded-lg p-4">
+                <h4 className="font-semibold text-sky-300 mb-2">Budget</h4>
+                <p className="text-lg font-medium">
+                    Total: <span className="text-green-400">${plan.budget_analysis.total_estimated_cost_usd.toLocaleString()}</span>
+                </p>
+                <ul className="mt-2 space-y-1">
+                    {plan.budget_analysis.cost_breakdown.map((c, i) => (
+                        <li key={i} className="flex justify-between">
+                            <span>{c.category}</span>
+                            <span className="text-green-300">
+                                ${c.estimated_cost_usd.toLocaleString()}
+                            </span>
+                            {c.notes && <span className="text-xs text-slate-400 ml-2">– {c.notes}</span>}
+                        </li>
+                    ))}
+                </ul>
+            </div>
+
+            {/* Activities */}
+            <div>
+                <h4 className="font-semibold text-sky-300 mb-2">Day-by-Day Itinerary</h4>
+                <div className="space-y-3">
+                    {plan.recommended_activities.map((act, i) => (
+                        <div
+                            key={i}
+                            className="bg-slate-800/40 rounded-lg p-3 flex flex-col sm:flex-row sm:justify-between gap-2"
+                        >
+                            <div>
+                                <strong className="text-sky-200">{act.day}</strong> – {act.activity}
+                                {act.notes && <p className="text-xs text-slate-400 mt-1">{act.notes}</p>}
+                            </div>
+                            <div className="text-green-300 font-medium">
+                                ${act.estimated_cost_usd.toLocaleString()}
+                            </div>
+                        </div>
+                    ))}
+                </div>
+            </div>
+
+            {/* Logistics */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div className="bg-slate-800/40 rounded-lg p-3">
+                    <h5 className="font-medium text-sky-300">Flights</h5>
+                    <p className="text-xs">{plan.logistics.flights_notes}</p>
+                </div>
+                <div className="bg-slate-800/40 rounded-lg p-3">
+                    <h5 className="font-medium text-sky-300">Accommodation</h5>
+                    <p className="text-xs">{plan.logistics.accommodation_recommendation}</p>
+                </div>
+                <div className="bg-slate-800/40 rounded-lg p-3">
+                    <h5 className="font-medium text-sky-300">Visa / Entry</h5>
+                    <p className="text-xs">{plan.logistics.visa_or_entry_requirements}</p>
+                </div>
+                <div className="bg-slate-800/40 rounded-lg p-3">
+                    <h5 className="font-medium text-sky-300">Local Transport</h5>
+                    <p className="text-xs">{plan.logistics.transport_notes}</p>
+                </div>
+            </div>
+
+            {/* Assumptions */}
+            {plan.assumptions.length > 0 && (
+                <div>
+                    <h4 className="font-semibold text-sky-300 mb-1">Assumptions</h4>
+                    <ul className="list-disc list-inside text-xs space-y-0.5">
+                        {plan.assumptions.map((a, i) => (
+                            <li key={i}>{a}</li>
+                        ))}
+                    </ul>
+                </div>
+            )}
+
+            {/* Sources */}
+            {plan.sources.length > 0 && (
+                <div>
+                    <h4 className="font-semibold text-sky-300 mb-1">Sources</h4>
+                    <ul className="list-disc list-inside text-xs space-y-0.5">
+                        {plan.sources.map(s => (
+                            <li key={s.id}>
+                                <a
+                                    href={s.url}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="text-sky-400 hover:underline"
+                                >
+                                    {s.title}
+                                </a>
+                            </li>
+                        ))}
+                    </ul>
+                </div>
+            )}
+        </div>
+    );
+};
+
+const ChatModal: React.FC<ChatModalProps> = ({ onClose, initialData }) => {
+    const [messages, setMessages] = useState<ChatMessage[]>([]);
+    const [input, setInput] = useState('');
+    const [loading, setLoading] = useState(true);
+
+    // ---- initial plan -------------------------------------------------
+    useEffect(() => {
+        fetchInitialPlan();
+    }, []);
+
+const [conversationHistory, setConversationHistory] = useState<
+  { role: 'user' | 'assistant'; content: string }[]
+>([]);
+
+const fetchInitialPlan = async () => {
+  setLoading(true);
+  try {
+    const res = await fetch('/api/travel_agent', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(initialData),
+    });
+
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
+    const json = await res.json();
+
+    // --- SAFE: Check if data exists ---
+    if (!json?.data || typeof json.data !== 'object') {
+      throw new Error('Invalid response format');
+    }
+
+    const plan = json.data as TravelPlan;
+
+    // --- Validate label ---
+    if (plan.label !== 'Travel Itinerary Synthesis') {
+      throw new Error('Unexpected plan structure');
+    }
+
+    const hist = Array.isArray(json.history) ? json.history : [];
+
+    setConversationHistory(hist);
+    setMessages([{ role: 'assistant', content: <TravelPlanComponent plan={plan} /> }]);
+  } catch (err) {
+    console.error('Initial plan error:', err);
+    setMessages([{
+      role: 'assistant',
+      content: (
+        <div className="text-red-400">
+          <strong>Error:</strong> Failed to generate plan. Please try again.
+        </div>
+      )
+    }]);
+  } finally {
+    setLoading(false);
+  }
+};
+
+const handleSend = async () => {
+  if (!input.trim()) return;
+
+  const userMsg: ChatMessage = { role: 'user', content: input };
+  const newMsgs = [...messages, userMsg];
+  setMessages(newMsgs);
+  setInput('');
+  setLoading(true);
+
+  try {
+    const res = await fetch('/api/travel_agent', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        ...initialData,
+        query: input,
+        history: conversationHistory,
+      }),
+    });
+
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
+    const json = await res.json();
+
+    // --- SAFE: Validate response ---
+    if (!json?.data || typeof json.data !== 'object') {
+      throw new Error('Invalid response from server');
+    }
+
+    const plan = json.data as TravelPlan;
+
+    if (plan.label !== 'Travel Itinerary Synthesis') {
+      throw new Error('Model returned unexpected format');
+    }
+
+    const hist = Array.isArray(json.history) ? json.history : [];
+
+    setConversationHistory(hist);
+    setMessages([...newMsgs, { role: 'assistant', content: <TravelPlanComponent plan={plan} /> }]);
+  } catch (err) {
+    console.error('Follow-up error:', err);
+    setMessages([...newMsgs, {
+      role: 'assistant',
+      content: (
+        <div className="text-red-400">
+          <strong>Error:</strong> Could not update plan. Please try again.
+        </div>
+      )
+    }]);
+  } finally {
+    setLoading(false);
+  }
+};
+
+    return (
+        <div className="fixed inset-0 bg-black/70 flex items-center justify-center z-50 p-4">
+            <div className="bg-[#0d1226] text-white p-6 md:p-8 rounded-xl shadow-2xl max-w-3xl w-full max-h-[85vh] flex flex-col border border-sky-400/50">
+                {/* Header */}
+                <div className="flex justify-between items-center mb-4 border-b border-slate-700 pb-3">
+                    <h2 className="text-2xl font-bold text-sky-400">Travel Agent Chat</h2>
+                    <button onClick={onClose} className="text-slate-400 hover:text-red-500 transition text-3xl font-light leading-none">
+                        ×
+                    </button>
+                </div>
+
+                {/* Messages */}
+                <div className="flex-1 overflow-y-auto space-y-4 pr-2" style={{ scrollbarWidth: 'thin', scrollbarColor: '#444 #121528' }}>
+                    {messages.map((msg, i) => (
+                        <div
+                            key={i}
+                            className={`p-4 rounded-lg max-w-[90%] ${
+                                msg.role === 'user' ? 'bg-sky-600/50 ml-auto' : 'bg-slate-700/60'
+                            }`}
+                        >
+                            <strong className="block mb-1">{msg.role === 'user' ? 'You' : 'Agent'}:</strong>
+                            {msg.content}
+                        </div>
+                    ))}
+                    {loading && <div className="text-center text-slate-400 animate-pulse">Thinking…</div>}
+                </div>
+
+                {/* Input */}
+                <div className="mt-4 flex gap-2">
+                    <input
+                        type="text"
+                        value={input}
+                        onChange={e => setInput(e.target.value)}
+                        onKeyDown={e => e.key === 'Enter' && handleSend()}
+                        placeholder="Ask to change dates, add activities, etc…"
+                        className="flex-1 p-3 bg-slate-700/50 border border-slate-600 rounded-lg text-white placeholder-slate-400 focus:ring-sky-400 focus:border-sky-400 transition"
+                        disabled={loading}
+                    />
+                    <button
+                        onClick={handleSend}
+                        disabled={loading}
+                        className="px-5 py-2 bg-sky-600 rounded-lg font-bold text-white hover:bg-sky-500 transition disabled:opacity-50"
+                    >
+                        Send
+                    </button>
+                </div>
+            </div>
+        </div>
+    );
+};
 // --- END: New Modal Component and Logic ---
 
 
@@ -227,7 +522,8 @@ export default function WorldComparePage({}: {}) {
     const [countries, setCountries] = useState<Record<string, CountryStats>>({});
     const [showModal, setShowModal] = useState(false);
     const [selectedTravelCountry, setSelectedTravelCountry] = useState<string>('');
-    const [travelPlan, setTravelPlan] = useState<TravelFormData | null>(null); // State to hold the submitted plan
+    const [chatOpen, setChatOpen] = useState(false);
+    const [travelData, setTravelData] = useState<TravelFormData | null>(null);
 
 
     // Default to the user's comparison countries
@@ -266,9 +562,8 @@ export default function WorldComparePage({}: {}) {
 
     // Function to handle the form data submission
     const handlePlanSubmit = (data: TravelFormData) => {
-        setTravelPlan(data);
-        console.log("Travel plan generated and stored in state. You can now send this data to your /api/travel endpoint:", data);
-        // NOTE: This is where you would trigger your API call (fetch('/api/travel', { body: JSON.stringify(data) }))
+        setTravelData(data);
+        setChatOpen(true);
     }
 
     const renderInfoBox = (title: string, content: React.ReactNode) => (
@@ -507,15 +802,21 @@ export default function WorldComparePage({}: {}) {
                     </ol>
                 ))}
 
-                {/* NEW BUTTON: Plan Travel */}
-                <button
+                <div style={{ marginTop: "auto", width: "100%" }}>
+                <div style={{ display: "flex", justifyContent: "center", paddingVertical: "8px", }}>
+                    <button
                     onClick={() => handleTravelClick(name)}
-                    style={{ ...glowBtnStyle, marginTop: 'auto', marginBottom: '8px' }} // Use flex to push it to the bottom
-                >
+                    style={{
+                        ...glowBtnStyle,
+                        marginBottom: "8px",
+                        width: "80%", // or any width you want
+                    }}
+                    >
                     Plan Travel to {name}
-                </button>
+                    </button>
+                </div>
+                </div>
 
-                {renderInfoBox("Culture", "Languages, traditions, festivals...")}
                 {renderInfoBox("Weather", renderWeatherChart())}
 
                 {renderInfoBox("Fergus Stats",
@@ -556,25 +857,12 @@ export default function WorldComparePage({}: {}) {
                     alignItems: "center",
                     gap: 24,
                 }}>
-                    {/* Kept other buttons */}
-                    {["Music", "Culture"].map((text, i) => (
-                        <button key={i} style={glowBtnStyle}>{text}</button>
-                    ))}
                     
                     {/* Merge Link */}
                     <Link style={glowMergeBtnStyle} className="text-center" href={`/merge?a=${countryA}&b=${countryB}`}>
                         Merge
                     </Link>
                     
-                    {/* Display feedback after plan submission */}
-                    {travelPlan && (
-                        <div className="text-center p-4 bg-green-900/50 rounded-lg text-sm max-w-full">
-                            <p className="text-green-300 font-bold mb-1">Plan Parameters Submitted!</p>
-                            <p className="text-xs text-green-200">Trip to **{travelPlan.destination}** ({travelPlan.traveler_count} people, {travelPlan.budget_style} style).</p>
-                            <p className="text-xs text-green-200">This data is now ready to be sent to your travel API endpoint.</p>
-                        </div>
-                    )}
-
                 </div>
 
                 {renderCountryCard(countryB)}
@@ -588,41 +876,47 @@ export default function WorldComparePage({}: {}) {
                     onSubmit={handlePlanSubmit}
                 />
             )}
+            {chatOpen && travelData && (
+                <ChatModal
+                    onClose={() => setChatOpen(false)}
+                    initialData={travelData}
+                />
+            )}
         </>
     );
 }
 
 export const glowBtnStyle: React.CSSProperties = {
-  width: "80%",
-  padding: "16px 0",
-  borderRadius: 16,
-  border: "none",
-  fontWeight: "bold",
-  fontSize: 16,
-  cursor: "pointer",
-  color: "#fff",
-  background: "linear-gradient(90deg, #ff00ff, #00ffff, #ff00ff)",
-  backgroundSize: "200% 200%",
-  animation: "glowAnim 3s ease infinite",
-  boxShadow: "0 0 6px #ff00ff, 0 0 12px #00ffff, 0 0 18px #ff00ff",
-  textShadow: "0 0 3px #fff, 0 0 6px #ff00ff",
+  width: "80%",
+  padding: "16px 0",
+  borderRadius: 16,
+  border: "none",
+  fontWeight: "bold",
+  fontSize: 16,
+  cursor: "pointer",
+  color: "#fff",
+  background: "linear-gradient(90deg, #ff00ff, #00ffff, #ff00ff)",
+  backgroundSize: "200% 200%",
+  animation: "glowAnim 3s ease infinite",
+  boxShadow: "0 0 6px #ff00ff, 0 0 12px #00ffff, 0 0 18px #ff00ff",
+  textShadow: "0 0 3px #fff, 0 0 6px #ff00ff",
 };
 
 // danger version (more red, subtle orange for warmth)
 export const glowMergeBtnStyle: React.CSSProperties = {
-  width: "80%",
-  padding: "16px 0",
-  borderRadius: 16,
-  border: "1px solid rgba(255, 72, 72, 0.45)",
-  fontWeight: "bold",
-  fontSize: 16,
-  cursor: "pointer",
-  color: "#fff",
-  background:
-    "linear-gradient(90deg, #ff3b3b, #ff0044, #ff7a18, #ff3b3b)", // red → crimson → warm orange → red
-  backgroundSize: "220% 220%",
-  animation: "glowAnim 3s ease infinite",
-  boxShadow:
-    "0 0 8px rgba(255, 42, 42, 0.9), 0 0 16px rgba(255, 0, 68, 0.75), 0 0 24px rgba(255, 42, 42, 0.6)",
-  textShadow: "0 0 3px #fff, 0 0 8px rgba(255, 42, 42, 0.9)",
+  width: "80%",
+  padding: "16px 0",
+  borderRadius: 16,
+  border: "1px solid rgba(255, 72, 72, 0.45)",
+  fontWeight: "bold",
+  fontSize: 16,
+  cursor: "pointer",
+  color: "#fff",
+  background:
+    "linear-gradient(90deg, #ff3b3b, #ff0044, #ff7a18, #ff3b3b)", // red → crimson → warm orange → red
+  backgroundSize: "220% 220%",
+  animation: "glowAnim 3s ease infinite",
+  boxShadow:
+    "0 0 8px rgba(255, 42, 42, 0.9), 0 0 16px rgba(255, 0, 68, 0.75), 0 0 24px rgba(255, 42, 42, 0.6)",
+  textShadow: "0 0 3px #fff, 0 0 8px rgba(255, 42, 42, 0.9)",
 };
