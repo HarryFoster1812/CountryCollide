@@ -1,9 +1,12 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
+<<<<<<< HEAD
 import { useSearchParams } from "next/navigation";
 import Link from 'next/link';
+=======
 import { getCountryData } from "../api/country_api.js";
+import { useSearchParams } from "next/navigation";
 
 interface MonthlyAverage {
     month: number;
@@ -11,7 +14,9 @@ interface MonthlyAverage {
     avg_low_temp_C: number | null;
     avg_precip_mm: number | null;
 }
+>>>>>>> main
 
+import { getCountryData } from "../api/country_api.js"; 
 
 // Mock type definitions for compilation safety
 interface CountryStats {
@@ -26,6 +31,13 @@ interface CountryStats {
     militaryExpenditure?: number;
     electricityAccess?: number;
     flagUrl?: string;
+<<<<<<< HEAD
+    avgEducationYears?: string;
+    homicideRate?: string;
+    energyUsePerCapita?: string;
+    happiness?: string;
+    militaryExpenditure?: string;
+    electricityAccess?: string;
     topSongs?: { songs: { rank: string }[] };
 }
 
@@ -40,8 +52,13 @@ interface TravelFormData {
     traveler_count: number;
     budget_style: 'economy' | 'mid-range' | 'luxury';
 }
+=======
+    topSongs?: { songs: any[] };
+    monthlyAverages?: MonthlyAverage[];
+}
 
 interface WorldComparePageProps {}
+>>>>>>> main
 
 interface TravelModalProps {
     initialDestination: string;
@@ -225,15 +242,19 @@ const TravelModal: React.FC<TravelModalProps> = ({ initialDestination, onClose, 
 
 export default function WorldComparePage({}: {}) {
     const [countries, setCountries] = useState<Record<string, CountryStats>>({});
+<<<<<<< HEAD
     const [showModal, setShowModal] = useState(false);
     const [selectedTravelCountry, setSelectedTravelCountry] = useState<string>('');
     const [travelPlan, setTravelPlan] = useState<TravelFormData | null>(null); // State to hold the submitted plan
 
+    const params = useSearchParams();
 
     // Default to the user's comparison countries
+=======
     const [weatherData, setWeatherData] = useState<Record<string, MonthlyAverage[]>>({});
 
     const params = useSearchParams();
+>>>>>>> main
     const countryA = params.get("a") ?? "Canada";
     const countryB = params.get("b") ?? "United States";
 
@@ -507,6 +528,7 @@ export default function WorldComparePage({}: {}) {
                     </ol>
                 ))}
 
+<<<<<<< HEAD
                 {/* NEW BUTTON: Plan Travel */}
                 <button
                     onClick={() => handleTravelClick(name)}
@@ -515,7 +537,9 @@ export default function WorldComparePage({}: {}) {
                     Plan Travel to {name}
                 </button>
 
+                {renderInfoBox("Weather", "Average temp, climate type...")}
                 {renderInfoBox("Culture", "Languages, traditions, festivals...")}
+=======
                 {renderInfoBox("Weather", renderWeatherChart())}
 
                 {renderInfoBox("Fergus Stats",
@@ -531,6 +555,7 @@ export default function WorldComparePage({}: {}) {
                             ))}
                         </div>
                     </div>)}
+>>>>>>> main
             </div>
         );
     };
