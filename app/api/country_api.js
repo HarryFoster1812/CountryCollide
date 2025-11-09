@@ -1,38 +1,59 @@
 // countryApi.js
 /**
- * Fetch country data by name from a local JSON file
- * @param {string} countryName
+ * Fetch country data by name from local JSON files
+ * @param {string[]} countryNames
  * @returns {Promise<{
- *   name: string,
- *   population?: number,
- *   landArea?: number,
- *   flagUrl?: string,
- *   gdpPerCapita?: number,
- *   avgEducationYears?: number,
- *   homicideRate?: number,
- *   energyUsePerCapita?: number,
- *   happiness?: number,
- *   militaryExpenditure?: number,
- *   electricityAccess?: number
+ *   [countryName: string]: {
+ *     name: string,
+ *     population?: number,
+ *     landArea?: number,
+ *     flagUrl?: string,
+ *     gdpPerCapita?: number,
+ *     avgEducationYears?: number,
+ *     homicideRate?: number,
+ *     energyUsePerCapita?: number,
+ *     happiness?: number,
+ *     militaryExpenditure?: number,
+ *     electricityAccess?: number,
+ *     topSongs?: Array<{
+ *       rank: string,
+ *       title: string,
+ *       artist: string,
+ *       streams: string,
+ *       link?: string
+ *     }>
+ *   }
  * }>}
  */
+
 export async function getCountryData(countryNames) {
     try {
-        // The file should be in "public/country_data.json"
-        const response = await fetch("/country_data.json");
-        if (!response.ok) {
-            throw new Error(`Failed to load country data: ${response.status}`);
-        }
+        // Load both data files in parallel
+        const [countryRes, spotifyRes] = await Promise.all([
+            fetch("/country_data.json"),
+            fetch("/spotify_top10_by_country.json")
+        ]);
 
-        const data = await response.json();
+        if (!countryRes.ok) throw new Error(`Failed to load country data: ${countryRes.status}`);
+        if (!spotifyRes.ok) throw new Error(`Failed to load Spotify data: ${spotifyRes.status}`);
 
-        let full_data = [];
+        const [countryData, spotifyData] = await Promise.all([
+            countryRes.json(),
+            spotifyRes.json()
+        ]);
+
+        const full_data = {};
 
         for (let country_name of countryNames) {
-            let country = data[country_name];
+            const country = countryData[country_name];
+            const spotify = spotifyData[country.code2] || spotifyData[country_name];
+            console.log(spotifyData, country);
+            console.log(spotify);
+
             if (country) {
                 full_data[country_name] = {
                     name: country_name,
+                    population: country["Population"]?.value ?? null,
                     landArea: country["Land area (sq. km)"]?.value ?? null,
                     gdpPerCapita: country["GDP per capita ($)"]?.value ?? null,
                     avgEducationYears: country["Average years of education"]?.value ?? null,
@@ -41,14 +62,15 @@ export async function getCountryData(countryNames) {
                     happiness: country["Happiness (0-10)"]?.value ?? null,
                     militaryExpenditure: country["Military expenditure (% of GDP)"]?.value ?? null,
                     electricityAccess: country["Electricity Access %"]?.value ?? null,
-                    flagUrl: `https://flagsapi.com/${country.code2}/flat/64.png`
-                }
+                    flagUrl: `https://flagsapi.com/${country.code2}/flat/64.png`,
+                    topSongs: spotify ?? [] // attach Spotify top 10 songs
+                };
             }
         }
 
         return full_data;
     } catch (err) {
-        console.error("Error fetching country data:", err);
+        console.error("Error fetching combined data:", err);
         return null;
     }
 }

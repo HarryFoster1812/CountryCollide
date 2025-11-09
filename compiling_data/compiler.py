@@ -242,5 +242,20 @@ for file in os.listdir("csvs"):
             else:
                 output_data[row["Entity"]][df.columns[3]] = out
 
+with open("population_pure.txt", "r") as f:
+    lines = f.readlines()
+    for line in lines:
+        sp = line.replace("\t", " ").rsplit(None, 2)
+        print(sp)
+        population = int(sp[1].strip().replace(",",""))
+        name = sp[0].strip()
+        if name not in output_data:
+            if name in mapper:
+                output_data[name] = {"code2":mapper[name]}
+            else:
+                output_data[name] = {}
+        output_data[name]["Population"] = {"value":population}
+
+
 with open("compiled.json", "w") as f:
     json.dump(output_data, f, indent=2)
