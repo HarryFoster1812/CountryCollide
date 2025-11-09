@@ -561,7 +561,7 @@ export default function WorldComparePage({}: {}) {
     // Fetch weather data for a country
     const fetchWeatherData = async (country: string) => {
         try {
-            const res = await fetch(`/api/weather?country=${country}`);
+            const res = await fetch(`/api/weather?iso=${country}`);
             const data = await res.json();
             if (data.monthlyAverages) {
                 setWeatherData(prev => ({ ...prev, [country]: data.monthlyAverages }));
@@ -842,40 +842,68 @@ const handleHealthReport = async (countryName: string) => {
                 ))}
 
 <div style={{ marginTop: "auto", width: "100%" }}>
-  <div style={{ display: "flex", flexDirection: "column", gap: 12, alignItems: "center" }}>
+  <div style={{ display: "flex", flexDirection: "column", gap: 12, alignItems: "center", paddingBottom: 12 }}>
     {/* Travel Button */}
-    <button
-      onClick={() => handleTravelClick(name)}
-      style={{
-        ...glowBtnStyle,
-        width: "80%",
-      }}
-    >
-      Plan Travel to {name}
-    </button>
+       <button
+        onClick={() => handleTravelClick(name)}
+        aria-label={`Plan travel to ${name}`}
+        style={{
+          width: "100%",
+          padding: "10px 12px",
+          borderRadius: 8,
+          fontWeight: 600,
+          fontSize: 13,
+          color: "#eaeefb",
+          background: "rgba(52, 59, 108, 0.8)", // same as renderInfoBox background
+          border: "1px solid rgba(255,255,255,0.04)",
+          display: "flex",
+          alignItems: "center",
+          gap: 8,
+          justifyContent: "center",
+          transition: "background 150ms ease, transform 150ms ease",
+        }}
+        onMouseDown={e => (e.currentTarget.style.transform = "translateY(1px)")}
+        onMouseUp={e => (e.currentTarget.style.transform = "")}
+        onMouseLeave={e => (e.currentTarget.style.transform = "")}
+      >
+        {/* small plane icon (uses currentColor) */}
+        <svg xmlns="http://www.w3.org/2000/svg" className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+          <path strokeLinecap="round" strokeLinejoin="round" d="M21 16v-2a2 2 0 00-1.4-1.9L11 10 3 7l1 3 6 1 8.6 2.1A2 2 0 0021 16z" />
+        </svg>
+        Plan Travel to {name}
+      </button>
 
-    {/* Health Report Button */}
-    <button
-      onClick={() => handleHealthReport(name)}
-      style={{
-        ...glowBtnStyle,
-        background: "linear-gradient(90deg, #00c853, #00e676, #00c853)",
-        backgroundSize: "200% 200%",
-        animation: "glowAnim 3s ease infinite",
-        boxShadow: "0 0 6px #00c853, 0 0 12px #00e676, 0 0 18px #00c853",
-        width: "80%",
-      }}
-    >
-      {healthLoading[name] ? (
-        <>
-          <span className="inline-block animate-spin rounded-full h-4 w-4 border-b-2 border-white mr-2" />
-          Generating…
-        </>
-      ) : (
-        <>Generate Health & Wellbeing Report</>
-      )}
-    </button>
-  </div>
+      {/* Health Report Button */}
+      <button
+        onClick={() => handleHealthReport(name)}
+        disabled={!!healthLoading[name]}
+        style={{
+          width: "100%",
+          padding: "10px 12px",
+          borderRadius: 8,
+          fontWeight: 600,
+          fontSize: 13,
+          color: "#eaeefb",
+          background: "rgba(52, 59, 108, 0.8)", // same as renderInfoBox background
+          border: "1px solid rgba(255,255,255,0.04)",
+          display: "flex",
+          alignItems: "center",
+          gap: 8,
+          justifyContent: "center",
+          transition: "background 150ms ease, opacity 150ms ease",
+          opacity: healthLoading[name] ? 0.8 : 1,
+        }}
+      >
+        {healthLoading[name] ? (
+          <>
+            <span className="inline-block animate-spin rounded-full h-4 w-4 border-b-2 border-slate-600 mr-2" />
+            Generating…
+          </>
+        ) : (
+          <>Generate Health & Wellbeing Report</>
+        )}
+      </button>
+    </div>
 
 {healthReport[name] && (
   <div className="mt-4 space-y-3 w-full">
@@ -933,6 +961,7 @@ const handleHealthReport = async (countryName: string) => {
         );
     };
 
+// ...existing code...
     return (
         <>
             <style>{`
@@ -943,26 +972,44 @@ const handleHealthReport = async (countryName: string) => {
                 }
             `}</style>
 
-            <div style={{ display: "flex", flexDirection: "row", gap: 16, padding: 16, height: "100vh" }}>
+            {/* Top full-width Merge bar + main content */}
+            <div style={{ display: "flex", flexDirection: "column", gap: 16, padding: 16, height: "100vh" }}>
+              
+                            {/* Full-width Merge button at top (sticky, slightly more prominent) */}
+                            <div style={{ width: "100%", position: "sticky", top: 12, zIndex: 60 }}>
+                                <Link
+                                    href={`/merge?a=${countryA}&b=${countryB}`}
+                                    onMouseEnter={e => (e.currentTarget.style.transform = "translateY(-2px)")}
+                                    onMouseLeave={e => (e.currentTarget.style.transform = "")}
+                                    style={{
+                                        display: "block",
+                                        width: "100%",
+                                        padding: "12px 16px",
+                                        borderRadius: 12,
+                                        textAlign: "center",
+                                        fontWeight: 700,
+                                        fontSize: 15,
+                                        color: "#ffffff",
+                                        /* slightly more pop-out but not garish */
+                                        background: "linear-gradient(90deg, rgba(59,130,246,1.0), rgba(99,102,241,1.0))",
+                                        border: "1px solid rgba(255,255,255,0.06)",
+                                        boxShadow: "0 8px 20px rgba(50,60,120,0.28)",
+                                        textDecoration: "none",
+                                        transition: "transform 120ms ease, box-shadow 120ms ease",
+                                    }}
+                                >
+                                    Merge
+                                </Link>
+                            </div>
+
+              {/* Main compare row */}
+              <div style={{ display: "flex", flexDirection: "row", gap: 16, flex: 1 }}>
                 {renderCountryCard(countryA)}
 
-                <div style={{
-                    flex: 0.5,
-                    display: "flex",
-                    flexDirection: "column",
-                    justifyContent: "center",
-                    alignItems: "center",
-                    gap: 24,
-                }}>
-                    
-                    {/* Merge Link */}
-                    <Link style={glowMergeBtnStyle} className="text-center" href={`/merge?a=${countryA}&b=${countryB}`}>
-                        Merge
-                    </Link>
-                    
-                </div>
-
+                {/* spacer column removed; central merge button moved to top */}
+                
                 {renderCountryCard(countryB)}
+              </div>
             </div>
 
             {/* Modal Renderer */}
