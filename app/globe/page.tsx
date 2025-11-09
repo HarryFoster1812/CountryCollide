@@ -361,7 +361,7 @@ function CountrySelectorGlobe({
           )}
 
           {selectedNames.length === 2 && (
-            <Link href={`/merge?a=${selectedNames[0]}&b=${selectedNames[1]}`}>
+            <Link href={`/country_comparison?a=${selectedNames[0]}&b=${selectedNames[1]}`}>
               <button style={{ ...btnStyle, background: "#131938" }} title="Merge the two selected countries">
                 {"Merge (2)"}
               </button>

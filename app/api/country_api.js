@@ -45,10 +45,15 @@ export async function getCountryData(countryNames) {
         const full_data = {};
 
         for (let country_name of countryNames) {
-            const country = countryData[country_name];
-            const spotify = spotifyData[country.code2] || spotifyData[country_name];
+            let country;
+            if (country_name === "England") {
+                country = countryData["United Kingdom"];
+            } else {
+                country = countryData[country_name];
+            }
 
             if (country) {
+                const spotify = spotifyData[country.code2];
                 full_data[country_name] = {
                     name: country_name,
                     population: country["Population"]?.value ?? null,

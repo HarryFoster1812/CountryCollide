@@ -2,6 +2,7 @@
 
 import React, { useEffect, useState } from "react";
 import { getCountryData } from "../api/country_api.js";
+import {useSearchParams} from "next/navigation";
 
 interface CountryStats {
     name: string;
@@ -16,8 +17,13 @@ interface WorldComparePageProps {
     countryB: string;
 }
 
-export default function WorldComparePage({ countryA = "United States", countryB = "Japan" }: WorldComparePageProps) {
+export default function WorldComparePage({}: WorldComparePageProps) {
     const [countries, setCountries] = useState<Record<string, CountryStats>>({});
+
+    const params = useSearchParams();
+
+    const countryA = params.get("a") ?? "Canada";
+    const countryB = params.get("b") ?? "United States";
 
     useEffect(() => {
         getCountryData([countryA, countryB]).then(setCountries);
