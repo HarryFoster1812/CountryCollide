@@ -6,6 +6,9 @@ import Link from 'next/link';
 import {TravelPlan } from '@/libs/types';
 import { getCountryData } from "../api/country_api.js";
 
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
+
 interface MonthlyAverage {
     month: number;
     avg_high_temp_C: number | null;
@@ -63,6 +66,7 @@ const TravelModal: React.FC<TravelModalProps> = ({ initialDestination, onClose, 
     });
     const [isSubmitting, setIsSubmitting] = useState(false);
 
+
     const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
         const { name, value, type } = e.target;
         setFormData(prev => ({
@@ -88,6 +92,7 @@ const TravelModal: React.FC<TravelModalProps> = ({ initialDestination, onClose, 
         setIsSubmitting(false);
         onClose();
     };
+
 
     const inputClasses = "w-full p-3 bg-slate-700/50 border border-slate-600 rounded-lg text-white placeholder-slate-400 focus:ring-sky-400 focus:border-sky-400 transition";
     const labelClasses = "block text-sm font-semibold mb-1 text-slate-300";
@@ -533,6 +538,11 @@ export default function WorldComparePage({}: {}) {
     const countryA = params.get("a") ?? "Canada";
     const countryB = params.get("b") ?? "United States";
 
+
+    const [healthLoading, setHealthLoading] = useState<Record<string, boolean>>({});
+    const [healthReport, setHealthReport] = useState<Record<string, string>>({});
+    const [healthStats, setHealthStats] = useState<Record<string, any>>({});
+
     // Fetch country stats
     useEffect(() => {
         getCountryData([countryA, countryB]).then(setCountries);
@@ -565,6 +575,28 @@ export default function WorldComparePage({}: {}) {
         setTravelData(data);
         setChatOpen(true);
     }
+
+const handleHealthReport = async (countryName: string) => {
+  setHealthLoading(prev => ({ ...prev, [countryName]: true }));
+  try {
+    const res = await fetch("/api/health_report", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ country: countryName }),
+    });
+    const json = await res.json();
+    if (!res.ok) throw new Error(json.error ?? "Failed");
+    setHealthReport(prev => ({ ...prev, [countryName]: json.report })); // markdown string
+    setHealthStats(prev => ({ ...prev, [countryName]: json.stats }));
+  } catch (e) {
+    setHealthReport(prev => ({
+      ...prev,
+      [countryName]: `**Error:** ${(e as Error).message}`,
+    }));
+  } finally {
+    setHealthLoading(prev => ({ ...prev, [countryName]: false }));
+  }
+};
 
     const renderInfoBox = (title: string, content: React.ReactNode) => (
         <div style={{
@@ -802,20 +834,78 @@ export default function WorldComparePage({}: {}) {
                     </ol>
                 ))}
 
-                <div style={{ marginTop: "auto", width: "100%" }}>
-                <div style={{ display: "flex", justifyContent: "center", paddingVertical: "8px", }}>
-                    <button
-                    onClick={() => handleTravelClick(name)}
-                    style={{
-                        ...glowBtnStyle,
-                        marginBottom: "8px",
-                        width: "80%", // or any width you want
-                    }}
-                    >
-                    Plan Travel to {name}
-                    </button>
-                </div>
-                </div>
+<div style={{ marginTop: "auto", width: "100%" }}>
+  <div style={{ display: "flex", flexDirection: "column", gap: 12, alignItems: "center" }}>
+    {/* Travel Button */}
+    <button
+      onClick={() => handleTravelClick(name)}
+      style={{
+        ...glowBtnStyle,
+        width: "80%",
+      }}
+    >
+      Plan Travel to {name}
+    </button>
+
+    {/* Health Report Button */}
+    <button
+      onClick={() => handleHealthReport(name)}
+      style={{
+        ...glowBtnStyle,
+        background: "linear-gradient(90deg, #00c853, #00e676, #00c853)",
+        backgroundSize: "200% 200%",
+        animation: "glowAnim 3s ease infinite",
+        boxShadow: "0 0 6px #00c853, 0 0 12px #00e676, 0 0 18px #00c853",
+        width: "80%",
+      }}
+    >
+      {healthLoading[name] ? (
+        <>
+          <span className="inline-block animate-spin rounded-full h-4 w-4 border-b-2 border-white mr-2" />
+          Generating…
+        </>
+      ) : (
+        <>Generate Health & Wellbeing Report</>
+      )}
+    </button>
+  </div>
+
+{healthReport[name] && (
+  <div className="mt-4 space-y-3 w-full">
+    {/* Short Preview (first 2 blocks) */}
+    <div className="p-4 bg-slate-800/60 rounded-lg border border-green-500/30 text-sm prose prose-invert max-w-none">
+      <ReactMarkdown remarkPlugins={[remarkGfm]}>
+        {
+          healthReport[name]
+            .split('\n\n')
+            .slice(0, 2)
+            .join('\n\n')
+        }
+      </ReactMarkdown>
+    </div>
+
+    {/* Full Report Link */}
+    <Link
+      href={`/health-report/${encodeURIComponent(name)}`}
+      className="block text-center px-4 py-2 bg-green-600 hover:bg-green-500 rounded-lg text-white font-semibold text-sm transition"
+      onClick={() => {
+        const key = `health_report_${name}`;
+        localStorage.setItem(
+          key,
+          JSON.stringify({
+            report: healthReport[name],   // markdown
+            stats: healthStats[name],
+            country: name,
+            timestamp: Date.now(),
+          }),
+        );
+      }}
+    >
+      View Full Report
+    </Link>
+  </div>
+)}
+</div>
 
                 {renderInfoBox("Weather", renderWeatherChart())}
 
