@@ -29,17 +29,20 @@
 export async function getCountryData(countryNames) {
     try {
         // Load both data files in parallel
-        const [countryRes, spotifyRes] = await Promise.all([
+        const [countryRes, spotifyRes, fergusRes] = await Promise.all([
             fetch("/country_data.json"),
-            fetch("/spotify_top10_by_country.json")
+            fetch("/spotify_top10_by_country.json"),
+            fetch("/fergus_data.json")
         ]);
 
         if (!countryRes.ok) throw new Error(`Failed to load country data: ${countryRes.status}`);
         if (!spotifyRes.ok) throw new Error(`Failed to load Spotify data: ${spotifyRes.status}`);
+        if (!fergusRes.ok) throw new Error(`Failed to load Spotify data: ${fergusRes.status}`);
 
-        const [countryData, spotifyData] = await Promise.all([
+        const [countryData, spotifyData, fergusData] = await Promise.all([
             countryRes.json(),
-            spotifyRes.json()
+            spotifyRes.json(),
+            fergusRes.json()
         ]);
 
         const full_data = {};
@@ -54,6 +57,7 @@ export async function getCountryData(countryNames) {
 
             if (country) {
                 const spotify = spotifyData[country.code2];
+                const fergus = fergusData[country.code2];
                 full_data[country_name] = {
                     name: country_name,
                     population: country["Population"]?.value ?? null,
@@ -66,7 +70,8 @@ export async function getCountryData(countryNames) {
                     militaryExpenditure: country["Military expenditure (% of GDP)"]?.value ?? null,
                     electricityAccess: country["Electricity Access %"]?.value ?? null,
                     flagUrl: `https://flagsapi.com/${country.code2}/flat/64.png`,
-                    topSongs: spotify ?? [] // attach Spotify top 10 songs
+                    topSongs: spotify ?? [], // attach Spotify top 10 songs
+                    ...fergus
                 };
             }
         }

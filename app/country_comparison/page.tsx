@@ -43,6 +43,7 @@ export default function WorldComparePage({}: WorldComparePageProps) {
         fetchWeatherData(countryA);
         fetchWeatherData(countryB);
     }, [countryA, countryB]);
+    console.log(countries);
 
     // Fetch weather data for a country
     const fetchWeatherData = async (country: string) => {
@@ -90,6 +91,32 @@ export default function WorldComparePage({}: WorldComparePageProps) {
             { label: "Happiness (0-10)", value: data.happiness ?? "N/A" },
             { label: "Military Expenditure (% GDP)", value: data.militaryExpenditure ?? "N/A" },
             { label: "Electricity Access (%)", value: data.electricityAccess ?? "N/A" },
+        ];
+
+        const fergusLeft = [
+            { label: "Avg Living Languages (Established)", value: data.AverageNumberOfLanguagesEstablishedLivingLanguages ?? "N/A" },
+            { label: "Avg Living Languages (Immigrant)", value: data.AverageNumberOfLanguagesImmigrantLivingLanguages ?? "N/A" },
+            { label: "% of World’s Living Languages", value: data.AverageNumberOfLanguagesPercentOfWorldsLivingLanguages ?? "N/A" },
+            { label: "Total Living Languages", value: data.AverageNumberOfLanguagesTotalLivingLanguages ?? "N/A" },
+            { label: "Official/National Language(s)", value: data.LanguagesOfficialOrNationalLanguage ?? "N/A" },
+            { label: "National Dish", value: data.CountriesNationalDishes ?? "N/A" },
+            // { label: "Country Motto", value: data.CountryMottos ?? "N/A" },
+            { label: "Date Sovereignty Acquired", value: data.OldestCountries_DateSovereignityAcquired ?? "N/A" },
+            { label: "Current Government Established", value: data.OldestCountries_DateCurrentFormOfGovernmentEstablished ?? "N/A" },
+            { label: "Legally Required Paid Vacation (Days/Year)", value: data.AverageVacationDays_LegallyRequiredMinimumPaidVacationDaysPerYear_days_YearFree ?? "N/A" },
+            { label: "Total Minimum Paid Leave (Days/Year)", value: data.AverageVacationDays_MinimumTotalPaidLeave_days_YearFree ?? "N/A" },
+        ];
+
+        const fergusRight = [
+            { label: "Avocado Consumption (kg, 2022)", value: data.AvocadoConsumption_2022 ?? "N/A" },
+            { label: "Banana Consumption (Total, 2022)", value: data.BananaConsumption_2022 ?? "N/A" },
+            { label: "Banana Consumption per Capita (kg, 2022)", value: data.BananaConsumptionPerCapita_2022 ?? "N/A" },
+            { label: "Beer Consumption Rate (2022)", value: data.BeerConsumptionRate_2022 ?? "N/A" },
+            { label: "Egg Consumption (Total, 2022)", value: data.EggConsumptionTotal_2022 ?? "N/A" },
+            { label: "Egg Consumption per Capita (kg, 2022)", value: data.EggConsumptionPerCapita_2022 ?? "N/A" },
+            { label: "Facebook Users (2025)", value: data.FacebookUsers_2025?.toLocaleString() ?? "N/A" },
+            { label: "Facebook Users (Male %)", value: data.FacebookUsersPctMale_2025 ?? "N/A" },
+            { label: "Facebook Users (Female %)", value: data.FacebookUsersPctFemale_2025 ?? "N/A" },
         ];
 
         const renderWeatherChart = () => {
@@ -184,7 +211,7 @@ export default function WorldComparePage({}: WorldComparePageProps) {
         return (
             <div style={{
                 flex: 1,
-                background: "#0d1226",
+                background: "#0e1328", // a bit deeper blue-black for contrast
                 color: "#eaeefb",
                 borderRadius: 12,
                 border: "1px solid #222",
@@ -192,8 +219,12 @@ export default function WorldComparePage({}: WorldComparePageProps) {
                 display: "flex",
                 flexDirection: "column",
                 overflowY: "auto",
-                height: "100%"
-            }}>
+                height: "100%",
+
+                /* --- Scrollbar styling --- */
+                scrollbarWidth: "thin",            // Firefox
+                scrollbarColor: "#444 #121528",    // thumb + track
+            }} >
                 <div
                     style={{
                         display: "flex",
@@ -210,7 +241,10 @@ export default function WorldComparePage({}: WorldComparePageProps) {
                             style={{ width: 75, height: 45, objectFit: "cover", borderRadius: 4 }}
                         />
                     )}
-                    <h1 style={{ fontSize: 36, fontWeight: "bold", margin: 0 }}>{name}</h1>
+                    <div>
+                        <h1 style={{ fontSize: 36, fontWeight: "bold", margin: 0 }}>{name}</h1>
+                        <h3>Motto: {data.CountryMottos}</h3>
+                    </div>
                     {data?.flagUrl && (
                         <img
                             src={data.flagUrl}
@@ -236,7 +270,7 @@ export default function WorldComparePage({}: WorldComparePageProps) {
                 ))}
 
                 {renderInfoBox("Top Songs", (
-                    <ol style={{ paddingLeft: 20, margin: 0 }}>
+                    <ol style={{ paddingLeft: 0, margin: 0 }}>
                         {data.topSongs?.songs?.slice(0, 5).map((song, i) => {
                             const [artist, ...titleParts] = song.rank.split(" - ");
                             const title = titleParts.join(" - ");
@@ -256,13 +290,25 @@ export default function WorldComparePage({}: WorldComparePageProps) {
                                     {artist ? ` by ${artist}` : ""}
                                 </li>
                             );
-                        }) || <li>N/A</li>}
+                        }) || <li>Data Not Found</li>}
                     </ol>
                 ))}
 
                 {renderInfoBox("Weather", renderWeatherChart())}
 
-                {renderInfoBox("Culture", "Languages, traditions, festivals...")}
+                {renderInfoBox("Fergus Stats",
+                    <div style={{ display: "flex", gap: 16 }}>
+                        <div style={{ flex: 1, display: "flex", flexDirection: "column", gap: 4 }}>
+                            {fergusLeft.map((s, i) => (
+                                <div key={i}><strong>{s.label}:</strong> {s.value}</div>
+                            ))}
+                        </div>
+                        <div style={{ flex: 1, display: "flex", flexDirection: "column", gap: 4 }}>
+                            {fergusRight.map((s, i) => (
+                                <div key={i}><strong>{s.label}:</strong> {s.value}</div>
+                            ))}
+                        </div>
+                    </div>)}
             </div>
         );
     };
