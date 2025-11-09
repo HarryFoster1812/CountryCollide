@@ -3,6 +3,7 @@
 import React, { useEffect, useState } from "react";
 import { getCountryData } from "../api/country_api.js";
 import {useSearchParams} from "next/navigation";
+import Link from 'next/link'
 
 interface CountryStats {
     name: string;
@@ -164,6 +165,9 @@ export default function WorldComparePage({}: WorldComparePageProps) {
                     {["Music", "Culture", "Travel"].map((text, i) => (
                         <button key={i} style={glowBtnStyle}>{text}</button>
                     ))}
+                    <Link style={glowMergeBtnStyle} className="text-center" href={`/merge?a=${countryA}&b=${countryB}`}>
+                    Merge
+                    </Link>
                 </div>
 
                 {/* Right Sidebar */}
@@ -173,18 +177,37 @@ export default function WorldComparePage({}: WorldComparePageProps) {
     );
 }
 
-const glowBtnStyle: React.CSSProperties = {
-    width: "80%",
-    padding: "16px 0",
-    borderRadius: 16,
-    border: "none",
-    fontWeight: "bold",
-    fontSize: 16,
-    cursor: "pointer",
-    color: "#fff",
-    background: "linear-gradient(90deg, #ff00ff, #00ffff, #ff00ff)",
-    backgroundSize: "200% 200%",
-    animation: "glowAnim 3s ease infinite",
-    boxShadow: "0 0 6px #ff00ff, 0 0 12px #00ffff, 0 0 18px #ff00ff",
-    textShadow: "0 0 3px #fff, 0 0 6px #ff00ff",
+export const glowBtnStyle: React.CSSProperties = {
+  width: "80%",
+  padding: "16px 0",
+  borderRadius: 16,
+  border: "none",
+  fontWeight: "bold",
+  fontSize: 16,
+  cursor: "pointer",
+  color: "#fff",
+  background: "linear-gradient(90deg, #ff00ff, #00ffff, #ff00ff)",
+  backgroundSize: "200% 200%",
+  animation: "glowAnim 3s ease infinite",
+  boxShadow: "0 0 6px #ff00ff, 0 0 12px #00ffff, 0 0 18px #ff00ff",
+  textShadow: "0 0 3px #fff, 0 0 6px #ff00ff",
+};
+
+// danger version (more red, subtle orange for warmth)
+export const glowMergeBtnStyle: React.CSSProperties = {
+  width: "80%",
+  padding: "16px 0",
+  borderRadius: 16,
+  border: "1px solid rgba(255, 72, 72, 0.45)",
+  fontWeight: "bold",
+  fontSize: 16,
+  cursor: "pointer",
+  color: "#fff",
+  background:
+    "linear-gradient(90deg, #ff3b3b, #ff0044, #ff7a18, #ff3b3b)", // red → crimson → warm orange → red
+  backgroundSize: "220% 220%",
+  animation: "glowAnim 3s ease infinite",
+  boxShadow:
+    "0 0 8px rgba(255, 42, 42, 0.9), 0 0 16px rgba(255, 0, 68, 0.75), 0 0 24px rgba(255, 42, 42, 0.6)",
+  textShadow: "0 0 3px #fff, 0 0 8px rgba(255, 42, 42, 0.9)",
 };

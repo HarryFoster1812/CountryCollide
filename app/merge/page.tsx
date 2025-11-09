@@ -148,9 +148,6 @@ const MergePage = () => {
                     fill="rgba(255,255,255,0.06)"   // subtle fill on dark background
                     stroke="rgba(255,255,255,0.95)"
                     strokeWidth={2}
-                    // 'initial' is a Framer Motion prop; it's not valid on a regular <path>
-                    // Remove it here, as this path is static once rendered.
-                    // style={{ transformOrigin: `${svgWidth / 2}px ${svgHeight / 2}px` }} // style also removed as it's not motion path
                     key={`path-merged-${countryA}-${countryB}`}
                   />
                 </svg>
