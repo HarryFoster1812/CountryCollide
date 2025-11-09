@@ -41,10 +41,18 @@ def main():
 
         # Transform data
         try:
-            result = {
-                item["flagCode"]: {k: v for k, v in item.items() if k != "flagCode"}
-                for item in data
-            }
+            result = {}
+            for item in data:
+                # Get code from flagCode or cca2
+                code = item.get("flagCode") or item.get("cca2")
+                if not code:
+                    print(f"  ⚠️  Skipping item in '{filename}' (no flagCode or cca2 found)")
+                    continue
+
+                # Copy all other keys except the one used as the code
+                cleaned_item = {k: v for k, v in item.items() if k not in ("flagCode", "cca2")}
+                result[code] = cleaned_item
+
         except Exception as e:
             print(f"  ❌ Error processing '{filename}': {e}")
             continue
@@ -66,3 +74,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
