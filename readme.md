@@ -104,37 +104,9 @@ That curiosity evolved into a global exploration tool that visualizes how *data,
 
 ---
 
-## 🧑‍💻 Team
-
-**Team Name:** *git push --force*
-
-| Role               | Member |
-| ------------------ | ------ |
-| Frontend Developer | [Name] |
-| Backend Developer  | [Name] |
-| AI / Agent Design  | [Name] |
-| Data Integration   | [Name] |
-| Design & UX        | [Name] |
-
----
-
 ## 🏆 What We Learned
 
 * Building immersive 3D visualizations with **Globe.gl**
 * Creating **agentic AI systems** that reason, plan, and persist data
 * Integrating **TTS (ElevenLabs)** for interactive, voice-driven output
 * Turning raw data into meaningful, human-readable insights
-
----
-
-## ✨ Demo
-
-🔗 **Live Demo:** *[Add deployment link]*
-📸 **Screenshots:** *[Add image previews or GIFs]*
-🎧 **TTS Sample:** *[Link to audio demo]*
-
----
-
-## 💬 Tagline
-
-> *“When worlds collide — new nations, voices, and ideas emerge.”*
