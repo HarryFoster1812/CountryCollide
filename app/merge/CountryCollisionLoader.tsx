@@ -3,8 +3,6 @@
 import { useEffect, useState } from "react";
 import { motion, useAnimationControls } from "framer-motion";
 import Loader from "@/components/Loader";
-// Head not needed for this embedded widget; re-add if used as a page
-// import Head from "next/head";
 
 // -----------------------------
 // Helpers
