@@ -10,14 +10,11 @@
 
 ## 🧠 Theme: *Worlds Colliding*
 
-This year’s Great Uni Hack theme invited teams to imagine what happens when different worlds meet — across culture, data, and technology.
-**Country Compare** brings that idea to life by literally colliding *countries*: combining their data, culture, and identity to create new, imagined nations.
-
 ---
 
 ## 🚀 What It Does
 
-**Country Compare** is an interactive web platform where users can explore, compare, and creatively merge two countries.
+**Country Collide** is an interactive web platform where users can explore, compare, and creatively merge two countries.
 Using real-world data, AI reasoning, and cultural context, it helps you visualize what happens when nations blend — and even plan your next trip there.
 
 ---
@@ -51,7 +48,7 @@ Hit **Combine Countries** to generate a new “hybrid nation”:
 
 ### 🧳 1. Travel Agent
 
-An **Agentic AI Travel Planner** acts as your personal guide for exploring the selected countries — or their combined hybrid version.
+An **Agentic AI Travel Planner** acts as your personal guide for exploring the selected countries.
 
 **Capabilities:**
 
@@ -59,8 +56,6 @@ An **Agentic AI Travel Planner** acts as your personal guide for exploring the s
 * Estimates **flight and accommodation costs**
 * Recommends **food, activities, and local experiences**
 * Uses **ElevenLabs TTS** to *speak* your travel summary aloud
-
-> 🗣️ It’s not just data — it’s a voice that helps you plan your next adventure.
 
 ---
 
