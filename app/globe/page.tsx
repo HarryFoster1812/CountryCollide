@@ -499,28 +499,8 @@ function CountrySelectorGlobe({
                                             {/* Left side: name + stats */}
                                             <div style={{ flex: 1 }}>
                                                 <div style={{ fontWeight: "bold", fontSize: 18, marginBottom: 8 }}>{name}</div>
-                                                <div style={{ fontSize: 14, lineHeight: 1.6 }}>
-                                                    <div>Population: {countryData[name]?.population ?? "N/A"}</div>
-                                                    <div>Area: {countryData[name]?.landArea ?? "N/A"} km²</div>
-                                                    <div>GDP: ${countryData[name]?.gdpPerCapita?.toLocaleString?.() ?? "N/A"}</div>
-                                                </div>
                                             </div>
 
-                                            {/* Top-right: flag */}
-                                            {countryData[name]?.flagUrl && (
-                                                <img
-                                                    src={countryData[name].flagUrl}
-                                                    alt={`${name} flag`}
-                                                    style={{
-                                                        width: 100,
-                                                        height: 60,
-                                                        objectFit: "cover",
-                                                        borderRadius: 6,
-                                                        marginLeft: 16,
-                                                        boxShadow: "0 0 8px rgba(0, 0, 0, 0.3)",
-                                                    }}
-                                                />
-                                            )}
 
                                             {/* Bottom-right: button */}
                                             <button

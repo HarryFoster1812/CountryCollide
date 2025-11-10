@@ -1,0 +1,36 @@
+{
+  "chart": {
+    "title": "Land area in square kilometres",
+    "subtitle": "Total land area, measured in square kilometres (km²). Land area is a country's total area, excluding area under inland water bodies, national claims to continental shelf, and exclusive economic zones. In most cases the definition of inland water bodies includes major rivers and lakes.",
+    "citation": "Food and Agriculture Organization of the United Nations (FAO), via World Bank (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/land-area-km?overlay=download-data&v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "European Union",
+      "Norway",
+      "Kyrgyzstan",
+      "United States",
+      "China"
+    ]
+  },
+  "columns": {
+    "Land area (sq. km)": {
+      "titleShort": "Land area (sq. km)",
+      "titleLong": "Land area (sq. km)",
+      "shortUnit": "sq. km",
+      "unit": "sq. km",
+      "timespan": "1961-2022",
+      "type": "Numeric",
+      "owidVariableId": 1106350,
+      "shortName": "ag_lnd_totl_k2",
+      "lastUpdated": "2025-09-08",
+      "nextUpdate": "2026-09-08",
+      "citationShort": "Food and Agriculture Organization of the United Nations (FAO), via World Bank (2025) – processed by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (FAO), via World Bank (2025) – processed by Our World in Data. “Land area (sq. km)” [dataset]. Food and Agriculture Organization of the United Nations (FAO), via World Bank, “World Development Indicators 122” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1106350.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-11-08",
+  "activeFilters": {
+    "overlay": "download-data"
+  }
+}

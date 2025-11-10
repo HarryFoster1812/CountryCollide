@@ -1,0 +1,87 @@
+{
+  "chart": {
+    "title": "Mean income or consumption per day",
+    "subtitle": "This data is adjusted for inflation and differences in living costs between countries.",
+    "note": "This data is expressed in [international-$](#dod:int_dollar_abbreviation) at 2021 prices. Depending on the country and year, it relates to income (measured after taxes and benefits) or to consumption, [per capita](#dod:per-capita).",
+    "citation": "World Bank Poverty and Inequality Platform (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/daily-mean-income?overlay=download-data&v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "World",
+      "United States",
+      "South Korea",
+      "Spain",
+      "China",
+      "Mauritania",
+      "Ghana",
+      "India",
+      "Ethiopia",
+      "Democratic Republic of Congo"
+    ]
+  },
+  "columns": {
+    "Mean (2021 prices)": {
+      "titleShort": "Mean",
+      "titleLong": "Mean",
+      "descriptionShort": "Average income or consumption of the population.",
+      "descriptionKey": [
+        "This data is expressed in constant international dollars to adjust for inflation and differences in living costs between countries. Read more in our article, [What are international dollars?](https://ourworldindata.org/international-dollars)",
+        "Depending on the country and year, the data refers either to income (after taxes and benefits) or to consumption, [per capita](#dod:per-capita). For most countries, we have only one option available. But when there is a mix of consumption and income data points, we process the data to keep one observation per country and year. Our [Poverty Data Explorer](https://ourworldindata.org/explorers/poverty-explorer?Indicator=Share+in+poverty&Poverty+line=%243+per+day%3A+International+Poverty+Line&Household+survey+data+type=Show+data+from+both+income+and+consumption+surveys&Show+breaks+between+less+comparable+surveys=true&country=ROU~CHN~BLR~PER) shows the original data with *all* available income and consumption measures separately.",
+        "Many people, today and in the past, have no monetary income. This data accounts for this by including the estimated value of non-market income, such as food grown by subsistence farmers for their own use."
+      ],
+      "descriptionProcessing": "For most countries in the dataset, estimates relate to disposable income or consumption, for all available years. Several countries, however, have a mix of income and consumption data points, with both data types sometimes available for particular years.\n\nIn most of our charts, we present the data with some data points dropped to present a single series for each country. This allows us to make readable visualizations that combine multiple countries. In choosing which data points to keep, we strike a balance between maintaining comparability over time and showing as long a time series as possible. As such, the exact approach varies across countries.\n\nThe original data with *all* available income and consumption measures is shown separately in our [Poverty Data Explorer](https://ourworldindata.org/explorers/poverty-explorer?Indicator=Share+in+poverty&Poverty+line=%243+per+day%3A+International+Poverty+Line&Household+survey+data+type=Show+data+from+both+income+and+consumption+surveys&Show+breaks+between+less+comparable+surveys=true&country=ROU~CHN~BLR~PER).",
+      "shortUnit": "$",
+      "unit": "international-$ in 2021 prices",
+      "timespan": "1963-2025",
+      "type": "Numeric",
+      "owidVariableId": 1115565,
+      "shortName": "mean__ppp_version_2021__poverty_line_no_poverty_line__welfare_type_income_or_consumption__table_income_or_consumption_consolidated__survey_comparability_no_spells",
+      "lastUpdated": "2025-10-09",
+      "nextUpdate": "2026-04-07",
+      "citationShort": "World Bank Poverty and Inequality Platform (2025) – with major processing by Our World in Data",
+      "citationLong": "World Bank Poverty and Inequality Platform (2025) – with major processing by Our World in Data. “Mean – World Bank” [dataset]. World Bank Poverty and Inequality Platform, “World Bank Poverty and Inequality Platform (PIP) 20250930_2021, 20250930_2017” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1115565.metadata.json"
+    },
+    "Population (historical)": {
+      "titleShort": "Population",
+      "titleLong": "Population",
+      "descriptionShort": "Population by country, available from 10,000 BCE to 2023, based on data and estimates from different sources.",
+      "descriptionKey": [
+        "Population is the most commonly used metric throughout Our World in Data. It is used directly to understand population growth over time, and indirectly to calculate per-capita indicators, making it easier to compare countries of different sizes.",
+        "We construct this indicator by combining multiple sources covering different periods.\n  - HYDE v3.3 (2023): historical estimates from 10,000 BCE to 1799.\n  - Gapminder v7 (2022): for 1800-1949.\n  - UN World Population Prospects (2024): for 1950 onwards, including 2100 projections.\n  - Gapminder Systema Globalis (2023): additional source for former countries (Yugoslavia, USSR, etc.)",
+        "Breaks in the data may occur at the boundaries between sources due to their methodological differences.",
+        "You can read more about the sources and methodology in our [dedicated article](https://ourworldindata.org/population-sources). We also provide a table of sources showing the source we use for each country-year.",
+        "We calculate geographical aggregates (continents, income groups, etc.) by summing individual country populations. For years before 1800, we rely directly on HYDE's values for continents to ensure historical consistency."
+      ],
+      "descriptionProcessing": "### Combination of different sources\nWe construct our long-run population data by combining multiple sources:\n\n- 10,000 BCE–1799: historical estimates by HYDE (v3.3).\n\n- 1800–1949: historical estimates by Gapminder (v7).\n\n- 1950–2023: population records from the United Nations World Population Prospects (2024 revision).\n\n**Geographical aggregates**\n\n- For most years, we calculate aggregates by summing the population of member countries.\n- We do this based on [our definition of continents](https://ourworldindata.org/world-region-map-definitions#our-world-in-data) and the [World Bank’s income groups](https://ourworldindata.org/grapher/world-bank-income-groups).\n- The only exception is before 1800, where we use HYDE's estimates for continents (but not income groups).\n\nFor most of the years, we've estimated regional aggregates by summing the population of countries in each region. We've relied on [our continents](https://ourworldindata.org/world-region-map-definitions#our-world-in-data) and [World Bank income group definitions](https://ourworldindata.org/grapher/world-bank-income-groups). The only exception is before 1800, where we've used HYDE's estimates on continents (but not income groups).\n\n**World**\n- Before 1800: we use data from HYDE.\n- 1800-1950: we estimate the global population by summing all available countries in the dataset.\n- After 1950, we rely on estimates from the United Nations World Population Prospects.",
+      "shortUnit": "",
+      "unit": "people",
+      "timespan": "-10000-2023",
+      "type": "Integer",
+      "owidVariableId": 953903,
+      "shortName": "population_historical",
+      "lastUpdated": "2024-07-15",
+      "nextUpdate": "2026-07-15",
+      "citationShort": "HYDE (2023); Gapminder (2022); UN WPP (2024) – with major processing by Our World in Data",
+      "citationLong": "HYDE (2023); Gapminder (2022); UN WPP (2024) – with major processing by Our World in Data. “Population – HYDE, Gapminder, UN – Long-run data” [dataset]. PBL Netherlands Environmental Assessment Agency, “History Database of the Global Environment 3.3”; Gapminder, “Population v7”; United Nations, “World Population Prospects”; Gapminder, “Systema Globalis” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/953903.metadata.json"
+    },
+    "World regions according to OWID": {
+      "titleShort": "World regions according to OWID",
+      "titleLong": "World regions according to OWID",
+      "descriptionShort": "Regions defined by Our World in Data, which are used in OWID charts and maps.",
+      "unit": "",
+      "timespan": "2023-2023",
+      "type": "Continent",
+      "owidVariableId": 900801,
+      "shortName": "owid_region",
+      "lastUpdated": "2023-01-01",
+      "citationShort": "Our World in Data – processed by Our World in Data",
+      "citationLong": "Our World in Data – processed by Our World in Data. “World regions according to OWID” [dataset]. Our World in Data, “Regions” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900801.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-11-08",
+  "activeFilters": {
+    "overlay": "download-data"
+  }
+}
