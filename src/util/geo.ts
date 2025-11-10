@@ -248,15 +248,16 @@ export function centerAndScale(
 // Data loader
 // ---------------------------------------
 export async function loadCountries(): Promise<any[]> {
-  const url = "https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json";
+  const url = 'https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json';
   const res = await fetch(url);
-  if (!res.ok) throw new Error("Failed to load world atlas");
+  if (!res.ok) throw new Error('Failed to load world atlas');
   const topo = await res.json();
   const geo = topojsonFeature(topo, (topo as any).objects.countries) as any;
 
-  // Ensure .properties.name exists consistently
   return geo.features.map((f: any) => ({
     ...f,
+    // keep both for robustness; world-atlas ids are numeric ISO-3166-1
+    id: f.id,
     properties: {
       id: f.id,
       name: f.properties?.name || String(f.id),
@@ -264,54 +265,28 @@ export async function loadCountries(): Promise<any[]> {
   }));
 }
 
-let isoToNumPromise: Promise<Record<string, number>> | null = null;
-
 /**
- * Loads /iso_to_num.json from your public folder.
- * The file should look like: { "US": 840, "GB": 826, ... }
- * Keys are normalized to UPPERCASE; values coerced to number.
+ * Finds a country feature by ISO alpha-2 code (e.g., 'US', 'GB').
+ * `isoMap` maps alpha-2 -> numeric (e.g., GB -> 826).
  */
-export async function loadIsoToNum(): Promise<Record<string, number>> {
-  if (!isoToNumPromise) {
-    isoToNumPromise = (async () => {
-      const res = await fetch("iso_to_num.json");
-      if (!res.ok) return {};
-      const json = await res.json();
-      const out: Record<string, number> = {};
-      for (const [k, v] of Object.entries(json || {})) {
-        const key = String(k).trim().toUpperCase();
-        const num = typeof v === "string" ? Number(v) : (v as number);
-        if (key && Number.isFinite(num)) out[key] = num;
-      }
-      return out;
-    })();
-  }
-  return isoToNumPromise;
-}
-
-/* =========================
- * ISO-based finder
- * =======================*/
-/**
- * Build a finder that accepts an ISO A-2 code and returns the matching feature.
- * 1) Map ISO2 → Natural Earth numeric id via isoToNum
- * 2) Lookup feature where feature.id === numeric id
- */
-export function makeCountryFinderISO(features: any[], isoToNum: Record<string, number>) {
+export function makeCountryFinderISO(
+  features: any[],
+  isoMap: Record<string, number>
+) {
+  // build lookup by numeric id for speed
   const byId = new Map<number, any>();
   for (const f of features) {
-    const idNum = Number((f?.id ?? f?.properties?.id));
-    if (Number.isFinite(idNum)) byId.set(idNum, f);
+    const idNum = Number(f.id ?? f.properties?.id);
+    if (!Number.isNaN(idNum)) byId.set(idNum, f);
   }
 
-  return (iso2: string) => {
-    if (!iso2) return null;
-    const key = iso2.trim().toUpperCase();
-    if (!/^[A-Z]{2}$/.test(key)) return null;
-
-    const num = isoToNum[key];
-    if (!Number.isFinite(num)) return null;
-
-    return byId.get(num) || null;
+  return (alpha2: string | null | undefined) => {
+    if (!alpha2) return null;
+    const num = isoMap[alpha2.toUpperCase()];
+    if (num == null) return null;
+    return byId.get(Number(num)) ?? null;
   };
 }
+
+// Re-export so your route can import from "@/util/geo"
+export { loadIsoToNum } from '@/util/iso';

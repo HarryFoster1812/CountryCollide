@@ -31,7 +31,7 @@ export default function ClimatePage() {
     setClimate(null);
 
     try {
-      const res = await fetch(`/api/weather?country=${encodeURIComponent(country)}`);
+      const res = await fetch(`/api/weather?iso=${encodeURIComponent(country)}`);
       const data = await res.json();
 
       if (!res.ok) {
