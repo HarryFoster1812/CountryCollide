@@ -1,5 +1,5 @@
 
-# 🌍 Country Compare — *When Worlds Collide*
+# 🌍 Country Collide — *When Worlds Collide*
 
 **Great Uni Hack 2025 Project**
 
