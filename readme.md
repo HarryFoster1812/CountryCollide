@@ -4,7 +4,7 @@
 **Great Uni Hack 2025 Project**
 
 > *Explore. Compare. Combine.*
-> Discover what happens when two countries — and their worlds — collide.
+> Discover what happens when two countries and their worlds collide.
 
 ---
 
@@ -90,7 +90,7 @@ A second **Agentic AI module** generates a *Health and Wellbeing Report* based o
 | **APIs**          | REST Countries, World Bank, OpenWeatherMap      |
 | **Data Storage**  | Local persistence for reports (Markdown format) |
 | **Visualization** | D3.js, Globe.gl                                 |
-| **Deployment**    | *(e.g. Vercel / Netlify / Render)*              |
+| **Deployment**    | Vercel              |
 
 ---
 
